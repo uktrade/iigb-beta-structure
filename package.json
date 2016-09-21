@@ -1,0 +1,24 @@
+{
+  "name": "iigb-beta-structure",
+  "version": "1.0.0",
+  "description": "iigb website language website structure",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uktrade/iigb-beta-structure.git"
+  },
+  "keywords": [
+    "iigb",
+    "structure",
+    "iigb",
+    "structure"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uktrade/iigb-beta-structure/issues"
+  },
+  "homepage": "https://github.com/uktrade/iigb-beta-structure#readme"
+}
