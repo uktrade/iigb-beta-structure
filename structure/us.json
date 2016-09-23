@@ -3,9 +3,9 @@
   "title": "Home",
   "layout": "templates/us/home.html",
   "sections": {
-    "reasons_to_choose": "content/Reasons to chose the UK/us.html",
-    "key_factors": "content/Key sectors/us.html",
-    "investment_intro": "content/investment-guide/us.md",
+    "reasons_to_choose": "Reasons to chose the UK/us.html",
+    "key_factors": "Key sectors/us.html",
+    "investment_intro": "investment-guide/us.md",
     "investment_steps": [
       "investment-guide/establish-a-UK-address/us.md",
       "investment-guide/apply-for-a-visa/us.md",
