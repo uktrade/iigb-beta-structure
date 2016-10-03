@@ -1,7 +1,7 @@
 [{
   "url": "/",
   "title": "Home",
-  "layout": "templates/us/home.html",
+  "layout": "us/home.html",
   "sections": {
     "reasons_to_choose": "Reasons to chose the UK/us.html",
     "key_factors": "Key sectors/us.html",
@@ -19,17 +19,17 @@
   "children": [{
     "url": "investment-guide",
     "title": "Investment Guide",
-    "layout": "templates/sectors-page.html",
+    "layout": "content.html",
     "sections": {
       "investment_intro": "content/investment-guide/us.md",
       "investment_steps": [
-        "investment-guide/establish-a-UK-address/us.md",
-        "investment-guide/apply-for-a-visa/us.md",
-        "investment-guide/open-a-UK-bank-account/the process/us.md",
-        "investment-guide/register-your-company/us.md",
-        "investment-guide/work-out-your-profit-margins-against-UK-tax/key business taxes/us.md",
-        "investment-guide/understand-UK-employment-law/us.md",
-        "investment-guide/familiarise-yourself-with-the-legal-framework/a renowned legal system/us.md"
+        "content/investment-guide/establish-a-UK-address/us.md",
+        "content/investment-guide/apply-for-a-visa/us.md",
+        "content/investment-guide/open-a-UK-bank-account/the process/us.md",
+        "content/investment-guide/register-your-company/us.md",
+        "content/investment-guide/work-out-your-profit-margins-against-UK-tax/key business taxes/us.md",
+        "content/investment-guide/understand-UK-employment-law/us.md",
+        "content/investment-guide/familiarise-yourself-with-the-legal-framework/a renowned legal system/us.md"
       ]
     }
   }]
