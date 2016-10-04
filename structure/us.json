@@ -4,7 +4,12 @@
   "layout": "us/home.html",
   "sections": {
     "firstSection": "Reasons to chose the UK/us.html",
-    "secondSection": "Key sectors/us.html",
+    "tileItems": [
+      "sectors/automotive/us.md",
+      "sectors/creative/us.md",
+      "sectors/financial/us.md",
+      "sectors/technology/us.md"
+    ],
     "listHeader": "investment-guide/us.md",
     "listItems": [
       "investment-guide/establish-a-UK-address/us.md",
@@ -18,7 +23,7 @@
   },
   "children": [{
     "url": "investment-guide",
-    "title": "Investment Guide",
+    "title": "The UK investment guide",
     "layout": "bullet-list-page.html",
     "sections": {
       "pageHeader": "investment-guide/us.md",
@@ -34,22 +39,29 @@
     },
     "children": [{
       "url": "establish-a-UK-address",
-      "title": "Establish as UK address",
+      "title": "Establish a UK address",
       "layout": "us/article.html",
       "sections": {
         "pageHeader": "investment-guide/establish-a-UK-address/us.md",
         "articles": [
-          "investment-guide/establish-a-UK-address/Regional Centres of Excellence/us.md",
-          "investment-guide/establish-a-UK-address/quality assurance/us.md"
+          "investment-guide/establish-a-UK-address/sections/Finding Business premises/us.md",
+          "investment-guide/establish-a-UK-address/sections/Regional Centres of Excellence/us.md",
+          "investment-guide/establish-a-UK-address/sections/quality assurance/us.md"
         ]
       }
     }]
   }, {
     "url": "sectors",
-    "title": "Sectors",
-    "layout": "base/content.html",
+    "title": "Market sectors",
+    "layout": "landing-page.html",
     "sections": {
-      "pageHeader": "sectors/us.md"
+      "pageHeader": "sectors/us.md",
+      "tileItems": [
+        "sectors/automotive/us.md",
+        "sectors/creative/us.md",
+        "sectors/financial/us.md",
+        "sectors/technology/us.md"
+      ]
     }
   }]
 }]
