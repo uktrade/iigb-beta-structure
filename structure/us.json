@@ -62,6 +62,25 @@
         "sectors/financial/us.md",
         "sectors/technology/us.md"
       ]
-    }
+    },
+    "children": [{
+      "url": "automotive",
+      "title": "Automotive in Great Britain",
+      "layout": "us/article.html",
+      "sections": {
+        "pageHeader": "sectors/automotive/us.md",
+        "articles": [
+          "sectors/automotive/sections/overview/us.md",
+          "sectors/automotive/sections/automotive investment organisation/us.md",
+          "sectors/automotive/sections/a hub for global excellence/us.md",
+          "sectors/automotive/sections/a home for fresh thinking/us.md",
+          "sectors/automotive/sections/an effective business environment/us.md",
+          "sectors/automotive/sections/contacts and next steps/us.md"
+        ],
+        "subContent": [
+          "sectors/automotive/sub sectors/motor-sport/us.md"
+        ]
+      }
+    }]
   }]
 }]
