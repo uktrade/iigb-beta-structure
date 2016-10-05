@@ -219,7 +219,7 @@
       },
       "children": [{
         "url": "digital-media",
-        "title": "Digitam media",
+        "title": "Digital media",
         "layout": "us/article.html",
         "sections": {
           "pageHeader": "sectors/creative/sub sectors/digital-media/us.md",
