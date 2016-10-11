@@ -1,0 +1,515 @@
+[{
+  "url": "/",
+  "pageTitle": "Home",
+  "layout": "en/home.html",
+  "contentBlocks": {
+    "firstSection": {
+      "file": "Reasons to chose the UK/en.html"
+    },
+    "tileItems": [{
+      "file": "sectors/automotive/en.md",
+      "thumbnail": "automotive-sector-thumb.jpg",
+      "link": "/sectors/automotive"
+    }, {
+      "file": "sectors/creative/en.md",
+      "thumbnail": "creative-sector-thumb.jpg",
+      "link": "/sectors/creative"
+    }, {
+      "file": "sectors/financial/en.md",
+      "thumbnail": "finance-sector-thumb.jpg",
+      "link": "/sectors/financial"
+    }, {
+      "file": "sectors/technology/en.md",
+      "thumbnail": "tech-sector-thumb.jpg",
+      "link": "/sectors/technology"
+    }],
+    "listHeader": {
+      "file": "investment-guide/en.md"
+    },
+    "listItems": [{
+      "file": "investment-guide/establish-a-UK-address/en.md",
+      "link": "/investment-guide/establish-a-UK-address"
+    }, {
+      "file": "investment-guide/apply-for-a-visa/en.md",
+      "link": "/investment-guide/apply-for-a-visa"
+    }, {
+      "file": "investment-guide/open-a-UK-bank-account/en.md",
+      "link": "/investment-guide/open-a-UK-bank-account"
+    }, {
+      "file": "investment-guide/register-your-company/en.md",
+      "link": "/investment-guide/register-your-company"
+    }, {
+      "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/en.md",
+      "link": "/investment-guide/work-out-your-profit-margins-against-UK-tax"
+    }, {
+      "file": "investment-guide/understand-UK-employment-law/en.md",
+      "link": "/investment-guide/understand-UK-employment-law"
+    }, {
+      "file": "investment-guide/familiarise-yourself-with-the-legal-framework/en.md",
+      "link": "/investment-guide/familiarise-yourself-with-the-legal-framework"
+    }, {
+      "file": "investment-guide/speak-with-the-UKTI-investment-services-team/en.md"
+    }]
+  },
+  "children": [{
+    "url": "investment-guide",
+    "pageTitle": "The UK investment guide",
+    "layout": "bullet-list-page.html",
+    "contentBlocks": {
+      "pageHeader": {
+        "file": "investment-guide/en.md"
+      },
+      "listItems": [{
+        "file": "investment-guide/establish-a-UK-address/en.md",
+        "link": "/investment-guide/establish-a-UK-address"
+      }, {
+        "file": "investment-guide/apply-for-a-visa/en.md",
+        "link": "/investment-guide/apply-for-a-visa"
+      }, {
+        "file": "investment-guide/open-a-UK-bank-account/en.md",
+        "link": "/investment-guide/open-a-UK-bank-account"
+      }, {
+        "file": "investment-guide/register-your-company/en.md",
+        "link": "/investment-guide/register-your-company"
+      }, {
+        "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/en.md",
+        "link": "/investment-guide/work-out-your-profit-margins-against-UK-tax"
+      }, {
+        "file": "investment-guide/understand-UK-employment-law/en.md",
+        "link": "/investment-guide/understand-UK-employment-law"
+      }, {
+        "file": "investment-guide/familiarise-yourself-with-the-legal-framework/en.md",
+        "link": "/investment-guide/familiarise-yourself-with-the-legal-framework"
+      }, {
+        "file": "investment-guide/speak-with-the-UKTI-investment-services-team/en.md"
+      }]
+    },
+    "children": [{
+      "url": "establish-a-UK-address",
+      "pageTitle": "Establish a UK address",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/establish-a-UK-address/en.md"
+        },
+        "sections": [{
+          "file": "investment-guide/establish-a-UK-address/sections/Finding Business premises/en.md"
+        }, {
+          "file": "investment-guide/establish-a-UK-address/sections/Regional Centres of Excellence/en.md"
+        }, {
+          "file": "investment-guide/establish-a-UK-address/sections/quality assurance/en.md"
+        }]
+      }
+    }, {
+      "url": "apply-for-a-visa",
+      "pageTitle": "The visa system explained",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/apply-for-a-visa/en.md"
+        },
+        "sections": [{
+          "file": "investment-guide/apply-for-a-visa/sections/apply for a visa/en.md"
+        }, {
+          "file": "investment-guide/apply-for-a-visa/sections/the visa system explained/en.md"
+        }, {
+          "file": "investment-guide/apply-for-a-visa/sections/which visas apply to you/en.md"
+        }]
+      }
+    }, {
+      "url": "open-a-UK-bank-account",
+      "pageTitle": "Open a UK bank account",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/open-a-UK-bank-account/en.md"
+        },
+        "sections": [{
+          "file": "investment-guide/open-a-UK-bank-account/sections/the process/en.md"
+        }, {
+          "file": "investment-guide/open-a-UK-bank-account/sections/timings/en.md"
+        }, {
+          "file": "investment-guide/open-a-UK-bank-account/sections/what you'll need to do/en.md"
+        }]
+      }
+    }, {
+      "url": "register-your-company",
+      "pageTitle": "Register your company",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/register-your-company/en.md"
+        },
+        "sections": [{
+          "file": "investment-guide/register-your-company/sections/incorporating a company/en.md"
+        }, {
+          "file": "investment-guide/register-your-company/sections/register your company/en.md"
+        }]
+      }
+    }, {
+      "url": "work-out-your-profit-margins-against-UK-tax",
+      "pageTitle": "Work out your profit margins against UK tax",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/en.md"
+        },
+        "sections": [{
+          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/key business taxes/en.md"
+        }, {
+          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/additional tax for business to consider/en.md"
+        }, {
+          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/personal taxes/en.md"
+        }, {
+          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/tax incentive for business/en.md"
+        }]
+      }
+    }, {
+      "url": "understand-UK-employment-law",
+      "pageTitle": "Understand UK employment law",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/understand-UK-employment-law/en.md"
+        },
+        "sections": [{
+          "file": "investment-guide/understand-UK-employment-law/sections/access to talent/en.md"
+        }, {
+          "file": "investment-guide/understand-UK-employment-law/sections/flexible employment laws/en.md"
+        }, {
+          "file": "investment-guide/understand-UK-employment-law/sections/flexible employment costs/en.md"
+        }]
+      }
+    }, {
+      "url": "familiarise-yourself-with-the-legal-framework",
+      "pageTitle": "Familiarise yourself with the legal framework",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/familiarise-yourself-with-the-legal-framework/en.md"
+        },
+        "sections": [{
+          "file": "investment-guide/familiarise-yourself-with-the-legal-framework/sections/a renowned legal system/en.md"
+        }, {
+          "file": "investment-guide/familiarise-yourself-with-the-legal-framework/sections/specific legislation/en.md"
+        }]
+      }
+    }]
+  }, {
+    "url": "sectors",
+    "pageTitle": "Market sectors",
+    "layout": "landing-page.html",
+    "contentBlocks": {
+      "pageHeader": {
+        "file": "sectors/en.md"
+      },
+      "tileItems": [{
+        "file": "sectors/automotive/en.md",
+        "thumbnail": "automotive-sector-thumb.jpg",
+        "link": "/sectors/automotive"
+      }, {
+        "file": "sectors/creative/en.md",
+        "thumbnail": "creative-sector-thumb.jpg",
+        "link": "/sectors/creative"
+      }, {
+        "file": "sectors/financial/en.md",
+        "thumbnail": "finance-sector-thumb.jpg",
+        "link": "/sectors/financial"
+      }, {
+        "file": "sectors/technology/en.md",
+        "thumbnail": "tech-sector-thumb.jpg",
+        "link": "/sectors/technology"
+      }]
+    },
+    "children": [{
+      "url": "automotive",
+      "pageTitle": "Automotive in Great Britain",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "sectors/automotive/en.md",
+          "heroImage": "automotive-sector-hero.jpg"
+        },
+        "sections": [{
+          "file": "sectors/automotive/sections/overview/en.md"
+        }, {
+          "file": "sectors/automotive/sections/automotive investment organisation/en.md"
+        }, {
+          "file": "sectors/automotive/sections/a hub for global excellence/en.md"
+        }, {
+          "file": "sectors/automotive/sections/a home for fresh thinking/en.md"
+        }, {
+          "file": "sectors/automotive/sections/an effective business environment/en.md"
+        }, {
+          "file": "sectors/automotive/sections/contact and next steps/en.md"
+        }],
+        "subContent": [{
+          "file": "sectors/automotive/sub sectors/motor-sport/en.md",
+          "thumbnail": "motorsport-thumb.jpg",
+          "link": "/sectors/automotive/motor-sport"
+        }, {
+          "file": "sectors/automotive/sub sectors/research-and-development/en.md",
+          "thumbnail": "research-development-thumb.jpg",
+          "link": "/sectors/automotive/research-and-development"
+        }, {
+          "file": "sectors/automotive/sub sectors/supply-chain/en.md",
+          "thumbnail": "supply-chain-thumb.jpg",
+          "link": "/sectors/automotive/supply-chain"
+        }]
+      },
+      "children": [{
+        "url": "motor-sport",
+        "pageTitle": "Motor Sport in Great Britain",
+        "layout": "en/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/automotive/sub sectors/motor-sport/en.md",
+            "heroImage": "motorsport-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/overview/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/the heartland for elite racing/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/a history of innovation/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/solutions for every sector/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/pioneering beyond Formula1/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/contacts and next steps/en.md"
+          }]
+        }
+      }, {
+        "url": "research-and-development",
+        "pageTitle": "R&D",
+        "layout": "en/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/automotive/sub sectors/research-and-development/en.md",
+            "heroImage": "research-development-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/automotive/sub sectors/research-and-development/sections/developing the future of the automotive industry/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/research-and-development/sections/a community committed to innovation/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/research-and-development/sections/low carbon technology/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/research-and-development/sections/lightweighting and carbon composites/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/research-and-development/sections/connected and autonomous vehicles/en.md"
+          }]
+        }
+      }, {
+        "url": "supply-chain",
+        "pageTitle": "Supply chain",
+        "layout": "en/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/automotive/sub sectors/supply-chain/en.md",
+            "heroImage": "supply-chain-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/automotive/sub sectors/supply-chain/sections/growing supply chain opportunity/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/supply-chain/sections/demand for components/en.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/supply-chain/sections/a local network/en.md"
+          }]
+        }
+      }]
+    }, {
+      "url": "creative",
+      "pageTitle": "Create in Great Britain",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "sectors/creative/en.md",
+          "heroImage": "creative-sector-hero.jpg"
+        },
+        "sections": [{
+            "file": "sectors/creative/sections/The creative sector in Great Britain/en.md"
+          }, {
+            "file": "sectors/creative/sections/Economic environment for growth/en.md"
+          }, {
+            "file": "sectors/creative/sections/The labour market and creative talent/en.md"
+          }, {
+            "file": "sectors/creative/sections/Advanced infrastructure and regional strength/en.md"
+          }, {
+            "file": "sectors/creative/sections/Regulatory and financial support for creative companies/en.md"
+          }, {
+            "file": "sectors/creative/sections/Next steps and contacts/en.md"
+          }
+
+        ],
+        "subContent": [{
+          "file": "sectors/creative/sub sectors/digital-media/en.md",
+          "thumbnail": "digital-media-thumb.jpg",
+          "link": "/sectors/creative/digital-media"
+        }]
+      },
+      "children": [{
+        "url": "digital-media",
+        "pageTitle": "Digital media",
+        "layout": "en/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/creative/sub sectors/digital-media/en.md",
+            "heroImage": "digital-media-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/creative/sub sectors/digital-media/sections/digital media sector in Great Britain/en.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/an environment for growth/en.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/strong areas of opportunity/en.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/a skilled and creative talent pool/en.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/london’s global status and regional growth/en.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/support for investment/en.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/next steps and contacts/en.md"
+          }]
+        }
+      }]
+    }, {
+      "url": "financial",
+      "pageTitle": "Financial services in Great Britain",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "sectors/financial/en.md",
+          "heroImage": "finance-sector-hero.jpg"
+        },
+        "sections": [{
+          "file": "sectors/financial/sections/financial sector in Great Britain/en.md"
+        }, {
+          "file": "sectors/financial/sections/unrivalled opportunities/en.md"
+        }, {
+          "file": "sectors/financial/sections/a large and skilled labour market/en.md"
+        }, {
+          "file": "sectors/financial/sections/centres of excellence throughout the UK/en.md"
+        }, {
+          "file": "sectors/financial/sections/Strong government support and fair regulation/en.md"
+        }, {
+          "file": "sectors/financial/sections/Next steps and contacts/en.md"
+        }],
+        "subContent": [{
+          "file": "sectors/financial/sub sectors/asset-management/en.md",
+          "thumbnail": "asset-management-thumb.jpg",
+          "link": "/sectors/financial/asset-management"
+        }, {
+          "file": "sectors/financial/sub sectors/financial-technology/en.md",
+          "thumbnail": "fintech-thumb.jpg",
+          "link": "/sectors/financial/financial-technology"
+        }]
+      },
+      "children": [{
+        "url": "asset-management",
+        "pageTitle": "Asset management",
+        "layout": "en/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/financial/sub sectors/asset-management/en.md",
+            "heroImage": "asset-management-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/financial/sub sectors/asset-management/sections/asset management in Great Britain/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/a growing, open market/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/a wide range of fund types and clients/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/a large talent pool/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/attractive business environment with regional strengths/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/regulatory and government support/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/next steps and contacts/en.md"
+          }]
+        }
+      }, {
+        "url": "financial-technology",
+        "pageTitle": "Financial technology in Great Britain",
+        "layout": "en/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/financial/sub sectors/financial-technology/en.md",
+            "heroImage": "fintech-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/financial/sub sectors/financial-technology/sections/financial technology in Great Britain/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/financial-technology/sections/world-beating growth and opportunity/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/financial-technology/sections/large talent pool/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/financial-technology/sections/a receptive consumer market/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/financial-technology/sections/strong regulatory and tax support/en.md"
+          }, {
+            "file": "sectors/financial/sub sectors/financial-technology/sections/next steps and contacts/en.md"
+          }]
+        }
+      }]
+    }, {
+      "url": "technology",
+      "pageTitle": "Technology in Great Britain",
+      "layout": "en/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "sectors/technology/en.md",
+          "heroImage": "tech-sector-hero.jpg"
+        },
+        "sections": [{
+          "file": "sectors/technology/sections/overview/en.md"
+        }, {
+          "file": "sectors/technology/sections/a strong digital growth structure/en.md"
+        }, {
+          "file": "sectors/technology/sections/growing digital consumers/en.md"
+        }, {
+          "file": "sectors/technology/sections/a world class digital infrastructure and mature audience/en.md"
+        }, {
+          "file": "sectors/technology/sections/physical infrastructure/en.md"
+        }, {
+          "file": "sectors/technology/sections/our support and investment in innovation/en.md"
+        }, {
+          "file": "sectors/technology/sections/we support the growth and development of entrepreneurs/en.md"
+        }, {
+          "file": "sectors/technology/sections/incentives and tax breaks/en.md"
+        }, {
+          "file": "sectors/technology/sections/we are ready to make your investment work/en.md"
+        }],
+        "subContent": [{
+          "file": "sectors/technology/sub sectors/data-analytics/en.md",
+          "thumbnail": "big-data-thumb.jpg",
+          "link": "/sectors/technology/data-analytics"
+        }]
+      },
+      "children": [{
+        "url": "data-analytics",
+        "pageTitle": "Invest in big data analytics",
+        "layout": "en/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/technology/sub sectors/data-analytics/en.md",
+            "heroImage": "big-data-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/technology/sub sectors/data-analytics/sections/a rapidly expanding market/en.md"
+          }, {
+            "file": "sectors/technology/sub sectors/data-analytics/sections/our investment in the future/en.md"
+          }, {
+            "file": "sectors/technology/sub sectors/data-analytics/sections/structured to succeed/en.md"
+          }, {
+            "file": "sectors/technology/sub sectors/data-analytics/sections/we are leading from the front/en.md"
+          }]
+        }
+      }]
+    }]
+  }]
+}]

@@ -1,0 +1,488 @@
+[{
+  "url": "/",
+  "pageTitle": "主页",
+  "layout": "zh/home.html",
+  "contentBlocks": {
+    "firstSection": {
+      "file": "Reasons to chose the UK/zh.html"
+    },
+    "tileItems": [{
+      "file": "sectors/automotive/zh.md",
+      "thumbnail": "automotive-sector-thumb.jpg",
+      "link": "/sectors/automotive"
+    }, {
+      "file": "sectors/creative/zh.md",
+      "thumbnail": "creative-china-thumb.jpg",
+      "link": "/sectors/creative"
+    }, {
+      "file": "sectors/financial/zh.md",
+      "thumbnail": "finance-sector-thumb.jpg",
+      "link": "/sectors/financial"
+    }, {
+      "file": "sectors/technology/zh.md",
+      "thumbnail": "tech-sector-thumb.jpg",
+      "link": "/sectors/technology"
+    }],
+    "listHeader": {
+      "file": "investment-guide/zh.md"
+    },
+    "listItems": [{
+      "file": "investment-guide/establish-a-UK-address/zh.md",
+      "link": "/investment-guide/establish-a-UK-address"
+    }, {
+      "file": "investment-guide/apply-for-a-visa/zh.md",
+      "link": "/investment-guide/apply-for-a-visa"
+    }, {
+      "file": "investment-guide/open-a-UK-bank-account/zh.md",
+      "link": "/investment-guide/open-a-UK-bank-account"
+    }, {
+      "file": "investment-guide/register-your-company/zh.md",
+      "link": "/investment-guide/register-your-company"
+    }, {
+      "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/zh.md",
+      "link": "/investment-guide/work-out-your-profit-margins-against-UK-tax"
+    }, {
+      "file": "investment-guide/understand-UK-employment-law/zh.md",
+      "link": "/investment-guide/understand-UK-employment-law"
+    }, {
+      "file": "investment-guide/familiarise-yourself-with-the-legal-framework/zh.md",
+      "link": "/investment-guide/familiarise-yourself-with-the-legal-framework"
+    }, {
+      "file": "investment-guide/speak-with-the-UKTI-investment-services-team/zh.md"
+    }]
+  },
+  "children": [{
+    "url": "investment-guide",
+    "pageTitle": "英国投资指南",
+    "layout": "bullet-list-page.html",
+    "contentBlocks": {
+      "pageHeader": {
+        "file": "investment-guide/zh.md"
+      },
+      "listItems": [{
+        "file": "investment-guide/establish-a-UK-address/zh.md",
+        "link": "/investment-guide/establish-a-UK-address"
+      }, {
+        "file": "investment-guide/apply-for-a-visa/zh.md",
+        "link": "/investment-guide/apply-for-a-visa"
+      }, {
+        "file": "investment-guide/open-a-UK-bank-account/zh.md",
+        "link": "/investment-guide/open-a-UK-bank-account"
+      }, {
+        "file": "investment-guide/register-your-company/zh.md",
+        "link": "/investment-guide/register-your-company"
+      }, {
+        "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/zh.md",
+        "link": "/investment-guide/work-out-your-profit-margins-against-UK-tax"
+      }, {
+        "file": "investment-guide/understand-UK-employment-law/zh.md",
+        "link": "/investment-guide/understand-UK-employment-law"
+      }, {
+        "file": "investment-guide/familiarise-yourself-with-the-legal-framework/zh.md",
+        "link": "/investment-guide/familiarise-yourself-with-the-legal-framework"
+      }, {
+        "file": "investment-guide/speak-with-the-UKTI-investment-services-team/zh.md"
+      }]
+    },
+    "children": [{
+      "url": "establish-a-UK-address",
+      "pageTitle": "确定在英国的地址",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/establish-a-UK-address/zh.md"
+        },
+        "sections": [{
+          "file": "investment-guide/establish-a-UK-address/sections/Finding Business premises/zh.md"
+        }, {
+          "file": "investment-guide/establish-a-UK-address/sections/Regional Centres of Excellence/zh.md"
+        }, {
+          "file": "investment-guide/establish-a-UK-address/sections/quality assurance/zh.md"
+        }]
+      }
+    }, {
+      "url": "apply-for-a-visa",
+      "pageTitle": "签证申请流程",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/apply-for-a-visa/zh.md"
+        },
+        "sections": [{
+          "file": "investment-guide/apply-for-a-visa/sections/apply for a visa/zh.md"
+        }, {
+          "file": "investment-guide/apply-for-a-visa/sections/the visa system explained/zh.md"
+        }, {
+          "file": "investment-guide/apply-for-a-visa/sections/which visas apply to you/zh.md"
+        }]
+      }
+    }, {
+      "url": "open-a-UK-bank-account",
+      "pageTitle": "在英国的银行开户",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/open-a-UK-bank-account/zh.md"
+        },
+        "sections": [{
+          "file": "investment-guide/open-a-UK-bank-account/sections/the process/zh.md"
+        }, {
+          "file": "investment-guide/open-a-UK-bank-account/sections/timings/zh.md"
+        }, {
+          "file": "investment-guide/open-a-UK-bank-account/sections/what you'll need to do/zh.md"
+        }]
+      }
+    }, {
+      "url": "register-your-company",
+      "pageTitle": "注册您的公司",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/register-your-company/zh.md"
+        },
+        "sections": [{
+          "file": "investment-guide/register-your-company/sections/incorporating a company/zh.md"
+        }, {
+          "file": "investment-guide/register-your-company/sections/register your company/zh.md"
+        }]
+      }
+    }, {
+      "url": "work-out-your-profit-margins-against-UK-tax",
+      "pageTitle": "根据英国税收计算利润率",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/zh.md"
+        },
+        "sections": [{
+          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/key business taxes/zh.md"
+        }, {
+          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/additional tax for business to consider/zh.md"
+        }, {
+          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/personal taxes/zh.md"
+        }, {
+          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/tax incentive for business/zh.md"
+        }]
+      }
+    }, {
+      "url": "understand-UK-employment-law",
+      "pageTitle": "了解英国的雇佣法",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/understand-UK-employment-law/zh.md"
+        },
+        "sections": [{
+          "file": "investment-guide/understand-UK-employment-law/sections/access to talent/zh.md"
+        }, {
+          "file": "investment-guide/understand-UK-employment-law/sections/flexible employment laws/zh.md"
+        }, {
+          "file": "investment-guide/understand-UK-employment-law/sections/flexible employment costs/zh.md"
+        }]
+      }
+    }, {
+      "url": "familiarise-yourself-with-the-legal-framework",
+      "pageTitle": "熟悉英国法律体制",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "investment-guide/familiarise-yourself-with-the-legal-framework/zh.md"
+        },
+        "sections": [{
+          "file": "investment-guide/familiarise-yourself-with-the-legal-framework/sections/a renowned legal system/zh.md"
+        }, {
+          "file": "investment-guide/familiarise-yourself-with-the-legal-framework/sections/specific legislation/zh.md"
+        }]
+      }
+    }]
+  }, {
+    "url": "sectors",
+    "pageTitle": "市场部门",
+    "layout": "landing-page.html",
+    "contentBlocks": {
+      "pageHeader": {
+        "file": "sectors/zh.md"
+      },
+      "tileItems": [{
+        "file": "sectors/automotive/zh.md",
+        "thumbnail": "automotive-sector-thumb.jpg",
+        "link": "/sectors/automotive"
+      }, {
+        "file": "sectors/creative/zh.md",
+        "thumbnail": "creative-china-thumb.jpg",
+        "link": "/sectors/creative"
+      }, {
+        "file": "sectors/financial/zh.md",
+        "thumbnail": "finance-sector-thumb.jpg",
+        "link": "/sectors/financial"
+      }, {
+        "file": "sectors/technology/zh.md",
+        "thumbnail": "tech-sector-thumb.jpg",
+        "link": "/sectors/technology"
+      }]
+    },
+    "children": [{
+      "url": "automotive",
+      "pageTitle": "英国汽车产业",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "sectors/automotive/zh.md",
+          "heroImage": "automotive-sector-hero.jpg"
+        },
+        "sections": [{
+          "file": "sectors/automotive/sections/overview/zh.md"
+        }, {
+          "file": "sectors/automotive/sections/automotive investment organisation/zh.md"
+        }, {
+          "file": "sectors/automotive/sections/a hub for global excellence/zh.md"
+        }, {
+          "file": "sectors/automotive/sections/a home for fresh thinking/zh.md"
+        }, {
+          "file": "sectors/automotive/sections/an effective business environment/zh.md"
+        }, {
+          "file": "sectors/automotive/sections/contact and next steps/zh.md"
+        }],
+        "subContent": [{
+          "file": "sectors/automotive/sub sectors/motor-sport/zh.md",
+          "thumbnail": "motorsport-thumb.jpg",
+          "link": "/sectors/automotive/motor-sport"
+        }, {
+          "file": "sectors/automotive/sub sectors/research-and-development/zh.md",
+          "thumbnail": "research-development-thumb.jpg",
+          "link": "/sectors/automotive/research-and-development"
+        }, {
+          "file": "sectors/automotive/sub sectors/supply-chain/zh.md",
+          "thumbnail": "supply-chain-thumb.jpg",
+          "link": "/sectors/automotive/supply-chain"
+        }]
+      },
+      "children": [{
+        "url": "motor-sport",
+        "pageTitle": "英国赛车运动",
+        "layout": "zh/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/automotive/sub sectors/motor-sport/zh.md",
+            "heroImage": "motorsport-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/overview/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/the heartland for elite racing/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/a history of innovation/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/solutions for every sector/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/pioneering beyond Formula1/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/motor-sport/sections/contacts and next steps/zh.md"
+          }]
+        }
+      }, {
+        "url": "research-and-development",
+        "pageTitle": "研发",
+        "layout": "zh/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/automotive/sub sectors/research-and-development/zh.md",
+            "heroImage": "research-development-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/automotive/sub sectors/research-and-development/sections/developing the future of the automotive industry/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/research-and-development/sections/a community committed to innovation/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/research-and-development/sections/low carbon technology/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/research-and-development/sections/lightweighting and carbon composites/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/research-and-development/sections/connected and autonomous vehicles/zh.md"
+          }]
+        }
+      }, {
+        "url": "supply-chain",
+        "pageTitle": "供应链",
+        "layout": "zh/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/automotive/sub sectors/supply-chain/zh.md",
+            "heroImage": "supply-chain-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/automotive/sub sectors/supply-chain/sections/growing supply chain opportunity/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/supply-chain/sections/demand for components/zh.md"
+          }, {
+            "file": "sectors/automotive/sub sectors/supply-chain/sections/a local network/zh.md"
+          }]
+        }
+      }]
+    }, {
+      "url": "creative",
+      "pageTitle": "创意",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "sectors/creative/zh.md",
+          "heroImage": "creative-china-hero.jpg"
+        },
+        "sections": [{
+            "file": "sectors/creative/sections/The creative sector in Great Britain/zh.md"
+          }, {
+            "file": "sectors/creative/sections/Economic environment for growth/zh.md"
+          }, {
+            "file": "sectors/creative/sections/The labour market and creative talent/zh.md"
+          }, {
+            "file": "sectors/creative/sections/Advanced infrastructure and regional strength/zh.md"
+          }, {
+            "file": "sectors/creative/sections/Regulatory and financial support for creative companies/zh.md"
+          }, {
+            "file": "sectors/creative/sections/Next steps and contacts/zh.md"
+          }
+
+        ],
+        "subContent": [{
+          "file": "sectors/creative/sub sectors/digital-media/zh.md",
+          "thumbnail": "digital-media-thumb.jpg",
+          "link": "/sectors/creative/digital-media"
+        }]
+      },
+      "children": [{
+        "url": "digital-media",
+        "pageTitle": "数字媒体",
+        "layout": "zh/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/creative/sub sectors/digital-media/zh.md",
+            "heroImage": "digital-media-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/creative/sub sectors/digital-media/sections/digital media sector in Great Britain/zh.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/an environment for growth/zh.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/strong areas of opportunity/zh.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/a skilled and creative talent pool/zh.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/london’s global status and regional growth/zh.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/support for investment/zh.md"
+          }, {
+            "file": "sectors/creative/sub sectors/digital-media/sections/next steps and contacts/zh.md"
+          }]
+        }
+      }]
+    }, {
+      "url": "financial",
+      "pageTitle": "英国的金融服务",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "sectors/financial/zh.md",
+          "heroImage": "finance-sector-hero.jpg"
+        },
+        "sections": [{
+          "file": "sectors/financial/sections/financial sector in Great Britain/zh.md"
+        }, {
+          "file": "sectors/financial/sections/unrivalled opportunities/zh.md"
+        }, {
+          "file": "sectors/financial/sections/a large and skilled labour market/zh.md"
+        }, {
+          "file": "sectors/financial/sections/centres of excellence throughout the UK/zh.md"
+        }, {
+          "file": "sectors/financial/sections/Strong government support and fair regulation/zh.md"
+        }, {
+          "file": "sectors/financial/sections/Next steps and contacts/zh.md"
+        }],
+        "subContent": [{
+          "file": "sectors/financial/sub sectors/asset-management/zh.md",
+          "thumbnail": "asset-management-thumb.jpg",
+          "link": "/sectors/financial/asset-management"
+        }, {
+          "file": "sectors/financial/sub sectors/financial-technology/zh.md",
+          "thumbnail": "fintech-thumb.jpg",
+          "link": "/sectors/financial/financial-technology"
+        }]
+      },
+      "children": [{
+        "url": "asset-management",
+        "pageTitle": "英国的资产管理",
+        "layout": "zh/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/financial/sub sectors/asset-management/zh.md",
+            "heroImage": "asset-management-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/financial/sub sectors/asset-management/sections/asset management in Great Britain/zh.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/a growing, open market/zh.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/a wide range of fund types and clients/zh.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/a large talent pool/zh.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/attractive business environment with regional strengths/zh.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/regulatory and government support/zh.md"
+          }, {
+            "file": "sectors/financial/sub sectors/asset-management/sections/next steps and contacts/zh.md"
+          }]
+        }
+      }, {
+        "url": "financial-technology",
+        "pageTitle": "英国的金融技术",
+        "layout": "zh/article.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "sectors/financial/sub sectors/financial-technology/zh.md",
+            "heroImage": "fintech-hero.jpg"
+          },
+          "sections": [{
+            "file": "sectors/financial/sub sectors/financial-technology/sections/financial technology in Great Britain/zh.md"
+          }, {
+            "file": "sectors/financial/sub sectors/financial-technology/sections/large talent pool/zh.md"
+          }, {
+            "file": "sectors/financial/sub sectors/financial-technology/sections/a receptive consumer market/zh.md"
+          }, {
+            "file": "sectors/financial/sub sectors/financial-technology/sections/strong regulatory and tax support/zh.md"
+          }, {
+            "file": "sectors/financial/sub sectors/financial-technology/sections/next steps and contacts/zh.md"
+          }]
+        }
+      }]
+    }, {
+      "url": "technology",
+      "pageTitle": "英国科技",
+      "layout": "zh/article.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "sectors/technology/zh.md",
+          "heroImage": "tech-sector-hero.jpg"
+        },
+        "sections": [{
+          "file": "sectors/technology/sections/overview/zh.md"
+        }, {
+          "file": "sectors/technology/sections/a strong digital growth structure/zh.md"
+        }, {
+          "file": "sectors/technology/sections/growing digital consumers/zh.md"
+        }, {
+          "file": "sectors/technology/sections/a world class digital infrastructure and mature audience/zh.md"
+        }, {
+          "file": "sectors/technology/sections/physical infrastructure/zh.md"
+        }, {
+          "file": "sectors/technology/sections/our support and investment in innovation/zh.md"
+        }, {
+          "file": "sectors/technology/sections/we support the growth and development of entrepreneurs/zh.md"
+        }, {
+          "file": "sectors/technology/sections/incentives and tax breaks/zh.md"
+        }, {
+          "file": "sectors/technology/sections/we are ready to make your investment work/zh.md"
+        }]
+      }
+    }]
+  }]
+}]
