@@ -1,7 +1,7 @@
 [{
   "url": "/",
   "pageTitle": "Home",
-  "layout": "de_DE/home.html",
+  "layout": "home.html",
   "contentBlocks": {
     "firstSection": {
       "file": "Reasons to chose the UK/de_DE.html"
@@ -87,7 +87,7 @@
     "children": [{
       "url": "establish-a-UK-address",
       "pageTitle": "Eine Adresse im Vereinigten Königreich einrichten",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "investment-guide/establish-a-UK-address/de_DE.md"
@@ -103,7 +103,7 @@
     }, {
       "url": "apply-for-a-visa",
       "pageTitle": "Einen Visumsantrag stellen",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "investment-guide/apply-for-a-visa/de_DE.md"
@@ -119,7 +119,7 @@
     }, {
       "url": "open-a-UK-bank-account",
       "pageTitle": "Ein Bankkonto im Vereinigten Königreich eröffnen",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "investment-guide/open-a-UK-bank-account/de_DE.md"
@@ -135,7 +135,7 @@
     }, {
       "url": "register-your-company",
       "pageTitle": "Ihr Unternehmen anmelden",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "investment-guide/register-your-company/de_DE.md"
@@ -149,7 +149,7 @@
     }, {
       "url": "work-out-your-profit-margins-against-UK-tax",
       "pageTitle": "Wissen was nach Abzug der Steuern von Ihrem Gewinn bleibt",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/de_DE.md"
@@ -167,7 +167,7 @@
     }, {
       "url": "understand-UK-employment-law",
       "pageTitle": "Die Arbeitsgesetze des Vereinigten Königreichs kennen",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "investment-guide/understand-UK-employment-law/de_DE.md"
@@ -183,7 +183,7 @@
     }, {
       "url": "familiarise-yourself-with-the-legal-framework",
       "pageTitle": "Über die rechtlichen Rahmenbedingungen informiert sein",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "investment-guide/familiarise-yourself-with-the-legal-framework/de_DE.md"
@@ -224,7 +224,7 @@
     "children": [{
       "url": "automotive",
       "pageTitle": "Die Automobilindustrie in Großbritannien",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "sectors/automotive/de_DE.md",
@@ -260,7 +260,7 @@
       "children": [{
         "url": "motor-sport",
         "pageTitle": "Motorsport in Großbritannien",
-        "layout": "de_DE/article.html",
+        "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "sectors/automotive/sub sectors/motor-sport/de_DE.md",
@@ -283,7 +283,7 @@
       }, {
         "url": "research-and-development",
         "pageTitle": "Forschung und Entwicklung",
-        "layout": "de_DE/article.html",
+        "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "sectors/automotive/sub sectors/research-and-development/de_DE.md",
@@ -304,7 +304,7 @@
       }, {
         "url": "supply-chain",
         "pageTitle": "Lieferkette",
-        "layout": "de_DE/article.html",
+        "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "sectors/automotive/sub sectors/supply-chain/de_DE.md",
@@ -322,7 +322,7 @@
     }, {
       "url": "creative",
       "pageTitle": "Kreativität in Großbritannien",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "sectors/creative/de_DE.md",
@@ -352,7 +352,7 @@
       "children": [{
         "url": "digital-media",
         "pageTitle": "Digitale Medien",
-        "layout": "de_DE/article.html",
+        "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "sectors/creative/sub sectors/digital-media/de_DE.md",
@@ -378,7 +378,7 @@
     }, {
       "url": "financial",
       "pageTitle": "Finanzdienstleistungen in Großbritannien",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "sectors/financial/de_DE.md",
@@ -410,7 +410,7 @@
       "children": [{
         "url": "asset-management",
         "pageTitle": "Vermögensverwaltung",
-        "layout": "de_DE/article.html",
+        "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "sectors/financial/sub sectors/asset-management/de_DE.md",
@@ -435,7 +435,7 @@
       }, {
         "url": "financial-technology",
         "pageTitle": "Finanztechnologien in Großbritannien",
-        "layout": "de_DE/article.html",
+        "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "sectors/financial/sub sectors/financial-technology/de_DE.md",
@@ -457,7 +457,7 @@
     }, {
       "url": "technology",
       "pageTitle": "Der Technologie-Sektor in Großbritannien",
-      "layout": "de_DE/article.html",
+      "layout": "article.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "sectors/technology/de_DE.md",
