@@ -9,21 +9,21 @@
         "file": "Reasons to chose the UK/zh_CN.html"
       },
       "tileItems": [{
-        "file": "sectors/automotive/zh_CN.md",
+        "file": "industries/automotive/zh_CN.md",
         "thumbnail": "automotive-sector-thumb.jpg",
-        "link": "/sectors/automotive"
+        "link": "/industries/automotive"
       }, {
-        "file": "sectors/creative/zh_CN.md",
+        "file": "industries/creative/zh_CN.md",
         "thumbnail": "creative-china-thumb.jpg",
-        "link": "/sectors/creative"
+        "link": "/industries/creative"
       }, {
-        "file": "sectors/financial/zh_CN.md",
+        "file": "industries/financial/zh_CN.md",
         "thumbnail": "finance-sector-thumb.jpg",
-        "link": "/sectors/financial"
+        "link": "/industries/financial"
       }, {
-        "file": "sectors/technology/zh_CN.md",
+        "file": "industries/technology/zh_CN.md",
         "thumbnail": "tech-sector-thumb.jpg",
-        "link": "/sectors/technology"
+        "link": "/industries/technology"
       }],
       "listHeader": {
         "file": "investment-guide/zh_CN.md"
@@ -198,29 +198,29 @@
         }
       }]
     }, {
-      "url": "sectors",
-      "pageTitle": "市场部门",
+      "url": "industries",
+      "pageTitle": "Industries",
       "layout": "landing-page.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "sectors/zh_CN.md"
+          "file": "industries/zh_CN.md"
         },
         "tileItems": [{
-          "file": "sectors/automotive/zh_CN.md",
+          "file": "industries/automotive/zh_CN.md",
           "thumbnail": "automotive-sector-thumb.jpg",
-          "link": "/sectors/automotive"
+          "link": "/industries/automotive"
         }, {
-          "file": "sectors/creative/zh_CN.md",
+          "file": "industries/creative/zh_CN.md",
           "thumbnail": "creative-china-thumb.jpg",
-          "link": "/sectors/creative"
+          "link": "/industries/creative"
         }, {
-          "file": "sectors/financial/zh_CN.md",
+          "file": "industries/financial/zh_CN.md",
           "thumbnail": "finance-sector-thumb.jpg",
-          "link": "/sectors/financial"
+          "link": "/industries/financial"
         }, {
-          "file": "sectors/technology/zh_CN.md",
+          "file": "industries/technology/zh_CN.md",
           "thumbnail": "tech-sector-thumb.jpg",
-          "link": "/sectors/technology"
+          "link": "/industries/technology"
         }]
       },
       "children": [{
@@ -229,34 +229,34 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "sectors/automotive/zh_CN.md",
+            "file": "industries/automotive/zh_CN.md",
             "heroImage": "automotive-sector-hero.jpg"
           },
           "sections": [{
-            "file": "sectors/automotive/sections/overview/zh_CN.md"
+            "file": "industries/automotive/sections/overview/zh_CN.md"
           }, {
-            "file": "sectors/automotive/sections/automotive investment organisation/zh_CN.md"
+            "file": "industries/automotive/sections/automotive investment organisation/zh_CN.md"
           }, {
-            "file": "sectors/automotive/sections/a hub for global excellence/zh_CN.md"
+            "file": "industries/automotive/sections/a hub for global excellence/zh_CN.md"
           }, {
-            "file": "sectors/automotive/sections/a home for fresh thinking/zh_CN.md"
+            "file": "industries/automotive/sections/a home for fresh thinking/zh_CN.md"
           }, {
-            "file": "sectors/automotive/sections/an effective business environment/zh_CN.md"
+            "file": "industries/automotive/sections/an effective business environment/zh_CN.md"
           }, {
-            "file": "sectors/automotive/sections/contact and next steps/zh_CN.md"
+            "file": "industries/automotive/sections/contact and next steps/zh_CN.md"
           }],
           "subContent": [{
-            "file": "sectors/automotive/sub sectors/motor-sport/zh_CN.md",
+            "file": "industries/automotive/sub sectors/motor-sport/zh_CN.md",
             "thumbnail": "motorsport-thumb.jpg",
-            "link": "/sectors/automotive/motor-sport"
+            "link": "/industries/automotive/motor-sport"
           }, {
-            "file": "sectors/automotive/sub sectors/research-and-development/zh_CN.md",
+            "file": "industries/automotive/sub sectors/research-and-development/zh_CN.md",
             "thumbnail": "research-development-thumb.jpg",
-            "link": "/sectors/automotive/research-and-development"
+            "link": "/industries/automotive/research-and-development"
           }, {
-            "file": "sectors/automotive/sub sectors/supply-chain/zh_CN.md",
+            "file": "industries/automotive/sub sectors/supply-chain/zh_CN.md",
             "thumbnail": "supply-chain-thumb.jpg",
-            "link": "/sectors/automotive/supply-chain"
+            "link": "/industries/automotive/supply-chain"
           }]
         },
         "children": [{
@@ -265,21 +265,21 @@
           "layout": "article.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "sectors/automotive/sub sectors/motor-sport/zh_CN.md",
+              "file": "industries/automotive/sub sectors/motor-sport/zh_CN.md",
               "heroImage": "motorsport-hero.jpg"
             },
             "sections": [{
-              "file": "sectors/automotive/sub sectors/motor-sport/sections/overview/zh_CN.md"
+              "file": "industries/automotive/sub sectors/motor-sport/sections/overview/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/motor-sport/sections/the heartland for elite racing/zh_CN.md"
+              "file": "industries/automotive/sub sectors/motor-sport/sections/the heartland for elite racing/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/motor-sport/sections/a history of innovation/zh_CN.md"
+              "file": "industries/automotive/sub sectors/motor-sport/sections/a history of innovation/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/motor-sport/sections/solutions for every sector/zh_CN.md"
+              "file": "industries/automotive/sub sectors/motor-sport/sections/solutions for every sector/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/motor-sport/sections/pioneering beyond Formula1/zh_CN.md"
+              "file": "industries/automotive/sub sectors/motor-sport/sections/pioneering beyond Formula1/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/motor-sport/sections/contacts and next steps/zh_CN.md"
+              "file": "industries/automotive/sub sectors/motor-sport/sections/contacts and next steps/zh_CN.md"
             }]
           }
         }, {
@@ -288,19 +288,19 @@
           "layout": "article.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "sectors/automotive/sub sectors/research-and-development/zh_CN.md",
+              "file": "industries/automotive/sub sectors/research-and-development/zh_CN.md",
               "heroImage": "research-development-hero.jpg"
             },
             "sections": [{
-              "file": "sectors/automotive/sub sectors/research-and-development/sections/developing the future of the automotive industry/zh_CN.md"
+              "file": "industries/automotive/sub sectors/research-and-development/sections/developing the future of the automotive industry/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/research-and-development/sections/a community committed to innovation/zh_CN.md"
+              "file": "industries/automotive/sub sectors/research-and-development/sections/a community committed to innovation/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/research-and-development/sections/low carbon technology/zh_CN.md"
+              "file": "industries/automotive/sub sectors/research-and-development/sections/low carbon technology/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/research-and-development/sections/lightweighting and carbon composites/zh_CN.md"
+              "file": "industries/automotive/sub sectors/research-and-development/sections/lightweighting and carbon composites/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/research-and-development/sections/connected and autonomous vehicles/zh_CN.md"
+              "file": "industries/automotive/sub sectors/research-and-development/sections/connected and autonomous vehicles/zh_CN.md"
             }]
           }
         }, {
@@ -309,15 +309,15 @@
           "layout": "article.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "sectors/automotive/sub sectors/supply-chain/zh_CN.md",
+              "file": "industries/automotive/sub sectors/supply-chain/zh_CN.md",
               "heroImage": "supply-chain-hero.jpg"
             },
             "sections": [{
-              "file": "sectors/automotive/sub sectors/supply-chain/sections/growing supply chain opportunity/zh_CN.md"
+              "file": "industries/automotive/sub sectors/supply-chain/sections/growing supply chain opportunity/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/supply-chain/sections/demand for components/zh_CN.md"
+              "file": "industries/automotive/sub sectors/supply-chain/sections/demand for components/zh_CN.md"
             }, {
-              "file": "sectors/automotive/sub sectors/supply-chain/sections/a local network/zh_CN.md"
+              "file": "industries/automotive/sub sectors/supply-chain/sections/a local network/zh_CN.md"
             }]
           }
         }]
@@ -327,28 +327,28 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "sectors/creative/zh_CN.md",
+            "file": "industries/creative/zh_CN.md",
             "heroImage": "creative-china-hero.jpg"
           },
           "sections": [{
-              "file": "sectors/creative/sections/The creative sector in Great Britain/zh_CN.md"
+              "file": "industries/creative/sections/The creative sector in Great Britain/zh_CN.md"
             }, {
-              "file": "sectors/creative/sections/Economic environment for growth/zh_CN.md"
+              "file": "industries/creative/sections/Economic environment for growth/zh_CN.md"
             }, {
-              "file": "sectors/creative/sections/The labour market and creative talent/zh_CN.md"
+              "file": "industries/creative/sections/The labour market and creative talent/zh_CN.md"
             }, {
-              "file": "sectors/creative/sections/Advanced infrastructure and regional strength/zh_CN.md"
+              "file": "industries/creative/sections/Advanced infrastructure and regional strength/zh_CN.md"
             }, {
-              "file": "sectors/creative/sections/Regulatory and financial support for creative companies/zh_CN.md"
+              "file": "industries/creative/sections/Regulatory and financial support for creative companies/zh_CN.md"
             }, {
-              "file": "sectors/creative/sections/Next steps and contacts/zh_CN.md"
+              "file": "industries/creative/sections/Next steps and contacts/zh_CN.md"
             }
 
           ],
           "subContent": [{
-            "file": "sectors/creative/sub sectors/digital-media/zh_CN.md",
+            "file": "industries/creative/sub sectors/digital-media/zh_CN.md",
             "thumbnail": "digital-media-thumb.jpg",
-            "link": "/sectors/creative/digital-media"
+            "link": "/industries/creative/digital-media"
           }]
         },
         "children": [{
@@ -357,23 +357,23 @@
           "layout": "article.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "sectors/creative/sub sectors/digital-media/zh_CN.md",
+              "file": "industries/creative/sub sectors/digital-media/zh_CN.md",
               "heroImage": "digital-media-hero.jpg"
             },
             "sections": [{
-              "file": "sectors/creative/sub sectors/digital-media/sections/digital media sector in Great Britain/zh_CN.md"
+              "file": "industries/creative/sub sectors/digital-media/sections/digital media sector in Great Britain/zh_CN.md"
             }, {
-              "file": "sectors/creative/sub sectors/digital-media/sections/an environment for growth/zh_CN.md"
+              "file": "industries/creative/sub sectors/digital-media/sections/an environment for growth/zh_CN.md"
             }, {
-              "file": "sectors/creative/sub sectors/digital-media/sections/strong areas of opportunity/zh_CN.md"
+              "file": "industries/creative/sub sectors/digital-media/sections/strong areas of opportunity/zh_CN.md"
             }, {
-              "file": "sectors/creative/sub sectors/digital-media/sections/a skilled and creative talent pool/zh_CN.md"
+              "file": "industries/creative/sub sectors/digital-media/sections/a skilled and creative talent pool/zh_CN.md"
             }, {
-              "file": "sectors/creative/sub sectors/digital-media/sections/london’s global status and regional growth/zh_CN.md"
+              "file": "industries/creative/sub sectors/digital-media/sections/london’s global status and regional growth/zh_CN.md"
             }, {
-              "file": "sectors/creative/sub sectors/digital-media/sections/support for investment/zh_CN.md"
+              "file": "industries/creative/sub sectors/digital-media/sections/support for investment/zh_CN.md"
             }, {
-              "file": "sectors/creative/sub sectors/digital-media/sections/next steps and contacts/zh_CN.md"
+              "file": "industries/creative/sub sectors/digital-media/sections/next steps and contacts/zh_CN.md"
             }]
           }
         }]
@@ -383,30 +383,30 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "sectors/financial/zh_CN.md",
+            "file": "industries/financial/zh_CN.md",
             "heroImage": "finance-sector-hero.jpg"
           },
           "sections": [{
-            "file": "sectors/financial/sections/financial sector in Great Britain/zh_CN.md"
+            "file": "industries/financial/sections/financial sector in Great Britain/zh_CN.md"
           }, {
-            "file": "sectors/financial/sections/unrivalled opportunities/zh_CN.md"
+            "file": "industries/financial/sections/unrivalled opportunities/zh_CN.md"
           }, {
-            "file": "sectors/financial/sections/a large and skilled labour market/zh_CN.md"
+            "file": "industries/financial/sections/a large and skilled labour market/zh_CN.md"
           }, {
-            "file": "sectors/financial/sections/centres of excellence throughout the UK/zh_CN.md"
+            "file": "industries/financial/sections/centres of excellence throughout the UK/zh_CN.md"
           }, {
-            "file": "sectors/financial/sections/Strong government support and fair regulation/zh_CN.md"
+            "file": "industries/financial/sections/Strong government support and fair regulation/zh_CN.md"
           }, {
-            "file": "sectors/financial/sections/Next steps and contacts/zh_CN.md"
+            "file": "industries/financial/sections/Next steps and contacts/zh_CN.md"
           }],
           "subContent": [{
-            "file": "sectors/financial/sub sectors/asset-management/zh_CN.md",
+            "file": "industries/financial/sub sectors/asset-management/zh_CN.md",
             "thumbnail": "asset-management-thumb.jpg",
-            "link": "/sectors/financial/asset-management"
+            "link": "/industries/financial/asset-management"
           }, {
-            "file": "sectors/financial/sub sectors/financial-technology/zh_CN.md",
+            "file": "industries/financial/sub sectors/financial-technology/zh_CN.md",
             "thumbnail": "fintech-thumb.jpg",
-            "link": "/sectors/financial/financial-technology"
+            "link": "/industries/financial/financial-technology"
           }]
         },
         "children": [{
@@ -415,23 +415,23 @@
           "layout": "article.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "sectors/financial/sub sectors/asset-management/zh_CN.md",
+              "file": "industries/financial/sub sectors/asset-management/zh_CN.md",
               "heroImage": "asset-management-hero.jpg"
             },
             "sections": [{
-              "file": "sectors/financial/sub sectors/asset-management/sections/asset management in Great Britain/zh_CN.md"
+              "file": "industries/financial/sub sectors/asset-management/sections/asset management in Great Britain/zh_CN.md"
             }, {
-              "file": "sectors/financial/sub sectors/asset-management/sections/a growing, open market/zh_CN.md"
+              "file": "industries/financial/sub sectors/asset-management/sections/a growing, open market/zh_CN.md"
             }, {
-              "file": "sectors/financial/sub sectors/asset-management/sections/a wide range of fund types and clients/zh_CN.md"
+              "file": "industries/financial/sub sectors/asset-management/sections/a wide range of fund types and clients/zh_CN.md"
             }, {
-              "file": "sectors/financial/sub sectors/asset-management/sections/a large talent pool/zh_CN.md"
+              "file": "industries/financial/sub sectors/asset-management/sections/a large talent pool/zh_CN.md"
             }, {
-              "file": "sectors/financial/sub sectors/asset-management/sections/attractive business environment with regional strengths/zh_CN.md"
+              "file": "industries/financial/sub sectors/asset-management/sections/attractive business environment with regional strengths/zh_CN.md"
             }, {
-              "file": "sectors/financial/sub sectors/asset-management/sections/regulatory and government support/zh_CN.md"
+              "file": "industries/financial/sub sectors/asset-management/sections/regulatory and government support/zh_CN.md"
             }, {
-              "file": "sectors/financial/sub sectors/asset-management/sections/next steps and contacts/zh_CN.md"
+              "file": "industries/financial/sub sectors/asset-management/sections/next steps and contacts/zh_CN.md"
             }]
           }
         }, {
@@ -440,19 +440,19 @@
           "layout": "article.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "sectors/financial/sub sectors/financial-technology/zh_CN.md",
+              "file": "industries/financial/sub sectors/financial-technology/zh_CN.md",
               "heroImage": "fintech-hero.jpg"
             },
             "sections": [{
-              "file": "sectors/financial/sub sectors/financial-technology/sections/financial technology in Great Britain/zh_CN.md"
+              "file": "industries/financial/sub sectors/financial-technology/sections/financial technology in Great Britain/zh_CN.md"
             }, {
-              "file": "sectors/financial/sub sectors/financial-technology/sections/large talent pool/zh_CN.md"
+              "file": "industries/financial/sub sectors/financial-technology/sections/large talent pool/zh_CN.md"
             }, {
-              "file": "sectors/financial/sub sectors/financial-technology/sections/a receptive consumer market/zh_CN.md"
+              "file": "industries/financial/sub sectors/financial-technology/sections/a receptive consumer market/zh_CN.md"
             }, {
-              "file": "sectors/financial/sub sectors/financial-technology/sections/strong regulatory and tax support/zh_CN.md"
+              "file": "industries/financial/sub sectors/financial-technology/sections/strong regulatory and tax support/zh_CN.md"
             }, {
-              "file": "sectors/financial/sub sectors/financial-technology/sections/next steps and contacts/zh_CN.md"
+              "file": "industries/financial/sub sectors/financial-technology/sections/next steps and contacts/zh_CN.md"
             }]
           }
         }]
@@ -462,27 +462,27 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "sectors/technology/zh_CN.md",
+            "file": "industries/technology/zh_CN.md",
             "heroImage": "tech-sector-hero.jpg"
           },
           "sections": [{
-            "file": "sectors/technology/sections/overview/zh_CN.md"
+            "file": "industries/technology/sections/overview/zh_CN.md"
           }, {
-            "file": "sectors/technology/sections/a strong digital growth structure/zh_CN.md"
+            "file": "industries/technology/sections/a strong digital growth structure/zh_CN.md"
           }, {
-            "file": "sectors/technology/sections/growing digital consumers/zh_CN.md"
+            "file": "industries/technology/sections/growing digital consumers/zh_CN.md"
           }, {
-            "file": "sectors/technology/sections/a world class digital infrastructure and mature audience/zh_CN.md"
+            "file": "industries/technology/sections/a world class digital infrastructure and mature audience/zh_CN.md"
           }, {
-            "file": "sectors/technology/sections/physical infrastructure/zh_CN.md"
+            "file": "industries/technology/sections/physical infrastructure/zh_CN.md"
           }, {
-            "file": "sectors/technology/sections/our support and investment in innovation/zh_CN.md"
+            "file": "industries/technology/sections/our support and investment in innovation/zh_CN.md"
           }, {
-            "file": "sectors/technology/sections/we support the growth and development of entrepreneurs/zh_CN.md"
+            "file": "industries/technology/sections/we support the growth and development of entrepreneurs/zh_CN.md"
           }, {
-            "file": "sectors/technology/sections/incentives and tax breaks/zh_CN.md"
+            "file": "industries/technology/sections/incentives and tax breaks/zh_CN.md"
           }, {
-            "file": "sectors/technology/sections/we are ready to make your investment work/zh_CN.md"
+            "file": "industries/technology/sections/we are ready to make your investment work/zh_CN.md"
           }]
         }
       }]
