@@ -221,7 +221,10 @@
           "file": "industries/technology/en_US.md",
           "thumbnail": "tech-sector-thumb.jpg",
           "link": "/industries/technology"
-        }]
+        }],
+        "formBlock": {
+          "file": "form/en_US.md"
+        }
       },
       "children": [{
         "url": "automotive",
