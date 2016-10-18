@@ -229,7 +229,7 @@
       "children": [{
         "url": "automotive",
         "pageTitle": "Die Automobilindustrie in Großbritannien",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/automotive/de_DE.md",
@@ -260,7 +260,10 @@
             "file": "industries/automotive/sub sectors/supply-chain/de_DE.md",
             "thumbnail": "supply-chain-thumb.jpg",
             "link": "/industries/automotive/supply-chain"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/de_DE.md"
+          }
         },
         "children": [{
           "url": "motor-sport",
@@ -327,7 +330,7 @@
       }, {
         "url": "creative",
         "pageTitle": "Kreativität in Großbritannien",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/creative/de_DE.md",
@@ -352,7 +355,10 @@
             "file": "industries/creative/sub sectors/digital-media/de_DE.md",
             "thumbnail": "digital-media-thumb.jpg",
             "link": "/industries/creative/digital-media"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/de_DE.md"
+          }
         },
         "children": [{
           "url": "digital-media",
@@ -383,7 +389,7 @@
       }, {
         "url": "financial",
         "pageTitle": "Finanzdienstleistungen in Großbritannien",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/financial/de_DE.md",
@@ -410,7 +416,10 @@
             "file": "industries/financial/sub sectors/financial-technology/de_DE.md",
             "thumbnail": "fintech-thumb.jpg",
             "link": "/industries/financial/financial-technology"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/de_DE.md"
+          }
         },
         "children": [{
           "url": "asset-management",
@@ -462,7 +471,7 @@
       }, {
         "url": "technology",
         "pageTitle": "Der Technologie-Sektor in Großbritannien",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/technology/de_DE.md",
@@ -486,7 +495,10 @@
             "file": "industries/technology/sections/incentives and tax breaks/de_DE.md"
           }, {
             "file": "industries/technology/sections/we are ready to make your investment work/de_DE.md"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/de_DE.md"
+          }
         }
       }]
     }]

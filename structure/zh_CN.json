@@ -229,7 +229,7 @@
       "children": [{
         "url": "automotive",
         "pageTitle": "英国汽车产业",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/automotive/zh_CN.md",
@@ -260,7 +260,10 @@
             "file": "industries/automotive/sub sectors/supply-chain/zh_CN.md",
             "thumbnail": "supply-chain-thumb.jpg",
             "link": "/industries/automotive/supply-chain"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/zh_CN.md"
+          }
         },
         "children": [{
           "url": "motor-sport",
@@ -327,7 +330,7 @@
       }, {
         "url": "creative",
         "pageTitle": "创意",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/creative/zh_CN.md",
@@ -352,7 +355,10 @@
             "file": "industries/creative/sub sectors/digital-media/zh_CN.md",
             "thumbnail": "digital-media-thumb.jpg",
             "link": "/industries/creative/digital-media"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/zh_CN.md"
+          }
         },
         "children": [{
           "url": "digital-media",
@@ -383,7 +389,7 @@
       }, {
         "url": "financial",
         "pageTitle": "英国的金融服务",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/financial/zh_CN.md",
@@ -410,7 +416,10 @@
             "file": "industries/financial/sub sectors/financial-technology/zh_CN.md",
             "thumbnail": "fintech-thumb.jpg",
             "link": "/industries/financial/financial-technology"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/zh_CN.md"
+          }
         },
         "children": [{
           "url": "asset-management",
@@ -462,7 +471,7 @@
       }, {
         "url": "technology",
         "pageTitle": "英国科技",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/technology/zh_CN.md",
@@ -486,7 +495,10 @@
             "file": "industries/technology/sections/incentives and tax breaks/zh_CN.md"
           }, {
             "file": "industries/technology/sections/we are ready to make your investment work/zh_CN.md"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/zh_CN.md"
+          }
         }
       }]
     }]

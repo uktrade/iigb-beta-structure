@@ -229,7 +229,7 @@
       "children": [{
         "url": "automotive",
         "pageTitle": "Automotive in Great Britain",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/automotive/en_US.md",
@@ -260,7 +260,10 @@
             "file": "industries/automotive/sub sectors/supply-chain/en_US.md",
             "thumbnail": "supply-chain-thumb.jpg",
             "link": "/industries/automotive/supply-chain"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/en_US.md"
+          }
         },
         "children": [{
           "url": "motor-sport",
@@ -327,7 +330,7 @@
       }, {
         "url": "creative",
         "pageTitle": "Create in Great Britain",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/creative/en_US.md",
@@ -352,7 +355,10 @@
             "file": "industries/creative/sub sectors/digital-media/en_US.md",
             "thumbnail": "digital-media-thumb.jpg",
             "link": "/industries/creative/digital-media"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/en_US.md"
+          }
         },
         "children": [{
           "url": "digital-media",
@@ -383,7 +389,7 @@
       }, {
         "url": "financial",
         "pageTitle": "Financial services in Great Britain",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/financial/en_US.md",
@@ -410,7 +416,10 @@
             "file": "industries/financial/sub sectors/financial-technology/en_US.md",
             "thumbnail": "fintech-thumb.jpg",
             "link": "/industries/financial/financial-technology"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/en_US.md"
+          }
         },
         "children": [{
           "url": "asset-management",
@@ -464,7 +473,7 @@
       }, {
         "url": "technology",
         "pageTitle": "Technology in Great Britain",
-        "layout": "article.html",
+        "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/technology/en_US.md",
@@ -493,7 +502,10 @@
             "file": "industries/technology/sub sectors/data-analytics/en_US.md",
             "thumbnail": "big-data-thumb.jpg",
             "link": "/industries/technology/data-analytics"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/en_US.md"
+          }
         },
         "children": [{
           "url": "data-analytics",
