@@ -5,6 +5,12 @@
     "pageTitle": "Home",
     "layout": "home.html",
     "contentBlocks": {
+      "pageHeader": {
+        "file": "Reasons to chose the UK/en_US.html",
+        "externalVideo": "https://www.youtube.com/embed/yoHrRcKIBKw",
+        "heroVideo": "northern-powerhouse.mp4",
+        "heroVideoImage": "northern-powerhouse.jpg"
+      },
       "firstSection": {
         "file": "Reasons to chose the UK/en_US.html"
       },
