@@ -11,9 +11,7 @@
         "heroVideo": "northern-powerhouse.mp4",
         "heroVideoImage": "northern-powerhouse.jpg"
       },
-      "firstSection": {
-        "file": "Reasons to chose the UK/en_US.html"
-      },
+      "firstSection": {},
       "tileItems": [{
         "file": "industries/automotive/en_US.md",
         "thumbnail": "automotive-sector-thumb.jpg",
@@ -343,19 +341,18 @@
             "heroImage": "creative-sector-hero.jpg"
           },
           "sections": [{
-              "file": "industries/creative/sections/The creative sector in Great Britain/en_US.md"
-            }, {
-              "file": "industries/creative/sections/Economic environment for growth/en_US.md"
-            }, {
-              "file": "industries/creative/sections/The labour market and creative talent/en_US.md"
-            }, {
-              "file": "industries/creative/sections/Advanced infrastructure and regional strength/en_US.md"
-            }, {
-              "file": "industries/creative/sections/Regulatory and financial support for creative companies/en_US.md"
-            }, {
-              "file": "industries/creative/sections/Next steps and contacts/en_US.md"
-            }
-          ],
+            "file": "industries/creative/sections/The creative sector in Great Britain/en_US.md"
+          }, {
+            "file": "industries/creative/sections/Economic environment for growth/en_US.md"
+          }, {
+            "file": "industries/creative/sections/The labour market and creative talent/en_US.md"
+          }, {
+            "file": "industries/creative/sections/Advanced infrastructure and regional strength/en_US.md"
+          }, {
+            "file": "industries/creative/sections/Regulatory and financial support for creative companies/en_US.md"
+          }, {
+            "file": "industries/creative/sections/Next steps and contacts/en_US.md"
+          }],
           "subContent": [{
             "file": "industries/creative/sub sectors/digital-media/en_US.md",
             "thumbnail": "digital-media-thumb.jpg",
