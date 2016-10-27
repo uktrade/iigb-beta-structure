@@ -263,7 +263,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/automotive/en_US.md",
-            "heroImage": "automotive-sector-hero.jpg"
+            "heroImage": "automotive-hero.jpg"
           },
           "sections": [{
             "file": "industries/automotive/sections/overview/en_US.md"
