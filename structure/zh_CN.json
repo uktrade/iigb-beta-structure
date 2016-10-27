@@ -30,64 +30,64 @@
         "link": "/industries/technology"
       }],
       "listHeader": {
-        "file": "investment-guide/zh_CN.md"
+        "file": "setup-guide/zh_CN.md"
       },
       "listItems": [{
-        "file": "investment-guide/establish-a-UK-address/zh_CN.md",
-        "link": "/investment-guide/establish-a-UK-address"
+        "file": "setup-guide/establish-a-UK-address/zh_CN.md",
+        "link": "/setup-guide/establish-a-UK-address"
       }, {
-        "file": "investment-guide/apply-for-a-visa/zh_CN.md",
-        "link": "/investment-guide/apply-for-a-visa"
+        "file": "setup-guide/apply-for-a-visa/zh_CN.md",
+        "link": "/setup-guide/apply-for-a-visa"
       }, {
-        "file": "investment-guide/open-a-UK-bank-account/zh_CN.md",
-        "link": "/investment-guide/open-a-UK-bank-account"
+        "file": "setup-guide/open-a-UK-bank-account/zh_CN.md",
+        "link": "/setup-guide/open-a-UK-bank-account"
       }, {
-        "file": "investment-guide/register-your-company/zh_CN.md",
-        "link": "/investment-guide/register-your-company"
+        "file": "setup-guide/register-your-company/zh_CN.md",
+        "link": "/setup-guide/register-your-company"
       }, {
-        "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md",
-        "link": "/investment-guide/work-out-your-profit-margins-against-UK-tax"
+        "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md",
+        "link": "/setup-guide/work-out-your-profit-margins-against-UK-tax"
       }, {
-        "file": "investment-guide/understand-UK-employment-law/zh_CN.md",
-        "link": "/investment-guide/understand-UK-employment-law"
+        "file": "setup-guide/understand-UK-employment-law/zh_CN.md",
+        "link": "/setup-guide/understand-UK-employment-law"
       }, {
-        "file": "investment-guide/familiarise-yourself-with-the-legal-framework/zh_CN.md",
-        "link": "/investment-guide/familiarise-yourself-with-the-legal-framework"
+        "file": "setup-guide/familiarise-yourself-with-the-legal-framework/zh_CN.md",
+        "link": "/setup-guide/familiarise-yourself-with-the-legal-framework"
       }, {
-        "file": "investment-guide/speak-with-the-UKTI-investment-services-team/zh_CN.md"
+        "file": "setup-guide/speak-with-the-UKTI-investment-services-team/zh_CN.md"
       }]
     },
     "children": [{
-      "url": "investment-guide",
+      "url": "setup-guide",
       "pageTitle": "英国投资指南",
       "layout": "bullet-list-page.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "investment-guide/zh_CN.md"
+          "file": "setup-guide/zh_CN.md"
         },
         "listItems": [{
-          "file": "investment-guide/establish-a-UK-address/zh_CN.md",
-          "link": "/investment-guide/establish-a-UK-address"
+          "file": "setup-guide/establish-a-UK-address/zh_CN.md",
+          "link": "/setup-guide/establish-a-UK-address"
         }, {
-          "file": "investment-guide/apply-for-a-visa/zh_CN.md",
-          "link": "/investment-guide/apply-for-a-visa"
+          "file": "setup-guide/apply-for-a-visa/zh_CN.md",
+          "link": "/setup-guide/apply-for-a-visa"
         }, {
-          "file": "investment-guide/open-a-UK-bank-account/zh_CN.md",
-          "link": "/investment-guide/open-a-UK-bank-account"
+          "file": "setup-guide/open-a-UK-bank-account/zh_CN.md",
+          "link": "/setup-guide/open-a-UK-bank-account"
         }, {
-          "file": "investment-guide/register-your-company/zh_CN.md",
-          "link": "/investment-guide/register-your-company"
+          "file": "setup-guide/register-your-company/zh_CN.md",
+          "link": "/setup-guide/register-your-company"
         }, {
-          "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md",
-          "link": "/investment-guide/work-out-your-profit-margins-against-UK-tax"
+          "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md",
+          "link": "/setup-guide/work-out-your-profit-margins-against-UK-tax"
         }, {
-          "file": "investment-guide/understand-UK-employment-law/zh_CN.md",
-          "link": "/investment-guide/understand-UK-employment-law"
+          "file": "setup-guide/understand-UK-employment-law/zh_CN.md",
+          "link": "/setup-guide/understand-UK-employment-law"
         }, {
-          "file": "investment-guide/familiarise-yourself-with-the-legal-framework/zh_CN.md",
-          "link": "/investment-guide/familiarise-yourself-with-the-legal-framework"
+          "file": "setup-guide/familiarise-yourself-with-the-legal-framework/zh_CN.md",
+          "link": "/setup-guide/familiarise-yourself-with-the-legal-framework"
         }, {
-          "file": "investment-guide/speak-with-the-UKTI-investment-services-team/zh_CN.md"
+          "file": "setup-guide/speak-with-the-UKTI-investment-services-team/zh_CN.md"
         }]
       },
       "children": [{
@@ -96,14 +96,14 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "investment-guide/establish-a-UK-address/zh_CN.md"
+            "file": "setup-guide/establish-a-UK-address/zh_CN.md"
           },
           "sections": [{
-            "file": "investment-guide/establish-a-UK-address/sections/Finding Business premises/zh_CN.md"
+            "file": "setup-guide/establish-a-UK-address/sections/Finding Business premises/zh_CN.md"
           }, {
-            "file": "investment-guide/establish-a-UK-address/sections/Regional Centres of Excellence/zh_CN.md"
+            "file": "setup-guide/establish-a-UK-address/sections/Regional Centres of Excellence/zh_CN.md"
           }, {
-            "file": "investment-guide/establish-a-UK-address/sections/quality assurance/zh_CN.md"
+            "file": "setup-guide/establish-a-UK-address/sections/quality assurance/zh_CN.md"
           }]
         }
       }, {
@@ -112,14 +112,14 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "investment-guide/apply-for-a-visa/zh_CN.md"
+            "file": "setup-guide/apply-for-a-visa/zh_CN.md"
           },
           "sections": [{
-            "file": "investment-guide/apply-for-a-visa/sections/apply for a visa/zh_CN.md"
+            "file": "setup-guide/apply-for-a-visa/sections/apply for a visa/zh_CN.md"
           }, {
-            "file": "investment-guide/apply-for-a-visa/sections/the visa system explained/zh_CN.md"
+            "file": "setup-guide/apply-for-a-visa/sections/the visa system explained/zh_CN.md"
           }, {
-            "file": "investment-guide/apply-for-a-visa/sections/which visas apply to you/zh_CN.md"
+            "file": "setup-guide/apply-for-a-visa/sections/which visas apply to you/zh_CN.md"
           }]
         }
       }, {
@@ -128,14 +128,14 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "investment-guide/open-a-UK-bank-account/zh_CN.md"
+            "file": "setup-guide/open-a-UK-bank-account/zh_CN.md"
           },
           "sections": [{
-            "file": "investment-guide/open-a-UK-bank-account/sections/the process/zh_CN.md"
+            "file": "setup-guide/open-a-UK-bank-account/sections/the process/zh_CN.md"
           }, {
-            "file": "investment-guide/open-a-UK-bank-account/sections/timings/zh_CN.md"
+            "file": "setup-guide/open-a-UK-bank-account/sections/timings/zh_CN.md"
           }, {
-            "file": "investment-guide/open-a-UK-bank-account/sections/what you'll need to do/zh_CN.md"
+            "file": "setup-guide/open-a-UK-bank-account/sections/what you'll need to do/zh_CN.md"
           }]
         }
       }, {
@@ -144,12 +144,12 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "investment-guide/register-your-company/zh_CN.md"
+            "file": "setup-guide/register-your-company/zh_CN.md"
           },
           "sections": [{
-            "file": "investment-guide/register-your-company/sections/incorporating a company/zh_CN.md"
+            "file": "setup-guide/register-your-company/sections/incorporating a company/zh_CN.md"
           }, {
-            "file": "investment-guide/register-your-company/sections/register your company/zh_CN.md"
+            "file": "setup-guide/register-your-company/sections/register your company/zh_CN.md"
           }]
         }
       }, {
@@ -158,16 +158,16 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md"
+            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md"
           },
           "sections": [{
-            "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/key business taxes/zh_CN.md"
+            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/key business taxes/zh_CN.md"
           }, {
-            "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/additional tax for business to consider/zh_CN.md"
+            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/additional tax for business to consider/zh_CN.md"
           }, {
-            "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/personal taxes/zh_CN.md"
+            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/personal taxes/zh_CN.md"
           }, {
-            "file": "investment-guide/work-out-your-profit-margins-against-UK-tax/sections/tax incentive for business/zh_CN.md"
+            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/tax incentive for business/zh_CN.md"
           }]
         }
       }, {
@@ -176,14 +176,14 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "investment-guide/understand-UK-employment-law/zh_CN.md"
+            "file": "setup-guide/understand-UK-employment-law/zh_CN.md"
           },
           "sections": [{
-            "file": "investment-guide/understand-UK-employment-law/sections/access to talent/zh_CN.md"
+            "file": "setup-guide/understand-UK-employment-law/sections/access to talent/zh_CN.md"
           }, {
-            "file": "investment-guide/understand-UK-employment-law/sections/flexible employment laws/zh_CN.md"
+            "file": "setup-guide/understand-UK-employment-law/sections/flexible employment laws/zh_CN.md"
           }, {
-            "file": "investment-guide/understand-UK-employment-law/sections/flexible employment costs/zh_CN.md"
+            "file": "setup-guide/understand-UK-employment-law/sections/flexible employment costs/zh_CN.md"
           }]
         }
       }, {
@@ -192,12 +192,12 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "investment-guide/familiarise-yourself-with-the-legal-framework/zh_CN.md"
+            "file": "setup-guide/familiarise-yourself-with-the-legal-framework/zh_CN.md"
           },
           "sections": [{
-            "file": "investment-guide/familiarise-yourself-with-the-legal-framework/sections/a renowned legal system/zh_CN.md"
+            "file": "setup-guide/familiarise-yourself-with-the-legal-framework/sections/a renowned legal system/zh_CN.md"
           }, {
-            "file": "investment-guide/familiarise-yourself-with-the-legal-framework/sections/specific legislation/zh_CN.md"
+            "file": "setup-guide/familiarise-yourself-with-the-legal-framework/sections/specific legislation/zh_CN.md"
           }]
         }
       }]
