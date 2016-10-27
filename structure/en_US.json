@@ -109,7 +109,10 @@
             "file": "setup-guide/establish-a-UK-address/sections/Regional Centres of Excellence/en_US.md"
           }, {
             "file": "setup-guide/establish-a-UK-address/sections/quality assurance/en_US.md"
-          }]
+          }],
+          "formBlock": {
+            "file": "form/en_US.md"
+          }
         }
       }, {
         "url": "apply-for-a-visa",
@@ -295,7 +298,7 @@
         "children": [{
           "url": "motor-sport",
           "pageTitle": "Motor Sport in Great Britain",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/automotive/sub sectors/motor-sport/en_US.md",
@@ -321,7 +324,7 @@
         }, {
           "url": "research-and-development",
           "pageTitle": "R&D",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/automotive/sub sectors/research-and-development/en_US.md",
@@ -345,7 +348,7 @@
         }, {
           "url": "supply-chain",
           "pageTitle": "Supply chain",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/automotive/sub sectors/supply-chain/en_US.md",
@@ -397,7 +400,7 @@
         "children": [{
           "url": "digital-media",
           "pageTitle": "Digital media",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/creative/sub sectors/digital-media/en_US.md",
@@ -461,7 +464,7 @@
         "children": [{
           "url": "asset-management",
           "pageTitle": "Asset management",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/financial/sub sectors/asset-management/en_US.md",
@@ -489,7 +492,7 @@
         }, {
           "url": "financial-technology",
           "pageTitle": "Financial technology in Great Britain",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/financial/sub sectors/financial-technology/en_US.md",
@@ -553,7 +556,7 @@
         "children": [{
           "url": "data-analytics",
           "pageTitle": "Invest in big data analytics",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/technology/sub sectors/data-analytics/en_US.md",

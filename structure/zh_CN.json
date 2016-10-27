@@ -296,7 +296,7 @@
         "children": [{
           "url": "motor-sport",
           "pageTitle": "英国赛车运动",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/automotive/sub sectors/motor-sport/zh_CN.md",
@@ -322,7 +322,7 @@
         }, {
           "url": "research-and-development",
           "pageTitle": "研发",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/automotive/sub sectors/research-and-development/zh_CN.md",
@@ -346,7 +346,7 @@
         }, {
           "url": "supply-chain",
           "pageTitle": "供应链",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/automotive/sub sectors/supply-chain/zh_CN.md",
@@ -400,7 +400,7 @@
         "children": [{
           "url": "digital-media",
           "pageTitle": "数字媒体",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/creative/sub sectors/digital-media/zh_CN.md",
@@ -464,7 +464,7 @@
         "children": [{
           "url": "asset-management",
           "pageTitle": "英国的资产管理",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/financial/sub sectors/asset-management/zh_CN.md",
@@ -492,7 +492,7 @@
         }, {
           "url": "financial-technology",
           "pageTitle": "英国的金融技术",
-          "layout": "article.html",
+          "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/financial/sub sectors/financial-technology/zh_CN.md",
