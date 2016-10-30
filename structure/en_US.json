@@ -27,7 +27,7 @@
         "thumbnail": "finance.jpg",
         "link": "/industries/financial"
       }, {
-        "file": "industries/technology/en_US.md",
+        "file": "beta/industries/Technology/en_US.md",
         "thumbnail": "technology.jpg",
         "link": "/industries/technology"
       }],
