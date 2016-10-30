@@ -250,6 +250,31 @@
           "thumbnail": "tech-sector-thumb.jpg",
           "link": "/industries/technology"
         }],
+        "subTileItems": [{
+          "file": "industries/automotive/sub sectors/motor-sport/de_DE.md",
+          "thumbnail": "motorsport.jpg",
+          "link": "/industries/automotive/motor-sport"
+        }, {
+          "file": "industries/automotive/sub sectors/research-and-development/de_DE.md",
+          "thumbnail": "research-development.jpg",
+          "link": "/industries/automotive/research-and-development"
+        }, {
+          "file": "industries/automotive/sub sectors/supply-chain/de_DE.md",
+          "thumbnail": "supply-chain.jpg",
+          "link": "/industries/automotive/supply-chain"
+        }, {
+          "file": "industries/creative/sub sectors/digital-media/de_DE.md",
+          "thumbnail": "digital-media.jpg",
+          "link": "/industries/creative/digital-media"
+        }, {
+          "file": "industries/financial/sub sectors/asset-management/de_DE.md",
+          "thumbnail": "asset-management.jpg",
+          "link": "/industries/financial/asset-management"
+        }, {
+          "file": "industries/financial/sub sectors/financial-technology/de_DE.md",
+          "thumbnail": "fintech.jpg",
+          "link": "/industries/financial/financial-technology"
+        }],
         "formBlock": {
           "file": "form/de_DE.md"
         }
