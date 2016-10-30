@@ -12,7 +12,7 @@
         "heroVideoImage": "northern-powerhouse.jpg"
       },
       "firstSection": {
-        "file": "home/about-us/en_US.html"
+        "file": "beta/home/about-us/en_US.html"
       },
       "tileItems": [{
         "file": "industries/automotive/en_US.md",
@@ -35,25 +35,25 @@
         "file": "setup-guide/en_US.md"
       },
       "listItems": [{
-        "file": "setup-guide/establish-a-UK-address/en_US.md",
-        "link": "/setup-guide/establish-a-UK-address"
-      }, {
-        "file": "setup-guide/apply-for-a-visa/en_US.md",
-        "link": "/setup-guide/apply-for-a-visa"
-      }, {
-        "file": "setup-guide/open-a-UK-bank-account/en_US.md",
-        "link": "/setup-guide/open-a-UK-bank-account"
-      }, {
-        "file": "setup-guide/register-your-company/en_US.md",
+        "file": "beta/setup-guide/how-to-setup/en_US.md",
         "link": "/setup-guide/register-your-company"
       }, {
-        "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/en_US.md",
+        "file": "beta/setup-guide/apply-for-visa/en_US.md",
+        "link": "/setup-guide/apply-for-a-visa"
+      }, {
+        "file": "beta/setup-guide/open-a-business-account/en_US.md",
+        "link": "/setup-guide/open-a-UK-bank-account"
+      }, {
+        "file": "beta/setup-guide/understand-tax/en_US.md",
         "link": "/setup-guide/work-out-your-profit-margins-against-UK-tax"
       }, {
-        "file": "setup-guide/understand-UK-employment-law/en_US.md",
+        "file": "beta/setup-guide/establish-address/en_US.md",
+        "link": "/setup-guide/establish-a-UK-address"
+      }, {
+        "file": "beta/setup-guide/access_talent/en_US.md",
         "link": "/setup-guide/understand-UK-employment-law"
       }, {
-        "file": "setup-guide/familiarise-yourself-with-the-legal-framework/en_US.md",
+        "file": "beta/setup-guide/understand-legal/en_US.md",
         "link": "/setup-guide/familiarise-yourself-with-the-legal-framework"
       }, {
         "file": "setup-guide/speak-with-the-UKTI-investment-services-team/en_US.md"
