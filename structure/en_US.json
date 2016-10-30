@@ -554,9 +554,9 @@
             "file": "beta/industries/Technology/en_US.md",
             "heroImage": "technology.jpg"
           },
-          "overview": {
+          "sections": [{
             "file": "beta/industries/Technology/overview/en_US.md"
-          },
+          }],
           "subContent": [{
             "file": "beta/industries/Technology/sub-sectors/data-analytics/en_US.md",
             "thumbnail": "big-data.jpg",
