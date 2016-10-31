@@ -762,10 +762,10 @@
       "layout": "info.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "info/terms and conditions/en_US.md"
+          "file": "info/terms-and-conditions/en_US.md"
         },
         "infoBlock": {
-          "file": "info/terms and conditions/content/en_US.md"
+          "file": "info/terms-and-conditions/content/en_US.md"
         }
       }
     }, {
@@ -774,10 +774,22 @@
       "layout": "info.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "info/form confirmation/en_US.md"
+          "file": "info/form-confirmation/en_US.md"
         },
         "infoBlock": {
-          "file": "info/form confirmation/content/en_US.md"
+          "file": "info/form-confirmation/content/en_US.md"
+        }
+      }
+    }, {
+      "url": "enquiries/error",
+      "pageTitle": "Sorry, there was a problem. Try again",
+      "layout": "info.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "info/form-error/en_US.md"
+        },
+        "infoBlock": {
+          "file": "info/form-error/content/en_US.md"
         }
       }
     }, {
