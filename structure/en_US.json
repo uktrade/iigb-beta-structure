@@ -15,7 +15,7 @@
         "file": "beta/home/about-us/en_US.html"
       },
       "tileItems": [{
-        "file": "industries/automotive/en_US.md",
+        "file": "beta/industries/automotive/en_US.md",
         "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
       }, {
@@ -27,7 +27,7 @@
         "thumbnail": "finance.jpg",
         "link": "/industries/financial"
       }, {
-        "file": "beta/industries/Technology/en_US.md",
+        "file": "beta/industries/technology/en_US.md",
         "thumbnail": "technology.jpg",
         "link": "/industries/technology"
       }],
@@ -36,91 +36,83 @@
       },
       "listItems": [{
         "file": "beta/setup-guide/how-to-setup/en_US.md",
-        "link": "/setup-guide/register-your-company"
+        "link": "/setup-guide/how-to-setup"
       }, {
         "file": "beta/setup-guide/apply-for-visa/en_US.md",
-        "link": "/setup-guide/apply-for-a-visa"
+        "link": "/setup-guide/apply-for-visa"
       }, {
         "file": "beta/setup-guide/open-a-business-account/en_US.md",
-        "link": "/setup-guide/open-a-UK-bank-account"
+        "link": "/setup-guide/open-a-business-account"
       }, {
         "file": "beta/setup-guide/understand-tax/en_US.md",
-        "link": "/setup-guide/work-out-your-profit-margins-against-UK-tax"
+        "link": "/setup-guide/understand-tax"
       }, {
         "file": "beta/setup-guide/establish-address/en_US.md",
-        "link": "/setup-guide/establish-a-UK-address"
+        "link": "/setup-guide/establish-address"
       }, {
-        "file": "beta/setup-guide/access_talent/en_US.md",
-        "link": "/setup-guide/understand-UK-employment-law"
+        "file": "beta/setup-guide/access-talent/en_US.md",
+        "link": "/setup-guide/access-talent"
       }, {
         "file": "beta/setup-guide/understand-legal/en_US.md",
-        "link": "/setup-guide/familiarise-yourself-with-the-legal-framework"
-      }, {
-        "file": "setup-guide/speak-with-the-UKTI-investment-services-team/en_US.md"
+        "link": "/setup-guide/understand-legal"
       }]
     },
     "children": [{
-      "url": "setup-guide",
+      "url": "/setup-guide",
       "pageTitle": "The UK setup guide",
       "layout": "bullet-list-page.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "setup-guide/en_US.md"
+          "file": "beta/setup-guide/en_US.md"
         },
         "listItems": [{
-          "file": "setup-guide/establish-a-UK-address/en_US.md",
-          "link": "/setup-guide/establish-a-UK-address"
+          "file": "beta/setup-guide/how-to-setup/en_US.md",
+          "link": "/setup-guide/how-to-setup"
         }, {
-          "file": "setup-guide/apply-for-a-visa/en_US.md",
-          "link": "/setup-guide/apply-for-a-visa"
+          "file": "beta/setup-guide/apply-for-visa/en_US.md",
+          "link": "/setup-guide/apply-for-visa"
         }, {
-          "file": "setup-guide/open-a-UK-bank-account/en_US.md",
-          "link": "/setup-guide/open-a-UK-bank-account"
+          "file": "beta/setup-guide/open-a-business-account/en_US.md",
+          "link": "/setup-guide/open-a-business-account"
         }, {
-          "file": "setup-guide/register-your-company/en_US.md",
-          "link": "/setup-guide/register-your-company"
+          "file": "beta/setup-guide/understand-tax/en_US.md",
+          "link": "/setup-guide/understand-tax"
         }, {
-          "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/en_US.md",
-          "link": "/setup-guide/work-out-your-profit-margins-against-UK-tax"
+          "file": "beta/setup-guide/establish-address/en_US.md",
+          "link": "/setup-guide/establish-address"
         }, {
-          "file": "setup-guide/understand-UK-employment-law/en_US.md",
-          "link": "/setup-guide/understand-UK-employment-law"
+          "file": "beta/setup-guide/access-talent/en_US.md",
+          "link": "/setup-guide/access-talent"
         }, {
-          "file": "setup-guide/familiarise-yourself-with-the-legal-framework/en_US.md",
-          "link": "/setup-guide/familiarise-yourself-with-the-legal-framework"
-        }, {
-          "file": "setup-guide/speak-with-the-UKTI-investment-services-team/en_US.md"
+          "file": "beta/setup-guide/understand-legal/en_US.md",
+          "link": "/setup-guide/understand-legal"
         }],
         "formBlock": {
           "file": "form/en_US.md"
         }
       },
       "children": [{
-        "url": "establish-a-UK-address",
-        "pageTitle": "Establish a UK address",
+        "url": "establish-address",
+        "pageTitle": "Establish a UK business address",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/establish-a-UK-address/en_US.md"
+            "file": "beta/setup-guide/establish-address/intro/en_US.md"
           },
           "sections": [{
-            "file": "setup-guide/establish-a-UK-address/sections/Finding Business premises/en_US.md"
-          }, {
-            "file": "setup-guide/establish-a-UK-address/sections/Regional Centres of Excellence/en_US.md"
-          }, {
-            "file": "setup-guide/establish-a-UK-address/sections/quality assurance/en_US.md"
+            "file": "beta/setup-guide/establish-address/sections/how-to-establish/en_US.md"
           }],
           "formBlock": {
             "file": "form/en_US.md"
           }
         }
       }, {
-        "url": "apply-for-a-visa",
-        "pageTitle": "The visa system explained",
+        "url": "apply-for-visa",
+        "pageTitle": "Apply for a UK visa",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/apply-for-a-visa/en_US.md"
+            "file": "beta/setup-guide/apply-for-visa/en_US.md"
           },
           "sections": [{
             "file": "setup-guide/apply-for-a-visa/sections/apply for a visa/en_US.md"
@@ -134,93 +126,97 @@
           }
         }
       }, {
-        "url": "open-a-UK-bank-account",
-        "pageTitle": "Open a UK bank account",
+        "url": "open-a-business-account",
+        "pageTitle": "How to open a UK business bank account",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/open-a-UK-bank-account/en_US.md"
+            "file": "beta/setup-guide/open-a-business-account/intro/en_US.md"
           },
           "sections": [{
-            "file": "setup-guide/open-a-UK-bank-account/sections/the process/en_US.md"
+            "file": "beta/setup-guide/open-a-business-account/sections/what-you-need-to-do/en_US.md"
           }, {
-            "file": "setup-guide/open-a-UK-bank-account/sections/timings/en_US.md"
-          }, {
-            "file": "setup-guide/open-a-UK-bank-account/sections/what you'll need to do/en_US.md"
+            "file": "beta/setup-guide/open-a-business-account/sections/how-long-it-takes/en_US.md"
           }],
           "formBlock": {
             "file": "form/en_US.md"
           }
         }
       }, {
-        "url": "register-your-company",
-        "pageTitle": "Register your company",
+        "url": "how-to-setup",
+        "pageTitle": "How to setup a company in the UK",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/register-your-company/en_US.md"
+            "file": "beta/setup-guide/how-to-setup/intro/en_US.md"
           },
           "sections": [{
-            "file": "setup-guide/register-your-company/sections/incorporating a company/en_US.md"
+            "file": "beta/setup-guide/how-to-setup/sections/register-a-company/en_US.md"
           }, {
-            "file": "setup-guide/register-your-company/sections/register your company/en_US.md"
+            "file": "beta/setup-guide/how-to-setup/sections/register-a-branch/en_US.md"
           }],
           "formBlock": {
             "file": "form/en_US.md"
           }
         }
       }, {
-        "url": "work-out-your-profit-margins-against-UK-tax",
-        "pageTitle": "Work out your profit margins against UK tax",
+        "url": "understand-tax",
+        "pageTitle": "Understand UK tax and incentives",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/en_US.md"
+            "file": "beta/setup-guide/understand-tax/intro/en_US.md"
           },
           "sections": [{
-            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/key business taxes/en_US.md"
+            "file": "beta/setup-guide/understand-tax/sections/corporation-tax/en_US.md"
           }, {
-            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/additional tax for business to consider/en_US.md"
+            "file": "beta/setup-guide/understand-tax/sections/personal-tax/en_US.md"
           }, {
-            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/personal taxes/en_US.md"
-          }, {
-            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/tax incentive for business/en_US.md"
+            "file": "beta/setup-guide/understand-tax/sections/tax-incentives/en_US.md"
           }],
           "formBlock": {
             "file": "form/en_US.md"
           }
         }
       }, {
-        "url": "understand-UK-employment-law",
-        "pageTitle": "Understand UK employment law",
+        "url": "access-talent",
+        "pageTitle": "Find out how to access talent and skills in the UK",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/understand-UK-employment-law/en_US.md"
+            "file": "beta/setup-guide/access-talent/intro/en_US.md"
           },
           "sections": [{
-            "file": "setup-guide/understand-UK-employment-law/sections/access to talent/en_US.md"
+            "file": "beta/setup-guide/access-talent/sections/flexible-laws/en_US.md"
           }, {
-            "file": "setup-guide/understand-UK-employment-law/sections/flexible employment laws/en_US.md"
+            "file": "beta/setup-guide/access-talent/sections/employment-costs/en_US.md"
           }, {
-            "file": "setup-guide/understand-UK-employment-law/sections/flexible employment costs/en_US.md"
+            "file": "beta/setup-guide/access-talent/sections/access-to-talent/en_US.md"
+          }, {
+            "file": "beta/setup-guide/access-talent/sections/graduate-talent/en_US.md"
+          }, {
+            "file": "beta/setup-guide/access-talent/sections/apprenticeships/en_US.md"
+          }, {
+            "file": "beta/setup-guide/access-talent/sections/overseas-talent/en_US.md"
           }],
           "formBlock": {
             "file": "form/en_US.md"
           }
         }
       }, {
-        "url": "familiarise-yourself-with-the-legal-framework",
-        "pageTitle": "Familiarise yourself with the legal framework",
+        "url": "understand-legal",
+        "pageTitle": "Understand the UK's legal framework",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/familiarise-yourself-with-the-legal-framework/en_US.md"
+            "file": "beta/setup-guide/understand-legal/intro/en_US.md"
           },
           "sections": [{
-            "file": "setup-guide/familiarise-yourself-with-the-legal-framework/sections/a renowned legal system/en_US.md"
+            "file": "beta/setup-guide/understand-legal/sections/protection-when-selling/en_US.md"
           }, {
-            "file": "setup-guide/familiarise-yourself-with-the-legal-framework/sections/specific legislation/en_US.md"
+            "file": "beta/setup-guide/understand-legal/sections/intellectual-property/en_US.md"
+          }, {
+            "file": "beta/setup-guide/understand-legal/sections/data-protection/en_US.md"
           }],
           "formBlock": {
             "file": "form/en_US.md"
@@ -236,7 +232,7 @@
           "file": "industries/en_US.md"
         },
         "tileItems": [{
-          "file": "industries/automotive/en_US.md",
+          "file": "beta/industries/automotive/en_US.md",
           "thumbnail": "automotive.jpg",
           "link": "/industries/automotive"
         }, {
@@ -253,15 +249,15 @@
           "link": "/industries/technology"
         }],
         "subTileItems": [{
-          "file": "industries/automotive/sub sectors/motor-sport/en_US.md",
+          "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
           "thumbnail": "motorsport.jpg",
-          "link": "/industries/automotive/motor-sport"
+          "link": "/industries/automotive/motorsport"
         }, {
-          "file": "industries/automotive/sub sectors/research-and-development/en_US.md",
+          "file": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
           "thumbnail": "research-development.jpg",
           "link": "/industries/automotive/research-and-development"
         }, {
-          "file": "industries/automotive/sub sectors/supply-chain/en_US.md",
+          "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
           "thumbnail": "supply-chain.jpg",
           "link": "/industries/automotive/supply-chain"
         }, {
@@ -291,32 +287,22 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "industries/automotive/en_US.md",
+            "file": "beta/industries/automotive/en_US.md",
             "heroImage": "automotive.jpg"
           },
           "sections": [{
-            "file": "industries/automotive/sections/overview/en_US.md"
-          }, {
-            "file": "industries/automotive/sections/automotive investment organisation/en_US.md"
-          }, {
-            "file": "industries/automotive/sections/a hub for global excellence/en_US.md"
-          }, {
-            "file": "industries/automotive/sections/a home for fresh thinking/en_US.md"
-          }, {
-            "file": "industries/automotive/sections/an effective business environment/en_US.md"
-          }, {
-            "file": "industries/automotive/sections/contact and next steps/en_US.md"
+            "file": "beta/industries/automotive/overview/en_US.md"
           }],
           "subContent": [{
-            "file": "industries/automotive/sub sectors/motor-sport/en_US.md",
+            "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
             "thumbnail": "motorsport.jpg",
-            "link": "/industries/automotive/motor-sport"
+            "link": "/industries/automotive/motorsport"
           }, {
-            "file": "industries/automotive/sub sectors/research-and-development/en_US.md",
+            "file": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
             "thumbnail": "research-development.jpg",
             "link": "/industries/automotive/research-and-development"
           }, {
-            "file": "industries/automotive/sub sectors/supply-chain/en_US.md",
+            "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
             "thumbnail": "supply-chain.jpg",
             "link": "/industries/automotive/supply-chain"
           }],
@@ -325,26 +311,20 @@
           }
         },
         "children": [{
-          "url": "motor-sport",
-          "pageTitle": "Motor Sport in Great Britain",
+          "url": "motorsport",
+          "pageTitle": "Motor Sport in the UK",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "industries/automotive/sub sectors/motor-sport/en_US.md",
+              "file": "beta/industries/automotive/sub-sectors/motorsport/intro/en_US.md",
               "heroImage": "motorsport.jpg"
             },
             "sections": [{
-              "file": "industries/automotive/sub sectors/motor-sport/sections/overview/en_US.md"
+              "file": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/en_US.md"
             }, {
-              "file": "industries/automotive/sub sectors/motor-sport/sections/the heartland for elite racing/en_US.md"
+              "file": "beta/industries/automotive/sub-sectors/motorsport/sections/talent-and-skills/en_US.md"
             }, {
-              "file": "industries/automotive/sub sectors/motor-sport/sections/a history of innovation/en_US.md"
-            }, {
-              "file": "industries/automotive/sub sectors/motor-sport/sections/solutions for every sector/en_US.md"
-            }, {
-              "file": "industries/automotive/sub sectors/motor-sport/sections/pioneering beyond Formula1/en_US.md"
-            }, {
-              "file": "industries/automotive/sub sectors/motor-sport/sections/contacts and next steps/en_US.md"
+              "file": "beta/industries/automotive/sub-sectors/motorsport/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
               "file": "form/en_US.md"
@@ -356,19 +336,15 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "industries/automotive/sub sectors/research-and-development/en_US.md",
+              "file": "beta/industries/automotive/sub-sectors/research-and-development/intro/en_US.md",
               "heroImage": "research-development.jpg"
             },
             "sections": [{
-              "file": "industries/automotive/sub sectors/research-and-development/sections/developing the future of the automotive industry/en_US.md"
+              "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/funding/en_US.md"
             }, {
-              "file": "industries/automotive/sub sectors/research-and-development/sections/a community committed to innovation/en_US.md"
+              "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/talent-and-skills/en_US.md"
             }, {
-              "file": "industries/automotive/sub sectors/research-and-development/sections/low carbon technology/en_US.md"
-            }, {
-              "file": "industries/automotive/sub sectors/research-and-development/sections/lightweighting and carbon composites/en_US.md"
-            }, {
-              "file": "industries/automotive/sub sectors/research-and-development/sections/connected and autonomous vehicles/en_US.md"
+              "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
               "file": "form/en_US.md"
@@ -380,15 +356,15 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "industries/automotive/sub sectors/supply-chain/en_US.md",
+              "file": "beta/industries/automotive/sub-sectors/supply-chain/intro/en_US.md",
               "heroImage": "supply-chain.jpg"
             },
             "sections": [{
-              "file": "industries/automotive/sub sectors/supply-chain/sections/growing supply chain opportunity/en_US.md"
+              "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/market-conditions/en_US.md"
             }, {
-              "file": "industries/automotive/sub sectors/supply-chain/sections/demand for components/en_US.md"
+              "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/support-and-incentives/en_US.md"
             }, {
-              "file": "industries/automotive/sub sectors/supply-chain/sections/a local network/en_US.md"
+              "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/talent-and-skills/en_US.md"
             }],
             "formBlock": {
               "file": "form/en_US.md"
@@ -551,14 +527,14 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "beta/industries/Technology/en_US.md",
+            "file": "beta/industries/technology/en_US.md",
             "heroImage": "technology.jpg"
           },
           "sections": [{
-            "file": "beta/industries/Technology/overview/en_US.md"
+            "file": "beta/industries/technology/overview/en_US.md"
           }],
           "subContent": [{
-            "file": "beta/industries/Technology/sub-sectors/data-analytics/en_US.md",
+            "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
             "thumbnail": "big-data.jpg",
             "link": "/industries/technology/data-analytics"
           }],
@@ -572,15 +548,15 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "beta/industries/Technology/sub-sectors/data-analytics/en_US.md",
+              "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
               "heroImage": "big-data.jpg"
             },
             "sections": [{
-              "file": "beta/industries/Technology/sub-sectors/data-analytics/sections/expanding_data_market/en_US.md"
+              "file": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/en_US.md"
             }, {
-              "file": "beta/industries/Technology/sub-sectors/data-analytics/sections/data_infrastructure_and_talent/en_US.md"
+              "file": "beta/industries/technology/sub-sectors/data-analytics/sections/data_infrastructure_and_talent/en_US.md"
             }, {
-              "file": "beta/industries/Technology/sub-sectors/data-analytics/sections/investment_in_the_future/en_US.md"
+              "file": "beta/industries/technology/sub-sectors/data-analytics/sections/investment_in_the_future/en_US.md"
             }],
             "formBlock": {
               "file": "form/en_US.md"

@@ -551,14 +551,14 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "beta/industries/Technology/en_US.md",
+            "file": "beta/industries/technology/en_US.md",
             "heroImage": "technology.jpg"
           },
           "sections": [{
-            "file": "beta/industries/Technology/overview/en_US.md"
+            "file": "beta/industries/technology/overview/en_US.md"
           }],
           "subContent": [{
-            "file": "beta/industries/Technology/sub-sectors/data-analytics/en_US.md",
+            "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
             "thumbnail": "big-data.jpg",
             "link": "/industries/technology/data-analytics"
           }],
@@ -572,15 +572,15 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "beta/industries/Technology/sub-sectors/data-analytics/en_US.md",
+              "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
               "heroImage": "big-data.jpg"
             },
             "sections": [{
-              "file": "beta/industries/Technology/sub-sectors/data-analytics/sections/expanding_data_market/en_US.md"
+              "file": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/en_US.md"
             }, {
-              "file": "beta/industries/Technology/sub-sectors/data-analytics/sections/data_infrastructure_and_talent/en_US.md"
+              "file": "beta/industries/technology/sub-sectors/data-analytics/sections/data_infrastructure_and_talent/en_US.md"
             }, {
-              "file": "beta/industries/Technology/sub-sectors/data-analytics/sections/investment_in_the_future/en_US.md"
+              "file": "beta/industries/technology/sub-sectors/data-analytics/sections/investment_in_the_future/en_US.md"
             }],
             "formBlock": {
               "file": "form/en_US.md"
