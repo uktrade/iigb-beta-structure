@@ -30,6 +30,14 @@
         "file": "beta/industries/technology/en_US.md",
         "thumbnail": "technology.jpg",
         "link": "/industries/technology"
+      }, {
+        "file": "beta/industries/energy-generation/en_US.md",
+        "thumbnail": "energy.jpg",
+        "link": "/industries/energy"
+      }, {
+        "file": "beta/industries/life-sciences/en_US.md",
+        "thumbnail": "life-sciences.jpg",
+        "link": "/industries/life-sciences"
       }],
       "listHeader": {
         "file": "beta/setup-guide/en_US.md"
@@ -247,6 +255,14 @@
           "file": "beta/industries/technology/en_US.md",
           "thumbnail": "technology.jpg",
           "link": "/industries/technology"
+        }, {
+          "file": "beta/industries/energy-generation/en_US.md",
+          "thumbnail": "energy.jpg",
+          "link": "/industries/energy"
+        }, {
+          "file": "beta/industries/life-sciences/en_US.md",
+          "thumbnail": "life-sciences.jpg",
+          "link": "/industries/life-sciences"
         }],
         "subTileItems": [{
           "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
@@ -365,6 +381,238 @@
               "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/support-and-incentives/en_US.md"
             }, {
               "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/talent-and-skills/en_US.md"
+            }],
+            "formBlock": {
+              "file": "form/en_US.md"
+            }
+          }
+        }]
+      }, {
+        "url": "energy",
+        "pageTitle": "Energy generation",
+        "layout": "industry.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "beta/industries/energy-generation/en_US.md",
+            "heroImage": "energy.jpg"
+          },
+          "sections": [{
+            "file": "beta/industries/energy-generation/overview/en_US.md"
+          }],
+          "subContent": [{
+            "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
+            "thumbnail": "offshore-wind.jpg",
+            "link": "/industries/energy/offshore-wind"
+          }, {
+            "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
+            "thumbnail": "electrical-networks.jpg",
+            "link": "/industries/energy/electrical-networks"
+          }, {
+            "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/en_US.md",
+            "thumbnail": "energy-from-waste",
+            "link": "/industries/energy/energy-from-waste"
+          }, {
+            "file": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
+            "thumbnail": "energy-nuclear-lowres-2.jpg",
+            "link": "/industries/energy/nuclear"
+          }, {
+            "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/en_US.md",
+            "thumbnail": "energy-oil-and-gas.jpg",
+            "link": "/industries/energy/oil-and-gas"
+          }],
+          "formBlock": {
+            "file": "form/en_US.md"
+          }
+        },
+        "children": [{
+          "url": "electrical-networks",
+          "pageTitle": "Electriacal networks",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/en_US.md",
+              "heroImage": "motorsport.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/market-conditions/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/talent-and-skills/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/support-and-incentives/en_US.md"
+            }],
+            "formBlock": {
+              "file": "form/en_US.md"
+            }
+          }
+        }, {
+          "url": "energy-from-waste",
+          "pageTitle": "Energy from waste",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/en_US.md",
+              "heroImage": "research-development.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/market-conditions/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/talent-and-skills/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/en_US.md"
+            }],
+            "formBlock": {
+              "file": "form/en_US.md"
+            }
+          }
+        }, {
+          "url": "oil-and-gas",
+          "pageTitle": "Oil and gas",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/en_US.md",
+              "heroImage": "research-development.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/overview/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/market-conditions/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/talent-and-skills/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/support-and-incentives/en_US.md"
+            }],
+            "formBlock": {
+              "file": "form/en_US.md"
+            }
+          }
+        }, {
+          "url": "nuclear",
+          "pageTitle": "Nuclear",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/intro/en_US.md",
+              "heroImage": "research-development.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/market-conditions/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/talent-and-skills/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/support-and-incentives/en_US.md"
+            }],
+            "formBlock": {
+              "file": "form/en_US.md"
+            }
+          }
+        }]
+      }, {
+        "url": "life-sciences",
+        "pageTitle": "Life sciences",
+        "layout": "industry.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "beta/industries/life-sciences/en_US.md",
+            "heroImage": "life-sciences.jpg"
+          },
+          "sections": [{
+            "file": "beta/industries/life-sciences/overview/en_US.md"
+          }],
+          "subContent": [{
+            "file": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
+            "thumbnail": "medical-technology.jpg",
+            "link": "/industries/life-sciences/medical-technology"
+          }, {
+            "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/en_US.md",
+            "thumbnail": "medicines-manufacturing.jpg",
+            "link": "/industries/energy/medicines-manufacturing"
+          }],
+          "formBlock": {
+            "file": "form/en_US.md"
+          }
+        },
+        "children": [{
+          "url": "medical-technology",
+          "pageTitle": "Medical technology",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/en_US.md",
+              "heroImage": "medical-technology.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/market-conditions/en_US.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/talent-and-skills/en_US.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/support-and-incentives/en_US.md"
+            }],
+            "formBlock": {
+              "file": "form/en_US.md"
+            }
+          }
+        }, {
+          "url": "medicines-manufacturing",
+          "pageTitle": "Medicines manufacturing",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/en_US.md",
+              "heroImage": "medicines-manufacturing.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/market-conditions/en_US.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/talent-and-skills/en_US.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/support-and-incentives/en_US.md"
+            }],
+            "formBlock": {
+              "file": "form/en_US.md"
+            }
+          }
+        }, {
+          "url": "oil-and-gas",
+          "pageTitle": "Oil and gas",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/en_US.md",
+              "heroImage": "research-development.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/overview/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/market-conditions/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/talent-and-skills/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/support-and-incentives/en_US.md"
+            }],
+            "formBlock": {
+              "file": "form/en_US.md"
+            }
+          }
+        }, {
+          "url": "nuclear",
+          "pageTitle": "Nuclear",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/intro/en_US.md",
+              "heroImage": "research-development.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/market-conditions/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/talent-and-skills/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
               "file": "form/en_US.md"
