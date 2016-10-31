@@ -400,10 +400,6 @@
             "file": "beta/industries/energy-generation/overview/en_US.md"
           }],
           "subContent": [{
-            "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
-            "thumbnail": "place-holder.png",
-            "link": "/industries/energy/offshore-wind"
-          }, {
             "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
             "thumbnail": "place-holder.png",
             "link": "/industries/energy/electrical-networks"
@@ -415,6 +411,10 @@
             "file": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
             "thumbnail": "energy-nuclear-lowres-2.jpg",
             "link": "/industries/energy/nuclear"
+          }, {
+            "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
+            "thumbnail": "place-holder.png",
+            "link": "/industries/energy/offshore-wind"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/en_US.md",
             "thumbnail": "energy-oil-and-gas.jpg",
@@ -656,6 +656,10 @@
             "thumbnail": "place-holder.png",
             "link": "/industries/financial/asset-management"
           }, {
+            "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
+            "thumbnail": "fintech.jpg",
+            "link": "/industries/technology/data-analytics"
+          }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial/financial-technology"
@@ -729,6 +733,14 @@
             "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/technology/data-analytics"
+          }, {
+            "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
+            "thumbnail": "fintech.jpg",
+            "link": "/industries/financial/financial-technology"
+          }, {
+            "file": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
+            "thumbnail": "medical-technology.jpg",
+            "link": "/industries/life-sciences/medical-technology"
           }],
           "formBlock": {
             "file": "beta/form/en_US.md"
