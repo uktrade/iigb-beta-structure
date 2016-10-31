@@ -19,11 +19,11 @@
         "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
       }, {
-        "file": "industries/creative/en_US.md",
+        "file": "beta/industries/creative/en_US.md",
         "thumbnail": "creative.jpg",
         "link": "/industries/creative"
       }, {
-        "file": "industries/financial/en_US.md",
+        "file": "beta/industries/financial-services/en_US.md",
         "thumbnail": "finance.jpg",
         "link": "/industries/financial"
       }, {
@@ -236,15 +236,15 @@
           "thumbnail": "automotive.jpg",
           "link": "/industries/automotive"
         }, {
-          "file": "industries/creative/en_US.md",
+          "file": "beta/industries/creative/en_US.md",
           "thumbnail": "creative.jpg",
           "link": "/industries/creative"
         }, {
-          "file": "industries/financial/en_US.md",
+          "file": "beta/industries/financial-services/en_US.md",
           "thumbnail": "finance.jpg",
           "link": "/industries/financial"
         }, {
-          "file": "industries/technology/en_US.md",
+          "file": "beta/industries/technology/en_US.md",
           "thumbnail": "technology.jpg",
           "link": "/industries/technology"
         }],
@@ -261,7 +261,7 @@
           "thumbnail": "supply-chain.jpg",
           "link": "/industries/automotive/supply-chain"
         }, {
-          "file": "industries/creative/sub sectors/digital-media/en_US.md",
+          "file": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
           "thumbnail": "digital-media.jpg",
           "link": "/industries/creative/digital-media"
         }, {
@@ -269,11 +269,11 @@
           "thumbnail": "asset-management.jpg",
           "link": "/industries/financial/asset-management"
         }, {
-          "file": "industries/financial/sub sectors/financial-technology/en_US.md",
+          "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
           "thumbnail": "fintech.jpg",
           "link": "/industries/financial/financial-technology"
         }, {
-          "file": "industries/technology/sub sectors/data-analytics/en_US.md",
+          "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
           "thumbnail": "data-analytics.jpg",
           "link": "/industries/technology/data-analytics"
         }],
@@ -377,24 +377,14 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "industries/creative/en_US.md",
+            "file": "beta/industries/creative/en_US.md",
             "heroImage": "creative.jpg"
           },
           "sections": [{
-            "file": "industries/creative/sections/The creative sector in Great Britain/en_US.md"
-          }, {
-            "file": "industries/creative/sections/Economic environment for growth/en_US.md"
-          }, {
-            "file": "industries/creative/sections/The labour market and creative talent/en_US.md"
-          }, {
-            "file": "industries/creative/sections/Advanced infrastructure and regional strength/en_US.md"
-          }, {
-            "file": "industries/creative/sections/Regulatory and financial support for creative companies/en_US.md"
-          }, {
-            "file": "industries/creative/sections/Next steps and contacts/en_US.md"
+            "file": "beta/industries/creative/overview/en_US.md"
           }],
           "subContent": [{
-            "file": "industries/creative/sub sectors/digital-media/en_US.md",
+            "file": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
           }],
@@ -408,23 +398,17 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "industries/creative/sub sectors/digital-media/en_US.md",
+              "file": "beta/industries/creative/sub-sectors/digital-media/intro/en_US.md",
               "heroImage": "digital-media.jpg"
             },
             "sections": [{
-              "file": "industries/creative/sub sectors/digital-media/sections/digital media sector in Great Britain/en_US.md"
+              "file": "beta/industries/creative/sub-sectors/digital-media/sections/overview/en_US.md"
             }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/an environment for growth/en_US.md"
+              "file": "beta/industries/creative/sub-sectors/digital-media/sections/market-conditions/en_US.md"
             }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/strong areas of opportunity/en_US.md"
+              "file": "beta/industries/creative/sub-sectors/digital-media/sections/strong-areas/en_US.md"
             }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/a skilled and creative talent pool/en_US.md"
-            }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/london’s global status and regional growth/en_US.md"
-            }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/support for investment/en_US.md"
-            }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/next steps and contacts/en_US.md"
+              "file": "beta/industries/creative/sub-sectors/digital-media/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
               "file": "form/en_US.md"
@@ -437,28 +421,18 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "industries/financial/en_US.md",
+            "file": "beta/industries/financial-services/intro/en_US.md",
             "heroImage": "finance.jpg"
           },
           "sections": [{
-            "file": "industries/financial/sections/financial sector in Great Britain/en_US.md"
-          }, {
-            "file": "industries/financial/sections/unrivalled opportunities/en_US.md"
-          }, {
-            "file": "industries/financial/sections/a large and skilled labour market/en_US.md"
-          }, {
-            "file": "industries/financial/sections/centres of excellence throughout the UK/en_US.md"
-          }, {
-            "file": "industries/financial/sections/Strong government support and fair regulation/en_US.md"
-          }, {
-            "file": "industries/financial/sections/Next steps and contacts/en_US.md"
+            "file": "beta/industries/financial-services/overview/en_US.md"
           }],
           "subContent": [{
             "file": "industries/financial/sub sectors/asset-management/en_US.md",
             "thumbnail": "asset-management.jpg",
             "link": "/industries/financial/asset-management"
           }, {
-            "file": "industries/financial/sub sectors/financial-technology/en_US.md",
+            "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial/financial-technology"
           }],
@@ -500,21 +474,15 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "industries/financial/sub sectors/financial-technology/en_US.md",
+              "file": "beta/industries/financial-services/sub-sectors/fintech/intro/en_US.md",
               "heroImage": "fintech.jpg"
             },
             "sections": [{
-              "file": "industries/financial/sub sectors/financial-technology/sections/financial technology in Great Britain/en_US.md"
+              "file": "beta/industries/financial-services/sub-sectors/fintech/sections/market-conditions/en_US.md"
             }, {
-              "file": "industries/financial/sub sectors/financial-technology/sections/world-beating growth and opportunity/en_US.md"
+              "file": "beta/industries/financial-services/sub-sectors/fintech/sections/talent-and-skills/en_US.md"
             }, {
-              "file": "industries/financial/sub sectors/financial-technology/sections/large talent pool/en_US.md"
-            }, {
-              "file": "industries/financial/sub sectors/financial-technology/sections/a receptive consumer market/en_US.md"
-            }, {
-              "file": "industries/financial/sub sectors/financial-technology/sections/strong regulatory and tax support/en_US.md"
-            }, {
-              "file": "industries/financial/sub sectors/financial-technology/sections/next steps and contacts/en_US.md"
+              "file": "beta/industries/financial-services/sub-sectors/fintech/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
               "file": "form/en_US.md"
