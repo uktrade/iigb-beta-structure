@@ -96,7 +96,7 @@
           "link": "/setup-guide/understand-legal"
         }],
         "formBlock": {
-          "file": "form/en_US.md"
+          "file": "beta/form/en_US.md"
         }
       },
       "children": [{
@@ -111,7 +111,7 @@
             "file": "beta/setup-guide/establish-address/sections/how-to-establish/en_US.md"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         }
       }, {
@@ -130,7 +130,7 @@
             "file": "setup-guide/apply-for-a-visa/sections/which visas apply to you/en_US.md"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         }
       }, {
@@ -147,7 +147,7 @@
             "file": "beta/setup-guide/open-a-business-account/sections/how-long-it-takes/en_US.md"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         }
       }, {
@@ -164,7 +164,7 @@
             "file": "beta/setup-guide/how-to-setup/sections/register-a-branch/en_US.md"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         }
       }, {
@@ -183,7 +183,7 @@
             "file": "beta/setup-guide/understand-tax/sections/tax-incentives/en_US.md"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         }
       }, {
@@ -208,7 +208,7 @@
             "file": "beta/setup-guide/access-talent/sections/overseas-talent/en_US.md"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         }
       }, {
@@ -227,7 +227,7 @@
             "file": "beta/setup-guide/understand-legal/sections/data-protection/en_US.md"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         }
       }]
@@ -294,7 +294,7 @@
           "link": "/industries/technology/data-analytics"
         }],
         "formBlock": {
-          "file": "form/en_US.md"
+          "file": "beta/form/en_US.md"
         }
       },
       "children": [{
@@ -323,7 +323,7 @@
             "link": "/industries/automotive/supply-chain"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         },
         "children": [{
@@ -343,7 +343,7 @@
               "file": "beta/industries/automotive/sub-sectors/motorsport/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }, {
@@ -363,7 +363,7 @@
               "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }, {
@@ -383,7 +383,7 @@
               "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/talent-and-skills/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }]
@@ -421,7 +421,7 @@
             "link": "/industries/energy/oil-and-gas"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         },
         "children": [{
@@ -441,7 +441,7 @@
               "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }, {
@@ -461,7 +461,7 @@
               "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }, {
@@ -481,7 +481,7 @@
               "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }, {
@@ -503,7 +503,7 @@
               "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }, {
@@ -525,7 +525,7 @@
               "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }]
@@ -551,7 +551,7 @@
             "link": "/industries/life-sciences/medicines-manufacturing"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         },
         "children": [{
@@ -571,7 +571,7 @@
               "file": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }, {
@@ -591,7 +591,7 @@
               "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }]
@@ -613,7 +613,7 @@
             "link": "/industries/creative/digital-media"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         },
         "children": [{
@@ -635,7 +635,7 @@
               "file": "beta/industries/creative/sub-sectors/digital-media/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }]
@@ -661,7 +661,7 @@
             "link": "/industries/financial/financial-technology"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         },
         "children": [{
@@ -689,7 +689,7 @@
               "file": "industries/financial/sub sectors/asset-management/sections/next steps and contacts/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }, {
@@ -709,7 +709,7 @@
               "file": "beta/industries/financial-services/sub-sectors/fintech/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }]
@@ -731,7 +731,7 @@
             "link": "/industries/technology/data-analytics"
           }],
           "formBlock": {
-            "file": "form/en_US.md"
+            "file": "beta/form/en_US.md"
           }
         },
         "children": [{
@@ -751,7 +751,7 @@
               "file": "beta/industries/technology/sub-sectors/data-analytics/sections/investment_in_the_future/en_US.md"
             }],
             "formBlock": {
-              "file": "form/en_US.md"
+              "file": "beta/form/en_US.md"
             }
           }
         }]
