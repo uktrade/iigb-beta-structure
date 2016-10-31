@@ -14,19 +14,19 @@
       "firstSection": {},
       "tileItems": [{
         "file": "industries/automotive/zh_CN.md",
-        "thumbnail": "automotive-sector-thumb.jpg",
+        "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
       }, {
         "file": "industries/creative/zh_CN.md",
-        "thumbnail": "creative-china-thumb.jpg",
+        "thumbnail": "creative.jpg",
         "link": "/industries/creative"
       }, {
         "file": "industries/financial/zh_CN.md",
-        "thumbnail": "finance-sector-thumb.jpg",
+        "thumbnail": "finance.jpg",
         "link": "/industries/financial"
       }, {
         "file": "industries/technology/zh_CN.md",
-        "thumbnail": "tech-sector-thumb.jpg",
+        "thumbnail": "technology.jpg",
         "link": "/industries/technology"
       }],
       "listHeader": {

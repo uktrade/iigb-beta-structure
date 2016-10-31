@@ -270,7 +270,7 @@
           "link": "/industries/automotive/motorsport"
         }, {
           "file": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
-          "thumbnail": "research-development.jpg",
+          "thumbnail": "place-holder.png",
           "link": "/industries/automotive/research-and-development"
         }, {
           "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
@@ -282,7 +282,7 @@
           "link": "/industries/creative/digital-media"
         }, {
           "file": "industries/financial/sub sectors/asset-management/en_US.md",
-          "thumbnail": "asset-management.jpg",
+          "thumbnail": "place-holder.png",
           "link": "/industries/financial/asset-management"
         }, {
           "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
@@ -290,7 +290,7 @@
           "link": "/industries/financial/financial-technology"
         }, {
           "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
-          "thumbnail": "data-analytics.jpg",
+          "thumbnail": "fintech.jpg",
           "link": "/industries/technology/data-analytics"
         }],
         "formBlock": {
@@ -315,7 +315,7 @@
             "link": "/industries/automotive/motorsport"
           }, {
             "file": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
-            "thumbnail": "research-development.jpg",
+            "thumbnail": "place-holder.png",
             "link": "/industries/automotive/research-and-development"
           }, {
             "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
@@ -353,7 +353,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/automotive/sub-sectors/research-and-development/intro/en_US.md",
-              "heroImage": "research-development.jpg"
+              "heroImage": "place-holder.png"
             },
             "sections": [{
               "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/funding/en_US.md"
@@ -401,15 +401,15 @@
           }],
           "subContent": [{
             "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
-            "thumbnail": "offshore-wind.jpg",
+            "thumbnail": "place-holder.png",
             "link": "/industries/energy/offshore-wind"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
-            "thumbnail": "electrical-networks.jpg",
+            "thumbnail": "place-holder.png",
             "link": "/industries/energy/electrical-networks"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/en_US.md",
-            "thumbnail": "energy-from-waste",
+            "thumbnail": "energy-from-waste.jpg",
             "link": "/industries/energy/energy-from-waste"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
@@ -431,7 +431,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/en_US.md",
-              "heroImage": "offshore-wind.jpg"
+              "heroImage": "energy-offshore.jpg"
             },
             "sections": [{
               "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/market-conditions/en_US.md"
@@ -653,7 +653,7 @@
           }],
           "subContent": [{
             "file": "industries/financial/sub sectors/asset-management/en_US.md",
-            "thumbnail": "asset-management.jpg",
+            "thumbnail": "place-holder.png",
             "link": "/industries/financial/asset-management"
           }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
@@ -671,7 +671,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/financial/sub sectors/asset-management/en_US.md",
-              "heroImage": "asset-management.jpg"
+              "heroImage": "place-holder.png"
             },
             "sections": [{
               "file": "industries/financial/sub sectors/asset-management/sections/asset management in Great Britain/en_US.md"
@@ -727,7 +727,7 @@
           }],
           "subContent": [{
             "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
-            "thumbnail": "big-data.jpg",
+            "thumbnail": "fintech.jpg",
             "link": "/industries/technology/data-analytics"
           }],
           "formBlock": {
@@ -741,7 +741,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
-              "heroImage": "big-data.jpg"
+              "heroImage": "fintech.jpg"
             },
             "sections": [{
               "file": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/en_US.md"
