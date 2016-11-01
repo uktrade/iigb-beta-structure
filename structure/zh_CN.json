@@ -1,7 +1,14 @@
 {
   "labels": "zh_CN",
+  "sharedMeta" : {
+    "locale" : {
+      "language" : "zh",
+      "country" : "cn",
+      "countryName" : "中国"
+    }
+  },
   "pages": [{
-    "url": "/",
+    "url": "cn",
     "pageTitle": "主页",
     "layout": "home.html",
     "contentBlocks": {

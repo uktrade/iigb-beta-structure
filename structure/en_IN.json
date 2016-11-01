@@ -1,7 +1,14 @@
 {
   "labels": "en_US",
+  "sharedMeta" : {
+    "locale" : {
+      "language" : "en",
+      "country" : "in",
+      "countryName" : "India"
+    }
+  },
   "pages": [{
-    "url": "/",
+    "url": "in",
     "pageTitle": "Home",
     "layout": "home.html",
     "contentBlocks": {

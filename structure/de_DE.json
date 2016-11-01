@@ -1,7 +1,14 @@
 {
   "labels": "de_DE",
+  "sharedMeta" : {
+    "locale" : {
+      "language" : "de",
+      "country" : "de",
+      "countryName" : "Deutschland"
+    }
+  },
   "pages": [{
-    "url": "/",
+    "url": "de",
     "pageTitle": "Home",
     "layout": "home.html",
     "contentBlocks": {
