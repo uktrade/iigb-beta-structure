@@ -270,7 +270,7 @@
           "link": "/industries/automotive/motorsport"
         }, {
           "file": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
-          "thumbnail": "place-holder.png",
+          "thumbnail": "research-and-development.jpg",
           "link": "/industries/automotive/research-and-development"
         }, {
           "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
@@ -315,7 +315,7 @@
             "link": "/industries/automotive/motorsport"
           }, {
             "file": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
-            "thumbnail": "place-holder.png",
+            "thumbnail": "research-and-development.jpg",
             "link": "/industries/automotive/research-and-development"
           }, {
             "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
@@ -353,7 +353,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/automotive/sub-sectors/research-and-development/intro/en_US.md",
-              "heroImage": "place-holder.png"
+              "heroImage": "research-and-development.jpg"
             },
             "sections": [{
               "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/funding/en_US.md"
@@ -409,7 +409,7 @@
             "link": "/industries/energy/energy-from-waste"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
-            "thumbnail": "energy-nuclear-lowres-2.jpg",
+            "thumbnail": "nuclear-lowres-2.jpg",
             "link": "/industries/energy/nuclear"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
@@ -417,7 +417,7 @@
             "link": "/industries/energy/offshore-wind"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/en_US.md",
-            "thumbnail": "energy-oil-and-gas.jpg",
+            "thumbnail": "oil-and-gas.jpg",
             "link": "/industries/energy/oil-and-gas"
           }],
           "formBlock": {
@@ -431,7 +431,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/en_US.md",
-              "heroImage": "energy-offshore.jpg"
+              "heroImage": "offshore.jpg"
             },
             "sections": [{
               "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/market-conditions/en_US.md"
@@ -471,7 +471,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/en_US.md",
-              "heroImage": "research-development.jpg"
+              "heroImage": "energy-from-waste.jpg"
             },
             "sections": [{
               "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/market-conditions/en_US.md"
@@ -491,7 +491,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/en_US.md",
-              "heroImage": "research-development.jpg"
+              "heroImage": "oil-and-gas.jpg"
             },
             "sections": [{
               "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/overview/en_US.md"
@@ -513,7 +513,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/energy-generation/sub-sectors/nuclear/intro/en_US.md",
-              "heroImage": "research-development.jpg"
+              "heroImage": "nuclear-lowres-2.jpg"
             },
             "sections": [{
               "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/en_US.md"
