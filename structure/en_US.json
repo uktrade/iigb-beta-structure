@@ -289,7 +289,7 @@
           "link": "/industries/creative/digital-media"
         }, {
           "file": "industries/financial/sub sectors/asset-management/en_US.md",
-          "thumbnail": "place-holder.png",
+          "thumbnail": "asset-management.jpg",
           "link": "/industries/financial/asset-management"
         }, {
           "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
@@ -660,7 +660,7 @@
           }],
           "subContent": [{
             "file": "industries/financial/sub sectors/asset-management/en_US.md",
-            "thumbnail": "place-holder.png",
+            "thumbnail": "asset-management.jpg",
             "link": "/industries/financial/asset-management"
           }, {
             "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
@@ -682,7 +682,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/financial/sub sectors/asset-management/en_US.md",
-              "heroImage": "place-holder.png"
+              "heroImage": "asset-management.jpg"
             },
             "sections": [{
               "file": "industries/financial/sub sectors/asset-management/sections/asset management in Great Britain/en_US.md"
@@ -816,21 +816,6 @@
       "pageTitle": "Privacy and cookies",
       "layout": "404.html",
       "contentBlocks": {}
-    }, {
-      "url": "language",
-      "pageTitle": "Select your language",
-      "layout": "language.html",
-      "contentBlocks": {
-        "pageHeader": {
-          "file": "home/en_US.md",
-          "externalVideo": "https://www.youtube.com/embed/yoHrRcKIBKw",
-          "heroVideo": "northern-powerhouse.mp4",
-          "heroVideoImage": "northern-powerhouse.jpg"
-        },
-        "firstSection": {
-          "file": "beta/home/about-us/en_US.html"
-        }
-      }
     }]
   }]
 }
