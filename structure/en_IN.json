@@ -30,21 +30,21 @@
         "thumbnail": "creative.jpg",
         "link": "/industries/creative"
       }, {
-        "file": "beta/industries/financial-services/en_US.md",
-        "thumbnail": "finance.jpg",
-        "link": "/industries/financial"
-      }, {
-        "file": "beta/industries/technology/en_US.md",
-        "thumbnail": "technology.jpg",
-        "link": "/industries/technology"
-      }, {
         "file": "beta/industries/energy-generation/en_US.md",
         "thumbnail": "energy.jpg",
         "link": "/industries/energy"
       }, {
+        "file": "beta/industries/financial-services/en_US.md",
+        "thumbnail": "finance.jpg",
+        "link": "/industries/financial"
+      }, {
         "file": "beta/industries/life-sciences/en_US.md",
         "thumbnail": "life-sciences.jpg",
         "link": "/industries/life-sciences"
+      }, {
+        "file": "beta/industries/technology/en_US.md",
+        "thumbnail": "technology.jpg",
+        "link": "/industries/technology"
       }],
       "listHeader": {
         "file": "beta/setup-guide/en_US.md"
@@ -255,50 +255,38 @@
           "thumbnail": "creative.jpg",
           "link": "/industries/creative"
         }, {
-          "file": "beta/industries/financial-services/en_US.md",
-          "thumbnail": "finance.jpg",
-          "link": "/industries/financial"
-        }, {
-          "file": "beta/industries/technology/en_US.md",
-          "thumbnail": "technology.jpg",
-          "link": "/industries/technology"
-        }, {
           "file": "beta/industries/energy-generation/en_US.md",
           "thumbnail": "energy.jpg",
           "link": "/industries/energy"
         }, {
+          "file": "beta/industries/financial-services/en_US.md",
+          "thumbnail": "finance.jpg",
+          "link": "/industries/financial"
+        }, {
           "file": "beta/industries/life-sciences/en_US.md",
           "thumbnail": "life-sciences.jpg",
           "link": "/industries/life-sciences"
+        }, {
+          "file": "beta/industries/technology/en_US.md",
+          "thumbnail": "technology.jpg",
+          "link": "/industries/technology"
         }],
         "subTileItems": [{
-          "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
-          "thumbnail": "motorsport.jpg",
-          "link": "/industries/automotive/motorsport"
-        }, {
           "file": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
           "thumbnail": "research-and-development.jpg",
           "link": "/industries/automotive/research-and-development"
-        }, {
-          "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
-          "thumbnail": "supply-chain.jpg",
-          "link": "/industries/automotive/supply-chain"
-        }, {
-          "file": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
-          "thumbnail": "digital-media.jpg",
-          "link": "/industries/creative/digital-media"
         }, {
           "file": "industries/financial/sub sectors/asset-management/en_US.md",
           "thumbnail": "asset-management.jpg",
           "link": "/industries/financial/asset-management"
         }, {
-          "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
-          "thumbnail": "fintech.jpg",
-          "link": "/industries/financial/financial-technology"
-        }, {
           "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
           "thumbnail": "fintech.jpg",
           "link": "/industries/technology/data-analytics"
+        }, {
+          "file": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
+          "thumbnail": "digital-media.jpg",
+          "link": "/industries/creative/digital-media"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
           "thumbnail": "place-holder.png",
@@ -307,6 +295,18 @@
           "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/en_US.md",
           "thumbnail": "energy-from-waste.jpg",
           "link": "/industries/energy/energy-from-waste"
+        }, {
+          "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
+          "thumbnail": "fintech.jpg",
+          "link": "/industries/financial/financial-technology"
+        }, {
+          "file": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
+          "thumbnail": "medical-technology.jpg",
+          "link": "/industries/life-sciences/medical-technology"
+        }, {
+          "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
+          "thumbnail": "motorsport.jpg",
+          "link": "/industries/automotive/motorsport"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
           "thumbnail": "nuclear-lowres-2.jpg",
@@ -320,13 +320,13 @@
           "thumbnail": "oil-and-gas.jpg",
           "link": "/industries/energy/oil-and-gas"
         }, {
-          "file": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
-          "thumbnail": "medical-technology.jpg",
-          "link": "/industries/life-sciences/medical-technology"
-        }, {
           "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/en_US.md",
           "thumbnail": "medicine-manufacturing.jpg",
           "link": "/industries/life-sciences/medicines-manufacturing"
+        }, {
+          "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
+          "thumbnail": "supply-chain.jpg",
+          "link": "/industries/automotive/supply-chain"
         }],
         "formBlock": {
           "file": "beta/form/en_US.md"
@@ -345,14 +345,14 @@
             "file": "beta/industries/automotive/overview/en_US.md"
           }],
           "subContent": [{
-            "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
-            "thumbnail": "motorsport.jpg",
-            "link": "/industries/automotive/motorsport"
-          }, {
             "file": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
             "thumbnail": "research-and-development.jpg",
             "link": "/industries/automotive/research-and-development"
-          }, {
+          },{
+            "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
+            "thumbnail": "motorsport.jpg",
+            "link": "/industries/automotive/motorsport"
+          },  {
             "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
             "thumbnail": "supply-chain.jpg",
             "link": "/industries/automotive/supply-chain"
