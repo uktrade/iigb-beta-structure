@@ -1,10 +1,10 @@
 {
   "labels": "en_US",
-  "sharedMeta" : {
-    "locale" : {
-      "language" : "en",
-      "country" : "in",
-      "countryName" : "India"
+  "sharedMeta": {
+    "locale": {
+      "language": "en",
+      "country": "in",
+      "countryName": "India"
     }
   },
   "pages": [{
@@ -299,6 +299,34 @@
           "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
           "thumbnail": "fintech.jpg",
           "link": "/industries/technology/data-analytics"
+        }, {
+          "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
+          "thumbnail": "place-holder.png",
+          "link": "/industries/energy/electrical-networks"
+        }, {
+          "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/en_US.md",
+          "thumbnail": "energy-from-waste.jpg",
+          "link": "/industries/energy/energy-from-waste"
+        }, {
+          "file": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
+          "thumbnail": "nuclear-lowres-2.jpg",
+          "link": "/industries/energy/nuclear"
+        }, {
+          "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
+          "thumbnail": "place-holder.png",
+          "link": "/industries/energy/offshore-wind"
+        }, {
+          "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/en_US.md",
+          "thumbnail": "oil-and-gas.jpg",
+          "link": "/industries/energy/oil-and-gas"
+        }, {
+          "file": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
+          "thumbnail": "medical-technology.jpg",
+          "link": "/industries/life-sciences/medical-technology"
+        }, {
+          "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/en_US.md",
+          "thumbnail": "medicine-manufacturing.jpg",
+          "link": "/industries/life-sciences/medicines-manufacturing"
         }],
         "formBlock": {
           "file": "beta/form/en_US.md"
