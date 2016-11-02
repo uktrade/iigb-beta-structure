@@ -19,7 +19,7 @@
         "heroVideoImage": "northern-powerhouse.jpg"
       },
       "firstSection": {
-        "file": "beta/home/about-us/en_US.html"
+        "file": "beta/form/en_US.md"
       },
       "tileItems": [{
         "file": "beta/industries/automotive/en_US.md",
