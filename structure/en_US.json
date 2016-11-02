@@ -73,7 +73,7 @@
       }]
     },
     "children": [{
-      "url": "/setup-guide",
+      "url": "setup-guide",
       "pageTitle": "The UK setup guide",
       "layout": "bullet-list-page.html",
       "contentBlocks": {
