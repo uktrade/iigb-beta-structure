@@ -3,12 +3,12 @@
   "sharedMeta": {
     "locale": {
       "language": "en",
-      "country": "en",
+      "country": "int",
       "countryName": "International"
     }
   },
   "pages": [{
-    "url": "en",
+    "url": "int",
     "pageTitle": "Home",
     "layout": "home.html",
     "contentBlocks": {
