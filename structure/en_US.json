@@ -40,7 +40,7 @@
       }, {
         "file": "beta/industries/life-sciences/en_US.md",
         "thumbnail": "life-sciences.jpg",
-        "link": "/industries/life-sciences"
+        "link": "/industries/health-and-life"
       }, {
         "file": "beta/industries/technology/en_US.md",
         "thumbnail": "technology.jpg",
@@ -267,7 +267,7 @@
         }, {
           "file": "beta/industries/life-sciences/en_US.md",
           "thumbnail": "life-sciences.jpg",
-          "link": "/industries/life-sciences"
+          "link": "/industries/health-and-life"
         }, {
           "file": "beta/industries/technology/en_US.md",
           "thumbnail": "technology.jpg",
@@ -304,7 +304,7 @@
         }, {
           "file": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
           "thumbnail": "medical-technology.jpg",
-          "link": "/industries/life-sciences/medical-technology"
+          "link": "/industries/health-and-life/medical-technology"
         }, {
           "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
           "thumbnail": "motorsport.jpg",
@@ -324,7 +324,7 @@
         }, {
           "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/en_US.md",
           "thumbnail": "medicine-manufacturing.jpg",
-          "link": "/industries/life-sciences/medicines-manufacturing"
+          "link": "/industries/health-and-life/medicines-manufacturing"
         }, {
           "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
           "thumbnail": "supply-chain.jpg",
@@ -567,8 +567,8 @@
           }
         }]
       }, {
-        "url": "life-sciences",
-        "pageTitle": "Life sciences",
+        "url": "health-and-life",
+        "pageTitle": "Health and life sciences",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
@@ -581,11 +581,11 @@
           "subContent": [{
             "file": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
             "thumbnail": "medical-technology.jpg",
-            "link": "/industries/life-sciences/medical-technology"
+            "link": "/industries/health-and-life/medical-technology"
           }, {
             "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/en_US.md",
             "thumbnail": "medicine-manufacturing.jpg",
-            "link": "/industries/life-sciences/medicines-manufacturing"
+            "link": "/industries/health-and-life/medicines-manufacturing"
           }],
           "formBlock": {
             "file": "beta/form/en_US.md"
@@ -777,7 +777,7 @@
           }, {
             "file": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
             "thumbnail": "medical-technology.jpg",
-            "link": "/industries/life-sciences/medical-technology"
+            "link": "/industries/health-and-life/medical-technology"
           }],
           "formBlock": {
             "file": "beta/form/en_US.md"
