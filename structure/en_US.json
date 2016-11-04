@@ -36,7 +36,7 @@
       }, {
         "file": "beta/industries/financial-services/en_US.md",
         "thumbnail": "finance.jpg",
-        "link": "/industries/financial"
+        "link": "/industries/financial-services"
       }, {
         "file": "beta/industries/life-sciences/en_US.md",
         "thumbnail": "life-sciences.jpg",
@@ -263,7 +263,7 @@
         }, {
           "file": "beta/industries/financial-services/en_US.md",
           "thumbnail": "finance.jpg",
-          "link": "/industries/financial"
+          "link": "/industries/financial-services"
         }, {
           "file": "beta/industries/life-sciences/en_US.md",
           "thumbnail": "life-sciences.jpg",
@@ -280,7 +280,7 @@
         }, {
           "file": "industries/financial/sub sectors/asset-management/en_US.md",
           "thumbnail": "asset-management.jpg",
-          "link": "/industries/financial/asset-management"
+          "link": "/industries/financial-services/asset-management"
         }, {
           "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
           "thumbnail": "fintech.jpg",
@@ -300,7 +300,7 @@
         }, {
           "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
           "thumbnail": "fintech.jpg",
-          "link": "/industries/financial/financial-technology"
+          "link": "/industries/financial-services/financial-technology"
         }, {
           "file": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
           "thumbnail": "medical-technology.jpg",
@@ -677,7 +677,7 @@
           }
         }]
       }, {
-        "url": "financial",
+        "url": "financial-services",
         "pageTitle": "Financial services in the UK",
         "layout": "industry.html",
         "contentBlocks": {
@@ -691,7 +691,7 @@
           "subContent": [{
             "file": "industries/financial/sub sectors/asset-management/en_US.md",
             "thumbnail": "asset-management.jpg",
-            "link": "/industries/financial/asset-management"
+            "link": "/industries/financial-services/asset-management"
           }, {
             "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
             "thumbnail": "fintech.jpg",
@@ -699,7 +699,7 @@
           }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
             "thumbnail": "fintech.jpg",
-            "link": "/industries/financial/financial-technology"
+            "link": "/industries/financial-services/financial-technology"
           }],
           "formBlock": {
             "file": "beta/form/en_US.md"
@@ -773,7 +773,7 @@
           }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
             "thumbnail": "fintech.jpg",
-            "link": "/industries/financial/financial-technology"
+            "link": "/industries/financial-services/financial-technology"
           }, {
             "file": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
             "thumbnail": "medical-technology.jpg",

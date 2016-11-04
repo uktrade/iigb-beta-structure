@@ -30,7 +30,7 @@
       }, {
         "file": "industries/financial/zh_CN.md",
         "thumbnail": "finance.jpg",
-        "link": "/industries/financial"
+        "link": "/industries/financial-services"
       }, {
         "file": "industries/technology/zh_CN.md",
         "thumbnail": "technology.jpg",
@@ -251,7 +251,7 @@
         }, {
           "file": "industries/financial/zh_CN.md",
           "thumbnail": "finance-sector-thumb.jpg",
-          "link": "/industries/financial"
+          "link": "/industries/financial-services"
         }, {
           "file": "industries/technology/zh_CN.md",
           "thumbnail": "tech-sector-thumb.jpg",
@@ -276,11 +276,11 @@
         }, {
           "file": "industries/financial/sub sectors/asset-management/zh_CN.md",
           "thumbnail": "asset-management.jpg",
-          "link": "/industries/financial/asset-management"
+          "link": "/industries/financial-services/asset-management"
         }, {
           "file": "industries/financial/sub sectors/financial-technology/zh_CN.md",
           "thumbnail": "fintech.jpg",
-          "link": "/industries/financial/financial-technology"
+          "link": "/industries/financial-services/financial-technology"
         }],
         "formBlock": {
           "file": "form/zh_CN.md"
@@ -459,7 +459,7 @@
           }
         }]
       }, {
-        "url": "financial",
+        "url": "financial-services",
         "pageTitle": "英国的金融服务",
         "layout": "industry.html",
         "contentBlocks": {
@@ -483,11 +483,11 @@
           "subContent": [{
             "file": "industries/financial/sub sectors/asset-management/zh_CN.md",
             "thumbnail": "asset-management-thumb.jpg",
-            "link": "/industries/financial/asset-management"
+            "link": "/industries/financial-services/asset-management"
           }, {
             "file": "industries/financial/sub sectors/financial-technology/zh_CN.md",
             "thumbnail": "fintech-thumb.jpg",
-            "link": "/industries/financial/financial-technology"
+            "link": "/industries/financial-services/financial-technology"
           }],
           "formBlock": {
             "file": "form/zh_CN.md"
