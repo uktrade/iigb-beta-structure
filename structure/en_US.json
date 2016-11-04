@@ -336,7 +336,7 @@
       },
       "children": [{
         "url": "automotive",
-        "pageTitle": "Automotive in Great Britain",
+        "pageTitle": "Automotive in the UK",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
@@ -634,7 +634,7 @@
         }]
       }, {
         "url": "creative",
-        "pageTitle": "Create in Great Britain",
+        "pageTitle": "Create in the UK",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
@@ -678,7 +678,7 @@
         }]
       }, {
         "url": "financial",
-        "pageTitle": "Financial services in Great Britain",
+        "pageTitle": "Financial services in the UK",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
@@ -735,7 +735,7 @@
           }
         }, {
           "url": "financial-technology",
-          "pageTitle": "Financial technology in Great Britain",
+          "pageTitle": "Financial technology in the UK",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -756,7 +756,7 @@
         }]
       }, {
         "url": "technology",
-        "pageTitle": "Technology in Great Britain",
+        "pageTitle": "Technology in the UK",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
