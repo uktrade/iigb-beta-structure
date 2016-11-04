@@ -227,6 +227,8 @@
             "file": "beta/setup-guide/understand-legal/intro/en_US.md"
           },
           "sections": [{
+            "file": "beta/setup-guide/understand-legal/sections/Overview/en_US.md"
+          }, {
             "file": "beta/setup-guide/understand-legal/sections/protection-when-selling/en_US.md"
           }, {
             "file": "beta/setup-guide/understand-legal/sections/intellectual-property/en_US.md"
@@ -348,11 +350,11 @@
             "file": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
             "thumbnail": "research-and-development.jpg",
             "link": "/industries/automotive/research-and-development"
-          },{
+          }, {
             "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
             "thumbnail": "motorsport.jpg",
             "link": "/industries/automotive/motorsport"
-          },  {
+          }, {
             "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
             "thumbnail": "supply-chain.jpg",
             "link": "/industries/automotive/supply-chain"
