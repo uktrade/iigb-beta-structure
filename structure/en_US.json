@@ -393,6 +393,8 @@
               "heroImage": "research-and-development.jpg"
             },
             "sections": [{
+              "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/Overview/en_US.md"
+            }, {
               "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/funding/en_US.md"
             }, {
               "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/talent-and-skills/en_US.md"
