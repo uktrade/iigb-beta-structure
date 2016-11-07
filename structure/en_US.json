@@ -696,7 +696,7 @@
             "link": "/industries/financial-services/asset-management"
           }, {
             "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
-            "thumbnail": "fintech.jpg",
+            "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
@@ -770,7 +770,7 @@
           }],
           "subContent": [{
             "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
-            "thumbnail": "fintech.jpg",
+            "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
@@ -792,7 +792,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
-              "heroImage": "fintech.jpg"
+              "heroImage": "data-analytics.jpg"
             },
             "sections": [{
               "file": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/en_US.md"
