@@ -130,9 +130,9 @@
             "file": "beta/setup-guide/apply-for-visa/intro/en_US.md"
           },
           "sections": [{
-            "file": "beta/setup-guide/apply-for-visa/Overview/en_US.md"
+            "file": "beta/setup-guide/apply-for-visa/overview/en_US.md"
           }, {
-            "file": "beta/setup-guide/apply-for-visa/Understand-the-range-of-visas/en_US.md"
+            "file": "beta/setup-guide/apply-for-visa/understand-the-range-of-visas/en_US.md"
           }],
           "formBlock": {
             "file": "beta/form/en_US.md"
