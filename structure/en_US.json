@@ -291,7 +291,7 @@
           "link": "/industries/creative/digital-media"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
-          "thumbnail": "place-holder.png",
+          "thumbnail": "electrical-networks.jpg",
           "link": "/industries/energy/electrical-networks"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/en_US.md",
@@ -440,7 +440,7 @@
           }],
           "subContent": [{
             "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
-            "thumbnail": "place-holder.png",
+            "thumbnail": "electrical-networks.jpg",
             "link": "/industries/energy/electrical-networks"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/en_US.md",
@@ -490,7 +490,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/en_US.md",
-              "heroImage": "motorsport.jpg"
+              "heroImage": "electrical-networks.jpg"
             },
             "sections": [{
               "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/market-conditions/en_US.md"
