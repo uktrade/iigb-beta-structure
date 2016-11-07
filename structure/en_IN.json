@@ -127,14 +127,12 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "beta/setup-guide/apply-for-visa/en_US.md"
+            "file": "beta/setup-guide/apply-for-visa/intro/en_US.md"
           },
           "sections": [{
-            "file": "setup-guide/apply-for-a-visa/sections/apply for a visa/en_US.md"
+            "file": "beta/setup-guide/apply-for-visa/Overview/en_US.md"
           }, {
-            "file": "setup-guide/apply-for-a-visa/sections/the visa system explained/en_US.md"
-          }, {
-            "file": "setup-guide/apply-for-a-visa/sections/which visas apply to you/en_US.md"
+            "file": "beta/setup-guide/apply-for-visa/Understand-the-range-of-visas/en_US.md"
           }],
           "formBlock": {
             "file": "beta/form/en_US.md"
