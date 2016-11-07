@@ -311,11 +311,11 @@
           "link": "/industries/automotive/motorsport"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
-          "thumbnail": "nuclear-lowres-2.jpg",
+          "thumbnail": "nuclear.jpg",
           "link": "/industries/energy/nuclear"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
-          "thumbnail": "place-holder.png",
+          "thumbnail": "offshore.jpg",
           "link": "/industries/energy/offshore-wind"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/en_US.md",
