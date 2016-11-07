@@ -383,7 +383,7 @@
           }
         }, {
           "url": "research-and-development",
-          "pageTitle": "R&D",
+          "pageTitle": "Automotive research and development",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -405,7 +405,7 @@
           }
         }, {
           "url": "supply-chain",
-          "pageTitle": "Supply chain",
+          "pageTitle": "Automotive supply chain",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
