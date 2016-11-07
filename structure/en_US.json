@@ -552,7 +552,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/energy-generation/sub-sectors/nuclear/intro/en_US.md",
-              "heroImage": "nuclear-lowres-2.jpg"
+              "heroImage": "nuclear.jpg"
             },
             "sections": [{
               "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/en_US.md"
