@@ -108,7 +108,7 @@
       },
       "children": [{
         "url": "establish-address",
-        "pageTitle": "Establish a UK business address",
+        "pageTitle": "Establish a base for business in the UK",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -140,7 +140,7 @@
         }
       }, {
         "url": "open-a-business-account",
-        "pageTitle": "How to open a UK business bank account",
+        "pageTitle": "Open a UK business bank account",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -157,7 +157,7 @@
         }
       }, {
         "url": "how-to-setup",
-        "pageTitle": "How to set up a company in the UK",
+        "pageTitle": "Set up a company in the UK",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -193,7 +193,7 @@
         }
       }, {
         "url": "access-talent",
-        "pageTitle": "Find out how to access talent and skills in the UK",
+        "pageTitle": "Hire skilled workers for your UK operations",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -218,7 +218,7 @@
         }
       }, {
         "url": "understand-legal",
-        "pageTitle": "Understand the UK's legal framework",
+        "pageTitle": "The UK's legal framework",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
