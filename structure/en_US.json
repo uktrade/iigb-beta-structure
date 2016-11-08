@@ -272,13 +272,17 @@
           "link": "/industries/technology"
         }],
         "subTileItems": [{
+          "file": "industries/financial/sub sectors/asset-management/en_US.md",
+          "thumbnail": "asset-management.jpg",
+          "link": "/industries/financial-services/asset-management"
+        }, {
           "file": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
           "thumbnail": "research-and-development.jpg",
           "link": "/industries/automotive/research-and-development"
         }, {
-          "file": "industries/financial/sub sectors/asset-management/en_US.md",
-          "thumbnail": "asset-management.jpg",
-          "link": "/industries/financial-services/asset-management"
+          "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
+          "thumbnail": "supply-chain.jpg",
+          "link": "/industries/automotive/supply-chain"
         }, {
           "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
           "thumbnail": "data-analytics.jpg",
@@ -323,10 +327,6 @@
           "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/en_US.md",
           "thumbnail": "medicine-manufacturing.jpg",
           "link": "/industries/health-and-life/medicines-manufacturing"
-        }, {
-          "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
-          "thumbnail": "supply-chain.jpg",
-          "link": "/industries/automotive/supply-chain"
         }],
         "formBlock": {
           "file": "beta/form/en_US.md"

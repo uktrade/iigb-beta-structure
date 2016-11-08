@@ -1,5 +1,12 @@
 {
   "labels": "en_US",
+  "sharedMeta": {
+    "locale": {
+      "language": "en",
+      "country": "int",
+      "countryName": "International"
+    }
+  },
   "pages": [
     {
       "url": "",

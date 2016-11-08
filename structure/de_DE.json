@@ -21,19 +21,19 @@
       "firstSection": {},
       "tileItems": [{
         "file": "industries/automotive/de_DE.md",
-        "thumbnail": "automotive-sector-thumb.jpg",
+        "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
       }, {
         "file": "industries/creative/de_DE.md",
-        "thumbnail": "creative-sector-thumb.jpg",
+        "thumbnail": "creative.jpg",
         "link": "/industries/creative"
       }, {
         "file": "industries/financial/de_DE.md",
-        "thumbnail": "finance-sector-thumb.jpg",
+        "thumbnail": "finance.jpg",
         "link": "/industries/financial-services"
       }, {
         "file": "industries/technology/de_DE.md",
-        "thumbnail": "tech-sector-thumb.jpg",
+        "thumbnail": "technology.jpg",
         "link": "/industries/technology"
       }],
       "listHeader": {
@@ -242,45 +242,45 @@
         },
         "tileItems": [{
           "file": "industries/automotive/de_DE.md",
-          "thumbnail": "automotive-sector-thumb.jpg",
+          "thumbnail": "automotive.jpg",
           "link": "/industries/automotive"
         }, {
           "file": "industries/creative/de_DE.md",
-          "thumbnail": "creative-sector-thumb.jpg",
+          "thumbnail": "creative.jpg",
           "link": "/industries/creative"
         }, {
           "file": "industries/financial/de_DE.md",
-          "thumbnail": "finance-sector-thumb.jpg",
+          "thumbnail": "finance.jpg",
           "link": "/industries/financial-services"
         }, {
           "file": "industries/technology/de_DE.md",
-          "thumbnail": "tech-sector-thumb.jpg",
+          "thumbnail": "technology.jpg",
           "link": "/industries/technology"
         }],
         "subTileItems": [{
-          "file": "industries/automotive/sub sectors/motor-sport/de_DE.md",
-          "thumbnail": "motorsport.jpg",
-          "link": "/industries/automotive/motor-sport"
+          "file": "industries/creative/sub sectors/digital-media/de_DE.md",
+          "thumbnail": "digital-media.jpg",
+          "link": "/industries/creative/digital-media"
+        }, {
+          "file": "industries/financial/sub sectors/financial-technology/de_DE.md",
+          "thumbnail": "fintech.jpg",
+          "link": "/industries/financial-services/financial-technology"
         }, {
           "file": "industries/automotive/sub sectors/research-and-development/de_DE.md",
-          "thumbnail": "research-development.jpg",
+          "thumbnail": "research-and-development.jpg",
           "link": "/industries/automotive/research-and-development"
         }, {
           "file": "industries/automotive/sub sectors/supply-chain/de_DE.md",
           "thumbnail": "supply-chain.jpg",
           "link": "/industries/automotive/supply-chain"
         }, {
-          "file": "industries/creative/sub sectors/digital-media/de_DE.md",
-          "thumbnail": "digital-media.jpg",
-          "link": "/industries/creative/digital-media"
+          "file": "industries/automotive/sub sectors/motor-sport/de_DE.md",
+          "thumbnail": "motorsport.jpg",
+          "link": "/industries/automotive/motor-sport"
         }, {
           "file": "industries/financial/sub sectors/asset-management/de_DE.md",
           "thumbnail": "asset-management.jpg",
           "link": "/industries/financial-services/asset-management"
-        }, {
-          "file": "industries/financial/sub sectors/financial-technology/de_DE.md",
-          "thumbnail": "fintech.jpg",
-          "link": "/industries/financial-services/financial-technology"
         }],
         "formBlock": {
           "file": "form/de_DE.md"
@@ -293,7 +293,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/automotive/de_DE.md",
-            "heroImage": "automotive-sector-hero.jpg"
+            "heroImage": "automotive.jpg"
           },
           "sections": [{
             "file": "industries/automotive/sections/overview/de_DE.md"
@@ -310,15 +310,15 @@
           }],
           "subContent": [{
             "file": "industries/automotive/sub sectors/motor-sport/de_DE.md",
-            "thumbnail": "motorsport-thumb.jpg",
+            "thumbnail": "motorsport.jpg",
             "link": "/industries/automotive/motor-sport"
           }, {
             "file": "industries/automotive/sub sectors/research-and-development/de_DE.md",
-            "thumbnail": "research-development-thumb.jpg",
+            "thumbnail": "research-and-development.jpg",
             "link": "/industries/automotive/research-and-development"
           }, {
             "file": "industries/automotive/sub sectors/supply-chain/de_DE.md",
-            "thumbnail": "supply-chain-thumb.jpg",
+            "thumbnail": "supply-chain.jpg",
             "link": "/industries/automotive/supply-chain"
           }],
           "formBlock": {
@@ -332,7 +332,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/automotive/sub sectors/motor-sport/de_DE.md",
-              "heroImage": "motorsport-hero.jpg"
+              "heroImage": "motorsport.jpg"
             },
             "sections": [{
               "file": "industries/automotive/sub sectors/motor-sport/sections/overview/de_DE.md"
@@ -358,7 +358,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/automotive/sub sectors/research-and-development/de_DE.md",
-              "heroImage": "research-development-hero.jpg"
+              "heroImage": "research-and-development.jpg"
             },
             "sections": [{
               "file": "industries/automotive/sub sectors/research-and-development/sections/developing the future of the automotive industry/de_DE.md"
@@ -382,7 +382,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/automotive/sub sectors/supply-chain/de_DE.md",
-              "heroImage": "supply-chain-hero.jpg"
+              "heroImage": "supply-chain.jpg"
             },
             "sections": [{
               "file": "industries/automotive/sub sectors/supply-chain/sections/growing supply chain opportunity/de_DE.md"
@@ -403,7 +403,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/creative/de_DE.md",
-            "heroImage": "creative-sector-hero.jpg"
+            "heroImage": "creative.jpg"
           },
           "sections": [{
               "file": "industries/creative/sections/The creative sector in Great Britain/de_DE.md"
@@ -422,7 +422,7 @@
           ],
           "subContent": [{
             "file": "industries/creative/sub sectors/digital-media/de_DE.md",
-            "thumbnail": "digital-media-thumb.jpg",
+            "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
           }],
           "formBlock": {
@@ -436,7 +436,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/creative/sub sectors/digital-media/de_DE.md",
-              "heroImage": "digital-media-hero.jpg"
+              "heroImage": "digital-media.jpg"
             },
             "sections": [{
               "file": "industries/creative/sub sectors/digital-media/sections/digital media sector in Great Britain/de_DE.md"
@@ -465,7 +465,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/financial/de_DE.md",
-            "heroImage": "finance-sector-hero.jpg"
+            "heroImage": "finance.jpg"
           },
           "sections": [{
             "file": "industries/financial/sections/financial sector in Great Britain/de_DE.md"
@@ -482,11 +482,11 @@
           }],
           "subContent": [{
             "file": "industries/financial/sub sectors/asset-management/de_DE.md",
-            "thumbnail": "asset-management-thumb.jpg",
+            "thumbnail": "asset-management.jpg",
             "link": "/industries/financial-services/asset-management"
           }, {
             "file": "industries/financial/sub sectors/financial-technology/de_DE.md",
-            "thumbnail": "fintech-thumb.jpg",
+            "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
           }],
           "formBlock": {
@@ -500,7 +500,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/financial/sub sectors/asset-management/de_DE.md",
-              "heroImage": "asset-management-hero.jpg"
+              "heroImage": "asset-management.jpg"
             },
             "sections": [{
               "file": "industries/financial/sub sectors/asset-management/sections/asset management in Great Britain/de_DE.md"
@@ -528,7 +528,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "industries/financial/sub sectors/financial-technology/de_DE.md",
-              "heroImage": "fintech-hero.jpg"
+              "heroImage": "fintech.jpg"
             },
             "sections": [{
               "file": "industries/financial/sub sectors/financial-technology/sections/financial technology in Great Britain/de_DE.md"
@@ -553,7 +553,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/technology/de_DE.md",
-            "heroImage": "tech-sector-hero.jpg"
+            "heroImage": "technology.jpg"
           },
           "sections": [{
             "file": "industries/technology/sections/overview/de_DE.md"
