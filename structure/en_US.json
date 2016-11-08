@@ -326,7 +326,7 @@
         }, {
           "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/en_US.md",
           "thumbnail": "medicine-manufacturing.jpg",
-          "link": "/industries/health-and-life/medicines-manufacturing"
+          "link": "/industries/health-and-life/pharmaceutical-manufacturing"
         }],
         "formBlock": {
           "file": "beta/form/en_US.md"
@@ -338,7 +338,7 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "beta/industries/automotive/en_US.md",
+            "file": "beta/industries/automotive/intro/en_US.md",
             "heroImage": "automotive.jpg"
           },
           "sections": [{
@@ -430,7 +430,7 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "beta/industries/energy-generation/en_US.md",
+            "file": "beta/industries/energy-generation/intro/en_US.md",
             "heroImage": "energy.jpg"
           },
           "sections": [{
@@ -572,7 +572,7 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "beta/industries/life-sciences/en_US.md",
+            "file": "beta/industries/life-sciences/intro/en_US.md",
             "heroImage": "life-sciences.jpg"
           },
           "sections": [{
@@ -585,7 +585,7 @@
           }, {
             "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/en_US.md",
             "thumbnail": "medicine-manufacturing.jpg",
-            "link": "/industries/health-and-life/medicines-manufacturing"
+            "link": "/industries/health-and-life/pharmaceutical-manufacturing"
           }],
           "formBlock": {
             "file": "beta/form/en_US.md"
@@ -612,8 +612,8 @@
             }
           }
         }, {
-          "url": "medicines-manufacturing",
-          "pageTitle": "Medicines manufacturing in the UK",
+          "url": "pharmaceutical-manufacturing",
+          "pageTitle": "Pharmaceutical manufacturing in the UK",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -634,11 +634,11 @@
         }]
       }, {
         "url": "creative",
-        "pageTitle": "Create in the UK",
+        "pageTitle": "Creative in the UK",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "beta/industries/creative/en_US.md",
+            "file": "beta/industries/creative/intro/en_US.md",
             "heroImage": "creative.jpg"
           },
           "sections": [{
@@ -764,7 +764,7 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "beta/industries/technology/en_US.md",
+            "file": "beta/industries/technology/intro/en_US.md",
             "heroImage": "technology.jpg"
           },
           "sections": [{
@@ -797,7 +797,7 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
+              "file": "beta/industries/technology/sub-sectors/data-analytics/intro/en_US.md",
               "heroImage": "data-analytics.jpg"
             },
             "sections": [{
