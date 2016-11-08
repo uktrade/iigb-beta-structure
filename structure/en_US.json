@@ -645,6 +645,10 @@
             "file": "beta/industries/creative/overview/en_US.md"
           }],
           "subContent": [{
+            "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
+          },{
             "file": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
@@ -771,6 +775,10 @@
             "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
+            "file": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
+            "thumbnail": "digital-media.jpg",
+            "link": "/industries/creative/digital-media"
+          },{
             "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"

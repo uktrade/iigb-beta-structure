@@ -157,7 +157,7 @@
         }
       }, {
         "url": "how-to-setup",
-        "pageTitle": "How to setup a company in the UK",
+        "pageTitle": "How to set up a company in the UK",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -281,7 +281,7 @@
           "link": "/industries/financial-services/asset-management"
         }, {
           "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
-          "thumbnail": "fintech.jpg",
+          "thumbnail": "data-analytics.jpg",
           "link": "/industries/technology/data-analytics"
         }, {
           "file": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
@@ -289,7 +289,7 @@
           "link": "/industries/creative/digital-media"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
-          "thumbnail": "place-holder.png",
+          "thumbnail": "electrical-networks.jpg",
           "link": "/industries/energy/electrical-networks"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/en_US.md",
@@ -309,11 +309,11 @@
           "link": "/industries/automotive/motorsport"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
-          "thumbnail": "nuclear-lowres-2.jpg",
+          "thumbnail": "nuclear.jpg",
           "link": "/industries/energy/nuclear"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
-          "thumbnail": "place-holder.png",
+          "thumbnail": "offshore.jpg",
           "link": "/industries/energy/offshore-wind"
         }, {
           "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/en_US.md",
@@ -383,7 +383,7 @@
           }
         }, {
           "url": "research-and-development",
-          "pageTitle": "R&D",
+          "pageTitle": "Automotive research and development",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -405,7 +405,7 @@
           }
         }, {
           "url": "supply-chain",
-          "pageTitle": "Supply chain",
+          "pageTitle": "Automotive supply chain",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -438,7 +438,7 @@
           }],
           "subContent": [{
             "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
-            "thumbnail": "place-holder.png",
+            "thumbnail": "electrical-networks.jpg",
             "link": "/industries/energy/electrical-networks"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/en_US.md",
@@ -446,11 +446,11 @@
             "link": "/industries/energy/energy-from-waste"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
-            "thumbnail": "nuclear-lowres-2.jpg",
+            "thumbnail": "nuclear.jpg",
             "link": "/industries/energy/nuclear"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
-            "thumbnail": "place-holder.png",
+            "thumbnail": "offshore.jpg",
             "link": "/industries/energy/offshore-wind"
           }, {
             "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/en_US.md",
@@ -488,7 +488,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/en_US.md",
-              "heroImage": "motorsport.jpg"
+              "heroImage": "electrical-networks.jpg"
             },
             "sections": [{
               "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/market-conditions/en_US.md"
@@ -550,7 +550,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/energy-generation/sub-sectors/nuclear/intro/en_US.md",
-              "heroImage": "nuclear-lowres-2.jpg"
+              "heroImage": "nuclear.jpg"
             },
             "sections": [{
               "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/en_US.md"
@@ -645,6 +645,10 @@
             "file": "beta/industries/creative/overview/en_US.md"
           }],
           "subContent": [{
+            "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
+          },{
             "file": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
@@ -694,7 +698,7 @@
             "link": "/industries/financial-services/asset-management"
           }, {
             "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
-            "thumbnail": "fintech.jpg",
+            "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
@@ -768,9 +772,13 @@
           }],
           "subContent": [{
             "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
-            "thumbnail": "fintech.jpg",
+            "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
+            "file": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
+            "thumbnail": "digital-media.jpg",
+            "link": "/industries/creative/digital-media"
+          },{
             "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
@@ -790,7 +798,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
-              "heroImage": "fintech.jpg"
+              "heroImage": "data-analytics.jpg"
             },
             "sections": [{
               "file": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/en_US.md"
