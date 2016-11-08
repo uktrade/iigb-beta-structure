@@ -816,7 +816,7 @@
     }, {
       "url": "terms-and-conditions",
       "pageTitle": "Terms and conditions",
-      "layout": "info.html",
+      "layout": "404.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "info/terms-and-conditions/en_US.md"

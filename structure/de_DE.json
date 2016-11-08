@@ -245,13 +245,13 @@
           "thumbnail": "automotive.jpg",
           "link": "/industries/automotive"
         }, {
-          "file": "industries/creative/de_DE.md",
-          "thumbnail": "creative.jpg",
-          "link": "/industries/creative"
-        }, {
           "file": "industries/financial/de_DE.md",
           "thumbnail": "finance.jpg",
           "link": "/industries/financial-services"
+        }, {
+          "file": "industries/creative/de_DE.md",
+          "thumbnail": "creative.jpg",
+          "link": "/industries/creative"
         }, {
           "file": "industries/technology/de_DE.md",
           "thumbnail": "technology.jpg",
