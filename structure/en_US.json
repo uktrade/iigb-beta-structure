@@ -363,7 +363,7 @@
         },
         "children": [{
           "url": "motorsport",
-          "pageTitle": "Motor Sport in the UK",
+          "pageTitle": "Motor sport in the UK",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
