@@ -83,8 +83,8 @@
           "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md",
           "link": "/setup-guide/work-out-your-profit-margins-against-UK-tax"
         }, {
-          "file": "setup-guide/establish-a-UK-address/zh_CN.md",
-          "link": "/setup-guide/establish-a-UK-address"
+          "file": "beta/setup-guide/establish-address/zh_CN.md",
+          "link": "/setup-guide/establish-address"
         }, {
           "file": "beta/setup-guide/access-talent/zh_CN.md",
           "link": "/setup-guide/access-talent"
@@ -97,22 +97,18 @@
         }
       },
       "children": [{
-        "url": "establish-a-UK-address",
-        "pageTitle": "确定在英国的地址",
+        "url": "establish-address",
+        "pageTitle": "在英国建立业务基地",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/establish-a-UK-address/zh_CN.md"
+            "file": "beta/setup-guide/establish-address/intro/zh_CN.md"
           },
           "sections": [{
-            "file": "setup-guide/establish-a-UK-address/sections/Finding Business premises/zh_CN.md"
-          }, {
-            "file": "setup-guide/establish-a-UK-address/sections/Regional Centres of Excellence/zh_CN.md"
-          }, {
-            "file": "setup-guide/establish-a-UK-address/sections/quality assurance/zh_CN.md"
+            "file": "beta/setup-guide/establish-address/sections/how-to-establish/zh_CN.md"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         }
       }, {
