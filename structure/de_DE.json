@@ -29,7 +29,7 @@
         "link": "/industries/creative"
       }, {
         "file": "industries/financial/de_DE.md",
-        "thumbnail": "finance.jpg",
+        "thumbnail": "financial-services.jpg",
         "link": "/industries/financial-services"
       }, {
         "file": "industries/technology/de_DE.md",
@@ -246,7 +246,7 @@
           "link": "/industries/automotive"
         }, {
           "file": "industries/financial/de_DE.md",
-          "thumbnail": "finance.jpg",
+          "thumbnail": "financial-services.jpg",
           "link": "/industries/financial-services"
         }, {
           "file": "industries/creative/de_DE.md",
@@ -465,7 +465,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "industries/financial/de_DE.md",
-            "heroImage": "finance.jpg"
+            "heroImage": "financial-services.jpg"
           },
           "sections": [{
             "file": "industries/financial/sections/financial sector in Great Britain/de_DE.md"
