@@ -64,7 +64,7 @@
     },
     "children": [{
       "url": "setup-guide",
-      "pageTitle": "英国投资指南",
+      "pageTitle": "英国创业指南",
       "layout": "bullet-list-page.html",
       "contentBlocks": {
         "pageHeader": {
@@ -93,7 +93,7 @@
           "link": "/setup-guide/understand-legal"
         }],
         "formBlock": {
-          "file": "form/zh_CN.md"
+          "file": "beta/form/zh_CN.md"
         }
       },
       "children": [{
@@ -113,11 +113,11 @@
         }
       }, {
         "url": "apply-for-a-visa",
-        "pageTitle": "签证申请流程",
+        "pageTitle": "申请英国签证",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/apply-for-a-visa/zh_CN.md"
+            "file": "beta/setup-guide/apply-for-visa/zh_CN.md"
           },
           "sections": [{
             "file": "setup-guide/apply-for-a-visa/sections/apply for a visa/zh_CN.md"
@@ -127,7 +127,7 @@
             "file": "setup-guide/apply-for-a-visa/sections/which visas apply to you/zh_CN.md"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         }
       }, {
@@ -144,7 +144,7 @@
             "file": "beta/setup-guide/open-a-business-account/sections/how-long-it-takes/zh_CN.md"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         }
       }, {
@@ -161,16 +161,16 @@
             "file": "beta/setup-guide/how-to-setup/sections/register-a-branch/zh_CN.md"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         }
       }, {
         "url": "work-out-your-profit-margins-against-UK-tax",
-        "pageTitle": "根据英国税收计算利润率",
+        "pageTitle": "了解英国的税收制度和激励措施",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md"
+            "file": "beta/setup-guide/understand-tax/zh_CN.md"
           },
           "sections": [{
             "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/key business taxes/zh_CN.md"
@@ -182,12 +182,12 @@
             "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/tax incentive for business/zh_CN.md"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         }
       }, {
         "url": "access-talent",
-        "pageTitle": "在英国聘请技术人才",
+        "pageTitle": "为您的英国公司雇佣技能娴熟的工人",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -207,12 +207,12 @@
             "file": "beta/setup-guide/access-talent/sections/overseas-talent/zh_CN.md"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         }
       }, {
         "url": "understand-legal",
-        "pageTitle": "英国法律框架",
+        "pageTitle": "英国的法律架构",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -228,7 +228,7 @@
             "file": "beta/setup-guide/understand-legal/sections/data-protection/zh_CN.md"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         }
       }]
@@ -287,7 +287,7 @@
           "link": "/industries/financial-services/financial-technology"
         }],
         "formBlock": {
-          "file": "form/zh_CN.md"
+          "file": "beta/form/zh_CN.md"
         }
       },
       "children": [{
@@ -326,7 +326,7 @@
             "link": "/industries/automotive/supply-chain"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         },
         "children": [{
@@ -352,7 +352,7 @@
               "file": "industries/automotive/sub sectors/motor-sport/sections/contacts and next steps/zh_CN.md"
             }],
             "formBlock": {
-              "file": "form/zh_CN.md"
+              "file": "beta/form/zh_CN.md"
             }
           }
         }, {
@@ -376,7 +376,7 @@
               "file": "industries/automotive/sub sectors/research-and-development/sections/connected and autonomous vehicles/zh_CN.md"
             }],
             "formBlock": {
-              "file": "form/zh_CN.md"
+              "file": "beta/form/zh_CN.md"
             }
           }
         }, {
@@ -396,7 +396,7 @@
               "file": "industries/automotive/sub sectors/supply-chain/sections/a local network/zh_CN.md"
             }],
             "formBlock": {
-              "file": "form/zh_CN.md"
+              "file": "beta/form/zh_CN.md"
             }
           }
         }]
@@ -434,7 +434,7 @@
             "link": "/industries/creative/digital-media"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         },
         "children": [{
@@ -456,7 +456,7 @@
               "file": "beta/industries/creative/sub-sectors/content-and-production/sections/support-and-incentives/zh_CN.md"
             }],
             "formBlock": {
-              "file": "form/zh_CN.md"
+              "file": "beta/form/zh_CN.md"
             }
           }
         }, {
@@ -480,43 +480,29 @@
               "file": "beta/industries/creative/sub-sectors/digital-media/sections/support-and-incentives/zh_CN.md"
             }],
             "formBlock": {
-              "file": "form/zh_CN.md"
+              "file": "beta/form/zh_CN.md"
             }
           }
         }]
       }, {
         "url": "financial-services",
-        "pageTitle": "英国的金融服务",
+        "pageTitle": "金融产业",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "industries/financial/zh_CN.md",
+            "file": "beta/industries/financial-services/intro/zh_CN.md",
             "heroImage": "financial-services.jpg"
           },
           "sections": [{
-            "file": "industries/financial/sections/financial sector in Great Britain/zh_CN.md"
-          }, {
-            "file": "industries/financial/sections/unrivalled opportunities/zh_CN.md"
-          }, {
-            "file": "industries/financial/sections/a large and skilled labour market/zh_CN.md"
-          }, {
-            "file": "industries/financial/sections/centres of excellence throughout the UK/zh_CN.md"
-          }, {
-            "file": "industries/financial/sections/Strong government support and fair regulation/zh_CN.md"
-          }, {
-            "file": "industries/financial/sections/Next steps and contacts/zh_CN.md"
+            "file": "beta/industries/financial-services/overview/zh_CN.md"
           }],
           "subContent": [{
-            "file": "industries/financial/sub sectors/asset-management/zh_CN.md",
-            "thumbnail": "asset-management.jpg",
-            "link": "/industries/financial-services/asset-management"
-          }, {
-            "file": "industries/financial/sub sectors/financial-technology/zh_CN.md",
+            "file": "beta/industries/financial-services/sub-sectors/fintech/zh_CN.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         },
         "children": [{
@@ -544,7 +530,7 @@
               "file": "industries/financial/sub sectors/asset-management/sections/next steps and contacts/zh_CN.md"
             }],
             "formBlock": {
-              "file": "form/zh_CN.md"
+              "file": "beta/form/zh_CN.md"
             }
           }
         }, {
@@ -553,22 +539,18 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "industries/financial/sub sectors/financial-technology/zh_CN.md",
+              "file": "beta/industries/financial-services/sub-sectors/fintech/intro/zh_CN.md",
               "heroImage": "fintech.jpg"
             },
             "sections": [{
-              "file": "industries/financial/sub sectors/financial-technology/sections/financial technology in Great Britain/zh_CN.md"
+              "file": "beta/industries/financial-services/sub-sectors/fintech/sections/market-conditions/zh_CN.md"
             }, {
-              "file": "industries/financial/sub sectors/financial-technology/sections/large talent pool/zh_CN.md"
+              "file": "beta/industries/financial-services/sub-sectors/fintech/sections/talent-and-skills/zh_CN.md"
             }, {
-              "file": "industries/financial/sub sectors/financial-technology/sections/a receptive consumer market/zh_CN.md"
-            }, {
-              "file": "industries/financial/sub sectors/financial-technology/sections/strong regulatory and tax support/zh_CN.md"
-            }, {
-              "file": "industries/financial/sub sectors/financial-technology/sections/next steps and contacts/zh_CN.md"
+              "file": "beta/industries/financial-services/sub-sectors/fintech/sections/support-and-incentives/zh_CN.md"
             }],
             "formBlock": {
-              "file": "form/zh_CN.md"
+              "file": "beta/form/zh_CN.md"
             }
           }
         }]
@@ -601,7 +583,7 @@
             "file": "industries/technology/sections/we are ready to make your investment work/zh_CN.md"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         }
       }]
