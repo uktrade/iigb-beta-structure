@@ -270,6 +270,10 @@
           "thumbnail": "supply-chain.jpg",
           "link": "/industries/automotive/supply-chain"
         }, {
+          "file": "beta/industries/creative/sub-sectors/content-and-production/zh_CN.md",
+          "thumbnail": "place-holder.png",
+          "link": "/industries/creative/content-and-production"
+        }, {
           "file": "beta/industries/creative/sub-sectors/digital-media/zh_CN.md",
           "thumbnail": "digital-media.jpg",
           "link": "/industries/creative/digital-media"
@@ -421,7 +425,7 @@
 
           ],
           "subContent": [{
-            "file": "industries/creative/sub-sectors/digital-media/zh_CN.md",
+            "file": "beta/industries/creative/sub-sectors/digital-media/zh_CN.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
           }],
@@ -430,6 +434,28 @@
           }
         },
         "children": [{
+          "url": "content-and-production",
+          "pageTitle": "创意内容与制作",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/creative/sub-sectors/content-and-production/intro/zh_CN.md",
+              "heroImage": "place-holder.png"
+            },
+            "sections": [{
+              "file": "beta/industries/creative/sub-sectors/content-and-production/sections/overview/zh_CN.md"
+            }, {
+              "file": "beta/industries/creative/sub-sectors/content-and-production/sections/market-conditions/zh_CN.md"
+            }, {
+              "file": "beta/industries/creative/sub-sectors/content-and-production/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "file": "beta/industries/creative/sub-sectors/content-and-production/sections/support-and-incentives/zh_CN.md"
+            }],
+            "formBlock": {
+              "file": "form/zh_CN.md"
+            }
+          }
+        }, {
           "url": "digital-media",
           "pageTitle": "数字媒体",
           "layout": "sector.html",
@@ -447,7 +473,7 @@
             }, {
               "file": "beta/industries/creative/sub-sectors/digital-media/sections/talent-and-skills/zh_CN.md"
             }, {
-              "file": "beta/industries/creative/sub-sectors/digital-media/sections/areas-of-opportunity/zh_CN.md"
+              "file": "beta/industries/creative/sub-sectors/digital-media/sections/support-and-incentives/zh_CN.md"
             }],
             "formBlock": {
               "file": "form/zh_CN.md"
