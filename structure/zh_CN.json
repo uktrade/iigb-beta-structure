@@ -270,7 +270,7 @@
           "thumbnail": "supply-chain.jpg",
           "link": "/industries/automotive/supply-chain"
         }, {
-          "file": "industries/creative/sub sectors/digital-media/zh_CN.md",
+          "file": "beta/industries/creative/sub-sectors/digital-media/zh_CN.md",
           "thumbnail": "digital-media.jpg",
           "link": "/industries/creative/digital-media"
         }, {
@@ -421,7 +421,7 @@
 
           ],
           "subContent": [{
-            "file": "industries/creative/sub sectors/digital-media/zh_CN.md",
+            "file": "industries/creative/sub-sectors/digital-media/zh_CN.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
           }],
@@ -435,23 +435,19 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "industries/creative/sub sectors/digital-media/zh_CN.md",
+              "file": "beta/industries/creative/sub-sectors/digital-media/intro/zh_CN.md",
               "heroImage": "digital-media.jpg"
             },
             "sections": [{
-              "file": "industries/creative/sub sectors/digital-media/sections/digital media sector in Great Britain/zh_CN.md"
+              "file": "beta/industries/creative/sub-sectors/digital-media/sections/overview/zh_CN.md"
             }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/an environment for growth/zh_CN.md"
+              "file": "beta/industries/creative/sub-sectors/digital-media/sections/market-conditions/zh_CN.md"
             }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/strong areas of opportunity/zh_CN.md"
+              "file": "beta/industries/creative/sub-sectors/digital-media/sections/areas-of-opportunity/zh_CN.md"
             }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/a skilled and creative talent pool/zh_CN.md"
+              "file": "beta/industries/creative/sub-sectors/digital-media/sections/talent-and-skills/zh_CN.md"
             }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/london’s global status and regional growth/zh_CN.md"
-            }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/support for investment/zh_CN.md"
-            }, {
-              "file": "industries/creative/sub sectors/digital-media/sections/next steps and contacts/zh_CN.md"
+              "file": "beta/industries/creative/sub-sectors/digital-media/sections/areas-of-opportunity/zh_CN.md"
             }],
             "formBlock": {
               "file": "form/zh_CN.md"
