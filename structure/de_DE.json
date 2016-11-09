@@ -467,9 +467,11 @@
               "heroImage": "offshore.jpg"
             },
             "sections": [{
-              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/market-conditions/de_DE.md"
+              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/prime-location/de_DE.md"
             }, {
-              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/support-and-incentives/de_DE.md"
+              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/expanding-pool/de_DE.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/government-support/de_DE.md"
             }],
             "formBlock": {
               "file": "beta/form/de_DE.md"

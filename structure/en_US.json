@@ -475,11 +475,11 @@
               "heroImage": "offshore.jpg"
             },
             "sections": [{
-              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/market-conditions/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/prime-location/en_US.md"
             }, {
-              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/talent-and-skills/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/expanding-pool/en_US.md"
             }, {
-              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/support-and-incentives/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/government-support/en_US.md"
             }],
             "formBlock": {
               "file": "beta/form/en_US.md"
@@ -813,7 +813,7 @@
             "file": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
-          },{
+          }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
