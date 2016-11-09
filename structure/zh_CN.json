@@ -13,7 +13,7 @@
     "layout": "home.html",
     "contentBlocks": {
       "pageHeader": {
-        "file": "home/zh_CN.md",
+        "file": "beta/home/zh_CN.md",
         "externalVideo": "https://www.youtube.com/embed/yoHrRcKIBKw",
         "heroVideo": "why-uk_short_no-titles_no-sound.mp4",
         "heroVideoImage": "northern-powerhouse.jpg"
@@ -49,8 +49,8 @@
         "file": "beta/setup-guide/open-a-business-account/zh_CN.md",
         "link": "/setup-guide/open-a-business-account"
       }, {
-        "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md",
-        "link": "/setup-guide/work-out-your-profit-margins-against-UK-tax"
+        "file": "beta/setup-guide/understand-tax/zh_CN.md",
+        "link": "/setup-guide/understand-tax"
       }, {
         "file": "setup-guide/establish-a-UK-address/zh_CN.md",
         "link": "/setup-guide/establish-a-UK-address"
@@ -80,8 +80,8 @@
           "file": "beta/setup-guide/open-a-business-account/zh_CN.md",
           "link": "/setup-guide/open-a-business-account"
         }, {
-          "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md",
-          "link": "/setup-guide/work-out-your-profit-margins-against-UK-tax"
+          "file": "beta/setup-guide/understand-tax/zh_CN.md",
+          "link": "/setup-guide/understand-tax"
         }, {
           "file": "beta/setup-guide/establish-address/zh_CN.md",
           "link": "/setup-guide/establish-address"
@@ -238,7 +238,7 @@
       "layout": "landing-page.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "industries/zh_CN.md"
+          "file": "beta/industries/zh_CN.md"
         },
         "tileItems": [{
           "file": "industries/automotive/zh_CN.md",
@@ -497,6 +497,10 @@
             "file": "beta/industries/financial-services/overview/zh_CN.md"
           }],
           "subContent": [{
+            "file": "beta/industries/financial-services/sub-sectors/asset-management/zh_CN.md",
+            "thumbnail": "asset-management.jpg",
+            "link": "/industries/financial-services/asset-management"
+          }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/zh_CN.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
@@ -515,19 +519,19 @@
               "heroImage": "asset-management.jpg"
             },
             "sections": [{
-              "file": "industries/financial/sub sectors/asset-management/sections/asset management in Great Britain/zh_CN.md"
+              "file": "beta/industries/financial/sub sectors/asset-management/sections/asset management in Great Britain/zh_CN.md"
             }, {
-              "file": "industries/financial/sub sectors/asset-management/sections/a growing, open market/zh_CN.md"
+              "file": "beta/industries/financial/sub sectors/asset-management/sections/a growing, open market/zh_CN.md"
             }, {
-              "file": "industries/financial/sub sectors/asset-management/sections/a wide range of fund types and clients/zh_CN.md"
+              "file": "beta/industries/financial/sub sectors/asset-management/sections/a wide range of fund types and clients/zh_CN.md"
             }, {
-              "file": "industries/financial/sub sectors/asset-management/sections/a large talent pool/zh_CN.md"
+              "file": "beta/industries/financial/sub sectors/asset-management/sections/a large talent pool/zh_CN.md"
             }, {
-              "file": "industries/financial/sub sectors/asset-management/sections/attractive business environment with regional strengths/zh_CN.md"
+              "file": "beta/industries/financial/sub sectors/asset-management/sections/attractive business environment with regional strengths/zh_CN.md"
             }, {
-              "file": "industries/financial/sub sectors/asset-management/sections/regulatory and government support/zh_CN.md"
+              "file": "beta/industries/financial/sub sectors/asset-management/sections/regulatory and government support/zh_CN.md"
             }, {
-              "file": "industries/financial/sub sectors/asset-management/sections/next steps and contacts/zh_CN.md"
+              "file": "beta/industries/financial/sub sectors/asset-management/sections/next steps and contacts/zh_CN.md"
             }],
             "formBlock": {
               "file": "beta/form/zh_CN.md"
