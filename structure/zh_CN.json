@@ -519,19 +519,19 @@
               "heroImage": "asset-management.jpg"
             },
             "sections": [{
-              "file": "beta/industries/financial/sub sectors/asset-management/sections/asset management in Great Britain/zh_CN.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/asset management in Great Britain/zh_CN.md"
             }, {
-              "file": "beta/industries/financial/sub sectors/asset-management/sections/a growing, open market/zh_CN.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a growing, open market/zh_CN.md"
             }, {
-              "file": "beta/industries/financial/sub sectors/asset-management/sections/a wide range of fund types and clients/zh_CN.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a wide range of fund types and clients/zh_CN.md"
             }, {
-              "file": "beta/industries/financial/sub sectors/asset-management/sections/a large talent pool/zh_CN.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a large talent pool/zh_CN.md"
             }, {
-              "file": "beta/industries/financial/sub sectors/asset-management/sections/attractive business environment with regional strengths/zh_CN.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/attractive business environment with regional strengths/zh_CN.md"
             }, {
-              "file": "beta/industries/financial/sub sectors/asset-management/sections/regulatory and government support/zh_CN.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/regulatory and government support/zh_CN.md"
             }, {
-              "file": "beta/industries/financial/sub sectors/asset-management/sections/next steps and contacts/zh_CN.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/next steps and contacts/zh_CN.md"
             }],
             "formBlock": {
               "file": "beta/form/zh_CN.md"
