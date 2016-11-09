@@ -40,28 +40,26 @@
         "file": "setup-guide/zh_CN.md"
       },
       "listItems": [{
-        "file": "setup-guide/establish-a-UK-address/zh_CN.md",
-        "link": "/setup-guide/establish-a-UK-address"
+        "file": "beta/setup-guide/how-to-setup/zh_CN.md",
+        "link": "/setup-guide/how-to-setup"
       }, {
         "file": "setup-guide/apply-for-a-visa/zh_CN.md",
         "link": "/setup-guide/apply-for-a-visa"
       }, {
-        "file": "setup-guide/open-a-UK-bank-account/zh_CN.md",
-        "link": "/setup-guide/open-a-UK-bank-account"
-      }, {
-        "file": "setup-guide/register-your-company/zh_CN.md",
-        "link": "/setup-guide/register-your-company"
+        "file": "beta/setup-guide/open-a-business-account/zh_CN.md",
+        "link": "/setup-guide/open-a-business-account"
       }, {
         "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md",
         "link": "/setup-guide/work-out-your-profit-margins-against-UK-tax"
       }, {
-        "file": "setup-guide/understand-UK-employment-law/zh_CN.md",
-        "link": "/setup-guide/understand-UK-employment-law"
+        "file": "setup-guide/establish-a-UK-address/zh_CN.md",
+        "link": "/setup-guide/establish-a-UK-address"
       }, {
-        "file": "setup-guide/familiarise-yourself-with-the-legal-framework/zh_CN.md",
-        "link": "/setup-guide/familiarise-yourself-with-the-legal-framework"
+        "file": "beta/setup-guide/access-talent/zh_CN.md",
+        "link": "/setup-guide/access-talent"
       }, {
-        "file": "setup-guide/speak-with-the-UKTI-investment-services-team/zh_CN.md"
+        "file": "beta/setup-guide/understand-legal/zh_CN.md",
+        "link": "/setup-guide/understand-legal"
       }]
     },
     "children": [{
@@ -73,28 +71,26 @@
           "file": "setup-guide/zh_CN.md"
         },
         "listItems": [{
-          "file": "setup-guide/establish-a-UK-address/zh_CN.md",
-          "link": "/setup-guide/establish-a-UK-address"
+          "file": "beta/setup-guide/how-to-setup/zh_CN.md",
+          "link": "/setup-guide/how-to-setup"
         }, {
           "file": "setup-guide/apply-for-a-visa/zh_CN.md",
           "link": "/setup-guide/apply-for-a-visa"
         }, {
-          "file": "setup-guide/open-a-UK-bank-account/zh_CN.md",
-          "link": "/setup-guide/open-a-UK-bank-account"
-        }, {
-          "file": "setup-guide/register-your-company/zh_CN.md",
-          "link": "/setup-guide/register-your-company"
+          "file": "beta/setup-guide/open-a-business-account/zh_CN.md",
+          "link": "/setup-guide/open-a-business-account"
         }, {
           "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/zh_CN.md",
           "link": "/setup-guide/work-out-your-profit-margins-against-UK-tax"
         }, {
-          "file": "setup-guide/understand-UK-employment-law/zh_CN.md",
-          "link": "/setup-guide/understand-UK-employment-law"
+          "file": "setup-guide/establish-a-UK-address/zh_CN.md",
+          "link": "/setup-guide/establish-a-UK-address"
         }, {
-          "file": "setup-guide/familiarise-yourself-with-the-legal-framework/zh_CN.md",
-          "link": "/setup-guide/familiarise-yourself-with-the-legal-framework"
+          "file": "beta/setup-guide/access-talent/zh_CN.md",
+          "link": "/setup-guide/access-talent"
         }, {
-          "file": "setup-guide/speak-with-the-UKTI-investment-services-team/zh_CN.md"
+          "file": "beta/setup-guide/understand-legal/zh_CN.md",
+          "link": "/setup-guide/understand-legal"
         }],
         "formBlock": {
           "file": "form/zh_CN.md"
@@ -139,36 +135,34 @@
           }
         }
       }, {
-        "url": "open-a-UK-bank-account",
-        "pageTitle": "在英国的银行开户",
+        "url": "open-a-business-account",
+        "pageTitle": "Open a UK business bank account",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/open-a-UK-bank-account/zh_CN.md"
+            "file": "beta/setup-guide/open-a-business-account/intro/zh_CN.md"
           },
           "sections": [{
-            "file": "setup-guide/open-a-UK-bank-account/sections/the process/zh_CN.md"
+            "file": "beta/setup-guide/open-a-business-account/sections/what-you-need-to-do/zh_CN.md"
           }, {
-            "file": "setup-guide/open-a-UK-bank-account/sections/timings/zh_CN.md"
-          }, {
-            "file": "setup-guide/open-a-UK-bank-account/sections/what you'll need to do/zh_CN.md"
+            "file": "beta/setup-guide/open-a-business-account/sections/how-long-it-takes/zh_CN.md"
           }],
           "formBlock": {
             "file": "form/zh_CN.md"
           }
         }
       }, {
-        "url": "register-your-company",
-        "pageTitle": "注册您的公司",
+        "url": "how-to-setup",
+        "pageTitle": "Set up a company in the UK",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/register-your-company/zh_CN.md"
+            "file": "beta/setup-guide/how-to-setup/intro/zh_CN.md"
           },
           "sections": [{
-            "file": "setup-guide/register-your-company/sections/incorporating a company/zh_CN.md"
+            "file": "beta/setup-guide/how-to-setup/sections/register-a-company/zh_CN.md"
           }, {
-            "file": "setup-guide/register-your-company/sections/register your company/zh_CN.md"
+            "file": "beta/setup-guide/how-to-setup/sections/register-a-branch/zh_CN.md"
           }],
           "formBlock": {
             "file": "form/zh_CN.md"
@@ -196,36 +190,46 @@
           }
         }
       }, {
-        "url": "understand-UK-employment-law",
-        "pageTitle": "了解英国的雇佣法",
+        "url": "access-talent",
+        "pageTitle": "Hire skilled workers for your UK operations",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/understand-UK-employment-law/zh_CN.md"
+            "file": "beta/setup-guide/access-talent/intro/zh_CN.md"
           },
           "sections": [{
-            "file": "setup-guide/understand-UK-employment-law/sections/access to talent/zh_CN.md"
+            "file": "beta/setup-guide/access-talent/sections/flexible-laws/zh_CN.md"
           }, {
-            "file": "setup-guide/understand-UK-employment-law/sections/flexible employment laws/zh_CN.md"
+            "file": "beta/setup-guide/access-talent/sections/employment-costs/zh_CN.md"
           }, {
-            "file": "setup-guide/understand-UK-employment-law/sections/flexible employment costs/zh_CN.md"
+            "file": "beta/setup-guide/access-talent/sections/access-to-talent/zh_CN.md"
+          }, {
+            "file": "beta/setup-guide/access-talent/sections/graduate-talent/zh_CN.md"
+          }, {
+            "file": "beta/setup-guide/access-talent/sections/apprenticeships/zh_CN.md"
+          }, {
+            "file": "beta/setup-guide/access-talent/sections/overseas-talent/zh_CN.md"
           }],
           "formBlock": {
             "file": "form/zh_CN.md"
           }
         }
       }, {
-        "url": "familiarise-yourself-with-the-legal-framework",
-        "pageTitle": "熟悉英国法律体制",
+        "url": "understand-legal",
+        "pageTitle": "The UK's legal framework",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/familiarise-yourself-with-the-legal-framework/zh_CN.md"
+            "file": "beta/setup-guide/understand-legal/intro/zh_CN.md"
           },
           "sections": [{
-            "file": "setup-guide/familiarise-yourself-with-the-legal-framework/sections/a renowned legal system/zh_CN.md"
+            "file": "beta/setup-guide/understand-legal/Overview/zh_CN.md"
           }, {
-            "file": "setup-guide/familiarise-yourself-with-the-legal-framework/sections/specific legislation/zh_CN.md"
+            "file": "beta/setup-guide/understand-legal/sections/protection-when-selling/zh_CN.md"
+          }, {
+            "file": "beta/setup-guide/understand-legal/sections/intellectual-property/zh_CN.md"
+          }, {
+            "file": "beta/setup-guide/understand-legal/sections/data-protection/zh_CN.md"
           }],
           "formBlock": {
             "file": "form/zh_CN.md"
@@ -406,11 +410,11 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "industries/creative/zh_CN.md",
+            "file": "beta/industries/creative/intro/zh_CN.md",
             "heroImage": "creative.jpg"
           },
           "sections": [{
-              "file": "industries/creative/sections/The creative sector in Great Britain/zh_CN.md"
+            "file": "beta/industries/creative/overview/zh_CN.md"
             }, {
               "file": "industries/creative/sections/Economic environment for growth/zh_CN.md"
             }, {
@@ -425,6 +429,10 @@
 
           ],
           "subContent": [{
+            "file": "beta/industries/creative/sub-sectors/content-and-production/zh_CN.md",
+            "thumbnail": "place-holder.png",
+            "link": "/industries/creative/content-and-production"
+          }, {
             "file": "beta/industries/creative/sub-sectors/digital-media/zh_CN.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
