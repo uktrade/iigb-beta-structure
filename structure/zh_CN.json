@@ -136,7 +136,7 @@
         }
       }, {
         "url": "open-a-business-account",
-        "pageTitle": "Open a UK business bank account",
+        "pageTitle": "开立英国公司银行账户",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -153,7 +153,7 @@
         }
       }, {
         "url": "how-to-setup",
-        "pageTitle": "Set up a company in the UK",
+        "pageTitle": "在英国设立公司",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -191,7 +191,7 @@
         }
       }, {
         "url": "access-talent",
-        "pageTitle": "Hire skilled workers for your UK operations",
+        "pageTitle": "在英国聘请技术人才",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -216,7 +216,7 @@
         }
       }, {
         "url": "understand-legal",
-        "pageTitle": "The UK's legal framework",
+        "pageTitle": "英国法律框架",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -406,7 +406,7 @@
         }]
       }, {
         "url": "creative",
-        "pageTitle": "创意",
+        "pageTitle": "创意产业",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
