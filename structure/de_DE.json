@@ -409,6 +409,8 @@
             "sections": [{
               "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/market-conditions/de_DE.md"
             }, {
+              "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/strong-regional-cluster/de_DE.md"
+            }, {
               "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/support-and-incentives/de_DE.md"
             }, {
               "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/talent-and-skills/de_DE.md"
@@ -418,7 +420,7 @@
             }
           }
         }]
-      },{
+      }, {
         "url": "energy",
         "pageTitle": "Energy generation in the UK",
         "layout": "industry.html",
@@ -626,7 +628,7 @@
             }
           }
         }]
-      },{
+      }, {
         "url": "creative",
         "pageTitle": "Kreativität in Großbritannien",
         "layout": "industry.html",
@@ -674,7 +676,7 @@
               "file": "beta/form/de_DE.md"
             }
           }
-        },{
+        }, {
           "url": "digital-media",
           "pageTitle": "Digitale Medien",
           "layout": "sector.html",
@@ -716,7 +718,7 @@
             "file": "beta/industries/financial-services/sub-sectors/asset-management/de_DE.md",
             "thumbnail": "asset-management.jpg",
             "link": "/industries/financial-services/asset-management"
-          },{
+          }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/de_DE.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
@@ -795,7 +797,7 @@
             "file": "beta/industries/creative/sub-sectors/digital-media/de_DE.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
-          },{
+          }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/de_DE.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
@@ -807,7 +809,8 @@
           "formBlock": {
             "file": "beta/form/de_DE.md"
           }
-        },"children": [{
+        },
+        "children": [{
           "url": "data-analytics",
           "pageTitle": "Data analytics in the UK",
           "layout": "sector.html",
@@ -829,7 +832,7 @@
           }
         }]
       }]
-    },{
+    }, {
       "url": "terms-and-conditions",
       "pageTitle": "Terms and conditions",
       "layout": "404.html",
