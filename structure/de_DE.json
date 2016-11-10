@@ -652,6 +652,10 @@
             "thumbnail": "place-holder.png",
             "link": "/industries/creative/content-and-production"
           }, {
+            "file": "beta/industries/technology/sub-sectors/data-analytics/de_DE.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
+          }, {
             "file": "beta/industries/creative/sub-sectors/digital-media/de_DE.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
@@ -724,6 +728,10 @@
             "file": "beta/industries/financial-services/sub-sectors/asset-management/de_DE.md",
             "thumbnail": "asset-management.jpg",
             "link": "/industries/financial-services/asset-management"
+          }, {
+            "file": "beta/industries/technology/sub-sectors/data-analytics/de_DE.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
           }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/de_DE.md",
             "thumbnail": "fintech.jpg",
