@@ -400,6 +400,10 @@
             "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/zh_CN.md",
             "thumbnail": "offshore.jpg",
             "link": "/industries/energy/offshore-wind"
+          }, {
+            "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/de_DE.md",
+            "thumbnail": "energy-from-waste.jpg",
+            "link": "/industries/energy/energy-from-waste"
           }],
           "formBlock": {
             "file": "beta/form/zh_CN.md"
@@ -423,6 +427,28 @@
             }],
             "formBlock": {
               "file": "beta/form/zh_CN.md"
+            }
+          }
+        }, {
+          "url": "energy-from-waste",
+          "pageTitle": "Energy from waste in the UK",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/de_DE.md",
+              "heroImage": "energy-from-waste.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/strong-market/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/opportunities-for-growth/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/supply-chain-opportunities/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/en_US.md"
+            }],
+            "formBlock": {
+              "file": "beta/form/de_DE.md"
             }
           }
         }]
