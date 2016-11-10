@@ -351,7 +351,7 @@
           "subContent": [{
             "file": "beta/industries/automotive/sub-sectors/motorsport/zh_CN.md",
             "thumbnail": "motorsport.jpg",
-            "link": "/industries/automotive/motor-sport"
+            "link": "/industries/automotive/motorsport"
           }, {
             "file": "beta/industries/automotive/sub-sectors/research-and-development/zh_CN.md",
             "thumbnail": "research-and-development.jpg",
@@ -366,7 +366,7 @@
           }
         },
         "children": [{
-          "url": "motor-sport",
+          "url": "motorsport",
           "pageTitle": "英国赛车运动",
           "layout": "sector.html",
           "contentBlocks": {
@@ -375,7 +375,7 @@
               "heroImage": "motorsport.jpg"
             },
             "sections": [{
-              "file": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/zh_CN.md"
+            "file": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/zh_CN.md"
             }, {
               "file": "beta/industries/automotive/sub-sectors/motorsport/sections/talent-and-skills/zh_CN.md"
             }, {
