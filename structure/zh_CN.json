@@ -534,14 +534,14 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "beta/industries/life-sciences/intro/de_DE.md",
+            "file": "beta/industries/life-sciences/intro/zh_CN.md",
             "heroImage": "life-sciences.jpg"
           },
           "sections": [{
-            "file": "beta/industries/life-sciences/overview/de_DE.md"
+            "file": "beta/industries/life-sciences/overview/zh_CN.md"
           }],
           "subContent": [{
-            "file": "beta/industries/life-sciences/sub-sectors/medical-technology/de_DE.md",
+            "file": "beta/industries/life-sciences/sub-sectors/medical-technology/zh_CN.md",
             "thumbnail": "medical-technology.jpg",
             "link": "/industries/health-and-life/medical-technology"
           }, {
