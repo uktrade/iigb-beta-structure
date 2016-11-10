@@ -353,13 +353,13 @@
             "thumbnail": "research-and-development.jpg",
             "link": "/industries/automotive/research-and-development"
           }, {
-            "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
-            "thumbnail": "motorsport.jpg",
-            "link": "/industries/automotive/motorsport"
-          }, {
             "file": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
             "thumbnail": "supply-chain.jpg",
             "link": "/industries/automotive/supply-chain"
+          }, {
+            "file": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
+            "thumbnail": "motorsport.jpg",
+            "link": "/industries/automotive/motorsport"
           }],
           "formBlock": {
             "file": "beta/form/en_US.md"
