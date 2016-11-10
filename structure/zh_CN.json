@@ -24,11 +24,11 @@
         "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
       }, {
-        "file": "industries/creative/zh_CN.md",
+        "file": "beta/industries/creative/zh_CN.md",
         "thumbnail": "creative.jpg",
         "link": "/industries/creative"
       }, {
-        "file": "industries/financial/zh_CN.md",
+        "file": "beta/industries/financial-services/zh_CN.md",
         "thumbnail": "financial-services.jpg",
         "link": "/industries/financial-services"
       }, {
@@ -72,7 +72,7 @@
         },
         "listItems": [{
           "file": "beta/setup-guide/how-to-setup/zh_CN.md",
-          "link": "/setup-guide/how-to-setup"
+        "link": "/setup-guide/how-to-setup"
         }, {
           "file": "setup-guide/apply-for-a-visa/zh_CN.md",
           "link": "/setup-guide/apply-for-a-visa"
@@ -245,11 +245,11 @@
           "thumbnail": "automotive.jpg",
           "link": "/industries/automotive"
         }, {
-          "file": "industries/creative/zh_CN.md",
+          "file": "beta/industries/creative/zh_CN.md",
           "thumbnail": "creative-china.jpg",
           "link": "/industries/creative"
         }, {
-          "file": "industries/financial/zh_CN.md",
+          "file": "beta/industries/financial-services/zh_CN.md",
           "thumbnail": "financial-services.jpg",
           "link": "/industries/financial-services"
         }, {
@@ -282,7 +282,7 @@
           "thumbnail": "asset-management.jpg",
           "link": "/industries/financial-services/asset-management"
         }, {
-          "file": "industries/financial/sub sectors/financial-technology/zh_CN.md",
+          "file": "beta/industries/financial-services/sub-sectors/fintech/zh_CN.md",
           "thumbnail": "fintech.jpg",
           "link": "/industries/financial-services/financial-technology"
         }],
