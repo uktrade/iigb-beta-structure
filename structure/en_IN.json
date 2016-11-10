@@ -8,7 +8,7 @@
     }
   },
   "pages": [{
-    "url": "us",
+    "url": "in",
     "pageTitle": "Home",
     "layout": "home.html",
     "contentBlocks": {
