@@ -165,7 +165,7 @@
           }
         }
       }, {
-        "url": "work-out-your-profit-margins-against-UK-tax",
+        "url": "understand-tax",
         "pageTitle": "了解英国的税收制度和激励措施",
         "layout": "article.html",
         "contentBlocks": {
@@ -173,13 +173,11 @@
             "file": "beta/setup-guide/understand-tax/zh_CN.md"
           },
           "sections": [{
-            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/key business taxes/zh_CN.md"
+            "file": "beta/setup-guide/understand-tax/sections/corporation-tax/zh_CN.md"
           }, {
-            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/additional tax for business to consider/zh_CN.md"
+            "file": "beta/setup-guide/understand-tax/sections/personal-tax/zh_CN.md"
           }, {
-            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/personal taxes/zh_CN.md"
-          }, {
-            "file": "setup-guide/work-out-your-profit-margins-against-UK-tax/sections/tax incentive for business/zh_CN.md"
+            "file": "beta/setup-guide/understand-tax/sections/tax-incentives/zh_CN.md"
           }],
           "formBlock": {
             "file": "beta/form/zh_CN.md"
