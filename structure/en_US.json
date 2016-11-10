@@ -14,9 +14,9 @@
     "contentBlocks": {
       "pageHeader": {
         "file": "beta/home/en_US.md",
-        "externalVideo": "https://www.youtube.com/embed/yoHrRcKIBKw",
-        "heroVideo": "why-uk_short_no-titles_no-sound.mp4",
-        "heroVideoImage": "northern-powerhouse.jpg"
+        "externalVideo": "https://www.youtube.com/embed/AChnTokOCIA",
+        "heroVideo": "super-cut-30.mp4",
+        "heroVideoImage": "super-cut-30.jpg"
       },
       "firstSection": {
         "file": "beta/form/en_US.md"
