@@ -285,7 +285,7 @@
           "link": "/industries/automotive/supply-chain"
         }, {
           "file": "beta/industries/creative/sub-sectors/content-and-production/en_US.md",
-          "thumbnail": "place-holder.png",
+          "thumbnail": "content-and-production.jpg",
           "link": "/industries/creative/content-and-production"
         }, {
           "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
@@ -654,7 +654,7 @@
           }],
           "subContent": [{
             "file": "beta/industries/creative/sub-sectors/content-and-production/en_US.md",
-            "thumbnail": "place-holder.png",
+            "thumbnail": "content-and-production.jpg",
             "link": "/industries/creative/content-and-production"
           }, {
             "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
@@ -676,7 +676,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/creative/sub-sectors/content-and-production/intro/en_US.md",
-              "heroImage": "place-holder.png"
+              "heroImage": "content-and-production.jpg"
             },
             "sections": [{
               "file": "beta/industries/creative/sub-sectors/content-and-production/sections/overview/en_US.md"
