@@ -54,7 +54,7 @@
         "link": "/setup-guide/how-to-setup"
       }, {
         "file": "beta/setup-guide/apply-for-visa/zh_CN.md",
-        "link": "setup-guide/apply-for-visa"
+        "link": "/setup-guide/apply-for-visa"
       }, {
         "file": "beta/setup-guide/open-a-business-account/zh_CN.md",
         "link": "/setup-guide/open-a-business-account"
@@ -122,7 +122,7 @@
           }
         }
       }, {
-        "url": "apply-for-a-visa",
+        "url": "apply-for-visa",
         "pageTitle": "申请英国签证",
         "layout": "article.html",
         "contentBlocks": {
@@ -240,7 +240,7 @@
       }]
     }, {
       "url": "industries",
-      "pageTitle": "Industries",
+      "pageTitle": "英国的产业",
       "layout": "landing-page.html",
       "contentBlocks": {
         "pageHeader": {
