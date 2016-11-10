@@ -401,9 +401,13 @@
             "thumbnail": "offshore.jpg",
             "link": "/industries/energy/offshore-wind"
           }, {
-            "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/de_DE.md",
+            "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/zh_CN.md",
             "thumbnail": "energy-from-waste.jpg",
             "link": "/industries/energy/energy-from-waste"
+          }, {
+            "file": "beta/industries/energy-generation/sub-sectors/nuclear/de_DE.md",
+            "thumbnail": "nuclear.jpg",
+            "link": "/industries/energy/nuclear"
           }],
           "formBlock": {
             "file": "beta/form/zh_CN.md"
@@ -435,7 +439,7 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/de_DE.md",
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/zh_CN.md",
               "heroImage": "energy-from-waste.jpg"
             },
             "sections": [{
@@ -448,7 +452,33 @@
               "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
-              "file": "beta/form/de_DE.md"
+              "file": "beta/form/zh_CN.md"
+            }
+          }
+        }, {
+          "url": "nuclear",
+          "pageTitle": "Nuclear in the UK",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/intro/zh_CN.md",
+              "heroImage": "nuclear.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/market-conditions/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/support-and-incentives/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/regulatory-system/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/skills-development/zh_CN.md"
+            }],
+            "formBlock": {
+              "file": "beta/form/zh_CN.md"
             }
           }
         }]
