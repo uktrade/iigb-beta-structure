@@ -375,7 +375,7 @@
               "heroImage": "motorsport.jpg"
             },
             "sections": [{
-            "file": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/zh_CN.md"
             }, {
               "file": "beta/industries/automotive/sub-sectors/motorsport/sections/talent-and-skills/zh_CN.md"
             }, {
@@ -443,6 +443,10 @@
             "file": "beta/industries/energy-generation/overview/zh_CN.md"
           }],
           "subContent": [{
+            "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/zh_CN.md",
+            "thumbnail": "electrical-networks.jpg",
+            "link": "/industries/energy/electrical-networks"
+          }, {
             "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/zh_CN.md",
             "thumbnail": "offshore.jpg",
             "link": "/industries/energy/offshore-wind"
@@ -745,6 +749,10 @@
             "thumbnail": "asset-management.jpg",
             "link": "/industries/financial-services/asset-management"
           }, {
+            "file": "beta/industries/technology/sub-sectors/data-analytics/zh_CN.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
+          }, {
             "file": "beta/industries/financial-services/sub-sectors/fintech/zh_CN.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
@@ -822,6 +830,10 @@
             "file": "beta/industries/financial-services/sub-sectors/fintech/zh_CN.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
+          }, {
+            "file": "beta/industries/life-sciences/sub-sectors/medical-technology/zh_CN.md",
+            "thumbnail": "medical-technology.jpg",
+            "link": "/industries/health-and-life/medical-technology"
           }],
           "formBlock": {
             "file": "beta/form/zh_CN.md"
