@@ -122,7 +122,7 @@
           }
         }
       }, {
-        "url": "apply-for-a-visa",
+        "url": "apply-for-visa",
         "pageTitle": "Einen Visumsantrag stellen",
         "layout": "article.html",
         "contentBlocks": {
@@ -130,11 +130,9 @@
             "file": "setup-guide/apply-for-a-visa/de_DE.md"
           },
           "sections": [{
-            "file": "setup-guide/apply-for-a-visa/sections/apply for a visa/de_DE.md"
+            "file": "beta/setup-guide/apply-for-visa/sections/overview/de_DE.md"
           }, {
-            "file": "setup-guide/apply-for-a-visa/sections/the visa system explained/de_DE.md"
-          }, {
-            "file": "setup-guide/apply-for-a-visa/sections/which visas apply to you/de_DE.md"
+            "file": "beta/setup-guide/apply-for-visa/sections/understand-the-range-of-visas/de_DE.md"
           }],
           "formBlock": {
             "file": "form/de_DE.md"
