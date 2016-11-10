@@ -386,7 +386,7 @@
         }]
       }, {
         "url": "energy",
-        "pageTitle": "Energy generation in the UK",
+        "pageTitle": "英国的能源发电",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
@@ -405,9 +405,13 @@
             "thumbnail": "energy-from-waste.jpg",
             "link": "/industries/energy/energy-from-waste"
           }, {
-            "file": "beta/industries/energy-generation/sub-sectors/nuclear/de_DE.md",
+            "file": "beta/industries/energy-generation/sub-sectors/nuclear/zh_CN.md",
             "thumbnail": "nuclear.jpg",
             "link": "/industries/energy/nuclear"
+          }, {
+            "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/de_DE.md",
+            "thumbnail": "oil-and-gas.jpg",
+            "link": "/industries/energy/oil-and-gas"
           }],
           "formBlock": {
             "file": "beta/form/zh_CN.md"
@@ -415,7 +419,7 @@
         },
         "children": [{
           "url": "offshore-wind",
-          "pageTitle": "Offshore wind in the UK",
+          "pageTitle": "英国海上风电生产",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -435,7 +439,7 @@
           }
         }, {
           "url": "energy-from-waste",
-          "pageTitle": "Energy from waste in the UK",
+          "pageTitle": "英国废物能源",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -457,7 +461,7 @@
           }
         }, {
           "url": "nuclear",
-          "pageTitle": "Nuclear in the UK",
+          "pageTitle": "英国核能",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -476,6 +480,30 @@
               "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/talent-and-skills/zh_CN.md"
             }, {
               "file": "beta/industries/energy-generation/sub-sectors/nuclear/sections/skills-development/zh_CN.md"
+            }],
+            "formBlock": {
+              "file": "beta/form/zh_CN.md"
+            }
+          }
+        }, {
+          "url": "oil-and-gas",
+          "pageTitle": "英国石油与天然气",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/zh_CN.md",
+              "heroImage": "oil-and-gas.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/overview/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/market-conditions/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/safety-development/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/support-and-incentives/zh_CN.md"
             }],
             "formBlock": {
               "file": "beta/form/zh_CN.md"
