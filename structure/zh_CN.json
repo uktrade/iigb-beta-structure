@@ -529,6 +529,78 @@
           }
         }]
       }, {
+        "url": "health-and-life",
+        "pageTitle": "生命科学",
+        "layout": "industry.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "beta/industries/life-sciences/intro/de_DE.md",
+            "heroImage": "life-sciences.jpg"
+          },
+          "sections": [{
+            "file": "beta/industries/life-sciences/overview/de_DE.md"
+          }],
+          "subContent": [{
+            "file": "beta/industries/life-sciences/sub-sectors/medical-technology/de_DE.md",
+            "thumbnail": "medical-technology.jpg",
+            "link": "/industries/health-and-life/medical-technology"
+          }, {
+            "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/de_DE.md",
+            "thumbnail": "medicine-manufacturing.jpg",
+            "link": "/industries/health-and-life/pharmaceutical-manufacturing"
+          }],
+          "formBlock": {
+            "file": "beta/form/de_DE.md"
+          }
+        },
+        "children": [{
+          "url": "medical-technology",
+          "pageTitle": "英国医疗技术",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/zh_CN.md",
+              "heroImage": "medical-technology.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/market-conditions/zh_CN.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/support-and-incentives/zh_CN.md"
+            }],
+            "formBlock": {
+              "file": "beta/form/de_DE.md"
+            }
+          }
+        }, {
+          "url": "pharmaceutical-manufacturing",
+          "pageTitle": "Pharmaceutical manufacturing in the UK",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/de_DE.md",
+              "heroImage": "medicine-manufacturing.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/development-of-future-medicines/de_DE.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/highly-modern-sector/de_DE.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/strong-regulations/de_DE.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/skills-and-expertise/de_DE.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/support-and-incentives/de_DE.md"
+            }, {
+              "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/innovation/de_DE.md"
+            }],
+            "formBlock": {
+              "file": "beta/form/de_DE.md"
+            }
+          }
+        }]
+      }, {
         "url": "creative",
         "pageTitle": "创意产业",
         "layout": "industry.html",
