@@ -690,31 +690,29 @@
         }]
       }, {
         "url": "technology",
-        "pageTitle": "英国科技",
+        "pageTitle": "技术产业",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "industries/technology/zh_CN.md",
+            "file": "beta/industries/technology/intro/zh_CN.md",
+            "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },
           "sections": [{
-            "file": "industries/technology/sections/overview/zh_CN.md"
+            "file": "beta/industries/technology/overview/zh_CN.md"
+          }],
+          "subContent": [{
+            "file": "beta/industries/technology/sub-sectors/data-analytics/zh_CN.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
           }, {
-            "file": "industries/technology/sections/a strong digital growth structure/zh_CN.md"
+            "file": "beta/industries/creative/sub-sectors/digital-media/zh_CN.md",
+            "thumbnail": "digital-media.jpg",
+            "link": "/industries/creative/digital-media"
           }, {
-            "file": "industries/technology/sections/growing digital consumers/zh_CN.md"
-          }, {
-            "file": "industries/technology/sections/a world class digital infrastructure and mature audience/zh_CN.md"
-          }, {
-            "file": "industries/technology/sections/physical infrastructure/zh_CN.md"
-          }, {
-            "file": "industries/technology/sections/our support and investment in innovation/zh_CN.md"
-          }, {
-            "file": "industries/technology/sections/we support the growth and development of entrepreneurs/zh_CN.md"
-          }, {
-            "file": "industries/technology/sections/incentives and tax breaks/zh_CN.md"
-          }, {
-            "file": "industries/technology/sections/we are ready to make your investment work/zh_CN.md"
+            "file": "beta/industries/financial-services/sub-sectors/fintech/zh_CN.md",
+            "thumbnail": "fintech.jpg",
+            "link": "/industries/financial-services/financial-technology"
           }],
           "formBlock": {
             "file": "beta/form/zh_CN.md"
