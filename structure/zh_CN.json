@@ -385,6 +385,24 @@
           }
         }]
       }, {
+        "url": "energy",
+        "pageTitle": "Energy generation in the UK",
+        "layout": "industry.html",
+        "contentBlocks": {
+          "pageHeader": {
+            "file": "beta/industries/energy-generation/intro/zh_CN.md",
+            "heroImage": "energy.jpg"
+          },
+          "sections": [{
+            "file": "beta/industries/energy-generation/overview/zh_CN.md"
+          }],
+          "subContent": [],
+          "formBlock": {
+            "file": "beta/form/zh_CN.md"
+          }
+        },
+        "children": []
+      }, {
         "url": "creative",
         "pageTitle": "创意产业",
         "layout": "industry.html",
