@@ -72,7 +72,7 @@
         },
         "listItems": [{
           "file": "beta/setup-guide/how-to-setup/zh_CN.md",
-        "link": "/setup-guide/how-to-setup"
+          "link": "/setup-guide/how-to-setup"
         }, {
           "file": "setup-guide/apply-for-a-visa/zh_CN.md",
           "link": "/setup-guide/apply-for-a-visa"
@@ -262,7 +262,7 @@
           "thumbnail": "motorsport.jpg",
           "link": "/industries/automotive/motor-sport"
         }, {
-          "file": "industries/automotive/sub sectors/research-and-development/zh_CN.md",
+          "file": "beta/industries/automotive/sub-sectors/research-and-development/zh_CN.md",
           "thumbnail": "research-and-development.jpg",
           "link": "/industries/automotive/research-and-development"
         }, {
@@ -307,7 +307,7 @@
             "thumbnail": "motorsport.jpg",
             "link": "/industries/automotive/motor-sport"
           }, {
-            "file": "industries/automotive/sub sectors/research-and-development/zh_CN.md",
+            "file": "beta/industries/automotive/sub-sectors/research-and-development/zh_CN.md",
             "thumbnail": "research-and-development.jpg",
             "link": "/industries/automotive/research-and-development"
           }, {
@@ -341,23 +341,21 @@
           }
         }, {
           "url": "research-and-development",
-          "pageTitle": "研发",
+          "pageTitle": "汽车研发",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "industries/automotive/sub sectors/research-and-development/zh_CN.md",
-              "heroImage": "research-development.jpg"
+              "file": "beta/industries/automotive/sub-sectors/research-and-development/intro/zh_CN.md",
+              "heroImage": "research-and-development.jpg"
             },
             "sections": [{
-              "file": "industries/automotive/sub sectors/research-and-development/sections/developing the future of the automotive industry/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/Overview/zh_CN.md"
             }, {
-              "file": "industries/automotive/sub sectors/research-and-development/sections/a community committed to innovation/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/funding/zh_CN.md"
             }, {
-              "file": "industries/automotive/sub sectors/research-and-development/sections/low carbon technology/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/talent-and-skills/zh_CN.md"
             }, {
-              "file": "industries/automotive/sub sectors/research-and-development/sections/lightweighting and carbon composites/zh_CN.md"
-            }, {
-              "file": "industries/automotive/sub sectors/research-and-development/sections/connected and autonomous vehicles/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/research-and-development/sections/support-and-incentives/zh_CN.md"
             }],
             "formBlock": {
               "file": "beta/form/zh_CN.md"
