@@ -127,7 +127,7 @@
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "setup-guide/apply-for-a-visa/de_DE.md"
+            "file": "beta/setup-guide/apply-for-visa/de_DE.md"
           },
           "sections": [{
             "file": "beta/setup-guide/apply-for-visa/sections/overview/de_DE.md"
