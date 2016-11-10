@@ -139,7 +139,7 @@
           }
         }
       }, {
-      "url": "open-a-business-account",
+        "url": "open-a-business-account",
         "pageTitle": "Ein Bankkonto im Vereinigten Königreich eröffnen",
         "layout": "article.html",
         "contentBlocks": {
@@ -651,6 +651,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/creative/intro/de_DE.md",
+            "externalVideo": "https://www.youtube.com/embed/KZ4m467W11A",
             "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
@@ -728,6 +729,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/financial-services/intro/de_DE.md",
+            "externalVideo": "https://www.youtube.com/embed/Je45rDVudec",
             "heroVideo": "financial-services.mp4",
             "heroImage": "financial-services.jpg"
           },
@@ -801,6 +803,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/technology/intro/de_DE.md",
+            "externalVideo": "https://www.youtube.com/embed/Xy6ahMtdTiY",
             "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },

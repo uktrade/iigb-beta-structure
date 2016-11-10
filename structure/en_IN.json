@@ -285,7 +285,7 @@
           "link": "/industries/automotive/supply-chain"
         }, {
           "file": "beta/industries/creative/sub-sectors/content-and-production/en_US.md",
-          "thumbnail": "place-holder.png",
+          "thumbnail": "content-and-production.jpg",
           "link": "/industries/creative/content-and-production"
         }, {
           "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
@@ -645,6 +645,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/creative/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/Fay2P3xiDLk",
             "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
@@ -653,7 +654,7 @@
           }],
           "subContent": [{
             "file": "beta/industries/creative/sub-sectors/content-and-production/en_US.md",
-            "thumbnail": "place-holder.png",
+            "thumbnail": "content-and-production.jpg",
             "link": "/industries/creative/content-and-production"
           }, {
             "file": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
@@ -675,7 +676,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/creative/sub-sectors/content-and-production/intro/en_US.md",
-              "heroImage": "place-holder.png"
+              "heroImage": "content-and-production.jpg"
             },
             "sections": [{
               "file": "beta/industries/creative/sub-sectors/content-and-production/sections/overview/en_US.md"
@@ -722,6 +723,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/financial-services/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/YdW82x_Gx3Q",
             "heroVideo": "financial-services.mp4",
             "heroImage": "financial-services.jpg"
           },
@@ -795,6 +797,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/technology/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/D0kpPFfg94s",
             "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },
