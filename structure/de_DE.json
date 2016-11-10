@@ -135,11 +135,11 @@
             "file": "beta/setup-guide/apply-for-visa/sections/understand-the-range-of-visas/de_DE.md"
           }],
           "formBlock": {
-            "file": "form/de_DE.md"
+            "file": "beta/form/de_DE.md"
           }
         }
       }, {
-        "url": "open-a-business-account",
+      "url": "open-a-business-account",
         "pageTitle": "Ein Bankkonto im Vereinigten Königreich eröffnen",
         "layout": "article.html",
         "contentBlocks": {
@@ -288,6 +288,10 @@
           "thumbnail": "place-holder.png",
           "link": "/industries/creative/content-and-production"
         }, {
+          "file": "beta/industries/technology/sub-sectors/data-analytics/de_DE.md",
+          "thumbnail": "data-analytics.jpg",
+          "link": "/industries/technology/data-analytics"
+        }, {
           "file": "beta/industries/creative/sub-sectors/digital-media/de_DE.md",
           "thumbnail": "digital-media.jpg",
           "link": "/industries/creative/digital-media"
@@ -304,6 +308,10 @@
           "thumbnail": "fintech.jpg",
           "link": "/industries/financial-services/financial-technology"
         }, {
+          "file": "beta/industries/life-sciences/sub-sectors/medical-technology/de_DE.md",
+          "thumbnail": "medical-technology.jpg",
+          "link": "/industries/health-and-life/medical-technology"
+        }, {
           "file": "beta/industries/automotive/sub-sectors/motorsport/de_DE.md",
           "thumbnail": "motorsport.jpg",
           "link": "/industries/automotive/motorsport"
@@ -319,6 +327,10 @@
           "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/de_DE.md",
           "thumbnail": "oil-and-gas.jpg",
           "link": "/industries/energy/oil-and-gas"
+        }, {
+          "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/de_DE.md",
+          "thumbnail": "medicine-manufacturing.jpg",
+          "link": "/industries/health-and-life/pharmaceutical-manufacturing"
         }],
         "formBlock": {
           "file": "beta/form/de_DE.md"
@@ -844,10 +856,10 @@
       "layout": "404.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "info/terms-and-conditions/de_DE.md"
+          "file": "beta/info/terms-and-conditions/de_DE.md"
         },
         "infoBlock": {
-          "file": "info/terms-and-conditions/content/de_DE.md"
+          "file": "beta/info/terms-and-conditions/content/de_DE.md"
         }
       }
     }, {
@@ -856,10 +868,10 @@
       "layout": "info.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "info/form-confirmation/de_DE.md"
+          "file": "beta/info/form-confirmation/de_DE.md"
         },
         "infoBlock": {
-          "file": "info/form-confirmation/content/de_DE.md"
+          "file": "beta/info/form-confirmation/content/de_DE.md"
         }
       }
     }, {
@@ -868,10 +880,10 @@
       "layout": "info.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "info/form-error/de_DE.md"
+          "file": "beta/info/form-error/de_DE.md"
         },
         "infoBlock": {
-          "file": "info/form-error/content/de_DE.md"
+          "file": "beta/info/form-error/content/de_DE.md"
         }
       }
     }, {

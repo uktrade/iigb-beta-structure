@@ -850,10 +850,10 @@
       "layout": "404.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "info/terms-and-conditions/en_US.md"
+          "file": "beta/info/terms-and-conditions/en_US.md"
         },
         "infoBlock": {
-          "file": "info/terms-and-conditions/content/en_US.md"
+          "file": "beta/info/terms-and-conditions/content/en_US.md"
         }
       }
     }, {
@@ -862,10 +862,10 @@
       "layout": "info.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "info/form-confirmation/en_US.md"
+          "file": "beta/info/form-confirmation/en_US.md"
         },
         "infoBlock": {
-          "file": "info/form-confirmation/content/en_US.md"
+          "file": "beta/info/form-confirmation/content/en_US.md"
         }
       }
     }, {
@@ -874,10 +874,10 @@
       "layout": "info.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "info/form-error/en_US.md"
+          "file": "beta/info/form-error/en_US.md"
         },
         "infoBlock": {
-          "file": "info/form-error/content/en_US.md"
+          "file": "beta/info/form-error/content/en_US.md"
         }
       }
     }, {

@@ -32,12 +32,12 @@
         "thumbnail": "financial-services.jpg",
         "link": "/industries/financial-services"
       }, {
-        "file": "industries/technology/zh_CN.md",
+        "file": "beta/industries/technology/zh_CN.md",
         "thumbnail": "technology.jpg",
         "link": "/industries/technology"
       }],
       "listHeader": {
-        "file": "setup-guide/zh_CN.md"
+        "file": "beta/setup-guide/zh_CN.md"
       },
       "listItems": [{
         "file": "beta/setup-guide/how-to-setup/zh_CN.md",
@@ -52,8 +52,8 @@
         "file": "beta/setup-guide/understand-tax/zh_CN.md",
         "link": "/setup-guide/understand-tax"
       }, {
-        "file": "setup-guide/establish-a-UK-address/zh_CN.md",
-        "link": "/setup-guide/establish-a-UK-address"
+        "file": "beta/setup-guide/establish-address/zh_CN.md",
+        "link": "/setup-guide/establish-address"
       }, {
         "file": "beta/setup-guide/access-talent/zh_CN.md",
         "link": "/setup-guide/access-talent"
@@ -68,7 +68,7 @@
       "layout": "bullet-list-page.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "setup-guide/zh_CN.md"
+          "file": "beta/setup-guide/zh_CN.md"
         },
         "listItems": [{
           "file": "beta/setup-guide/how-to-setup/zh_CN.md",
@@ -125,7 +125,7 @@
             "file": "beta/setup-guide/apply-for-visa/sections/understand-the-range-of-visas/zh_CN.md"
           }],
           "formBlock": {
-            "file": "form/zh_CN.md"
+            "file": "beta/form/zh_CN.md"
           }
         }
       }, {
@@ -237,7 +237,7 @@
           "file": "beta/industries/zh_CN.md"
         },
         "tileItems": [{
-          "file": "industries/automotive/zh_CN.md",
+          "file": "beta/industries/automotive/zh_CN.md",
           "thumbnail": "automotive.jpg",
           "link": "/industries/automotive"
         }, {
@@ -249,14 +249,14 @@
           "thumbnail": "financial-services.jpg",
           "link": "/industries/financial-services"
         }, {
-          "file": "industries/technology/zh_CN.md",
+          "file": "beta/industries/technology/zh_CN.md",
           "thumbnail": "technology.jpg",
           "link": "/industries/technology"
         }],
         "subTileItems": [{
-          "file": "beta/industries/automotive/sub-sectors/motorsport/zh_CN.md",
-          "thumbnail": "motorsport.jpg",
-          "link": "/industries/automotive/motor-sport"
+          "file": "beta/industries/financial-services/sub-sectors/asset-management/zh_CN.md",
+          "thumbnail": "asset-management.jpg",
+          "link": "/industries/financial-services/asset-management"
         }, {
           "file": "beta/industries/automotive/sub-sectors/research-and-development/zh_CN.md",
           "thumbnail": "research-and-development.jpg",
@@ -270,17 +270,49 @@
           "thumbnail": "place-holder.png",
           "link": "/industries/creative/content-and-production"
         }, {
+          "file": "beta/industries/technology/sub-sectors/data-analytics/zh_CN.md",
+          "thumbnail": "data-analytics.jpg",
+          "link": "/industries/technology/data-analytics"
+        }, {
           "file": "beta/industries/creative/sub-sectors/digital-media/zh_CN.md",
           "thumbnail": "digital-media.jpg",
           "link": "/industries/creative/digital-media"
         }, {
-          "file": "industries/financial/sub sectors/asset-management/zh_CN.md",
-          "thumbnail": "asset-management.jpg",
-          "link": "/industries/financial-services/asset-management"
+          "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/zh_CN.md",
+          "thumbnail": "electrical-networks.jpg",
+          "link": "/industries/energy/electrical-networks"
+        }, {
+          "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/zh_CN.md",
+          "thumbnail": "energy-from-waste.jpg",
+          "link": "/industries/energy/energy-from-waste"
         }, {
           "file": "beta/industries/financial-services/sub-sectors/fintech/zh_CN.md",
           "thumbnail": "fintech.jpg",
           "link": "/industries/financial-services/financial-technology"
+        }, {
+          "file": "beta/industries/life-sciences/sub-sectors/medical-technology/zh_CN.md",
+          "thumbnail": "medical-technology.jpg",
+          "link": "/industries/health-and-life/medical-technology"
+        }, {
+          "file": "beta/industries/automotive/sub-sectors/motorsport/zh_CN.md",
+          "thumbnail": "motorsport.jpg",
+          "link": "/industries/automotive/motorsport"
+        }, {
+          "file": "beta/industries/energy-generation/sub-sectors/nuclear/zh_CN.md",
+          "thumbnail": "nuclear.jpg",
+          "link": "/industries/energy/nuclear"
+        }, {
+          "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/zh_CN.md",
+          "thumbnail": "offshore.jpg",
+          "link": "/industries/energy/offshore-wind"
+        }, {
+          "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/zh_CN.md",
+          "thumbnail": "oil-and-gas.jpg",
+          "link": "/industries/energy/oil-and-gas"
+        }, {
+          "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/zh_CN.md",
+          "thumbnail": "medicine-manufacturing.jpg",
+          "link": "/industries/health-and-life/pharmaceutical-manufacturing"
         }],
         "formBlock": {
           "file": "beta/form/zh_CN.md"
@@ -443,13 +475,13 @@
               "heroImage": "energy-from-waste.jpg"
             },
             "sections": [{
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/strong-market/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/strong-market/zh_CN.md"
             }, {
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/opportunities-for-growth/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/opportunities-for-growth/zh_CN.md"
             }, {
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/supply-chain-opportunities/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/supply-chain-opportunities/zh_CN.md"
             }, {
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/zh_CN.md"
             }],
             "formBlock": {
               "file": "beta/form/zh_CN.md"
@@ -605,27 +637,20 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/creative/intro/zh_CN.md",
+            "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
           "sections": [{
-              "file": "beta/industries/creative/overview/zh_CN.md"
-            }, {
-              "file": "industries/creative/sections/Economic environment for growth/zh_CN.md"
-            }, {
-              "file": "industries/creative/sections/The labour market and creative talent/zh_CN.md"
-            }, {
-              "file": "industries/creative/sections/Advanced infrastructure and regional strength/zh_CN.md"
-            }, {
-              "file": "industries/creative/sections/Regulatory and financial support for creative companies/zh_CN.md"
-            }, {
-              "file": "industries/creative/sections/Next steps and contacts/zh_CN.md"
-            }
-
-          ],
+            "file": "beta/industries/creative/overview/zh_CN.md"
+          }],
           "subContent": [{
             "file": "beta/industries/creative/sub-sectors/content-and-production/zh_CN.md",
             "thumbnail": "place-holder.png",
             "link": "/industries/creative/content-and-production"
+          }, {
+            "file": "beta/industries/technology/sub-sectors/data-analytics/zh_CN.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
           }, {
             "file": "beta/industries/creative/sub-sectors/digital-media/zh_CN.md",
             "thumbnail": "digital-media.jpg",
