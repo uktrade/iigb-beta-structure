@@ -719,7 +719,30 @@
           "formBlock": {
             "file": "beta/form/zh_CN.md"
           }
-        }
+        },
+        "children": [{
+          "url": "data-analytics",
+          "pageTitle": "英国的数据分析业",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/technology/sub-sectors/data-analytics/intro/zh_CN.md",
+              "heroImage": "data-analytics.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/zh_CN.md"
+            }, {
+              "file": "beta/industries/technology/sub-sectors/data-analytics/sections/center_of_excellence/zh_CN.md"
+            }, {
+              "file": "beta/industries/technology/sub-sectors/data-analytics/sections/data_infrastructure_and_talent/zh_CN.md"
+            }, {
+              "file": "beta/industries/technology/sub-sectors/data-analytics/sections/investment_in_the_future/zh_CN.md"
+            }],
+            "formBlock": {
+              "file": "beta/form/zh_CN.md"
+            }
+          }
+        }]
       }]
     }]
   }]
