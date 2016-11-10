@@ -1,10 +1,10 @@
 {
   "labels": "zh_CN",
-  "sharedMeta" : {
-    "locale" : {
-      "language" : "zh",
-      "country" : "cn",
-      "countryName" : "中国"
+  "sharedMeta": {
+    "locale": {
+      "language": "zh",
+      "country": "cn",
+      "countryName": "中国"
     }
   },
   "pages": [{
@@ -20,7 +20,7 @@
       },
       "firstSection": {},
       "tileItems": [{
-        "file": "industries/automotive/zh_CN.md",
+        "file": "beta/industries/automotive/zh_CN.md",
         "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
       }, {
@@ -258,7 +258,7 @@
           "link": "/industries/technology"
         }],
         "subTileItems": [{
-          "file": "industries/automotive/sub sectors/motor-sport/zh_CN.md",
+          "file": "beta/industries/automotive/sub-sectors/motorsport/zh_CN.md",
           "thumbnail": "motorsport.jpg",
           "link": "/industries/automotive/motor-sport"
         }, {
@@ -296,24 +296,14 @@
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
-            "file": "industries/automotive/zh_CN.md",
+            "file": "beta/industries/automotive/zh_CN.md",
             "heroImage": "automotive.jpg"
           },
           "sections": [{
-            "file": "industries/automotive/sections/overview/zh_CN.md"
-          }, {
-            "file": "industries/automotive/sections/automotive investment organisation/zh_CN.md"
-          }, {
-            "file": "industries/automotive/sections/a hub for global excellence/zh_CN.md"
-          }, {
-            "file": "industries/automotive/sections/a home for fresh thinking/zh_CN.md"
-          }, {
-            "file": "industries/automotive/sections/an effective business environment/zh_CN.md"
-          }, {
-            "file": "industries/automotive/sections/contact and next steps/zh_CN.md"
+            "file": "beta/industries/automotive/overview/zh_CN.md"
           }],
           "subContent": [{
-            "file": "industries/automotive/sub sectors/motor-sport/zh_CN.md",
+            "file": "beta/industries/automotive/sub-sectors/motorsport/zh_CN.md",
             "thumbnail": "motorsport.jpg",
             "link": "/industries/automotive/motor-sport"
           }, {
@@ -335,21 +325,15 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "industries/automotive/sub sectors/motor-sport/zh_CN.md",
+              "file": "beta/industries/automotive/sub-sectors/motorsport/zh_CN.md",
               "heroImage": "motorsport.jpg"
             },
             "sections": [{
-              "file": "industries/automotive/sub sectors/motor-sport/sections/overview/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/zh_CN.md"
             }, {
-              "file": "industries/automotive/sub sectors/motor-sport/sections/the heartland for elite racing/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/motorsport/sections/talent-and-skills/zh_CN.md"
             }, {
-              "file": "industries/automotive/sub sectors/motor-sport/sections/a history of innovation/zh_CN.md"
-            }, {
-              "file": "industries/automotive/sub sectors/motor-sport/sections/solutions for every sector/zh_CN.md"
-            }, {
-              "file": "industries/automotive/sub sectors/motor-sport/sections/pioneering beyond Formula1/zh_CN.md"
-            }, {
-              "file": "industries/automotive/sub sectors/motor-sport/sections/contacts and next steps/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/motorsport/sections/support-and-incentives/zh_CN.md"
             }],
             "formBlock": {
               "file": "beta/form/zh_CN.md"
@@ -410,7 +394,7 @@
             "heroImage": "creative.jpg"
           },
           "sections": [{
-            "file": "beta/industries/creative/overview/zh_CN.md"
+              "file": "beta/industries/creative/overview/zh_CN.md"
             }, {
               "file": "industries/creative/sections/Economic environment for growth/zh_CN.md"
             }, {
