@@ -751,21 +751,21 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/en_US.md",
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/intro/en_US.md",
               "heroImage": "asset-management.jpg"
             },
             "sections": [{
               "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/asset management in Great Britain/en_US.md"
             }, {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a growing, open market/en_US.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-growing-market/en_US.md"
             }, {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a wide range of fund types and clients/en_US.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-wide-range-of-funds/en_US.md"
             }, {
               "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a large talent pool/en_US.md"
             }, {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/attractive business environment with regional strengths/en_US.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/attractive-business/en_US.md"
             }, {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/regulatory and government support/en_US.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/government-support/en_US.md"
             }, {
               "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/next steps and contacts/en_US.md"
             }],

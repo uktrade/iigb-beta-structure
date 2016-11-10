@@ -505,13 +505,13 @@
               "heroImage": "energy-from-waste.jpg"
             },
             "sections": [{
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/strong-market/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/strong-market/de_DE.md"
             }, {
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/opportunities-for-growth/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/opportunities-for-growth/de_DE.md"
             }, {
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/supply-chain-opportunities/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/supply-chain-opportunities/de_DE.md"
             }, {
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/en_US.md"
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/de_DE.md"
             }],
             "formBlock": {
               "file": "beta/form/de_DE.md"
@@ -745,23 +745,17 @@
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/de_DE.md",
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/intro/de_DE.md",
               "heroImage": "asset-management.jpg"
             },
             "sections": [{
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/asset management in Great Britain/de_DE.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-growing-market/de_DE.md"
             }, {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a growing, open market/de_DE.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-wide-range-of-funds/de_DE.md"
             }, {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a wide range of fund types and clients/de_DE.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/attractive-business/de_DE.md"
             }, {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/a large talent pool/de_DE.md"
-            }, {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/attractive business environment with regional strengths/de_DE.md"
-            }, {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/regulatory and government support/de_DE.md"
-            }, {
-              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/next steps and contacts/de_DE.md"
+              "file": "beta/industries/financial-services/sub-sectors/asset-management/sections/government-support/de_DE.md"
             }],
             "formBlock": {
               "file": "beta/form/de_DE.md"
