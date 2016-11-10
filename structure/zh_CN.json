@@ -377,6 +377,10 @@
             "sections": [{
               "file": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/zh_CN.md"
             }, {
+              "file": "beta/industries/automotive/sub-sectors/motorsport/sections/from-game-to-road/zh_CN.md"
+            }, {
+              "file": "beta/industries/automotive/sub-sectors/motorsport/sections/f1-technology/zh_CN.md"
+            }, {
               "file": "beta/industries/automotive/sub-sectors/motorsport/sections/talent-and-skills/zh_CN.md"
             }, {
               "file": "beta/industries/automotive/sub-sectors/motorsport/sections/support-and-incentives/zh_CN.md"
