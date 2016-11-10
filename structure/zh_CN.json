@@ -396,12 +396,36 @@
           "sections": [{
             "file": "beta/industries/energy-generation/overview/zh_CN.md"
           }],
-          "subContent": [],
+          "subContent": [{
+            "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/zh_CN.md",
+            "thumbnail": "offshore.jpg",
+            "link": "/industries/energy/offshore-wind"
+          }],
           "formBlock": {
             "file": "beta/form/zh_CN.md"
           }
         },
-        "children": []
+        "children": [{
+          "url": "offshore-wind",
+          "pageTitle": "Offshore wind in the UK",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/zh_CN.md",
+              "heroImage": "offshore.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/prime-location/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/expanding-pool/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/government-support/zh_CN.md"
+            }],
+            "formBlock": {
+              "file": "beta/form/zh_CN.md"
+            }
+          }
+        }]
       }, {
         "url": "creative",
         "pageTitle": "创意产业",
