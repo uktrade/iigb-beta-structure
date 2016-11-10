@@ -74,7 +74,7 @@
     },
     "children": [{
       "url": "setup-guide",
-      "pageTitle": "Der Investitionsführer für das Vereinigte Königreich",
+      "pageTitle": "Leitfaden Unternehmensgründung",
       "layout": "bullet-list-page.html",
       "contentBlocks": {
         "pageHeader": {
