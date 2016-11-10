@@ -507,9 +507,13 @@
               "heroImage": "energy-from-waste.jpg"
             },
             "sections": [{
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/market-conditions/de_DE.md"
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/strong-market/en_US.md"
             }, {
-              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/talent-and-skills/de_DE.md"
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/opportunities-for-growth/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/supply-chain-opportunities/en_US.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/en_US.md"
             }],
             "formBlock": {
               "file": "beta/form/de_DE.md"
