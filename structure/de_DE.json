@@ -26,9 +26,9 @@
         "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
       }, {
-        "file": "beta/industries/creative/de_DE.md",
-        "thumbnail": "creative.jpg",
-        "link": "/industries/creative"
+        "file": "beta/industries/life-sciences/de_DE.md",
+        "thumbnail": "life-sciences.jpg",
+        "link": "/industries/health-and-life"
       }, {
         "file": "beta/industries/energy-generation/de_DE.md",
         "thumbnail": "energy.jpg",
@@ -38,9 +38,9 @@
         "thumbnail": "financial-services.jpg",
         "link": "/industries/financial-services"
       }, {
-        "file": "beta/industries/life-sciences/de_DE.md",
-        "thumbnail": "life-sciences.jpg",
-        "link": "/industries/health-and-life"
+        "file": "beta/industries/creative/de_DE.md",
+        "thumbnail": "creative.jpg",
+        "link": "/industries/creative"
       }, {
         "file": "beta/industries/technology/de_DE.md",
         "thumbnail": "technology.jpg",
@@ -251,9 +251,9 @@
           "thumbnail": "automotive.jpg",
           "link": "/industries/automotive"
         }, {
-          "file": "beta/industries/creative/de_DE.md",
-          "thumbnail": "creative.jpg",
-          "link": "/industries/creative"
+          "file": "beta/industries/life-sciences/de_DE.md",
+          "thumbnail": "life-sciences.jpg",
+          "link": "/industries/health-and-life"
         }, {
           "file": "beta/industries/energy-generation/de_DE.md",
           "thumbnail": "energy.jpg",
@@ -263,19 +263,15 @@
           "thumbnail": "financial-services.jpg",
           "link": "/industries/financial-services"
         }, {
-          "file": "beta/industries/life-sciences/de_DE.md",
-          "thumbnail": "life-sciences.jpg",
-          "link": "/industries/health-and-life"
+          "file": "beta/industries/creative/de_DE.md",
+          "thumbnail": "creative.jpg",
+          "link": "/industries/creative"
         }, {
           "file": "beta/industries/technology/de_DE.md",
           "thumbnail": "technology.jpg",
           "link": "/industries/technology"
         }],
         "subTileItems": [{
-          "file": "beta/industries/financial-services/sub-sectors/asset-management/de_DE.md",
-          "thumbnail": "asset-management.jpg",
-          "link": "/industries/financial-services/asset-management"
-        }, {
           "file": "beta/industries/automotive/sub-sectors/research-and-development/de_DE.md",
           "thumbnail": "research-and-development.jpg",
           "link": "/industries/automotive/research-and-development"
@@ -283,10 +279,6 @@
           "file": "beta/industries/automotive/sub-sectors/supply-chain/de_DE.md",
           "thumbnail": "supply-chain.jpg",
           "link": "/industries/automotive/supply-chain"
-        }, {
-          "file": "beta/industries/creative/sub-sectors/content-and-production/de_DE.md",
-          "thumbnail": "place-holder.png",
-          "link": "/industries/creative/content-and-production"
         }, {
           "file": "beta/industries/technology/sub-sectors/data-analytics/de_DE.md",
           "thumbnail": "data-analytics.jpg",
@@ -307,6 +299,10 @@
           "file": "beta/industries/financial-services/sub-sectors/fintech/de_DE.md",
           "thumbnail": "fintech.jpg",
           "link": "/industries/financial-services/financial-technology"
+        }, {
+          "file": "beta/industries/creative/sub-sectors/content-and-production/de_DE.md",
+          "thumbnail": "place-holder.png",
+          "link": "/industries/creative/content-and-production"
         }, {
           "file": "beta/industries/life-sciences/sub-sectors/medical-technology/de_DE.md",
           "thumbnail": "medical-technology.jpg",
@@ -331,6 +327,10 @@
           "file": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/de_DE.md",
           "thumbnail": "medicine-manufacturing.jpg",
           "link": "/industries/health-and-life/pharmaceutical-manufacturing"
+        }, {
+          "file": "beta/industries/financial-services/sub-sectors/asset-management/de_DE.md",
+          "thumbnail": "asset-management.jpg",
+          "link": "/industries/financial-services/asset-management"
         }],
         "formBlock": {
           "file": "beta/form/de_DE.md"
