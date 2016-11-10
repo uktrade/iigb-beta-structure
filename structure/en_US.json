@@ -645,6 +645,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/creative/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/Fay2P3xiDLk",
             "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
@@ -722,6 +723,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/financial-services/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/YdW82x_Gx3Q",
             "heroVideo": "financial-services.mp4",
             "heroImage": "financial-services.jpg"
           },
@@ -795,6 +797,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/technology/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/D0kpPFfg94s",
             "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },
