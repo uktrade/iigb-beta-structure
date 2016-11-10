@@ -266,7 +266,7 @@
           "thumbnail": "research-and-development.jpg",
           "link": "/industries/automotive/research-and-development"
         }, {
-          "file": "industries/automotive/sub sectors/supply-chain/zh_CN.md",
+          "file": "beta/industries/automotive/sub-sectors/supply-chain/zh_CN.md",
           "thumbnail": "supply-chain.jpg",
           "link": "/industries/automotive/supply-chain"
         }, {
@@ -311,7 +311,7 @@
             "thumbnail": "research-and-development.jpg",
             "link": "/industries/automotive/research-and-development"
           }, {
-            "file": "industries/automotive/sub sectors/supply-chain/zh_CN.md",
+            "file": "beta/industries/automotive/sub-sectors/supply-chain/zh_CN.md",
             "thumbnail": "supply-chain.jpg",
             "link": "/industries/automotive/supply-chain"
           }],
@@ -363,19 +363,21 @@
           }
         }, {
           "url": "supply-chain",
-          "pageTitle": "供应链",
+          "pageTitle": "汽车供应链",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
-              "file": "industries/automotive/sub sectors/supply-chain/zh_CN.md",
+              "file": "beta/industries/automotive/sub-sectors/supply-chain/intro/zh_CN.md",
               "heroImage": "supply-chain.jpg"
             },
             "sections": [{
-              "file": "industries/automotive/sub sectors/supply-chain/sections/growing supply chain opportunity/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/market-conditions/zh_CN.md"
             }, {
-              "file": "industries/automotive/sub sectors/supply-chain/sections/demand for components/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/strong-regional-cluster/zh_CN.md"
             }, {
-              "file": "industries/automotive/sub sectors/supply-chain/sections/a local network/zh_CN.md"
+              "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/support-and-incentives/zh_CN.md"
+            }, {
+              "file": "beta/industries/automotive/sub-sectors/supply-chain/sections/talent-and-skills/zh_CN.md"
             }],
             "formBlock": {
               "file": "beta/form/zh_CN.md"
