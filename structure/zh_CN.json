@@ -409,7 +409,7 @@
             "thumbnail": "nuclear.jpg",
             "link": "/industries/energy/nuclear"
           }, {
-            "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/de_DE.md",
+            "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/zh_CN.md",
             "thumbnail": "oil-and-gas.jpg",
             "link": "/industries/energy/oil-and-gas"
           }],
@@ -504,6 +504,26 @@
               "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/talent-and-skills/zh_CN.md"
             }, {
               "file": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/support-and-incentives/zh_CN.md"
+            }],
+            "formBlock": {
+              "file": "beta/form/zh_CN.md"
+            }
+          }
+        }, {
+          "url": "electrical-networks",
+          "pageTitle": "英国电力网络",
+          "layout": "sector.html",
+          "contentBlocks": {
+            "pageHeader": {
+              "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/zh_CN.md",
+              "heroImage": "electrical-networks.jpg"
+            },
+            "sections": [{
+              "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/market-conditions/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "file": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/support-and-incentives/zh_CN.md"
             }],
             "formBlock": {
               "file": "beta/form/zh_CN.md"
