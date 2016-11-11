@@ -867,7 +867,7 @@
       }]
     }, {
       "url": "enquiries/confirmation",
-      "pageTitle": "Thank you for getting in touch",
+      "pageTitle": "感谢您在我们的网站注册, 并对投资英国的兴趣",
       "layout": "info.html",
       "contentBlocks": {
         "pageHeader": {
@@ -879,7 +879,7 @@
       }
     }, {
       "url": "enquiries/error",
-      "pageTitle": "Sorry, there was a problem. Try again",
+      "pageTitle": "提交的资料未能到达我们的数据库",
       "layout": "info.html",
       "contentBlocks": {
         "pageHeader": {
