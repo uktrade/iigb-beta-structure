@@ -14,7 +14,7 @@
     "contentBlocks": {
       "pageHeader": {
         "file": "beta/home/en_US.md",
-        "externalVideo": "https://www.youtube.com/embed/AChnTokOCIA",
+        "externalVideo": "https://www.youtube.com/embed/3mnci2p3TbY",
         "heroVideo": "super-cut-30.mp4",
         "heroVideoImage": "super-cut-30.jpg"
       },
@@ -645,7 +645,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/creative/intro/en_US.md",
-            "externalVideo": "https://www.youtube.com/embed/Fay2P3xiDLk",
+            "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8",
             "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
@@ -723,7 +723,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/financial-services/intro/en_US.md",
-            "externalVideo": "https://www.youtube.com/embed/YdW82x_Gx3Q",
+            "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0",
             "heroVideo": "financial-services.mp4",
             "heroImage": "financial-services.jpg"
           },
@@ -797,7 +797,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/technology/intro/en_US.md",
-            "externalVideo": "https://www.youtube.com/embed/D0kpPFfg94s",
+            "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo",
             "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },
