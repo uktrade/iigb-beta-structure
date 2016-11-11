@@ -876,6 +876,30 @@
           }
         }]
       }]
+    }, {
+      "url": "enquiries/confirmation",
+      "pageTitle": "感谢您在我们的网站注册, 并对投资英国的兴趣",
+      "layout": "info.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "beta/info/form-confirmation/zh_CN.md"
+        },
+        "infoBlock": {
+          "file": "beta/info/form-confirmation/content/zh_CN.md"
+        }
+      }
+    }, {
+      "url": "enquiries/error",
+      "pageTitle": "提交的资料未能到达我们的数据库",
+      "layout": "info.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "beta/info/form-error/zh_CN.md"
+        },
+        "infoBlock": {
+          "file": "beta/info/form-error/content/zh_CN.md"
+        }
+      }
     }]
   }]
 }

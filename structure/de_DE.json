@@ -193,7 +193,7 @@
           },
           "sections": [{
             "file": "beta/setup-guide/understand-tax/sections/corporation-tax/de_DE.md"
-          },{
+          }, {
             "file": "beta/setup-guide/understand-tax/sections/tax-incentives/de_DE.md"
           }],
           "formBlock": {
@@ -876,7 +876,7 @@
       }
     }, {
       "url": "enquiries/confirmation",
-      "pageTitle": "Thank you for getting in touch",
+      "pageTitle": "Vielen Dank für Ihre Registrierung Ihr Interesse in Großbritannien investieren",
       "layout": "info.html",
       "contentBlocks": {
         "pageHeader": {
@@ -888,7 +888,7 @@
       }
     }, {
       "url": "enquiries/error",
-      "pageTitle": "Sorry, there was a problem. Try again",
+      "pageTitle": "Das Formular konnte sich nicht mit unserer Datenbank verbinden",
       "layout": "info.html",
       "contentBlocks": {
         "pageHeader": {
