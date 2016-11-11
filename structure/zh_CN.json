@@ -865,6 +865,30 @@
           }
         }]
       }]
+    }, {
+      "url": "enquiries/confirmation",
+      "pageTitle": "Thank you for getting in touch",
+      "layout": "info.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "beta/info/form-confirmation/zh_CN.md"
+        },
+        "infoBlock": {
+          "file": "beta/info/form-confirmation/content/zh_CN.md"
+        }
+      }
+    }, {
+      "url": "enquiries/error",
+      "pageTitle": "Sorry, there was a problem. Try again",
+      "layout": "info.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "beta/info/form-error/zh_CN.md"
+        },
+        "infoBlock": {
+          "file": "beta/info/form-error/content/zh_CN.md"
+        }
+      }
     }]
   }]
 }
