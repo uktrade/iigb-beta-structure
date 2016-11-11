@@ -9,7 +9,7 @@
   },
   "pages": [{
     "url": "in",
-    "pageTitle": "Home",
+    "pageTitle": "Invest home",
     "layout": "home.html",
     "contentBlocks": {
       "pageHeader": {
