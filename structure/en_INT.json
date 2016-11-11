@@ -9,7 +9,7 @@
   },
   "pages": [{
     "url": "int",
-    "pageTitle": "Invest in GREAT Britain & Northern Ireland",
+    "pageTitle": "Home",
     "layout": "home.html",
     "contentBlocks": {
       "pageHeader": {
