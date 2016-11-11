@@ -73,6 +73,17 @@
       }]
     },
     "children": [{
+      "url": "",
+      "fileName":"404.html",
+      "pageTitle": "HTTP Fehlercode 404 - Seite nicht gefunden",
+      "background" : "404.jpg",
+      "layout": "404.html",
+      "contentBlocks" : {
+        "pageHeader" : {
+          "file" : "beta/info/404/de_DE.md"
+        }
+      }
+    },{
       "url": "setup-guide",
       "pageTitle": "Leitfaden Unternehmensgründung",
       "layout": "bullet-list-page.html",

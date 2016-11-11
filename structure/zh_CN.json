@@ -73,6 +73,17 @@
       }]
     },
     "children": [{
+      "url": "",
+      "fileName":"404.html",
+      "pageTitle": "HTTP 404错误代码 —— 页面未找到",
+      "background" : "404.jpg",
+      "layout": "404.html",
+      "contentBlocks" : {
+        "pageHeader" : {
+          "file" : "beta/info/404/zh_CN.md"
+        }
+      }
+    },{
       "url": "setup-guide",
       "pageTitle": "英国创业指南",
       "layout": "bullet-list-page.html",
