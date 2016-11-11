@@ -9,7 +9,7 @@
   },
   "pages": [{
     "url": "int",
-       "pageTitle": "Invest home",
+    "pageTitle": "Invest home",
     "layout": "home.html",
     "contentBlocks": {
       "pageHeader": {
@@ -205,12 +205,6 @@
             "file": "beta/setup-guide/access-talent/sections/employment-costs/en_US.md"
           }, {
             "file": "beta/setup-guide/access-talent/sections/access-to-talent/en_US.md"
-          }, {
-            "file": "beta/setup-guide/access-talent/sections/graduate-talent/en_US.md"
-          }, {
-            "file": "beta/setup-guide/access-talent/sections/apprenticeships/en_US.md"
-          }, {
-            "file": "beta/setup-guide/access-talent/sections/overseas-talent/en_US.md"
           }],
           "formBlock": {
             "file": "beta/form/en_US.md"
