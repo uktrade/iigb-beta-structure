@@ -115,7 +115,13 @@
             "file": "beta/setup-guide/establish-address/intro/en_US.md"
           },
           "sections": [{
-            "file": "beta/setup-guide/establish-address/sections/how-to-establish/en_US.md"
+            "file": "beta/setup-guide/establish-address/sections/what-you-need-to-know/en_US.md"
+          },{
+            "file": "beta/setup-guide/establish-address/sections/regional-centres-of-excellence/en_US.md"
+          },{
+            "file": "beta/setup-guide/establish-address/sections/business-clusters/en_US.md"
+          },{
+            "file": "beta/setup-guide/establish-address/sections/enterprise-zones/en_US.md"
           }],
           "formBlock": {
             "file": "beta/form/en_US.md"
