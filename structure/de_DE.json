@@ -182,9 +182,7 @@
           },
           "sections": [{
             "file": "beta/setup-guide/understand-tax/sections/corporation-tax/de_DE.md"
-          }, {
-            "file": "beta/setup-guide/understand-tax/sections/personal-tax/de_DE.md"
-          }, {
+          },{
             "file": "beta/setup-guide/understand-tax/sections/tax-incentives/de_DE.md"
           }],
           "formBlock": {

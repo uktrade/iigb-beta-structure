@@ -183,8 +183,6 @@
           "sections": [{
             "file": "beta/setup-guide/understand-tax/sections/corporation-tax/zh_CN.md"
           }, {
-            "file": "beta/setup-guide/understand-tax/sections/personal-tax/zh_CN.md"
-          }, {
             "file": "beta/setup-guide/understand-tax/sections/tax-incentives/zh_CN.md"
           }],
           "formBlock": {

@@ -189,8 +189,6 @@
           "sections": [{
             "file": "beta/setup-guide/understand-tax/sections/corporation-tax/en_US.md"
           }, {
-            "file": "beta/setup-guide/understand-tax/sections/personal-tax/en_US.md"
-          }, {
             "file": "beta/setup-guide/understand-tax/sections/tax-incentives/en_US.md"
           }],
           "formBlock": {
