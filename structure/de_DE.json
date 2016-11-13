@@ -119,7 +119,7 @@
       },
       "children": [{
         "url": "establish-address",
-        "pageTitle": "Eine Adresse im Vereinigten Königreich einrichten",
+        "pageTitle": "Eine Adresse in Großbritannien einrichten",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -151,7 +151,7 @@
         }
       }, {
         "url": "open-a-business-account",
-        "pageTitle": "Ein Bankkonto im Vereinigten Königreich eröffnen",
+        "pageTitle": "Ein Geschäftskonto in Großbritannien eröffnen",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -202,7 +202,7 @@
         }
       }, {
         "url": "access-talent",
-        "pageTitle": "Wie man Zugang zu talentierten Fachkräften im Vereinigten Königreich bekommt",
+        "pageTitle": "Wie man Zugang zu talentierten Fachkräften in Großbritannien bekommt",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
