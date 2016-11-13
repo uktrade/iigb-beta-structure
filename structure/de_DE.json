@@ -310,7 +310,7 @@
           "link": "/industries/financial-services/financial-technology"
         }, {
           "file": "beta/industries/creative/sub-sectors/content-and-production/de_DE.md",
-          "thumbnail": "place-holder.png",
+          "thumbnail": "content-and-production.jpg",
           "link": "/industries/creative/content-and-production"
         }, {
           "file": "beta/industries/life-sciences/sub-sectors/medical-technology/de_DE.md",
@@ -677,7 +677,7 @@
             "link": "/industries/creative/digital-media"
           }, {
             "file": "beta/industries/creative/sub-sectors/content-and-production/de_DE.md",
-            "thumbnail": "place-holder.png",
+            "thumbnail": "content-and-production.jpg",
             "link": "/industries/creative/content-and-production"
           }],
           "formBlock": {
@@ -691,7 +691,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/creative/sub-sectors/content-and-production/intro/de_DE.md",
-              "heroImage": "place-holder.png"
+              "heroImage": "content-and-production.jpg"
             },
             "sections": [{
               "file": "beta/industries/creative/sub-sectors/content-and-production/sections/overview/de_DE.md"
