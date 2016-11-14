@@ -119,7 +119,7 @@
       },
       "children": [{
         "url": "establish-address",
-        "pageTitle": "Eine Adresse im Vereinigten Königreich einrichten",
+        "pageTitle": "Eine Adresse in Großbritannien einrichten",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -151,7 +151,7 @@
         }
       }, {
         "url": "open-a-business-account",
-        "pageTitle": "Ein Bankkonto im Vereinigten Königreich eröffnen",
+        "pageTitle": "Ein Geschäftskonto in Großbritannien eröffnen",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -202,7 +202,7 @@
         }
       }, {
         "url": "access-talent",
-        "pageTitle": "Hire skilled workers for your UK operations",
+        "pageTitle": "Wie man Zugang zu talentierten Fachkräften in Großbritannien bekommt",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -227,7 +227,7 @@
         }
       }, {
         "url": "understand-legal",
-        "pageTitle": "The UK's legal framework",
+        "pageTitle": "Rechtliche Rahmenbedingungen",
         "layout": "article.html",
         "contentBlocks": {
           "pageHeader": {
@@ -310,7 +310,7 @@
           "link": "/industries/financial-services/financial-technology"
         }, {
           "file": "beta/industries/creative/sub-sectors/content-and-production/de_DE.md",
-          "thumbnail": "place-holder.png",
+          "thumbnail": "content-and-production.jpg",
           "link": "/industries/creative/content-and-production"
         }, {
           "file": "beta/industries/life-sciences/sub-sectors/medical-technology/de_DE.md",
@@ -441,7 +441,7 @@
         }]
       }, {
         "url": "energy",
-        "pageTitle": "Energy generation in the UK",
+        "pageTitle": "Energieerzeugung",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
@@ -478,7 +478,7 @@
         },
         "children": [{
           "url": "offshore-wind",
-          "pageTitle": "Offshore wind in the UK",
+          "pageTitle": "Offshore-Windenergie",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -498,7 +498,7 @@
           }
         }, {
           "url": "electrical-networks",
-          "pageTitle": "Electrical networks in the UK",
+          "pageTitle": "Elektrische Netzwerke",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -518,7 +518,7 @@
           }
         }, {
           "url": "energy-from-waste",
-          "pageTitle": "Energy from waste in the UK",
+          "pageTitle": "Energieerzeugung aus Abfall",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -540,7 +540,7 @@
           }
         }, {
           "url": "oil-and-gas",
-          "pageTitle": "Oil and gas in the UK",
+          "pageTitle": "Öl und Gas",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -562,7 +562,7 @@
           }
         }, {
           "url": "nuclear",
-          "pageTitle": "Nuclear in the UK",
+          "pageTitle": "Nuklearenergie",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -583,7 +583,7 @@
         }]
       }, {
         "url": "health-and-life",
-        "pageTitle": "Health and life sciences in the UK",
+        "pageTitle": "Biowissenschaften (Life Sciences)",
         "layout": "industry.html",
         "contentBlocks": {
           "pageHeader": {
@@ -608,7 +608,7 @@
         },
         "children": [{
           "url": "medical-technology",
-          "pageTitle": "Medical technology in the UK",
+          "pageTitle": "Medizintechnik",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -628,7 +628,7 @@
           }
         }, {
           "url": "pharmaceutical-manufacturing",
-          "pageTitle": "Pharmaceutical manufacturing in the UK",
+          "pageTitle": "Pharmaindustrie",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
@@ -677,7 +677,7 @@
             "link": "/industries/creative/digital-media"
           }, {
             "file": "beta/industries/creative/sub-sectors/content-and-production/de_DE.md",
-            "thumbnail": "place-holder.png",
+            "thumbnail": "content-and-production.jpg",
             "link": "/industries/creative/content-and-production"
           }],
           "formBlock": {
@@ -691,7 +691,7 @@
           "contentBlocks": {
             "pageHeader": {
               "file": "beta/industries/creative/sub-sectors/content-and-production/intro/de_DE.md",
-              "heroImage": "place-holder.png"
+              "heroImage": "content-and-production.jpg"
             },
             "sections": [{
               "file": "beta/industries/creative/sub-sectors/content-and-production/sections/overview/de_DE.md"
@@ -842,7 +842,7 @@
         },
         "children": [{
           "url": "data-analytics",
-          "pageTitle": "Data analytics in the UK",
+          "pageTitle": "Datenanalyse",
           "layout": "sector.html",
           "contentBlocks": {
             "pageHeader": {
