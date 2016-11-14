@@ -14,7 +14,7 @@
     "contentBlocks": {
       "pageHeader": {
         "file": "beta/home/en_US.md",
-        "externalVideo": "https://www.youtube.com/embed/3mnci2p3TbY",
+        "externalVideo": "https://www.youtube.com/embed/3mnci2p3TbY?rel=0",
         "heroVideo": "northern-powerhouse.mp4",
         "heroVideoImage": "northern-powerhouse.jpg"
       },
@@ -654,7 +654,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/creative/intro/en_US.md",
-            "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8",
+            "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8?rel=0",
             "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
@@ -732,7 +732,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/financial-services/intro/en_US.md",
-            "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0",
+            "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0?rel=0",
             "heroVideo": "financial-services.mp4",
             "heroImage": "financial-services.jpg"
           },
@@ -806,7 +806,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/technology/intro/en_US.md",
-            "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo",
+            "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo?rel=0",
             "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },
