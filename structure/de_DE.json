@@ -74,16 +74,16 @@
     },
     "children": [{
       "url": "",
-      "fileName":"404.html",
+      "fileName": "404.html",
       "pageTitle": "HTTP Fehlercode 404 - Seite nicht gefunden",
-      "background" : "404.jpg",
+      "background": "404.jpg",
       "layout": "404.html",
-      "contentBlocks" : {
-        "pageHeader" : {
-          "file" : "beta/info/404/de_DE.md"
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "beta/info/404/de_DE.md"
         }
       }
-    },{
+    }, {
       "url": "setup-guide",
       "pageTitle": "Leitfaden Unternehmensgründung",
       "layout": "bullet-list-page.html",
@@ -864,15 +864,27 @@
       }]
     }, {
       "url": "terms-and-conditions",
-      "pageTitle": "Terms and conditions",
-      "layout": "404.html",
+      "pageTitle": "GREAT.gov.uk Geschäftsbedingungen",
+      "layout": "single-section.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "beta/info/terms-and-conditions/de_DE.md"
+          "file": "great.gov.uk/terms-and-conditions/de.md"
         },
-        "infoBlock": {
-          "file": "beta/info/terms-and-conditions/content/de_DE.md"
-        }
+        "sections": [{
+          "file": "great.gov.uk/terms-and-conditions/content/de.md"
+        }]
+      }
+    }, {
+      "url": "privacy-policy",
+      "pageTitle": "GREAT.gov.uk Geschäftsbedingungen",
+      "layout": "single-section.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "great.gov.uk/privacy-policy/de.md"
+        },
+        "sections": [{
+          "file": "great.gov.uk/privacy-policy/content/de.md"
+        }]
       }
     }, {
       "url": "enquiries/confirmation",
@@ -898,11 +910,6 @@
           "file": "beta/info/form-error/content/de_DE.md"
         }
       }
-    }, {
-      "url": "privacy-and-cookies",
-      "pageTitle": "Privacy and cookies",
-      "layout": "404.html",
-      "contentBlocks": {}
     }]
   }]
 }

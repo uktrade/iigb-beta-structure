@@ -74,16 +74,16 @@
     },
     "children": [{
       "url": "",
-      "fileName":"404.html",
+      "fileName": "404.html",
       "pageTitle": "HTTP Error code 404 - Page not found",
-      "background" : "404.jpg",
+      "background": "404.jpg",
       "layout": "404.html",
-      "contentBlocks" : {
-        "pageHeader" : {
-          "file" : "beta/info/404/en_US.md"
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "beta/info/404/en_US.md"
         }
       }
-    },{
+    }, {
       "url": "setup-guide",
       "pageTitle": "The UK setup guide",
       "layout": "bullet-list-page.html",
@@ -127,11 +127,11 @@
           },
           "sections": [{
             "file": "beta/setup-guide/establish-address/sections/what-you-need-to-know/en_US.md"
-          },{
+          }, {
             "file": "beta/setup-guide/establish-address/sections/regional-centres-of-excellence/en_US.md"
-          },{
+          }, {
             "file": "beta/setup-guide/establish-address/sections/business-clusters/en_US.md"
-          },{
+          }, {
             "file": "beta/setup-guide/establish-address/sections/enterprise-zones/en_US.md"
           }],
           "formBlock": {
@@ -859,14 +859,26 @@
     }, {
       "url": "terms-and-conditions",
       "pageTitle": "Terms and conditions",
-      "layout": "404.html",
+      "layout": "single-section.html",
       "contentBlocks": {
         "pageHeader": {
-          "file": "beta/info/terms-and-conditions/en_US.md"
+          "file": "great.gov.uk/terms-and-conditions/en.md"
         },
-        "infoBlock": {
-          "file": "beta/info/terms-and-conditions/content/en_US.md"
-        }
+        "sections": [{
+          "file": "great.gov.uk/terms-and-conditions/content/en.md"
+        }]
+      }
+    }, {
+      "url": "privacy-policy",
+      "pageTitle": "Privacy and cookies",
+      "layout": "single-section.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "great.gov.uk/privacy-policy/en.md"
+        },
+        "sections": [{
+          "file": "great.gov.uk/privacy-policy/content/en.md"
+        }]
       }
     }, {
       "url": "enquiries/confirmation",
@@ -892,11 +904,6 @@
           "file": "beta/info/form-error/content/en_US.md"
         }
       }
-    }, {
-      "url": "privacy-and-cookies",
-      "pageTitle": "Privacy and cookies",
-      "layout": "404.html",
-      "contentBlocks": {}
     }]
   }]
 }
