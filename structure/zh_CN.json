@@ -671,6 +671,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/creative/intro/zh_CN.md",
+            "externalVideo": "http://player.youku.com/player.php/sid/XMTgxMzgxMDQ1Ng==/v.swf",
             "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
@@ -748,6 +749,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/financial-services/intro/zh_CN.md",
+            "externalVideo": "http://player.youku.com/player.php/sid/XMTgxMzgyNTIzNg==/v.swf",
             "heroVideo": "financial-services.mp4",
             "heroImage": "financial-services.jpg"
           },
@@ -821,6 +823,7 @@
         "contentBlocks": {
           "pageHeader": {
             "file": "beta/industries/technology/intro/zh_CN.md",
+            "externalVideo": "http://player.youku.com/player.php/sid/XMTgxMzgyOTk5Mg==/v.swf",
             "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },
