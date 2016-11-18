@@ -14,6 +14,7 @@
     "contentBlocks": {
       "pageHeader": {
         "file": "beta/home/zh_CN.md",
+        "externalVideo": "http://player.youku.com/player.php/sid/XMTgxMzgyNzQ4NA==/v.swf",
         "heroVideo": "northern-powerhouse.mp4",
         "heroVideoImage": "northern-powerhouse.jpg"
       },
