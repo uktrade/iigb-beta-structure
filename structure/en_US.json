@@ -881,6 +881,15 @@
         }]
       }
     }, {
+      "url": "test-contact-us",
+      "pageTitle": "Contact us",
+      "layout": "contact-us.html",
+      "contentBlocks": {
+        "formBlock": {
+          "file": "beta/form/en_US.md"
+        }
+      }
+    }, {
       "url": "enquiries/confirmation",
       "pageTitle": "Thank you for getting in touch",
       "layout": "info.html",
