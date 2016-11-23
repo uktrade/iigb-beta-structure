@@ -84,6 +84,17 @@
         }
       }
     }, {
+      "url": "",
+      "fileName": "500.html",
+      "pageTitle": "HTTP Error code 500 - Internal Server Error",
+      "background": "",
+      "layout": "500.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "beta/info/500/en_US.md"
+        }
+      }
+    }, {
       "url": "setup-guide",
       "pageTitle": "The UK setup guide",
       "layout": "bullet-list-page.html",
@@ -868,18 +879,19 @@
           "file": "great.gov.uk/terms-and-conditions/content/en.md"
         }]
       }
-}, {    "url": "privacy-policy",
-    "pageTitle": "Privacy and cookies",
-    "layout": "single-section.html",
-    "contentBlocks": {
-      "pageHeader": {
-        "file": "great.gov.uk/privacy-policy/en.md"
-      },
-      "sections": [{
-        "file": "great.gov.uk/privacy-policy/content/en.md"
-      }]
-    }
-  }, {
+    }, {
+      "url": "privacy-policy",
+      "pageTitle": "Privacy and cookies",
+      "layout": "single-section.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "great.gov.uk/privacy-policy/en.md"
+        },
+        "sections": [{
+          "file": "great.gov.uk/privacy-policy/content/en.md"
+        }]
+      }
+    }, {
       "url": "enquiries/confirmation",
       "pageTitle": "Thank you for getting in touch",
       "layout": "info.html",

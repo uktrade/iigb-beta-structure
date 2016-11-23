@@ -84,6 +84,17 @@
         }
       }
     }, {
+      "url": "",
+      "fileName": "500.html",
+      "pageTitle": "HTTP Error code 500 - Internal Server Error",
+      "background": "",
+      "layout": "500.html",
+      "contentBlocks": {
+        "pageHeader": {
+          "file": "beta/info/500/en_US.md"
+        }
+      }
+    }, {
       "url": "setup-guide",
       "pageTitle": "The UK setup guide",
       "layout": "bullet-list-page.html",
