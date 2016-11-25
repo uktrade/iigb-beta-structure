@@ -90,6 +90,9 @@
       "background": "",
       "layout": "500.html",
       "contentBlocks": {
+        "pageHeader": {
+          "file": "beta/info/500/en_US.md"
+        },
         "infoBlock": {
           "file": "beta/info/500/en_US.md"
         }
