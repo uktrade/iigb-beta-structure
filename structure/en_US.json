@@ -891,8 +891,8 @@
       }
     }, {
       "url": "enquiries/confirmation",
-      "pageTitle": "Thank you for getting in touch",
-      "layout": "info.html",
+      "pageTitle": "Enquiry submitted",
+      "layout": "500.html",
       "contentBlocks": {
         "pageHeader": {
           "file": "beta/info/form-confirmation/en_US.md"
