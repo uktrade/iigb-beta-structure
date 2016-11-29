@@ -87,10 +87,21 @@
       "output": "404.html",
       "layout": "404.html",
       "data": {
-      "pageTitle": "HTTP Fehlercode 404 - Seite nicht gefunden",
+        "pageTitle": "HTTP Fehlercode 404 - Seite nicht gefunden",
         "background": "404.jpg",
         "pageHeader": {
           "content": "beta/info/404/de_DE.md"
+        }
+      }
+    }, {
+      "path": "",
+      "output": "500.html",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "HTTP Error code 500 - Internal Server Error",
+        "background": "",
+        "pageHeader": {
+          "content": "beta/info/500/de_DE.md"
         }
       }
     }, {

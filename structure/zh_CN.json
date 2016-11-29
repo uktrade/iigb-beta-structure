@@ -93,6 +93,17 @@
           "content": "beta/info/404/zh_CN.md"
         }
       }
+    },{
+      "path": "",
+      "output": "500.html",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "HTTP Error code 500 - Internal Server Error",
+        "background": "",
+        "pageHeader": {
+          "content": "beta/info/500/zh_CN.md"
+        }
+      }
     }, {
       "path": "setup-guide",
       "layout": "bullet-list-page.html",
