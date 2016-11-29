@@ -812,10 +812,13 @@
         }]
       }
     }, {
-      "path": "test-contact-us",
-      "layout": "contact-us.html",
+      "path": "feedback",
+      "layout": "feedback.html",
       "data": {
-        "pageTitle": "Contact us"
+        "pageTitle": "Feedback",
+        "pageHeader": {
+          "content": "beta/info/feedback/en_US.md"
+        }
       }
     }, {
       "path": "enquiries/confirmation",
