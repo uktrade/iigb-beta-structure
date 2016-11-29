@@ -881,12 +881,12 @@
         }]
       }
     }, {
-      "url": "test-contact-us",
-      "pageTitle": "Contact us",
-      "layout": "contact-us.html",
+      "url": "feedback",
+      "pageTitle": "Feedback",
+      "layout": "feedback.html",
       "contentBlocks": {
-        "formBlock": {
-          "file": "beta/form/en_US.md"
+        "pageHeader": {
+          "file": "beta/info/feedback/en_US.md"
         }
       }
     }, {
