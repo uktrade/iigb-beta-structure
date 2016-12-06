@@ -896,6 +896,15 @@
         }]
       }
     }, {
+      "path": "contact-us",
+      "layout": "contact-us.html",
+      "data": {
+        "pageTitle": "Contact us",
+        "formBlock": {
+          "file": "beta/form/de_DE.md"
+        }
+      }
+    }, {
       "path": "privacy-policy",
       "layout": "single-section.html",
       "data": {
