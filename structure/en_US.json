@@ -824,6 +824,15 @@
         }
       }
     }, {
+      "path": "contact-us",
+      "layout": "contact-us.html",
+      "data": {
+        "pageTitle": "Contact us",
+        "formBlock": {
+          "file": "beta/form/en_US.md"
+        }
+      }
+    }, {
       "path": "enquiries/confirmation",
       "layout": "500.html",
       "data": {
