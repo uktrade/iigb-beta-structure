@@ -821,6 +821,20 @@
         }
       }
     }, {
+      "path": "",
+      "output": "500.html",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "HTTP Error code 500 - Internal Server Error",
+        "background": "",
+        "pageHeader": {
+          "content": "beta/info/500/en_US.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/500/en_US.md"
+        }
+      }
+    }, {
       "path": "contact-us",
       "layout": "contact-us.html",
       "data": {

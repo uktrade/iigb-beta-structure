@@ -102,6 +102,9 @@
         "background": "",
         "pageHeader": {
           "content": "beta/info/500/zh_CN.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/500/zh_CN.md"
         }
       }
     }, {
