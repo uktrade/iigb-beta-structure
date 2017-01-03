@@ -613,7 +613,6 @@
           "pageHeader": {
             "content": "beta/industries/creative/intro/en_US.md",
             "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8?rel=0",
-            "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
           "sections": [{
@@ -682,7 +681,6 @@
           "pageHeader": {
             "content": "beta/industries/financial-services/intro/en_US.md",
             "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0?rel=0",
-            "heroVideo": "financial-services.mp4",
             "heroImage": "financial-services.jpg"
           },
           "sections": [{
@@ -747,7 +745,6 @@
           "pageHeader": {
             "content": "beta/industries/technology/intro/en_US.md",
             "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo?rel=0",
-            "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },
           "sections": [{
@@ -821,15 +818,6 @@
         "pageTitle": "Feedback",
         "pageHeader": {
           "content": "beta/info/feedback/en_US.md"
-        }
-      }
-    }, {
-      "path": "contact-us",
-      "layout": "contact-us.html",
-      "data": {
-        "pageTitle": "Contact us",
-        "formBlock": {
-          "file": "beta/form/en_US.md"
         }
       }
     }, {

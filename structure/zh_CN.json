@@ -631,7 +631,6 @@
           "pageHeader": {
             "content": "beta/industries/creative/intro/zh_CN.md",
             "externalVideoCN": "http://player.youku.com/player.php/sid/XMTgxMzgxMDQ1Ng==/v.swf",
-            "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
           "sections": [{
@@ -700,7 +699,6 @@
           "pageHeader": {
             "content": "beta/industries/financial-services/intro/zh_CN.md",
             "externalVideoCN": "http://player.youku.com/player.php/sid/XMTgxMzgyNTIzNg==/v.swf",
-            "heroVideo": "financial-services.mp4",
             "heroImage": "financial-services.jpg"
           },
           "sections": [{
@@ -765,7 +763,6 @@
           "pageHeader": {
             "content": "beta/industries/technology/intro/zh_CN.md",
             "externalVideoCN": "http://player.youku.com/player.php/sid/XMTgxMzgyOTk5Mg==/v.swf",
-            "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },
           "sections": [{
@@ -833,15 +830,6 @@
         "sections": [{
           "content": "great.gov.uk/privacy-policy/content/zh.md"
         }]
-      }
-    }, {
-      "path": "contact-us",
-      "layout": "contact-us.html",
-      "data": {
-        "pageTitle": "Contact us",
-        "formBlock": {
-          "file": "beta/form/zh_CN.md"
-        }
       }
     }, {
       "path": "enquiries/confirmation",
