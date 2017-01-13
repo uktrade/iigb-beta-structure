@@ -3,14 +3,11 @@
     "locale": {
       "language": "en",
       "country": "us",
+      "code": "en_US",
       "countryName": "United States"
     },
     "labels": {
-      "content": "_labels/en_US.md",
-      "hoist": true
-    },
-    "labels_en": {
-      "content": "_labels/en_US.md",
+      "content": "_labels/labels.md",
       "hoist": true
     },
     "formBlock": {

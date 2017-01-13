@@ -3,14 +3,11 @@
     "locale": {
       "language": "de",
       "country": "de",
+      "code": "de_DE",
       "countryName": "Deutschland"
     },
     "labels": {
-      "content": "_labels/de_DE.md",
-      "hoist": true
-    },
-    "labels_en": {
-      "content": "_labels/en_US.md",
+      "content": "_labels/labels.md",
       "hoist": true
     },
     "formBlock": {
