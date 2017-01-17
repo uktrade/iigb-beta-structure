@@ -3,14 +3,11 @@
     "locale": {
       "language": "zh",
       "country": "cn",
+      "code": "zh_CN",
       "countryName": "中国"
     },
     "labels": {
-      "content": "_labels/zh_CN.md",
-      "hoist": true
-    },
-    "labels_en": {
-      "content": "_labels/en_US.md",
+      "content": "_labels/labels.md",
       "hoist": true
     },
     "formBlock": {
