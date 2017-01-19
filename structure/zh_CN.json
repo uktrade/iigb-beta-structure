@@ -832,6 +832,15 @@
         }]
       }
     }, {
+      "path": "feedback",
+      "layout": "feedback.html",
+      "data": {
+        "pageTitle": "Feedback",
+        "pageHeader": {
+          "content": "beta/info/feedback/zh_CN.md"
+        }
+      }
+    }, {
       "path": "enquiries/confirmation",
       "layout": "info.html",
       "data": {
