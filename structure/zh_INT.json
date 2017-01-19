@@ -1,0 +1,857 @@
+{
+  "globalData": {
+    "locale": {
+      "language": "zh",
+      "country": "int",
+      "code": "zh_CN",
+      "countryName": "国际"
+    },
+    "labels": {
+      "content": "_labels/labels.md",
+      "hoist": true
+    },
+    "formBlock": {
+      "content": "beta/form/zh_CN.md"
+    }
+  },
+  "pages": [{
+    "path": "int/cn",
+    "layout": "home.html",
+    "data": {
+      "pageTitle": "主页",
+      "pageHeader": {
+        "content": "beta/home/zh_CN.md",
+        "externalVideoCN": "http://player.youku.com/player.php/sid/XMTgxMzgyNzQ4NA==/v.swf",
+        "heroVideo": "northern-powerhouse.mp4",
+        "heroVideoImage": "northern-powerhouse.jpg"
+      },
+      "firstSection": {
+        "content": "beta/form/zh_CN.md"
+      },
+      "tileItems": [{
+        "content": "beta/industries/automotive/zh_CN.md",
+        "thumbnail": "automotive.jpg",
+        "link": "/industries/automotive"
+      }, {
+        "content": "beta/industries/creative/zh_CN.md",
+        "thumbnail": "creative.jpg",
+        "link": "/industries/creative"
+      }, {
+        "content": "beta/industries/energy-generation/zh_CN.md",
+        "thumbnail": "energy.jpg",
+        "link": "/industries/energy"
+      }, {
+        "content": "beta/industries/financial-services/zh_CN.md",
+        "thumbnail": "financial-services.jpg",
+        "link": "/industries/financial-services"
+      }, {
+        "content": "beta/industries/life-sciences/zh_CN.md",
+        "thumbnail": "life-sciences.jpg",
+        "link": "/industries/health-and-life"
+      }, {
+        "content": "beta/industries/technology/zh_CN.md",
+        "thumbnail": "technology.jpg",
+        "link": "/industries/technology"
+      }],
+      "listHeader": {
+        "content": "beta/setup-guide/zh_CN.md"
+      },
+      "listItems": [{
+        "content": "beta/setup-guide/how-to-setup/zh_CN.md",
+        "link": "/setup-guide/how-to-setup"
+      }, {
+        "content": "beta/setup-guide/apply-for-visa/zh_CN.md",
+        "link": "/setup-guide/apply-for-visa"
+      }, {
+        "content": "beta/setup-guide/open-a-business-account/zh_CN.md",
+        "link": "/setup-guide/open-a-business-account"
+      }, {
+        "content": "beta/setup-guide/understand-tax/zh_CN.md",
+        "link": "/setup-guide/understand-tax"
+      }, {
+        "content": "beta/setup-guide/establish-address/zh_CN.md",
+        "link": "/setup-guide/establish-address"
+      }, {
+        "content": "beta/setup-guide/access-talent/zh_CN.md",
+        "link": "/setup-guide/access-talent"
+      }, {
+        "content": "beta/setup-guide/understand-legal/zh_CN.md",
+        "link": "/setup-guide/understand-legal"
+      }]
+    },
+    "children": [{
+      "path": "",
+      "output": "404.html",
+      "layout": "404.html",
+      "data": {
+        "pageTitle": "HTTP 404错误代码 —— 页面未找到",
+        "background": "404.jpg",
+        "pageHeader": {
+          "content": "beta/info/404/zh_CN.md"
+        }
+      }
+    }, {
+      "path": "",
+      "output": "500.html",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "HTTP Error code 500 - Internal Server Error",
+        "background": "",
+        "pageHeader": {
+          "content": "beta/info/500/zh_CN.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/500/zh_CN.md"
+        }
+      }
+    }, {
+      "path": "setup-guide",
+      "layout": "bullet-list-page.html",
+      "data": {
+        "pageTitle": "英国创业指南",
+        "pageHeader": {
+          "content": "beta/setup-guide/zh_CN.md"
+        },
+        "listItems": [{
+          "content": "beta/setup-guide/how-to-setup/zh_CN.md",
+          "link": "/setup-guide/how-to-setup"
+        }, {
+          "content": "beta/setup-guide/apply-for-visa/zh_CN.md",
+          "link": "/beta/setup-guide/apply-for-visa"
+        }, {
+          "content": "beta/setup-guide/open-a-business-account/zh_CN.md",
+          "link": "/setup-guide/open-a-business-account"
+        }, {
+          "content": "beta/setup-guide/understand-tax/zh_CN.md",
+          "link": "/setup-guide/understand-tax"
+        }, {
+          "content": "beta/setup-guide/establish-address/zh_CN.md",
+          "link": "/setup-guide/establish-address"
+        }, {
+          "content": "beta/setup-guide/access-talent/zh_CN.md",
+          "link": "/setup-guide/access-talent"
+        }, {
+          "content": "beta/setup-guide/understand-legal/zh_CN.md",
+          "link": "/setup-guide/understand-legal"
+        }]
+      },
+      "children": [{
+        "path": "establish-address",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "在英国建立业务基地",
+          "pageHeader": {
+            "content": "beta/setup-guide/establish-address/intro/zh_CN.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/establish-address/sections/how-to-establish/zh_CN.md"
+          }]
+        }
+      }, {
+        "path": "apply-for-visa",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "申请英国签证",
+          "pageHeader": {
+            "content": "beta/setup-guide/apply-for-visa/zh_CN.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/apply-for-visa/sections/overview/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/apply-for-visa/sections/understand-the-range-of-visas/zh_CN.md"
+          }]
+        }
+      }, {
+        "path": "open-a-business-account",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "开立英国公司银行账户",
+          "pageHeader": {
+            "content": "beta/setup-guide/open-a-business-account/intro/zh_CN.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/open-a-business-account/sections/what-you-need-to-do/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/open-a-business-account/sections/how-long-it-takes/zh_CN.md"
+          }]
+        }
+      }, {
+        "path": "how-to-setup",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "在英国设立公司",
+          "pageHeader": {
+            "content": "beta/setup-guide/how-to-setup/intro/zh_CN.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/how-to-setup/sections/register-a-company/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/how-to-setup/sections/register-a-branch/zh_CN.md"
+          }]
+        }
+      }, {
+        "path": "understand-tax",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "了解英国的税收制度和激励措施",
+          "pageHeader": {
+            "content": "beta/setup-guide/understand-tax/zh_CN.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/understand-tax/sections/corporation-tax/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/understand-tax/sections/tax-incentives/zh_CN.md"
+          }]
+        }
+      }, {
+        "path": "access-talent",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "为您的英国公司雇佣技能娴熟的工人",
+          "pageHeader": {
+            "content": "beta/setup-guide/access-talent/intro/zh_CN.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/access-talent/sections/flexible-laws/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/access-talent/sections/employment-costs/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/access-talent/sections/access-to-talent/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/access-talent/sections/graduate-talent/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/access-talent/sections/apprenticeships/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/access-talent/sections/overseas-talent/zh_CN.md"
+          }]
+        }
+      }, {
+        "path": "understand-legal",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "英国的法律架构",
+          "pageHeader": {
+            "content": "beta/setup-guide/understand-legal/intro/zh_CN.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/understand-legal/Overview/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/understand-legal/sections/protection-when-selling/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/understand-legal/sections/intellectual-property/zh_CN.md"
+          }, {
+            "content": "beta/setup-guide/understand-legal/sections/data-protection/zh_CN.md"
+          }]
+        }
+      }]
+    }, {
+      "path": "industries",
+      "layout": "landing-page.html",
+      "data": {
+        "pageTitle": "英国的产业",
+        "pageHeader": {
+          "content": "beta/industries/zh_CN.md"
+        },
+        "tileItems": [{
+          "content": "beta/industries/automotive/zh_CN.md",
+          "thumbnail": "automotive.jpg",
+          "link": "/industries/automotive"
+        }, {
+          "content": "beta/industries/creative/zh_CN.md",
+          "thumbnail": "creative.jpg",
+          "link": "/industries/creative"
+        }, {
+          "content": "beta/industries/energy-generation/zh_CN.md",
+          "thumbnail": "energy.jpg",
+          "link": "/industries/energy"
+        }, {
+          "content": "beta/industries/financial-services/zh_CN.md",
+          "thumbnail": "financial-services.jpg",
+          "link": "/industries/financial-services"
+        }, {
+          "content": "beta/industries/life-sciences/zh_CN.md",
+          "thumbnail": "life-sciences.jpg",
+          "link": "/industries/health-and-life"
+        }, {
+          "content": "beta/industries/technology/zh_CN.md",
+          "thumbnail": "technology.jpg",
+          "link": "/industries/technology"
+        }],
+        "subTileItems": [{
+          "content": "beta/industries/financial-services/sub-sectors/asset-management/zh_CN.md",
+          "thumbnail": "asset-management.jpg",
+          "link": "/industries/financial-services/asset-management"
+        }, {
+          "content": "beta/industries/automotive/sub-sectors/research-and-development/zh_CN.md",
+          "thumbnail": "research-and-development.jpg",
+          "link": "/industries/automotive/research-and-development"
+        }, {
+          "content": "beta/industries/automotive/sub-sectors/supply-chain/zh_CN.md",
+          "thumbnail": "supply-chain.jpg",
+          "link": "/industries/automotive/supply-chain"
+        }, {
+          "content": "beta/industries/creative/sub-sectors/content-and-production/zh_CN.md",
+          "thumbnail": "content-and-production.jpg",
+          "link": "/industries/creative/content-and-production"
+        }, {
+          "content": "beta/industries/technology/sub-sectors/data-analytics/zh_CN.md",
+          "thumbnail": "data-analytics.jpg",
+          "link": "/industries/technology/data-analytics"
+        }, {
+          "content": "beta/industries/creative/sub-sectors/digital-media/zh_CN.md",
+          "thumbnail": "digital-media.jpg",
+          "link": "/industries/creative/digital-media"
+        }, {
+          "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/zh_CN.md",
+          "thumbnail": "electrical-networks.jpg",
+          "link": "/industries/energy/electrical-networks"
+        }, {
+          "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/zh_CN.md",
+          "thumbnail": "energy-from-waste.jpg",
+          "link": "/industries/energy/energy-from-waste"
+        }, {
+          "content": "beta/industries/financial-services/sub-sectors/fintech/zh_CN.md",
+          "thumbnail": "fintech.jpg",
+          "link": "/industries/financial-services/financial-technology"
+        }, {
+          "content": "beta/industries/life-sciences/sub-sectors/medical-technology/zh_CN.md",
+          "thumbnail": "medical-technology.jpg",
+          "link": "/industries/health-and-life/medical-technology"
+        }, {
+          "content": "beta/industries/automotive/sub-sectors/motorsport/zh_CN.md",
+          "thumbnail": "motorsport.jpg",
+          "link": "/industries/automotive/motorsport"
+        }, {
+          "content": "beta/industries/energy-generation/sub-sectors/nuclear/zh_CN.md",
+          "thumbnail": "nuclear.jpg",
+          "link": "/industries/energy/nuclear"
+        }, {
+          "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/zh_CN.md",
+          "thumbnail": "offshore.jpg",
+          "link": "/industries/energy/offshore-wind"
+        }, {
+          "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/zh_CN.md",
+          "thumbnail": "oil-and-gas.jpg",
+          "link": "/industries/energy/oil-and-gas"
+        }, {
+          "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/zh_CN.md",
+          "thumbnail": "medicine-manufacturing.jpg",
+          "link": "/industries/health-and-life/pharmaceutical-manufacturing"
+        }]
+      },
+      "children": [{
+        "path": "automotive",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "英国汽车产业",
+          "pageHeader": {
+            "content": "beta/industries/automotive/zh_CN.md",
+            "heroImage": "automotive.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/automotive/overview/zh_CN.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/automotive/sub-sectors/motorsport/zh_CN.md",
+            "thumbnail": "motorsport.jpg",
+            "link": "/industries/automotive/motorsport"
+          }, {
+            "content": "beta/industries/automotive/sub-sectors/research-and-development/zh_CN.md",
+            "thumbnail": "research-and-development.jpg",
+            "link": "/industries/automotive/research-and-development"
+          }, {
+            "content": "beta/industries/automotive/sub-sectors/supply-chain/zh_CN.md",
+            "thumbnail": "supply-chain.jpg",
+            "link": "/industries/automotive/supply-chain"
+          }]
+        },
+        "children": [{
+          "path": "motorsport",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "英国赛车运动",
+            "pageHeader": {
+              "content": "beta/industries/automotive/sub-sectors/motorsport/zh_CN.md",
+              "heroImage": "motorsport.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/zh_CN.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/from-game-to-road/zh_CN.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/f1-technology/zh_CN.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/support-and-incentives/zh_CN.md"
+            }]
+          }
+        }, {
+          "path": "research-and-development",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "汽车研发",
+            "pageHeader": {
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/intro/zh_CN.md",
+              "heroImage": "research-and-development.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/Overview/zh_CN.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/funding/zh_CN.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/support-and-incentives/zh_CN.md"
+            }]
+          }
+        }, {
+          "path": "supply-chain",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "汽车供应链",
+            "pageHeader": {
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/intro/zh_CN.md",
+              "heroImage": "supply-chain.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/market-conditions/zh_CN.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/strong-regional-cluster/zh_CN.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/support-and-incentives/zh_CN.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/talent-and-skills/zh_CN.md"
+            }]
+          }
+        }]
+      }, {
+        "path": "energy",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "英国的能源发电",
+          "pageHeader": {
+            "content": "beta/industries/energy-generation/intro/zh_CN.md",
+            "heroImage": "energy.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/energy-generation/overview/zh_CN.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/zh_CN.md",
+            "thumbnail": "electrical-networks.jpg",
+            "link": "/industries/energy/electrical-networks"
+          }, {
+            "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/zh_CN.md",
+            "thumbnail": "offshore.jpg",
+            "link": "/industries/energy/offshore-wind"
+          }, {
+            "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/zh_CN.md",
+            "thumbnail": "energy-from-waste.jpg",
+            "link": "/industries/energy/energy-from-waste"
+          }, {
+            "content": "beta/industries/energy-generation/sub-sectors/nuclear/zh_CN.md",
+            "thumbnail": "nuclear.jpg",
+            "link": "/industries/energy/nuclear"
+          }, {
+            "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/zh_CN.md",
+            "thumbnail": "oil-and-gas.jpg",
+            "link": "/industries/energy/oil-and-gas"
+          }]
+        },
+        "children": [{
+          "path": "offshore-wind",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "英国海上风电生产",
+            "pageHeader": {
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/zh_CN.md",
+              "heroImage": "offshore.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/prime-location/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/expanding-pool/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/government-support/zh_CN.md"
+            }]
+          }
+        }, {
+          "path": "energy-from-waste",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "英国废物能源",
+            "pageHeader": {
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/zh_CN.md",
+              "heroImage": "energy-from-waste.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/strong-market/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/opportunities-for-growth/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/supply-chain-opportunities/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/zh_CN.md"
+            }]
+          }
+        }, {
+          "path": "nuclear",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "英国核能",
+            "pageHeader": {
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/intro/zh_CN.md",
+              "heroImage": "nuclear.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/market-conditions/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/support-and-incentives/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/regulatory-system/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/skills-development/zh_CN.md"
+            }]
+          }
+        }, {
+          "path": "oil-and-gas",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "英国石油与天然气",
+            "pageHeader": {
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/zh_CN.md",
+              "heroImage": "oil-and-gas.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/overview/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/market-conditions/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/safety-development/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/support-and-incentives/zh_CN.md"
+            }]
+          }
+        }, {
+          "path": "electrical-networks",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "英国电力网络",
+            "pageHeader": {
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/zh_CN.md",
+              "heroImage": "electrical-networks.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/market-conditions/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/support-and-incentives/zh_CN.md"
+            }]
+          }
+        }]
+      }, {
+        "path": "health-and-life",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "生命科学",
+          "pageHeader": {
+            "content": "beta/industries/life-sciences/intro/zh_CN.md",
+            "heroImage": "life-sciences.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/life-sciences/overview/zh_CN.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/life-sciences/sub-sectors/medical-technology/zh_CN.md",
+            "thumbnail": "medical-technology.jpg",
+            "link": "/industries/health-and-life/medical-technology"
+          }, {
+            "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/zh_CN.md",
+            "thumbnail": "medicine-manufacturing.jpg",
+            "link": "/industries/health-and-life/pharmaceutical-manufacturing"
+          }]
+        },
+        "children": [{
+          "path": "medical-technology",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "英国医疗技术",
+            "pageHeader": {
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/zh_CN.md",
+              "heroImage": "medical-technology.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/market-conditions/zh_CN.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/support-and-incentives/zh_CN.md"
+            }]
+          }
+        }, {
+          "path": "pharmaceutical-manufacturing",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "制药",
+            "pageHeader": {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/zh_CN.md",
+              "heroImage": "medicine-manufacturing.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/development-of-future-medicines/zh_CN.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/highly-modern-sector/zh_CN.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/strong-regulations/zh_CN.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/skills-and-expertise/zh_CN.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/support-and-incentives/zh_CN.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/innovation/zh_CN.md"
+            }]
+          }
+        }]
+      }, {
+        "path": "creative",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "创意产业",
+          "pageHeader": {
+            "content": "beta/industries/creative/intro/zh_CN.md",
+            "externalVideoCN": "http://player.youku.com/player.php/sid/XMTgxMzgxMDQ1Ng==/v.swf",
+            "heroImage": "creative.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/creative/overview/zh_CN.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/creative/sub-sectors/content-and-production/zh_CN.md",
+            "thumbnail": "content-and-production.jpg",
+            "link": "/industries/creative/content-and-production"
+          }, {
+            "content": "beta/industries/technology/sub-sectors/data-analytics/zh_CN.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
+          }, {
+            "content": "beta/industries/creative/sub-sectors/digital-media/zh_CN.md",
+            "thumbnail": "digital-media.jpg",
+            "link": "/industries/creative/digital-media"
+          }]
+        },
+        "children": [{
+          "path": "content-and-production",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "创意内容与制作",
+            "pageHeader": {
+              "content": "beta/industries/creative/sub-sectors/content-and-production/intro/zh_CN.md",
+              "heroImage": "content-and-production.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/overview/zh_CN.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/market-conditions/zh_CN.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/support-and-incentives/zh_CN.md"
+            }]
+          }
+        }, {
+          "path": "digital-media",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "数字媒体",
+            "pageHeader": {
+              "content": "beta/industries/creative/sub-sectors/digital-media/intro/zh_CN.md",
+              "heroImage": "digital-media.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/overview/zh_CN.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/market-conditions/zh_CN.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/areas-of-opportunity/zh_CN.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/support-and-incentives/zh_CN.md"
+            }]
+          }
+        }]
+      }, {
+        "path": "financial-services",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "金融产业",
+          "pageHeader": {
+            "content": "beta/industries/financial-services/intro/zh_CN.md",
+            "externalVideoCN": "http://player.youku.com/player.php/sid/XMTgxMzgyNTIzNg==/v.swf",
+            "heroImage": "financial-services.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/financial-services/overview/zh_CN.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/financial-services/sub-sectors/asset-management/zh_CN.md",
+            "thumbnail": "asset-management.jpg",
+            "link": "/industries/financial-services/asset-management"
+          }, {
+            "content": "beta/industries/technology/sub-sectors/data-analytics/zh_CN.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
+          }, {
+            "content": "beta/industries/financial-services/sub-sectors/fintech/zh_CN.md",
+            "thumbnail": "fintech.jpg",
+            "link": "/industries/financial-services/financial-technology"
+          }]
+        },
+        "children": [{
+          "path": "asset-management",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "英国的资产管理",
+            "pageHeader": {
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/intro/zh_CN.md",
+              "heroImage": "asset-management.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-growing-market/zh_CN.md"
+            }, {
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-wide-range-of-funds/zh_CN.md"
+            }, {
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/attractive-business/zh_CN.md"
+            }, {
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/government-support/zh_CN.md"
+            }]
+          }
+        }, {
+          "path": "financial-technology",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "英国的金融技术",
+            "pageHeader": {
+              "content": "beta/industries/financial-services/sub-sectors/fintech/intro/zh_CN.md",
+              "heroImage": "fintech.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/market-conditions/zh_CN.md"
+            }, {
+              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/talent-and-skills/zh_CN.md"
+            }, {
+              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/support-and-incentives/zh_CN.md"
+            }]
+          }
+        }]
+      }, {
+        "path": "technology",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "技术产业",
+          "pageHeader": {
+            "content": "beta/industries/technology/intro/zh_CN.md",
+            "externalVideoCN": "http://player.youku.com/player.php/sid/XMTgxMzgyOTk5Mg==/v.swf",
+            "heroImage": "technology.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/technology/overview/zh_CN.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/technology/sub-sectors/data-analytics/zh_CN.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
+          }, {
+            "content": "beta/industries/creative/sub-sectors/digital-media/zh_CN.md",
+            "thumbnail": "digital-media.jpg",
+            "link": "/industries/creative/digital-media"
+          }, {
+            "content": "beta/industries/financial-services/sub-sectors/fintech/zh_CN.md",
+            "thumbnail": "fintech.jpg",
+            "link": "/industries/financial-services/financial-technology"
+          }, {
+            "content": "beta/industries/life-sciences/sub-sectors/medical-technology/zh_CN.md",
+            "thumbnail": "medical-technology.jpg",
+            "link": "/industries/health-and-life/medical-technology"
+          }]
+        },
+        "children": [{
+          "path": "data-analytics",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "英国的数据分析业",
+            "pageHeader": {
+              "content": "beta/industries/technology/sub-sectors/data-analytics/intro/zh_CN.md",
+              "heroImage": "data-analytics.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/zh_CN.md"
+            }, {
+              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/center_of_excellence/zh_CN.md"
+            }, {
+              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/data_infrastructure_and_talent/zh_CN.md"
+            }, {
+              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/investment_in_the_future/zh_CN.md"
+            }]
+          }
+        }]
+      }]
+    }, {
+      "path": "terms-and-conditions",
+      "layout": "single-section.html",
+      "data": {
+        "pageTitle": "GREAT.gov.uk的条款和条件",
+        "pageHeader": {
+          "content": "great.gov.uk/terms-and-conditions/zh.md"
+        },
+        "sections": [{
+          "content": "great.gov.uk/terms-and-conditions/content/zh.md"
+        }]
+      }
+    }, {
+      "path": "privacy-policy",
+      "layout": "single-section.html",
+      "data": {
+        "pageTitle": "GREAT.gov.uk的条款和条件",
+        "pageHeader": {
+          "content": "great.gov.uk/privacy-policy/zh.md"
+        },
+        "sections": [{
+          "content": "great.gov.uk/privacy-policy/content/zh.md"
+        }]
+      }
+    }, {
+      "path": "enquiries/confirmation",
+      "layout": "info.html",
+      "data": {
+        "pageTitle": "感谢您在我们的网站注册, 并对投资英国的兴趣",
+        "pageHeader": {
+          "content": "beta/info/form-confirmation/zh_CN.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/form-confirmation/content/zh_CN.md"
+        }
+      }
+    }, {
+      "path": "enquiries/error",
+      "layout": "info.html",
+      "data": {
+        "pageTitle": "提交的资料未能到达我们的数据库",
+        "pageHeader": {
+          "content": "beta/info/form-error/zh_CN.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/form-error/content/zh_CN.md"
+        }
+      }
+    }]
+  }]
+}

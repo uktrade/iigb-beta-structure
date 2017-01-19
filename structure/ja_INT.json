@@ -1,81 +1,81 @@
 {
   "globalData": {
     "locale": {
-      "language": "en",
-      "country": "cn",
-      "code": "en_US",
-      "countryName": "China"
+      "language": "ja",
+      "country": "int",
+      "code": "ja_JP",
+      "countryName": "国際"
     },
     "labels": {
       "content": "_labels/labels.md",
       "hoist": true
     },
     "formBlock": {
-      "content": "beta/form/en_US.md"
+      "content": "beta/form/ja_JP.md"
     }
   },
   "pages": [{
-    "path": "cn/en",
+    "path": "int/jp",
     "layout": "home.html",
     "data": {
       "pageTitle": "Invest home",
       "pageHeader": {
-        "content": "beta/home/en_US.md",
+        "content": "beta/home/ja_JP.md",
         "externalVideo": "https://www.youtube.com/embed/3mnci2p3TbY?rel=0",
         "heroVideo": "northern-powerhouse.mp4",
         "heroVideoImage": "northern-powerhouse.jpg"
       },
       "firstSection": {
-        "content": "beta/form/en_US.md"
+        "content": "beta/form/ja_JP.md"
       },
       "tileItems": [{
-        "content": "beta/industries/automotive/en_US.md",
+        "content": "beta/industries/automotive/ja_JP.md",
         "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
       }, {
-        "content": "beta/industries/creative/en_US.md",
+        "content": "beta/industries/creative/ja_JP.md",
         "thumbnail": "creative.jpg",
         "link": "/industries/creative"
       }, {
-        "content": "beta/industries/energy-generation/en_US.md",
+        "content": "beta/industries/energy-generation/ja_JP.md",
         "thumbnail": "energy.jpg",
         "link": "/industries/energy"
       }, {
-        "content": "beta/industries/financial-services/en_US.md",
+        "content": "beta/industries/financial-services/ja_JP.md",
         "thumbnail": "financial-services.jpg",
         "link": "/industries/financial-services"
       }, {
-        "content": "beta/industries/life-sciences/en_US.md",
+        "content": "beta/industries/life-sciences/ja_JP.md",
         "thumbnail": "life-sciences.jpg",
         "link": "/industries/health-and-life"
       }, {
-        "content": "beta/industries/technology/en_US.md",
+        "content": "beta/industries/technology/ja_JP.md",
         "thumbnail": "technology.jpg",
         "link": "/industries/technology"
       }],
       "listHeader": {
-        "content": "beta/setup-guide/en_US.md"
+        "content": "beta/setup-guide/ja_JP.md"
       },
       "listItems": [{
-        "content": "beta/setup-guide/how-to-setup/en_US.md",
+        "content": "beta/setup-guide/how-to-setup/ja_JP.md",
         "link": "/setup-guide/how-to-setup"
       }, {
-        "content": "beta/setup-guide/apply-for-visa/en_US.md",
+        "content": "beta/setup-guide/apply-for-visa/ja_JP.md",
         "link": "/setup-guide/apply-for-visa"
       }, {
-        "content": "beta/setup-guide/open-a-business-account/en_US.md",
+        "content": "beta/setup-guide/open-a-business-account/ja_JP.md",
         "link": "/setup-guide/open-a-business-account"
       }, {
-        "content": "beta/setup-guide/understand-tax/en_US.md",
+        "content": "beta/setup-guide/understand-tax/ja_JP.md",
         "link": "/setup-guide/understand-tax"
       }, {
-        "content": "beta/setup-guide/establish-address/en_US.md",
+        "content": "beta/setup-guide/establish-address/ja_JP.md",
         "link": "/setup-guide/establish-address"
       }, {
-        "content": "beta/setup-guide/access-talent/en_US.md",
+        "content": "beta/setup-guide/access-talent/ja_JP.md",
         "link": "/setup-guide/access-talent"
       }, {
-        "content": "beta/setup-guide/understand-legal/en_US.md",
+        "content": "beta/setup-guide/understand-legal/ja_JP.md",
         "link": "/setup-guide/understand-legal"
       }]
     },
@@ -87,7 +87,7 @@
         "pageTitle": "HTTP Error code 404 - Page not found",
         "background": "404.jpg",
         "pageHeader": {
-          "content": "beta/info/404/en_US.md"
+          "content": "beta/info/404/ja_JP.md"
         }
       }
     }, {
@@ -98,7 +98,10 @@
         "pageTitle": "HTTP Error code 500 - Internal Server Error",
         "background": "",
         "pageHeader": {
-          "content": "beta/info/500/en_US.md"
+          "content": "beta/info/500/ja_JP.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/500/ja_JP.md"
         }
       }
     }, {
@@ -107,28 +110,28 @@
       "data": {
         "pageTitle": "The UK setup guide",
         "pageHeader": {
-          "content": "beta/setup-guide/en_US.md"
+          "content": "beta/setup-guide/ja_JP.md"
         },
         "listItems": [{
-          "content": "beta/setup-guide/how-to-setup/en_US.md",
+          "content": "beta/setup-guide/how-to-setup/ja_JP.md",
           "link": "/setup-guide/how-to-setup"
         }, {
-          "content": "beta/setup-guide/apply-for-visa/en_US.md",
+          "content": "beta/setup-guide/apply-for-visa/ja_JP.md",
           "link": "/setup-guide/apply-for-visa"
         }, {
-          "content": "beta/setup-guide/open-a-business-account/en_US.md",
+          "content": "beta/setup-guide/open-a-business-account/ja_JP.md",
           "link": "/setup-guide/open-a-business-account"
         }, {
-          "content": "beta/setup-guide/understand-tax/en_US.md",
+          "content": "beta/setup-guide/understand-tax/ja_JP.md",
           "link": "/setup-guide/understand-tax"
         }, {
-          "content": "beta/setup-guide/establish-address/en_US.md",
+          "content": "beta/setup-guide/establish-address/ja_JP.md",
           "link": "/setup-guide/establish-address"
         }, {
-          "content": "beta/setup-guide/access-talent/en_US.md",
+          "content": "beta/setup-guide/access-talent/ja_JP.md",
           "link": "/setup-guide/access-talent"
         }, {
-          "content": "beta/setup-guide/understand-legal/en_US.md",
+          "content": "beta/setup-guide/understand-legal/ja_JP.md",
           "link": "/setup-guide/understand-legal"
         }]
       },
@@ -138,16 +141,16 @@
         "data": {
           "pageTitle": "Establish a base for business in the UK",
           "pageHeader": {
-            "content": "beta/setup-guide/establish-address/intro/en_US.md"
+            "content": "beta/setup-guide/establish-address/intro/ja_JP.md"
           },
           "sections": [{
-            "content": "beta/setup-guide/establish-address/sections/what-you-need-to-know/en_US.md"
+            "content": "beta/setup-guide/establish-address/sections/what-you-need-to-know/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/establish-address/sections/regional-centres-of-excellence/en_US.md"
+            "content": "beta/setup-guide/establish-address/sections/regional-centres-of-excellence/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/establish-address/sections/business-clusters/en_US.md"
+            "content": "beta/setup-guide/establish-address/sections/business-clusters/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/establish-address/sections/enterprise-zones/en_US.md"
+            "content": "beta/setup-guide/establish-address/sections/enterprise-zones/ja_JP.md"
           }]
         }
       }, {
@@ -156,12 +159,12 @@
         "data": {
           "pageTitle": "Apply for a UK visa",
           "pageHeader": {
-            "content": "beta/setup-guide/apply-for-visa/intro/en_US.md"
+            "content": "beta/setup-guide/apply-for-visa/intro/ja_JP.md"
           },
           "sections": [{
-            "content": "beta/setup-guide/apply-for-visa/sections/overview/en_US.md"
+            "content": "beta/setup-guide/apply-for-visa/sections/overview/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/apply-for-visa/sections/understand-the-range-of-visas/en_US.md"
+            "content": "beta/setup-guide/apply-for-visa/sections/understand-the-range-of-visas/ja_JP.md"
           }]
         }
       }, {
@@ -170,12 +173,12 @@
         "data": {
           "pageTitle": "Open a UK business bank account",
           "pageHeader": {
-            "content": "beta/setup-guide/open-a-business-account/intro/en_US.md"
+            "content": "beta/setup-guide/open-a-business-account/intro/ja_JP.md"
           },
           "sections": [{
-            "content": "beta/setup-guide/open-a-business-account/sections/what-you-need-to-do/en_US.md"
+            "content": "beta/setup-guide/open-a-business-account/sections/what-you-need-to-do/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/open-a-business-account/sections/how-long-it-takes/en_US.md"
+            "content": "beta/setup-guide/open-a-business-account/sections/how-long-it-takes/ja_JP.md"
           }]
         }
       }, {
@@ -184,12 +187,12 @@
         "data": {
           "pageTitle": "Set up a company in the UK",
           "pageHeader": {
-            "content": "beta/setup-guide/how-to-setup/intro/en_US.md"
+            "content": "beta/setup-guide/how-to-setup/intro/ja_JP.md"
           },
           "sections": [{
-            "content": "beta/setup-guide/how-to-setup/sections/register-a-company/en_US.md"
+            "content": "beta/setup-guide/how-to-setup/sections/register-a-company/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/how-to-setup/sections/register-a-branch/en_US.md"
+            "content": "beta/setup-guide/how-to-setup/sections/register-a-branch/ja_JP.md"
           }]
         }
       }, {
@@ -198,12 +201,12 @@
         "data": {
           "pageTitle": "Understand UK tax and incentives",
           "pageHeader": {
-            "content": "beta/setup-guide/understand-tax/intro/en_US.md"
+            "content": "beta/setup-guide/understand-tax/intro/ja_JP.md"
           },
           "sections": [{
-            "content": "beta/setup-guide/understand-tax/sections/corporation-tax/en_US.md"
+            "content": "beta/setup-guide/understand-tax/sections/corporation-tax/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/understand-tax/sections/tax-incentives/en_US.md"
+            "content": "beta/setup-guide/understand-tax/sections/tax-incentives/ja_JP.md"
           }]
         }
       }, {
@@ -212,14 +215,14 @@
         "data": {
           "pageTitle": "Hire skilled workers for your UK operations",
           "pageHeader": {
-            "content": "beta/setup-guide/access-talent/intro/en_US.md"
+            "content": "beta/setup-guide/access-talent/intro/ja_JP.md"
           },
           "sections": [{
-            "content": "beta/setup-guide/access-talent/sections/flexible-laws/en_US.md"
+            "content": "beta/setup-guide/access-talent/sections/flexible-laws/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/access-talent/sections/employment-costs/en_US.md"
+            "content": "beta/setup-guide/access-talent/sections/employment-costs/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/access-talent/sections/access-to-talent/en_US.md"
+            "content": "beta/setup-guide/access-talent/sections/access-to-talent/ja_JP.md"
           }]
         }
       }, {
@@ -228,16 +231,16 @@
         "data": {
           "pageTitle": "The UK's legal framework",
           "pageHeader": {
-            "content": "beta/setup-guide/understand-legal/intro/en_US.md"
+            "content": "beta/setup-guide/understand-legal/intro/ja_JP.md"
           },
           "sections": [{
-            "content": "beta/setup-guide/understand-legal/Overview/en_US.md"
+            "content": "beta/setup-guide/understand-legal/Overview/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/understand-legal/sections/protection-when-selling/en_US.md"
+            "content": "beta/setup-guide/understand-legal/sections/protection-when-selling/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/understand-legal/sections/intellectual-property/en_US.md"
+            "content": "beta/setup-guide/understand-legal/sections/intellectual-property/ja_JP.md"
           }, {
-            "content": "beta/setup-guide/understand-legal/sections/data-protection/en_US.md"
+            "content": "beta/setup-guide/understand-legal/sections/data-protection/ja_JP.md"
           }]
         }
       }]
@@ -247,91 +250,91 @@
       "data": {
         "pageTitle": "Industries",
         "pageHeader": {
-          "content": "beta/industries/en_US.md"
+          "content": "beta/industries/ja_JP.md"
         },
         "tileItems": [{
-          "content": "beta/industries/automotive/en_US.md",
+          "content": "beta/industries/automotive/ja_JP.md",
           "thumbnail": "automotive.jpg",
           "link": "/industries/automotive"
         }, {
-          "content": "beta/industries/creative/en_US.md",
+          "content": "beta/industries/creative/ja_JP.md",
           "thumbnail": "creative.jpg",
           "link": "/industries/creative"
         }, {
-          "content": "beta/industries/energy-generation/en_US.md",
+          "content": "beta/industries/energy-generation/ja_JP.md",
           "thumbnail": "energy.jpg",
           "link": "/industries/energy"
         }, {
-          "content": "beta/industries/financial-services/en_US.md",
+          "content": "beta/industries/financial-services/ja_JP.md",
           "thumbnail": "financial-services.jpg",
           "link": "/industries/financial-services"
         }, {
-          "content": "beta/industries/life-sciences/en_US.md",
+          "content": "beta/industries/life-sciences/ja_JP.md",
           "thumbnail": "life-sciences.jpg",
           "link": "/industries/health-and-life"
         }, {
-          "content": "beta/industries/technology/en_US.md",
+          "content": "beta/industries/technology/ja_JP.md",
           "thumbnail": "technology.jpg",
           "link": "/industries/technology"
         }],
         "subTileItems": [{
-          "content": "beta/industries/financial-services/sub-sectors/asset-management/en_US.md",
+          "content": "beta/industries/financial-services/sub-sectors/asset-management/ja_JP.md",
           "thumbnail": "asset-management.jpg",
           "link": "/industries/financial-services/asset-management"
         }, {
-          "content": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
+          "content": "beta/industries/automotive/sub-sectors/research-and-development/ja_JP.md",
           "thumbnail": "research-and-development.jpg",
           "link": "/industries/automotive/research-and-development"
         }, {
-          "content": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
+          "content": "beta/industries/automotive/sub-sectors/supply-chain/ja_JP.md",
           "thumbnail": "supply-chain.jpg",
           "link": "/industries/automotive/supply-chain"
         }, {
-          "content": "beta/industries/creative/sub-sectors/content-and-production/en_US.md",
+          "content": "beta/industries/creative/sub-sectors/content-and-production/ja_JP.md",
           "thumbnail": "content-and-production.jpg",
           "link": "/industries/creative/content-and-production"
         }, {
-          "content": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
+          "content": "beta/industries/technology/sub-sectors/data-analytics/ja_JP.md",
           "thumbnail": "data-analytics.jpg",
           "link": "/industries/technology/data-analytics"
         }, {
-          "content": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
+          "content": "beta/industries/creative/sub-sectors/digital-media/ja_JP.md",
           "thumbnail": "digital-media.jpg",
           "link": "/industries/creative/digital-media"
         }, {
-          "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
+          "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/ja_JP.md",
           "thumbnail": "electrical-networks.jpg",
           "link": "/industries/energy/electrical-networks"
         }, {
-          "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/en_US.md",
+          "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/ja_JP.md",
           "thumbnail": "energy-from-waste.jpg",
           "link": "/industries/energy/energy-from-waste"
         }, {
-          "content": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
+          "content": "beta/industries/financial-services/sub-sectors/fintech/ja_JP.md",
           "thumbnail": "fintech.jpg",
           "link": "/industries/financial-services/financial-technology"
         }, {
-          "content": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
+          "content": "beta/industries/life-sciences/sub-sectors/medical-technology/ja_JP.md",
           "thumbnail": "medical-technology.jpg",
           "link": "/industries/health-and-life/medical-technology"
         }, {
-          "content": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
+          "content": "beta/industries/automotive/sub-sectors/motorsport/ja_JP.md",
           "thumbnail": "motorsport.jpg",
           "link": "/industries/automotive/motorsport"
         }, {
-          "content": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
+          "content": "beta/industries/energy-generation/sub-sectors/nuclear/ja_JP.md",
           "thumbnail": "nuclear.jpg",
           "link": "/industries/energy/nuclear"
         }, {
-          "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
+          "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/ja_JP.md",
           "thumbnail": "offshore.jpg",
           "link": "/industries/energy/offshore-wind"
         }, {
-          "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/en_US.md",
+          "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/ja_JP.md",
           "thumbnail": "oil-and-gas.jpg",
           "link": "/industries/energy/oil-and-gas"
         }, {
-          "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/en_US.md",
+          "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/ja_JP.md",
           "thumbnail": "medicine-manufacturing.jpg",
           "link": "/industries/health-and-life/pharmaceutical-manufacturing"
         }]
@@ -342,22 +345,22 @@
         "data": {
           "pageTitle": "Automotive in the UK",
           "pageHeader": {
-            "content": "beta/industries/automotive/intro/en_US.md",
+            "content": "beta/industries/automotive/intro/ja_JP.md",
             "heroImage": "automotive.jpg"
           },
           "sections": [{
-            "content": "beta/industries/automotive/overview/en_US.md"
+            "content": "beta/industries/automotive/overview/ja_JP.md"
           }],
           "subContent": [{
-            "content": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
+            "content": "beta/industries/automotive/sub-sectors/research-and-development/ja_JP.md",
             "thumbnail": "research-and-development.jpg",
             "link": "/industries/automotive/research-and-development"
           }, {
-            "content": "beta/industries/automotive/sub-sectors/supply-chain/en_US.md",
+            "content": "beta/industries/automotive/sub-sectors/supply-chain/ja_JP.md",
             "thumbnail": "supply-chain.jpg",
             "link": "/industries/automotive/supply-chain"
           }, {
-            "content": "beta/industries/automotive/sub-sectors/motorsport/en_US.md",
+            "content": "beta/industries/automotive/sub-sectors/motorsport/ja_JP.md",
             "thumbnail": "motorsport.jpg",
             "link": "/industries/automotive/motorsport"
           }]
@@ -368,15 +371,15 @@
           "data": {
             "pageTitle": "Motor sport in the UK",
             "pageHeader": {
-              "content": "beta/industries/automotive/sub-sectors/motorsport/intro/en_US.md",
+              "content": "beta/industries/automotive/sub-sectors/motorsport/intro/ja_JP.md",
               "heroImage": "motorsport.jpg"
             },
             "sections": [{
-              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/en_US.md"
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/ja_JP.md"
             }, {
-              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/talent-and-skills/ja_JP.md"
             }, {
-              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }, {
@@ -385,17 +388,17 @@
           "data": {
             "pageTitle": "Automotive research and development in the UK",
             "pageHeader": {
-              "content": "beta/industries/automotive/sub-sectors/research-and-development/intro/en_US.md",
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/intro/ja_JP.md",
               "heroImage": "research-and-development.jpg"
             },
             "sections": [{
-              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/Overview/en_US.md"
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/Overview/ja_JP.md"
             }, {
-              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/funding/en_US.md"
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/funding/ja_JP.md"
             }, {
-              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/talent-and-skills/ja_JP.md"
             }, {
-              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }, {
@@ -404,15 +407,15 @@
           "data": {
             "pageTitle": "Automotive supply chain in the UK",
             "pageHeader": {
-              "content": "beta/industries/automotive/sub-sectors/supply-chain/intro/en_US.md",
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/intro/ja_JP.md",
               "heroImage": "supply-chain.jpg"
             },
             "sections": [{
-              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/market-conditions/en_US.md"
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/market-conditions/ja_JP.md"
             }, {
-              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/support-and-incentives/ja_JP.md"
             }, {
-              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/talent-and-skills/ja_JP.md"
             }]
           }
         }]
@@ -422,30 +425,30 @@
         "data": {
           "pageTitle": "Energy generation in the UK",
           "pageHeader": {
-            "content": "beta/industries/energy-generation/intro/en_US.md",
+            "content": "beta/industries/energy-generation/intro/ja_JP.md",
             "heroImage": "energy.jpg"
           },
           "sections": [{
-            "content": "beta/industries/energy-generation/overview/en_US.md"
+            "content": "beta/industries/energy-generation/overview/ja_JP.md"
           }],
           "subContent": [{
-            "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
+            "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/ja_JP.md",
             "thumbnail": "electrical-networks.jpg",
             "link": "/industries/energy/electrical-networks"
           }, {
-            "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/en_US.md",
+            "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/ja_JP.md",
             "thumbnail": "energy-from-waste.jpg",
             "link": "/industries/energy/energy-from-waste"
           }, {
-            "content": "beta/industries/energy-generation/sub-sectors/nuclear/en_US.md",
+            "content": "beta/industries/energy-generation/sub-sectors/nuclear/ja_JP.md",
             "thumbnail": "nuclear.jpg",
             "link": "/industries/energy/nuclear"
           }, {
-            "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/en_US.md",
+            "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/ja_JP.md",
             "thumbnail": "offshore.jpg",
             "link": "/industries/energy/offshore-wind"
           }, {
-            "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/en_US.md",
+            "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/ja_JP.md",
             "thumbnail": "oil-and-gas.jpg",
             "link": "/industries/energy/oil-and-gas"
           }]
@@ -456,15 +459,15 @@
           "data": {
             "pageTitle": "Offshore wind in the UK",
             "pageHeader": {
-              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/en_US.md",
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/ja_JP.md",
               "heroImage": "offshore.jpg"
             },
             "sections": [{
-              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/prime-location/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/prime-location/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/expanding-pool/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/expanding-pool/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/government-support/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/government-support/ja_JP.md"
             }]
           }
         }, {
@@ -473,15 +476,15 @@
           "data": {
             "pageTitle": "Electrical networks in the UK",
             "pageHeader": {
-              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/en_US.md",
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/ja_JP.md",
               "heroImage": "electrical-networks.jpg"
             },
             "sections": [{
-              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/market-conditions/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/market-conditions/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/talent-and-skills/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }, {
@@ -490,17 +493,17 @@
           "data": {
             "pageTitle": "Energy from waste in the UK",
             "pageHeader": {
-              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/en_US.md",
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/ja_JP.md",
               "heroImage": "energy-from-waste.jpg"
             },
             "sections": [{
-              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/strong-market/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/strong-market/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/opportunities-for-growth/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/opportunities-for-growth/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/supply-chain-opportunities/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/supply-chain-opportunities/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }, {
@@ -509,17 +512,17 @@
           "data": {
             "pageTitle": "Oil and gas in the UK",
             "pageHeader": {
-              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/en_US.md",
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/ja_JP.md",
               "heroImage": "oil-and-gas.jpg"
             },
             "sections": [{
-              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/overview/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/overview/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/market-conditions/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/market-conditions/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/talent-and-skills/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }, {
@@ -528,17 +531,17 @@
           "data": {
             "pageTitle": "Nuclear in the UK",
             "pageHeader": {
-              "content": "beta/industries/energy-generation/sub-sectors/nuclear/intro/en_US.md",
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/intro/ja_JP.md",
               "heroImage": "nuclear.jpg"
             },
             "sections": [{
-              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/market-conditions/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/market-conditions/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/talent-and-skills/ja_JP.md"
             }, {
-              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }]
@@ -548,18 +551,18 @@
         "data": {
           "pageTitle": "Health and life sciences in the UK",
           "pageHeader": {
-            "content": "beta/industries/life-sciences/intro/en_US.md",
+            "content": "beta/industries/life-sciences/intro/ja_JP.md",
             "heroImage": "life-sciences.jpg"
           },
           "sections": [{
-            "content": "beta/industries/life-sciences/overview/en_US.md"
+            "content": "beta/industries/life-sciences/overview/ja_JP.md"
           }],
           "subContent": [{
-            "content": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
+            "content": "beta/industries/life-sciences/sub-sectors/medical-technology/ja_JP.md",
             "thumbnail": "medical-technology.jpg",
             "link": "/industries/health-and-life/medical-technology"
           }, {
-            "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/en_US.md",
+            "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/ja_JP.md",
             "thumbnail": "medicine-manufacturing.jpg",
             "link": "/industries/health-and-life/pharmaceutical-manufacturing"
           }]
@@ -570,15 +573,15 @@
           "data": {
             "pageTitle": "Medical technology in the UK",
             "pageHeader": {
-              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/en_US.md",
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/ja_JP.md",
               "heroImage": "medical-technology.jpg"
             },
             "sections": [{
-              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/market-conditions/en_US.md"
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/market-conditions/ja_JP.md"
             }, {
-              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/talent-and-skills/ja_JP.md"
             }, {
-              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }, {
@@ -587,15 +590,15 @@
           "data": {
             "pageTitle": "Pharmaceutical manufacturing in the UK",
             "pageHeader": {
-              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/en_US.md",
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/ja_JP.md",
               "heroImage": "medicine-manufacturing.jpg"
             },
             "sections": [{
-              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/market-conditions/en_US.md"
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/market-conditions/ja_JP.md"
             }, {
-              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/talent-and-skills/ja_JP.md"
             }, {
-              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }]
@@ -605,23 +608,24 @@
         "data": {
           "pageTitle": "Creative in the UK",
           "pageHeader": {
-            "content": "beta/industries/creative/intro/en_US.md",
+            "content": "beta/industries/creative/intro/ja_JP.md",
             "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8?rel=0",
+            "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
           "sections": [{
-            "content": "beta/industries/creative/overview/en_US.md"
+            "content": "beta/industries/creative/overview/ja_JP.md"
           }],
           "subContent": [{
-            "content": "beta/industries/creative/sub-sectors/content-and-production/en_US.md",
+            "content": "beta/industries/creative/sub-sectors/content-and-production/ja_JP.md",
             "thumbnail": "content-and-production.jpg",
             "link": "/industries/creative/content-and-production"
           }, {
-            "content": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
+            "content": "beta/industries/technology/sub-sectors/data-analytics/ja_JP.md",
             "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
-            "content": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
+            "content": "beta/industries/creative/sub-sectors/digital-media/ja_JP.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
           }]
@@ -632,17 +636,17 @@
           "data": {
             "pageTitle": "Content and production in the UK",
             "pageHeader": {
-              "content": "beta/industries/creative/sub-sectors/content-and-production/intro/en_US.md",
+              "content": "beta/industries/creative/sub-sectors/content-and-production/intro/ja_JP.md",
               "heroImage": "content-and-production.jpg"
             },
             "sections": [{
-              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/overview/en_US.md"
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/overview/ja_JP.md"
             }, {
-              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/market-conditions/en_US.md"
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/market-conditions/ja_JP.md"
             }, {
-              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/talent-and-skills/ja_JP.md"
             }, {
-              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }, {
@@ -651,19 +655,19 @@
           "data": {
             "pageTitle": "Digital media in the UK",
             "pageHeader": {
-              "content": "beta/industries/creative/sub-sectors/digital-media/intro/en_US.md",
+              "content": "beta/industries/creative/sub-sectors/digital-media/intro/ja_JP.md",
               "heroImage": "digital-media.jpg"
             },
             "sections": [{
-              "content": "beta/industries/creative/sub-sectors/digital-media/sections/overview/en_US.md"
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/overview/ja_JP.md"
             }, {
-              "content": "beta/industries/creative/sub-sectors/digital-media/sections/market-conditions/en_US.md"
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/market-conditions/ja_JP.md"
             }, {
-              "content": "beta/industries/creative/sub-sectors/digital-media/sections/areas-of-opportunity/en_US.md"
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/areas-of-opportunity/ja_JP.md"
             }, {
-              "content": "beta/industries/creative/sub-sectors/digital-media/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/talent-and-skills/ja_JP.md"
             }, {
-              "content": "beta/industries/creative/sub-sectors/digital-media/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }]
@@ -673,23 +677,24 @@
         "data": {
           "pageTitle": "Financial services in the UK",
           "pageHeader": {
-            "content": "beta/industries/financial-services/intro/en_US.md",
+            "content": "beta/industries/financial-services/intro/ja_JP.md",
             "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0?rel=0",
+            "heroVideo": "financial-services.mp4",
             "heroImage": "financial-services.jpg"
           },
           "sections": [{
-            "content": "beta/industries/financial-services/overview/en_US.md"
+            "content": "beta/industries/financial-services/overview/ja_JP.md"
           }],
           "subContent": [{
-            "content": "beta/industries/financial-services/sub-sectors/asset-management/en_US.md",
+            "content": "beta/industries/financial-services/sub-sectors/asset-management/ja_JP.md",
             "thumbnail": "asset-management.jpg",
             "link": "/industries/financial-services/asset-management"
           }, {
-            "content": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
+            "content": "beta/industries/technology/sub-sectors/data-analytics/ja_JP.md",
             "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
-            "content": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
+            "content": "beta/industries/financial-services/sub-sectors/fintech/ja_JP.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
           }]
@@ -700,17 +705,17 @@
           "data": {
             "pageTitle": "Asset management in the UK",
             "pageHeader": {
-              "content": "beta/industries/financial-services/sub-sectors/asset-management/intro/en_US.md",
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/intro/ja_JP.md",
               "heroImage": "asset-management.jpg"
             },
             "sections": [{
-              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-growing-market/en_US.md"
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-growing-market/ja_JP.md"
             }, {
-              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-wide-range-of-funds/en_US.md"
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-wide-range-of-funds/ja_JP.md"
             }, {
-              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/attractive-business/en_US.md"
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/attractive-business/ja_JP.md"
             }, {
-              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/government-support/en_US.md"
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/government-support/ja_JP.md"
             }]
           }
         }, {
@@ -719,15 +724,15 @@
           "data": {
             "pageTitle": "Financial technology in the UK",
             "pageHeader": {
-              "content": "beta/industries/financial-services/sub-sectors/fintech/intro/en_US.md",
+              "content": "beta/industries/financial-services/sub-sectors/fintech/intro/ja_JP.md",
               "heroImage": "fintech.jpg"
             },
             "sections": [{
-              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/market-conditions/en_US.md"
+              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/market-conditions/ja_JP.md"
             }, {
-              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/talent-and-skills/en_US.md"
+              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/talent-and-skills/ja_JP.md"
             }, {
-              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/support-and-incentives/en_US.md"
+              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/support-and-incentives/ja_JP.md"
             }]
           }
         }]
@@ -737,27 +742,28 @@
         "data": {
           "pageTitle": "Technology in the UK",
           "pageHeader": {
-            "content": "beta/industries/technology/intro/en_US.md",
+            "content": "beta/industries/technology/intro/ja_JP.md",
             "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo?rel=0",
+            "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },
           "sections": [{
-            "content": "beta/industries/technology/overview/en_US.md"
+            "content": "beta/industries/technology/overview/ja_JP.md"
           }],
           "subContent": [{
-            "content": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
+            "content": "beta/industries/technology/sub-sectors/data-analytics/ja_JP.md",
             "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
-            "content": "beta/industries/creative/sub-sectors/digital-media/en_US.md",
+            "content": "beta/industries/creative/sub-sectors/digital-media/ja_JP.md",
             "thumbnail": "digital-media.jpg",
             "link": "/industries/creative/digital-media"
           }, {
-            "content": "beta/industries/financial-services/sub-sectors/fintech/en_US.md",
+            "content": "beta/industries/financial-services/sub-sectors/fintech/ja_JP.md",
             "thumbnail": "fintech.jpg",
             "link": "/industries/financial-services/financial-technology"
           }, {
-            "content": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
+            "content": "beta/industries/life-sciences/sub-sectors/medical-technology/ja_JP.md",
             "thumbnail": "medical-technology.jpg",
             "link": "/industries/health-and-life/medical-technology"
           }]
@@ -768,15 +774,15 @@
           "data": {
             "pageTitle": "Data analytics in the UK",
             "pageHeader": {
-              "content": "beta/industries/technology/sub-sectors/data-analytics/intro/en_US.md",
+              "content": "beta/industries/technology/sub-sectors/data-analytics/intro/ja_JP.md",
               "heroImage": "data-analytics.jpg"
             },
             "sections": [{
-              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/en_US.md"
+              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/ja_JP.md"
             }, {
-              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/data_infrastructure_and_talent/en_US.md"
+              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/data_infrastructure_and_talent/ja_JP.md"
             }, {
-              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/investment_in_the_future/en_US.md"
+              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/investment_in_the_future/ja_JP.md"
             }]
           }
         }]
@@ -787,10 +793,10 @@
       "data": {
         "pageTitle": "Terms and conditions",
         "pageHeader": {
-          "content": "great.gov.uk/terms-and-conditions/en.md"
+          "content": "great.gov.uk/terms-and-conditions/ja.md"
         },
         "sections": [{
-          "content": "great.gov.uk/terms-and-conditions/content/en.md"
+          "content": "great.gov.uk/terms-and-conditions/content/ja.md"
         }]
       }
     }, {
@@ -799,10 +805,10 @@
       "data": {
         "pageTitle": "Privacy and cookies",
         "pageHeader": {
-          "content": "great.gov.uk/privacy-policy/en.md"
+          "content": "great.gov.uk/privacy-policy/ja.md"
         },
         "sections": [{
-          "content": "great.gov.uk/privacy-policy/content/en.md"
+          "content": "great.gov.uk/privacy-policy/content/ja.md"
         }]
       }
     }, {
@@ -811,33 +817,28 @@
       "data": {
         "pageTitle": "Feedback",
         "pageHeader": {
-          "content": "beta/info/feedback/en_US.md"
+          "content": "beta/info/feedback/ja_JP.md"
         }
       }
     }, {
-      "path": "",
-      "output": "500.html",
-      "layout": "500.html",
+      "path": "contact-us",
+      "layout": "contact-us.html",
       "data": {
-        "pageTitle": "HTTP Error code 500 - Internal Server Error",
-        "background": "",
-        "pageHeader": {
-          "content": "beta/info/500/en_US.md"
-        },
-        "infoBlock": {
-          "content": "beta/info/500/en_US.md"
+        "pageTitle": "Contact us",
+        "formBlock": {
+          "file": "beta/form/ja_JP.md"
         }
       }
     }, {
       "path": "enquiries/confirmation",
-      "layout": "info.html",
+      "layout": "500.html",
       "data": {
-        "pageTitle": "Thank you for getting in touch",
+        "pageTitle": "Enquiry submitted",
         "pageHeader": {
-          "content": "beta/info/form-confirmation/en_US.md"
+          "content": "beta/info/form-confirmation/ja_JP.md"
         },
         "infoBlock": {
-          "content": "beta/info/form-confirmation/content/en_US.md"
+          "content": "beta/info/form-confirmation/content/ja_JP.md"
         }
       }
     }, {
@@ -846,10 +847,10 @@
       "data": {
         "pageTitle": "Sorry, there was a problem. Try again",
         "pageHeader": {
-          "content": "beta/info/form-error/en_US.md"
+          "content": "beta/info/form-error/ja_JP.md"
         },
         "infoBlock": {
-          "content": "beta/info/form-error/content/en_US.md"
+          "content": "beta/info/form-error/content/ja_JP.md"
         }
       }
     }]
