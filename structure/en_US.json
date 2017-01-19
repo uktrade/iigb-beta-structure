@@ -32,6 +32,14 @@
         "content": "beta/form/en_US.md"
       },
       "tileItems": [{
+        "content": "beta/industries/aerospace/en_US.md",
+        "thumbnail": "aerospace.jpg",
+        "link": "/industries/aerospace"
+      }, {
+        "content": "beta/industries/advanced-manufacturing/en_US.md",
+        "thumbnail": "advanced-manufacturing.jpg",
+        "link": "/industries/advanced-manufacturing"
+      }, {
         "content": "beta/industries/automotive/en_US.md",
         "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
@@ -48,9 +56,17 @@
         "thumbnail": "financial-services.jpg",
         "link": "/industries/financial-services"
       }, {
+        "content": "beta/industries/food-and-drink-manufacturing/en_US.md",
+        "thumbnail": "food-and-drink-manufacturing.jpg",
+        "link": "/industries/food-and-drink-manufacturing"
+      }, {
         "content": "beta/industries/life-sciences/en_US.md",
         "thumbnail": "life-sciences.jpg",
         "link": "/industries/health-and-life"
+      }, {
+        "content": "beta/industries/retail/en_US.md",
+        "thumbnail": "retail.jpg",
+        "link": "/industries/retail"
       }, {
         "content": "beta/industries/technology/en_US.md",
         "thumbnail": "technology.jpg",
@@ -256,6 +272,14 @@
           "content": "beta/industries/en_US.md"
         },
         "tileItems": [{
+          "content": "beta/industries/aerospace/en_US.md",
+          "thumbnail": "aerospace.jpg",
+          "link": "/industries/aerospace"
+        }, {
+          "content": "beta/industries/advanced-manufacturing/en_US.md",
+          "thumbnail": "advanced-manufacturing.jpg",
+          "link": "/industries/advanced-manufacturing"
+        }, {
           "content": "beta/industries/automotive/en_US.md",
           "thumbnail": "automotive.jpg",
           "link": "/industries/automotive"
@@ -272,9 +296,17 @@
           "thumbnail": "financial-services.jpg",
           "link": "/industries/financial-services"
         }, {
+          "content": "beta/industries/food-and-drink-manufacturing/en_US.md",
+          "thumbnail": "food-and-drink-manufacturing.jpg",
+          "link": "/industries/food-and-drink-manufacturing"
+        }, {
           "content": "beta/industries/life-sciences/en_US.md",
           "thumbnail": "life-sciences.jpg",
           "link": "/industries/health-and-life"
+        }, {
+          "content": "beta/industries/retail/en_US.md",
+          "thumbnail": "retail.jpg",
+          "link": "/industries/retail"
         }, {
           "content": "beta/industries/technology/en_US.md",
           "thumbnail": "technology.jpg",
@@ -317,6 +349,10 @@
           "thumbnail": "fintech.jpg",
           "link": "/industries/financial-services/financial-technology"
         }, {
+          "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/en_US.md",
+          "thumbnail": "freefrom.jpg",
+          "link": "/industries/food-and-drink-manufacturing/financial-technology"
+        }, {
           "content": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
           "thumbnail": "medical-technology.jpg",
           "link": "/industries/health-and-life/medical-technology"
@@ -343,6 +379,84 @@
         }]
       },
       "children": [{
+        "path": "aerospace",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Aerospace in the UK",
+          "pageHeader": {
+            "content": "beta/industries/aerospace/intro/en_US.md",
+            "heroImage": "aerospace.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/aerospace/overview/en_US.md"
+          }],
+          "subContent": []
+        }
+      }, {
+        "path": "advanced-manufacturing",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Advanced manufacturing in the UK",
+          "pageHeader": {
+            "content": "beta/industries/advanced-manufacturing/intro/en_US.md",
+            "heroImage": "advanced-manufacturing.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/advanced-manufacturing/overview/en_US.md"
+          }],
+          "subContent": []
+        }
+      }, {
+        "path": "food-and-drink-manufacturing",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Advanced manufacturing in the UK",
+          "pageHeader": {
+            "content": "beta/industries/food-and-drink-manufacturing/intro/en_US.md",
+            "heroImage": "food-and-drink-manufacturing.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/food-and-drink-manufacturing/overview/en_US.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/en_US.md",
+            "thumbnail": "freefrom.jpg",
+            "link": "/industries/food-and-drink-manufacturing/freefrom"
+          }],
+          "children": [{
+            "path": "freefrom",
+            "layout": "sector.html",
+            "data": {
+              "pageTitle": "Freefrom",
+              "pageHeader": {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/en_US.md",
+                "heroImage": "freefrom.jpg"
+              },
+              "sections": [{
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/british-buying-habits/en_US.md"
+              }, {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/government-support/en_US.md"
+              }, {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/other-growth-areas/en_US.md"
+              }]
+            }
+          }]
+        }
+      }, {
+        "path": "retail",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Advanced manufacturing in the UK",
+          "pageHeader": {
+            "content": "beta/industries/retail/intro/en_US.md",
+            "heroImage": "retail.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/retail/overview/en_US.md"
+          }],
+          "subContent": []
+        }
+      }, {
         "path": "automotive",
         "layout": "industry.html",
         "data": {
