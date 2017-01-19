@@ -29,6 +29,14 @@
         "content": "beta/form/ja_JP.md"
       },
       "tileItems": [{
+        "content": "beta/industries/aerospace/ja_JP.md",
+        "thumbnail": "aerospace.jpg",
+        "link": "/industries/aerospace"
+      }, {
+        "content": "beta/industries/advanced-manufacturing/ja_JP.md",
+        "thumbnail": "advanced-manufacturing.jpg",
+        "link": "/industries/advanced-manufacturing"
+      }, {
         "content": "beta/industries/automotive/ja_JP.md",
         "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
@@ -45,9 +53,17 @@
         "thumbnail": "financial-services.jpg",
         "link": "/industries/financial-services"
       }, {
+        "content": "beta/industries/food-and-drink-manufacturing/ja_JP.md",
+        "thumbnail": "food-and-drink-manufacturing.jpg",
+        "link": "/industries/food-and-drink-manufacturing"
+      }, {
         "content": "beta/industries/life-sciences/ja_JP.md",
         "thumbnail": "life-sciences.jpg",
         "link": "/industries/health-and-life"
+      }, {
+        "content": "beta/industries/retail/ja_JP.md",
+        "thumbnail": "retail.jpg",
+        "link": "/industries/retail"
       }, {
         "content": "beta/industries/technology/ja_JP.md",
         "thumbnail": "technology.jpg",
@@ -253,6 +269,14 @@
           "content": "beta/industries/ja_JP.md"
         },
         "tileItems": [{
+          "content": "beta/industries/aerospace/ja_JP.md",
+          "thumbnail": "aerospace.jpg",
+          "link": "/industries/aerospace"
+        }, {
+          "content": "beta/industries/advanced-manufacturing/ja_JP.md",
+          "thumbnail": "advanced-manufacturing.jpg",
+          "link": "/industries/advanced-manufacturing"
+        }, {
           "content": "beta/industries/automotive/ja_JP.md",
           "thumbnail": "automotive.jpg",
           "link": "/industries/automotive"
@@ -269,9 +293,17 @@
           "thumbnail": "financial-services.jpg",
           "link": "/industries/financial-services"
         }, {
+          "content": "beta/industries/food-and-drink-manufacturing/ja_JP.md",
+          "thumbnail": "food-and-drink-manufacturing.jpg",
+          "link": "/industries/food-and-drink-manufacturing"
+        }, {
           "content": "beta/industries/life-sciences/ja_JP.md",
           "thumbnail": "life-sciences.jpg",
           "link": "/industries/health-and-life"
+        }, {
+          "content": "beta/industries/retail/ja_JP.md",
+          "thumbnail": "retail.jpg",
+          "link": "/industries/retail"
         }, {
           "content": "beta/industries/technology/ja_JP.md",
           "thumbnail": "technology.jpg",
@@ -314,6 +346,10 @@
           "thumbnail": "fintech.jpg",
           "link": "/industries/financial-services/financial-technology"
         }, {
+          "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/ja_JP.md",
+          "thumbnail": "freefrom.jpg",
+          "link": "/industries/food-and-drink-manufacturing/financial-technology"
+        }, {
           "content": "beta/industries/life-sciences/sub-sectors/medical-technology/ja_JP.md",
           "thumbnail": "medical-technology.jpg",
           "link": "/industries/health-and-life/medical-technology"
@@ -340,6 +376,84 @@
         }]
       },
       "children": [{
+        "path": "aerospace",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Aerospace in the UK",
+          "pageHeader": {
+            "content": "beta/industries/aerospace/intro/ja_JP.md",
+            "heroImage": "aerospace.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/aerospace/overview/ja_JP.md"
+          }],
+          "subContent": []
+        }
+      }, {
+        "path": "advanced-manufacturing",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Advanced manufacturing in the UK",
+          "pageHeader": {
+            "content": "beta/industries/advanced-manufacturing/intro/ja_JP.md",
+            "heroImage": "advanced-manufacturing.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/advanced-manufacturing/overview/ja_JP.md"
+          }],
+          "subContent": []
+        }
+      }, {
+        "path": "food-and-drink-manufacturing",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Advanced manufacturing in the UK",
+          "pageHeader": {
+            "content": "beta/industries/food-and-drink-manufacturing/intro/ja_JP.md",
+            "heroImage": "food-and-drink-manufacturing.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/food-and-drink-manufacturing/overview/ja_JP.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/ja_JP.md",
+            "thumbnail": "freefrom.jpg",
+            "link": "/industries/food-and-drink-manufacturing/freefrom"
+          }],
+          "children": [{
+            "path": "freefrom",
+            "layout": "sector.html",
+            "data": {
+              "pageTitle": "Freefrom",
+              "pageHeader": {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/ja_JP.md",
+                "heroImage": "freefrom.jpg"
+              },
+              "sections": [{
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/british-buying-habits/ja_JP.md"
+              }, {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/government-support/ja_JP.md"
+              }, {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/other-growth-areas/ja_JP.md"
+              }]
+            }
+          }]
+        }
+      }, {
+        "path": "retail",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Advanced manufacturing in the UK",
+          "pageHeader": {
+            "content": "beta/industries/retail/intro/ja_JP.md",
+            "heroImage": "retail.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/retail/overview/ja_JP.md"
+          }],
+          "subContent": []
+        }
+      }, {
         "path": "automotive",
         "layout": "industry.html",
         "data": {
@@ -610,7 +724,6 @@
           "pageHeader": {
             "content": "beta/industries/creative/intro/ja_JP.md",
             "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8?rel=0",
-            "heroVideo": "creative.mp4",
             "heroImage": "creative.jpg"
           },
           "sections": [{
@@ -679,7 +792,6 @@
           "pageHeader": {
             "content": "beta/industries/financial-services/intro/ja_JP.md",
             "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0?rel=0",
-            "heroVideo": "financial-services.mp4",
             "heroImage": "financial-services.jpg"
           },
           "sections": [{
@@ -744,7 +856,6 @@
           "pageHeader": {
             "content": "beta/industries/technology/intro/ja_JP.md",
             "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo?rel=0",
-            "heroVideo": "technology.mp4",
             "heroImage": "technology.jpg"
           },
           "sections": [{
@@ -793,10 +904,10 @@
       "data": {
         "pageTitle": "Terms and conditions",
         "pageHeader": {
-          "content": "great.gov.uk/terms-and-conditions/ja.md"
+          "content": "great.gov.uk/terms-and-conditions/en.md"
         },
         "sections": [{
-          "content": "great.gov.uk/terms-and-conditions/content/ja.md"
+          "content": "great.gov.uk/terms-and-conditions/content/en.md"
         }]
       }
     }, {
@@ -805,10 +916,10 @@
       "data": {
         "pageTitle": "Privacy and cookies",
         "pageHeader": {
-          "content": "great.gov.uk/privacy-policy/ja.md"
+          "content": "great.gov.uk/privacy-policy/en.md"
         },
         "sections": [{
-          "content": "great.gov.uk/privacy-policy/content/ja.md"
+          "content": "great.gov.uk/privacy-policy/content/en.md"
         }]
       }
     }, {
@@ -818,15 +929,6 @@
         "pageTitle": "Feedback",
         "pageHeader": {
           "content": "beta/info/feedback/ja_JP.md"
-        }
-      }
-    }, {
-      "path": "contact-us",
-      "layout": "contact-us.html",
-      "data": {
-        "pageTitle": "Contact us",
-        "formBlock": {
-          "file": "beta/form/ja_JP.md"
         }
       }
     }, {
