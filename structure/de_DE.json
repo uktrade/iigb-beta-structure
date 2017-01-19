@@ -45,29 +45,13 @@
         "thumbnail": "financial-services.jpg",
         "link": "/industries/financial-services"
       }, {
-        "content": "beta/industries/advanced-manufacturing/de_DE.md",
-        "thumbnail": "advanced-manufacturing.jpg",
-        "link": "/industries/advanced-manufacturing"
-      }, {
-        "content": "beta/industries/aerospace/de_DE.md",
-        "thumbnail": "aerospace.jpg",
-        "link": "/industries/aerospace"
-      }, {
         "content": "beta/industries/creative/de_DE.md",
         "thumbnail": "creative.jpg",
         "link": "/industries/creative"
       }, {
-        "content": "beta/industries/food-and-drink-manufacturing/de_DE.md",
-        "thumbnail": "food-and-drink-manufacturing.jpg",
-        "link": "/industries/food-and-drink-manufacturing"
-      }, {
         "content": "beta/industries/technology/de_DE.md",
         "thumbnail": "technology.jpg",
         "link": "/industries/technology"
-      }, {
-        "content": "beta/industries/retail/de_DE.md",
-        "thumbnail": "retail.jpg",
-        "link": "/industries/retail"
       }],
       "listHeader": {
         "content": "beta/setup-guide/de_DE.md"
@@ -361,7 +345,7 @@
           "content": "beta/industries/financial-services/sub-sectors/fintech/de_DE.md",
           "thumbnail": "fintech.jpg",
           "link": "/industries/financial-services/financial-technology"
-        },{
+        }, {
           "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/de_DE.md",
           "thumbnail": "freefrom.jpg",
           "link": "/industries/food-and-drink-manufacturing/financial-technology"
