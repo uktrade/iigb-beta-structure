@@ -32,14 +32,6 @@
         "content": "beta/form/en_US.md"
       },
       "tileItems": [{
-        "content": "beta/industries/aerospace/en_US.md",
-        "thumbnail": "aerospace.jpg",
-        "link": "/industries/aerospace"
-      }, {
-        "content": "beta/industries/advanced-manufacturing/en_US.md",
-        "thumbnail": "advanced-manufacturing.jpg",
-        "link": "/industries/advanced-manufacturing"
-      }, {
         "content": "beta/industries/automotive/en_US.md",
         "thumbnail": "automotive.jpg",
         "link": "/industries/automotive"
@@ -56,17 +48,9 @@
         "thumbnail": "financial-services.jpg",
         "link": "/industries/financial-services"
       }, {
-        "content": "beta/industries/food-and-drink-manufacturing/en_US.md",
-        "thumbnail": "food-and-drink-manufacturing.jpg",
-        "link": "/industries/food-and-drink-manufacturing"
-      }, {
         "content": "beta/industries/life-sciences/en_US.md",
         "thumbnail": "life-sciences.jpg",
         "link": "/industries/health-and-life"
-      }, {
-        "content": "beta/industries/retail/en_US.md",
-        "thumbnail": "retail.jpg",
-        "link": "/industries/retail"
       }, {
         "content": "beta/industries/technology/en_US.md",
         "thumbnail": "technology.jpg",
