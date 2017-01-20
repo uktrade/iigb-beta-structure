@@ -1,5 +1,6 @@
 {
   "globalData": {
+    "base": "int/jp",
     "locale": {
       "language": "ja",
       "country": "int",
