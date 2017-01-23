@@ -1,6 +1,6 @@
 {
   "globalData": {
-    "base": "int/cn",
+    "base": "int/zh",
     "locale": {
       "language": "zh",
       "country": "int",
@@ -16,7 +16,7 @@
     }
   },
   "pages": [{
-    "path": "int/cn",
+    "path": "int/zh",
     "layout": "home.html",
     "data": {
       "pageTitle": "主页",
