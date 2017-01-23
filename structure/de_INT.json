@@ -1013,6 +1013,12 @@
           "content": "beta/info/form-error/content/de_DE.md"
         }
       }
+    },{
+      "path": "contact",
+      "layout": "contact-us.html",
+      "data": {
+        "pageTitle": "Get in touch"
+      }
     }]
   }]
 }

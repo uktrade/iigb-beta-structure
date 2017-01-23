@@ -941,5 +941,11 @@
         }
       }
     }]
-  }]
+  },{
+      "path": "contact",
+      "layout": "contact-us.html",
+      "data": {
+        "pageTitle": "Get in touch"
+      }
+    }]
 }

@@ -940,6 +940,12 @@
           "content": "beta/info/form-error/content/pt_BR.md"
         }
       }
+    },{
+      "path": "contact",
+      "layout": "contact-us.html",
+      "data": {
+        "pageTitle": "Get in touch"
+      }
     }]
   }]
 }
