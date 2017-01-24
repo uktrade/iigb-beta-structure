@@ -392,7 +392,7 @@
         "path": "food-and-drink-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "食品和饮料制造",
           "pageHeader": {
             "content": "beta/industries/food-and-drink-manufacturing/intro/zh_CN.md",
             "heroImage": "food-and-drink-manufacturing.jpg"
