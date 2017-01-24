@@ -1019,6 +1019,32 @@
       "data": {
         "pageTitle": "Get in touch"
       }
-    }]
+    },
+    {
+      "path": "location-guide",
+      "layout": "investment-ops.html",
+      "data": {
+        "pageTitle": "Standortführer",
+        "overview": {
+          "content": "beta/investment-ops/overview/de_DE.md"
+        },
+        "stayInTouch" :{
+          "content" :"beta/investment-ops/stay-in-touch/de_DE.md"
+        }
+      }
+    },{
+      "path": "location-guide/confirmation",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "Vielen Dank für Ihre Anmeldung …",
+        "pageHeader": {
+          "content": "beta/info/investment-ops-confirmation/de_DE.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/investment-ops-confirmation/content/de_DE.md"
+        }
+      }
+    }
+    ]
   }]
 }

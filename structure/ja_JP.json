@@ -947,5 +947,31 @@
       "data": {
         "pageTitle": "Get in touch"
       }
-    }]
+    },
+    {
+      "path": "location-guide",
+      "layout": "investment-ops.html",
+      "data": {
+        "pageTitle": "地域ガイド",
+        "overview": {
+          "content": "beta/investment-ops/overview/ja_JP.md"
+        },
+        "stayInTouch" :{
+          "content" :"beta/investment-ops/stay-in-touch/ja_JP.md"
+        }
+      }
+    },{
+      "path": "location-guide/confirmation",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "ご登録ありがとうございました。",
+        "pageHeader": {
+          "content": "beta/info/investment-ops-confirmation/ja_JP.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/investment-ops-confirmation/content/ja_JP.md"
+        }
+      }
+    }
+  ]
 }

@@ -957,6 +957,32 @@
       "data": {
         "pageTitle": "Get in touch"
       }
-    }]
+    },
+    {
+      "path": "定位指南",
+      "layout": "investment-ops.html",
+      "data": {
+        "pageTitle": "Guia de localização",
+        "overview": {
+          "content": "beta/investment-ops/overview/zh_CN.md"
+        },
+        "stayInTouch" :{
+          "content" :"beta/investment-ops/stay-in-touch/zh_CN.md"
+        }
+      }
+    },{
+      "path": "location-guide/confirmation",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "感谢注册……",
+        "pageHeader": {
+          "content": "beta/info/investment-ops-confirmation/zh_CN.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/investment-ops-confirmation/content/zh_CN.md"
+        }
+      }
+    }
+    ]
   }]
 }
