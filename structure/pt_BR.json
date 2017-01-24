@@ -23,8 +23,8 @@
       "pageHeader": {
         "content": "beta/home/pt_BR.md",
         "externalVideo": "https://www.youtube.com/embed/3mnci2p3TbY?rel=0",
-        "heroVideo": "northern-powerhouse.mp4",
-        "heroVideoImage": "northern-powerhouse.jpg"
+        "heroVideo": "iigb-hero.mp4",
+        "heroVideoImage": "iigb-hero.jpg"
       },
       "firstSection": {
         "content": "beta/form/pt_BR.md"
