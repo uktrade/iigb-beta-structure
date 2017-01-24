@@ -1,6 +1,6 @@
 {
   "globalData": {
-    "base":"de",
+    "base": "de",
     "locale": {
       "language": "de",
       "country": "de",
@@ -990,6 +990,15 @@
         }]
       }
     }, {
+      "path": "feedback",
+      "layout": "feedback.html",
+      "data": {
+        "pageTitle": "Feedback",
+        "pageHeader": {
+          "content": "beta/info/feedback/de_DE.md"
+        }
+      }
+    }, {
       "path": "enquiries/confirmation",
       "layout": "info.html",
       "data": {
@@ -1013,7 +1022,7 @@
           "content": "beta/info/form-error/content/de_DE.md"
         }
       }
-    },{
+    }, {
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
