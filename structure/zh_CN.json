@@ -959,10 +959,10 @@
       }
     },
     {
-      "path": "定位指南",
+      "path": "location-guide",
       "layout": "investment-ops.html",
       "data": {
-        "pageTitle": "Guia de localização",
+        "pageTitle": "定位指南",
         "overview": {
           "content": "beta/investment-ops/overview/zh_CN.md"
         },
