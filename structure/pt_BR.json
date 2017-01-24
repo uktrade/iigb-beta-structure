@@ -946,6 +946,32 @@
       "data": {
         "pageTitle": "Get in touch"
       }
-    }]
+    },
+    {
+      "path": "location-guide",
+      "layout": "investment-ops.html",
+      "data": {
+        "pageTitle": "Guia de localização",
+        "overview": {
+          "content": "beta/investment-ops/overview/pt_BR.md"
+        },
+        "stayInTouch" :{
+          "content" :"beta/investment-ops/stay-in-touch/pt_BR.md"
+        }
+      }
+    },{
+      "path": "location-guide/confirmation",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "Obrigado pela adesão…",
+        "pageHeader": {
+          "content": "beta/info/investment-ops-confirmation/pt_BR.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/investment-ops-confirmation/content/pt_BR.md"
+        }
+      }
+    }
+    ]
   }]
 }
