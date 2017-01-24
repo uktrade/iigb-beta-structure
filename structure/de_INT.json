@@ -990,6 +990,15 @@
         }]
       }
     }, {
+      "path": "feedback",
+      "layout": "feedback.html",
+      "data": {
+        "pageTitle": "Feedback",
+        "pageHeader": {
+          "content": "beta/info/feedback/de_DE.md"
+        }
+      }
+    },{
       "path": "enquiries/confirmation",
       "layout": "info.html",
       "data": {
