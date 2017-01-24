@@ -451,6 +451,20 @@
             }
           }]
         }
+      },{
+        "path": "retail",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Einzelhandel in Großbritannien",
+          "pageHeader": {
+            "content": "beta/industries/retail/intro/de_DE.md",
+            "heroImage": "retail.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/retail/overview/de_DE.md"
+          }],
+          "subContent": []
+        }
       }, {
         "path": "automotive",
         "layout": "industry.html",
