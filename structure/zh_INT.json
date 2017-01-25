@@ -364,7 +364,7 @@
         "path": "aerospace",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Aerospace in the UK",
+          "pageTitle": "航空航天业概况",
           "pageHeader": {
             "content": "beta/industries/aerospace/intro/zh_CN.md",
             "heroImage": "aerospace.jpg"
@@ -378,7 +378,7 @@
         "path": "advanced-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "高级制造业概况",
           "pageHeader": {
             "content": "beta/industries/advanced-manufacturing/intro/zh_CN.md",
             "heroImage": "advanced-manufacturing.jpg"
@@ -409,7 +409,7 @@
             "path": "freefrom",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Freefrom",
+              "pageTitle": "英国的不含特定成分食品",
               "pageHeader": {
                 "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/zh_CN.md",
                 "heroImage": "freefrom.jpg"
@@ -428,7 +428,7 @@
         "path": "retail",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "零售业概况",
           "pageHeader": {
             "content": "beta/industries/retail/intro/zh_CN.md",
             "heroImage": "retail.jpg"
@@ -931,7 +931,7 @@
       "path": "feedback",
       "layout": "feedback.html",
       "data": {
-        "pageTitle": "Feedback",
+        "pageTitle": "电子邮件",
         "pageHeader": {
           "content": "beta/info/feedback/zh_CN.md"
         }
