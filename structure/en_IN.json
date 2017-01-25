@@ -445,6 +445,7 @@
           "pageTitle": "Automotive in the UK",
           "pageHeader": {
             "content": "beta/industries/automotive/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/nQsMQpW6rvs?rel=0",
             "heroImage": "automotive.jpg"
           },
           "sections": [{
@@ -525,6 +526,7 @@
           "pageTitle": "Energy generation in the UK",
           "pageHeader": {
             "content": "beta/industries/energy-generation/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/ObOj0yNeKKw?rel=0",
             "heroImage": "energy.jpg"
           },
           "sections": [{
@@ -651,6 +653,7 @@
           "pageTitle": "Health and life sciences in the UK",
           "pageHeader": {
             "content": "beta/industries/life-sciences/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/p_RfYu1-ZuU?rel=0",
             "heroImage": "life-sciences.jpg"
           },
           "sections": [{
