@@ -147,8 +147,6 @@
             "sections": [{
               "content": "beta/setup-guide/establish-address/sections/what-you-need-to-know/ja_JP.md"
             }, {
-              "content": "beta/setup-guide/establish-address/sections/regional-centres-of-excellence/ja_JP.md"
-            }, {
               "content": "beta/setup-guide/establish-address/sections/business-clusters/ja_JP.md"
             }, {
               "content": "beta/setup-guide/establish-address/sections/enterprise-zones/ja_JP.md"
@@ -694,8 +692,6 @@
               },
               "sections": [{
                 "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/market-conditions/ja_JP.md"
-              }, {
-                "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/talent-and-skills/ja_JP.md"
               }, {
                 "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/support-and-incentives/ja_JP.md"
               }]
