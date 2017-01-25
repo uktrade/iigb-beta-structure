@@ -391,7 +391,7 @@
         "path": "aerospace",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Aerospace in the UK",
+          "pageTitle": "Luftfahrtindustrie in Großbritannien",
           "pageHeader": {
             "content": "beta/industries/aerospace/intro/de_DE.md",
             "heroImage": "aerospace.jpg"
@@ -405,7 +405,7 @@
         "path": "advanced-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "Fortgeschrittene Fertigungstechnologien in Großbritannien",
           "pageHeader": {
             "content": "beta/industries/advanced-manufacturing/intro/de_DE.md",
             "heroImage": "advanced-manufacturing.jpg"
@@ -436,7 +436,7 @@
             "path": "freefrom",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Freefrom",
+              "pageTitle": "Free-From-Lebensmittel in Großbritannien",
               "pageHeader": {
                 "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/de_DE.md",
                 "heroImage": "freefrom.jpg"
@@ -1007,7 +1007,7 @@
       "path": "feedback",
       "layout": "feedback.html",
       "data": {
-        "pageTitle": "Feedback",
+        "pageTitle": "Helfen Sie uns, diesen Dienst zu verbessern",
         "pageHeader": {
           "content": "beta/info/feedback/de_DE.md"
         }
@@ -1040,7 +1040,7 @@
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "Get in touch"
+        "pageTitle": "Kontakt"
       }
     },
     {
