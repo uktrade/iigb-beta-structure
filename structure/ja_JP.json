@@ -885,10 +885,10 @@
         "data": {
           "pageTitle": "規約",
           "pageHeader": {
-            "content": "great.gov.uk/terms-and-conditions/en.md"
+            "content": "great.gov.uk/terms-and-conditions/ja.md"
           },
           "sections": [{
-            "content": "great.gov.uk/terms-and-conditions/content/en.md"
+            "content": "great.gov.uk/terms-and-conditions/content/ja.md"
           }]
         }
       }, {
@@ -897,10 +897,10 @@
         "data": {
           "pageTitle": "プライバシー",
           "pageHeader": {
-            "content": "great.gov.uk/privacy-policy/en.md"
+            "content": "great.gov.uk/privacy-policy/ja.md"
           },
           "sections": [{
-            "content": "great.gov.uk/privacy-policy/content/en.md"
+            "content": "great.gov.uk/privacy-policy/content/ja.md"
           }]
         }
       }, {
