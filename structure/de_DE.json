@@ -22,7 +22,7 @@
       "pageTitle": "Home",
       "pageHeader": {
         "content": "beta/home/de_DE.md",
-        "externalVideo": "https://www.youtube.com/embed/R0ZOhmE47Ck?rel=0",
+        "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
         "heroVideo": "iigb-hero.mp4",
         "heroVideoImage": "iigb-hero.jpg"
       },
@@ -349,7 +349,7 @@
         }, {
           "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/de_DE.md",
           "thumbnail": "freefrom.jpg",
-          "link": "/industries/food-and-drink-manufacturing/financial-technology"
+          "link": "/industries/food-and-drink-manufacturing/freefrom"
         }, {
           "content": "beta/industries/creative/sub-sectors/content-and-production/de_DE.md",
           "thumbnail": "content-and-production.jpg",
@@ -391,7 +391,7 @@
         "path": "aerospace",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Aerospace in the UK",
+          "pageTitle": "Luftfahrtindustrie in Großbritannien",
           "pageHeader": {
             "content": "beta/industries/aerospace/intro/de_DE.md",
             "heroImage": "aerospace.jpg"
@@ -405,7 +405,7 @@
         "path": "advanced-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "Fortgeschrittene Fertigungstechnologien in Großbritannien",
           "pageHeader": {
             "content": "beta/industries/advanced-manufacturing/intro/de_DE.md",
             "heroImage": "advanced-manufacturing.jpg"
@@ -419,7 +419,7 @@
         "path": "food-and-drink-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "Lebensmittel- und Getränkeherstellung in Großbritannien",
           "pageHeader": {
             "content": "beta/industries/food-and-drink-manufacturing/intro/de_DE.md",
             "heroImage": "food-and-drink-manufacturing.jpg"
@@ -436,7 +436,7 @@
             "path": "freefrom",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Freefrom",
+              "pageTitle": "Free-From-Lebensmittel in Großbritannien",
               "pageHeader": {
                 "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/de_DE.md",
                 "heroImage": "freefrom.jpg"
@@ -450,6 +450,20 @@
               }]
             }
           }]
+        }
+      }, {
+        "path": "retail",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Einzelhandel in Großbritannien",
+          "pageHeader": {
+            "content": "beta/industries/retail/intro/de_DE.md",
+            "heroImage": "retail.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/retail/overview/de_DE.md"
+          }],
+          "subContent": []
         }
       }, {
         "path": "automotive",
@@ -993,7 +1007,7 @@
       "path": "feedback",
       "layout": "feedback.html",
       "data": {
-        "pageTitle": "Feedback",
+        "pageTitle": "Helfen Sie uns, diesen Dienst zu verbessern",
         "pageHeader": {
           "content": "beta/info/feedback/de_DE.md"
         }
@@ -1026,10 +1040,9 @@
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "Get in touch"
+        "pageTitle": "Kontakt"
       }
-    },
-    {
+    }, {
       "path": "location-guide",
       "layout": "investment-ops.html",
       "data": {
@@ -1037,11 +1050,11 @@
         "overview": {
           "content": "beta/investment-ops/overview/de_DE.md"
         },
-        "stayInTouch" :{
-          "content" :"beta/investment-ops/stay-in-touch/de_DE.md"
+        "stayInTouch": {
+          "content": "beta/investment-ops/stay-in-touch/de_DE.md"
         }
       }
-    },{
+    }, {
       "path": "location-guide/confirmation",
       "layout": "500.html",
       "data": {
@@ -1053,7 +1066,6 @@
           "content": "beta/info/investment-ops-confirmation/content/de_DE.md"
         }
       }
-    }
-    ]
+    }]
   }]
 }

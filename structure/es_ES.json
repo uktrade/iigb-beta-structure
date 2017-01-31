@@ -19,10 +19,10 @@
     "path": "es",
     "layout": "home.html",
     "data": {
-      "pageTitle": "Invest home",
+      "pageTitle": "Inicio",
       "pageHeader": {
         "content": "beta/home/es_ES.md",
-        "externalVideo": "https://www.youtube.com/embed/3mnci2p3TbY?rel=0",
+        "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
         "heroVideo": "iigb-hero.mp4",
         "heroVideoImage": "iigb-hero.jpg"
       },
@@ -85,7 +85,7 @@
       "output": "404.html",
       "layout": "404.html",
       "data": {
-        "pageTitle": "HTTP Error code 404 - Page not found",
+        "pageTitle": "HTTP 404 - Página no encontrada",
         "background": "404.jpg",
         "pageHeader": {
           "content": "beta/info/404/es_ES.md"
@@ -96,7 +96,7 @@
       "output": "500.html",
       "layout": "500.html",
       "data": {
-        "pageTitle": "HTTP Error code 500 - Internal Server Error",
+        "pageTitle": "HTTP 500 - Error del servidor",
         "background": "",
         "pageHeader": {
           "content": "beta/info/500/es_ES.md"
@@ -109,7 +109,7 @@
       "path": "setup-guide",
       "layout": "bullet-list-page.html",
       "data": {
-        "pageTitle": "The UK setup guide",
+        "pageTitle": "Su guía para establecerse",
         "pageHeader": {
           "content": "beta/setup-guide/es_ES.md"
         },
@@ -140,7 +140,7 @@
         "path": "establish-address",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Establish a base for business in the UK",
+          "pageTitle": "Cómo establecer una base empresarial en el Reino Unido",
           "pageHeader": {
             "content": "beta/setup-guide/establish-address/intro/es_ES.md"
           },
@@ -158,7 +158,7 @@
         "path": "apply-for-visa",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Apply for a UK visa",
+          "pageTitle": "Solicitar un visado para el Reino Unido",
           "pageHeader": {
             "content": "beta/setup-guide/apply-for-visa/intro/es_ES.md"
           },
@@ -172,7 +172,7 @@
         "path": "open-a-business-account",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Open a UK business bank account",
+          "pageTitle": "Abrir una cuenta bancaria empresarial",
           "pageHeader": {
             "content": "beta/setup-guide/open-a-business-account/intro/es_ES.md"
           },
@@ -186,7 +186,7 @@
         "path": "how-to-setup",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Set up a company in the UK",
+          "pageTitle": "Cómo crear una empresa en el Reino Unido",
           "pageHeader": {
             "content": "beta/setup-guide/how-to-setup/intro/es_ES.md"
           },
@@ -200,7 +200,7 @@
         "path": "understand-tax",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Understand UK tax and incentives",
+          "pageTitle": "Información sobre impuestos e incentivos fiscales",
           "pageHeader": {
             "content": "beta/setup-guide/understand-tax/intro/es_ES.md"
           },
@@ -214,7 +214,7 @@
         "path": "access-talent",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Hire skilled workers for your UK operations",
+          "pageTitle": "Contratar a trabajadores cualificados para sus operaciones",
           "pageHeader": {
             "content": "beta/setup-guide/access-talent/intro/es_ES.md"
           },
@@ -230,7 +230,7 @@
         "path": "understand-legal",
         "layout": "article.html",
         "data": {
-          "pageTitle": "The UK's legal framework",
+          "pageTitle": "El marco legal",
           "pageHeader": {
             "content": "beta/setup-guide/understand-legal/intro/es_ES.md"
           },
@@ -249,7 +249,7 @@
       "path": "industries",
       "layout": "landing-page.html",
       "data": {
-        "pageTitle": "Industries",
+        "pageTitle": "Sectores",
         "pageHeader": {
           "content": "beta/industries/es_ES.md"
         },
@@ -333,7 +333,7 @@
         }, {
           "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/es_ES.md",
           "thumbnail": "freefrom.jpg",
-          "link": "/industries/food-and-drink-manufacturing/financial-technology"
+          "link": "/industries/food-and-drink-manufacturing/freefrom"
         }, {
           "content": "beta/industries/life-sciences/sub-sectors/medical-technology/es_ES.md",
           "thumbnail": "medical-technology.jpg",
@@ -364,7 +364,7 @@
         "path": "aerospace",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Aerospace in the UK",
+          "pageTitle": "El sector aeroespacial",
           "pageHeader": {
             "content": "beta/industries/aerospace/intro/es_ES.md",
             "heroImage": "aerospace.jpg"
@@ -378,7 +378,7 @@
         "path": "advanced-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "Fabricación avanzada",
           "pageHeader": {
             "content": "beta/industries/advanced-manufacturing/intro/es_ES.md",
             "heroImage": "advanced-manufacturing.jpg"
@@ -392,7 +392,7 @@
         "path": "food-and-drink-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "Fabricación de alimentos y bebidas",
           "pageHeader": {
             "content": "beta/industries/food-and-drink-manufacturing/intro/es_ES.md",
             "heroImage": "food-and-drink-manufacturing.jpg"
@@ -409,7 +409,7 @@
             "path": "freefrom",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Freefrom",
+              "pageTitle": "Alimentos hipoalergénicos en el Reino Unido",
               "pageHeader": {
                 "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/es_ES.md",
                 "heroImage": "freefrom.jpg"
@@ -428,7 +428,7 @@
         "path": "retail",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "Comercio minorista",
           "pageHeader": {
             "content": "beta/industries/retail/intro/es_ES.md",
             "heroImage": "retail.jpg"
@@ -442,7 +442,7 @@
         "path": "automotive",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Automotive in the UK",
+          "pageTitle": "Automoción en el Reino Unido",
           "pageHeader": {
             "content": "beta/industries/automotive/intro/es_ES.md",
             "heroImage": "automotive.jpg"
@@ -468,7 +468,7 @@
           "path": "motorsport",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Motor sport in the UK",
+            "pageTitle": "Los deportes de motor",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/motorsport/intro/es_ES.md",
               "heroImage": "motorsport.jpg"
@@ -485,7 +485,7 @@
           "path": "research-and-development",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Automotive research and development in the UK",
+            "pageTitle": "Investigación y desarrollo automotriz",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/research-and-development/intro/es_ES.md",
               "heroImage": "research-and-development.jpg"
@@ -504,7 +504,7 @@
           "path": "supply-chain",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Automotive supply chain in the UK",
+            "pageTitle": "Cadena de suministro automovilística",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/supply-chain/intro/es_ES.md",
               "heroImage": "supply-chain.jpg"
@@ -522,7 +522,7 @@
         "path": "energy",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Energy generation in the UK",
+          "pageTitle": "Producción de energía",
           "pageHeader": {
             "content": "beta/industries/energy-generation/intro/es_ES.md",
             "heroImage": "energy.jpg"
@@ -556,7 +556,7 @@
           "path": "offshore-wind",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Offshore wind in the UK",
+            "pageTitle": "Energía eólica marina",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/es_ES.md",
               "heroImage": "offshore.jpg"
@@ -573,7 +573,7 @@
           "path": "electrical-networks",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Electrical networks in the UK",
+            "pageTitle": "Redes eléctricas",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/es_ES.md",
               "heroImage": "electrical-networks.jpg"
@@ -590,7 +590,7 @@
           "path": "energy-from-waste",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Energy from waste in the UK",
+            "pageTitle": "Producción de energía a partir de residuos",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/es_ES.md",
               "heroImage": "energy-from-waste.jpg"
@@ -609,7 +609,7 @@
           "path": "oil-and-gas",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Oil and gas in the UK",
+            "pageTitle": "Petróleo y gas",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/es_ES.md",
               "heroImage": "oil-and-gas.jpg"
@@ -628,7 +628,7 @@
           "path": "nuclear",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Nuclear in the UK",
+            "pageTitle": "Energía nuclear",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/nuclear/intro/es_ES.md",
               "heroImage": "nuclear.jpg"
@@ -648,7 +648,7 @@
         "path": "health-and-life",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Health and life sciences in the UK",
+          "pageTitle": "Ciencias biológicas y de la salud",
           "pageHeader": {
             "content": "beta/industries/life-sciences/intro/es_ES.md",
             "heroImage": "life-sciences.jpg"
@@ -670,7 +670,7 @@
           "path": "medical-technology",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Medical technology in the UK",
+            "pageTitle": "Tecnología médica",
             "pageHeader": {
               "content": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/es_ES.md",
               "heroImage": "medical-technology.jpg"
@@ -687,7 +687,7 @@
           "path": "pharmaceutical-manufacturing",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Pharmaceutical manufacturing in the UK",
+            "pageTitle": "Fabricación farmacéutica",
             "pageHeader": {
               "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/es_ES.md",
               "heroImage": "medicine-manufacturing.jpg"
@@ -705,7 +705,7 @@
         "path": "creative",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Creative in the UK",
+          "pageTitle": "Creatividad",
           "pageHeader": {
             "content": "beta/industries/creative/intro/es_ES.md",
             "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8?rel=0",
@@ -732,7 +732,7 @@
           "path": "content-and-production",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Content and production in the UK",
+            "pageTitle": "Creación y producción de contenidos creativos",
             "pageHeader": {
               "content": "beta/industries/creative/sub-sectors/content-and-production/intro/es_ES.md",
               "heroImage": "content-and-production.jpg"
@@ -751,7 +751,7 @@
           "path": "digital-media",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Digital media in the UK",
+            "pageTitle": "Medios digitales",
             "pageHeader": {
               "content": "beta/industries/creative/sub-sectors/digital-media/intro/es_ES.md",
               "heroImage": "digital-media.jpg"
@@ -773,7 +773,7 @@
         "path": "financial-services",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Financial services in the UK",
+          "pageTitle": "Servicios financieros",
           "pageHeader": {
             "content": "beta/industries/financial-services/intro/es_ES.md",
             "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0?rel=0",
@@ -800,7 +800,7 @@
           "path": "asset-management",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Asset management in the UK",
+            "pageTitle": "Gestión de activos",
             "pageHeader": {
               "content": "beta/industries/financial-services/sub-sectors/asset-management/intro/es_ES.md",
               "heroImage": "asset-management.jpg"
@@ -819,7 +819,7 @@
           "path": "financial-technology",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Financial technology in the UK",
+            "pageTitle": "Tecnología financiera",
             "pageHeader": {
               "content": "beta/industries/financial-services/sub-sectors/fintech/intro/es_ES.md",
               "heroImage": "fintech.jpg"
@@ -837,7 +837,7 @@
         "path": "technology",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Technology in the UK",
+          "pageTitle": "Tecnología",
           "pageHeader": {
             "content": "beta/industries/technology/intro/es_ES.md",
             "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo?rel=0",
@@ -868,7 +868,7 @@
           "path": "data-analytics",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Data analytics in the UK",
+            "pageTitle": "Análisis de datos",
             "pageHeader": {
               "content": "beta/industries/technology/sub-sectors/data-analytics/intro/es_ES.md",
               "heroImage": "data-analytics.jpg"
@@ -887,7 +887,7 @@
       "path": "terms-and-conditions",
       "layout": "single-section.html",
       "data": {
-        "pageTitle": "Terms and conditions",
+        "pageTitle": "Términos y condiciones",
         "pageHeader": {
           "content": "great.gov.uk/terms-and-conditions/en.md"
         },
@@ -899,7 +899,7 @@
       "path": "privacy-policy",
       "layout": "single-section.html",
       "data": {
-        "pageTitle": "Privacy and cookies",
+        "pageTitle": "Privacidad y cookies",
         "pageHeader": {
           "content": "great.gov.uk/privacy-policy/en.md"
         },
@@ -911,7 +911,7 @@
       "path": "feedback",
       "layout": "feedback.html",
       "data": {
-        "pageTitle": "Feedback",
+        "pageTitle": "Comentarios",
         "pageHeader": {
           "content": "beta/info/feedback/es_ES.md"
         }
@@ -932,7 +932,7 @@
       "path": "enquiries/error",
       "layout": "info.html",
       "data": {
-        "pageTitle": "Sorry, there was a problem. Try again",
+        "pageTitle": "El formulario no ha llegado a nuestra base de datos",
         "pageHeader": {
           "content": "beta/info/form-error/es_ES.md"
         },
@@ -944,7 +944,7 @@
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "Get in touch"
+        "pageTitle": "Contacto"
       }
     },
     {

@@ -19,10 +19,10 @@
     "path": "int/ja",
     "layout": "home.html",
     "data": {
-      "pageTitle": "Invest home",
+      "pageTitle": "トップページ",
       "pageHeader": {
         "content": "beta/home/ja_JP.md",
-        "externalVideo": "https://www.youtube.com/embed/3mnci2p3TbY?rel=0",
+        "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
         "heroVideo": "iigb-hero.mp4",
         "heroVideoImage": "iigb-hero.jpg"
       },
@@ -85,7 +85,7 @@
         "output": "404.html",
         "layout": "404.html",
         "data": {
-          "pageTitle": "HTTP Error code 404 - Page not found",
+          "pageTitle": "HTTP 404 - ページが見つかりません",
           "background": "404.jpg",
           "pageHeader": {
             "content": "beta/info/404/ja_JP.md"
@@ -109,7 +109,7 @@
         "path": "setup-guide",
         "layout": "bullet-list-page.html",
         "data": {
-          "pageTitle": "The UK setup guide",
+          "pageTitle": "英国で事業を設立するためのガイドライン",
           "pageHeader": {
             "content": "beta/setup-guide/ja_JP.md"
           },
@@ -140,14 +140,12 @@
           "path": "establish-address",
           "layout": "article.html",
           "data": {
-            "pageTitle": "Establish a base for business in the UK",
+            "pageTitle": "英国内に事業所を設立する",
             "pageHeader": {
               "content": "beta/setup-guide/establish-address/intro/ja_JP.md"
             },
             "sections": [{
               "content": "beta/setup-guide/establish-address/sections/what-you-need-to-know/ja_JP.md"
-            }, {
-              "content": "beta/setup-guide/establish-address/sections/regional-centres-of-excellence/ja_JP.md"
             }, {
               "content": "beta/setup-guide/establish-address/sections/business-clusters/ja_JP.md"
             }, {
@@ -158,7 +156,7 @@
           "path": "apply-for-visa",
           "layout": "article.html",
           "data": {
-            "pageTitle": "Apply for a UK visa",
+            "pageTitle": "英国の査証（ビザ）を申請する",
             "pageHeader": {
               "content": "beta/setup-guide/apply-for-visa/intro/ja_JP.md"
             },
@@ -172,7 +170,7 @@
           "path": "open-a-business-account",
           "layout": "article.html",
           "data": {
-            "pageTitle": "Open a UK business bank account",
+            "pageTitle": "英国で法人銀行口座を開く",
             "pageHeader": {
               "content": "beta/setup-guide/open-a-business-account/intro/ja_JP.md"
             },
@@ -186,7 +184,7 @@
           "path": "how-to-setup",
           "layout": "article.html",
           "data": {
-            "pageTitle": "Set up a company in the UK",
+            "pageTitle": "英国で会社を設立する",
             "pageHeader": {
               "content": "beta/setup-guide/how-to-setup/intro/ja_JP.md"
             },
@@ -200,7 +198,7 @@
           "path": "understand-tax",
           "layout": "article.html",
           "data": {
-            "pageTitle": "Understand UK tax and incentives",
+            "pageTitle": "英国の税制及び優遇措置",
             "pageHeader": {
               "content": "beta/setup-guide/understand-tax/intro/ja_JP.md"
             },
@@ -214,7 +212,7 @@
           "path": "access-talent",
           "layout": "article.html",
           "data": {
-            "pageTitle": "Hire skilled workers for your UK operations",
+            "pageTitle": "英国における事業のために有能な人材を雇用する",
             "pageHeader": {
               "content": "beta/setup-guide/access-talent/intro/ja_JP.md"
             },
@@ -230,7 +228,7 @@
           "path": "understand-legal",
           "layout": "article.html",
           "data": {
-            "pageTitle": "The UK's legal framework",
+            "pageTitle": "英国の法制度を理解する",
             "pageHeader": {
               "content": "beta/setup-guide/understand-legal/intro/ja_JP.md"
             },
@@ -249,7 +247,7 @@
         "path": "industries",
         "layout": "landing-page.html",
         "data": {
-          "pageTitle": "Industries",
+          "pageTitle": "産業",
           "pageHeader": {
             "content": "beta/industries/ja_JP.md"
           },
@@ -333,7 +331,7 @@
           }, {
             "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/ja_JP.md",
             "thumbnail": "freefrom.jpg",
-            "link": "/industries/food-and-drink-manufacturing/financial-technology"
+            "link": "/industries/food-and-drink-manufacturing/freefrom"
           }, {
             "content": "beta/industries/life-sciences/sub-sectors/medical-technology/ja_JP.md",
             "thumbnail": "medical-technology.jpg",
@@ -364,7 +362,7 @@
           "path": "aerospace",
           "layout": "industry.html",
           "data": {
-            "pageTitle": "Aerospace in the UK",
+            "pageTitle": "英国の航空宇宙産業の概要",
             "pageHeader": {
               "content": "beta/industries/aerospace/intro/ja_JP.md",
               "heroImage": "aerospace.jpg"
@@ -378,7 +376,7 @@
           "path": "advanced-manufacturing",
           "layout": "industry.html",
           "data": {
-            "pageTitle": "Advanced manufacturing in the UK",
+            "pageTitle": "アドバンスト・エンジリアリング産業の概要",
             "pageHeader": {
               "content": "beta/industries/advanced-manufacturing/intro/ja_JP.md",
               "heroImage": "advanced-manufacturing.jpg"
@@ -392,7 +390,7 @@
           "path": "food-and-drink-manufacturing",
           "layout": "industry.html",
           "data": {
-            "pageTitle": "Advanced manufacturing in the UK",
+            "pageTitle": "飲食料品製造業",
             "pageHeader": {
               "content": "beta/industries/food-and-drink-manufacturing/intro/ja_JP.md",
               "heroImage": "food-and-drink-manufacturing.jpg"
@@ -409,7 +407,7 @@
               "path": "freefrom",
               "layout": "sector.html",
               "data": {
-                "pageTitle": "Freefrom",
+                "pageTitle": "英国におけるフリーフロム食品",
                 "pageHeader": {
                   "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/ja_JP.md",
                   "heroImage": "freefrom.jpg"
@@ -428,7 +426,7 @@
           "path": "retail",
           "layout": "industry.html",
           "data": {
-            "pageTitle": "Advanced manufacturing in the UK",
+            "pageTitle": "小売業の概要",
             "pageHeader": {
               "content": "beta/industries/retail/intro/ja_JP.md",
               "heroImage": "retail.jpg"
@@ -442,7 +440,7 @@
           "path": "automotive",
           "layout": "industry.html",
           "data": {
-            "pageTitle": "Automotive in the UK",
+            "pageTitle": "英国における自動車産業",
             "pageHeader": {
               "content": "beta/industries/automotive/intro/ja_JP.md",
               "heroImage": "automotive.jpg"
@@ -468,7 +466,7 @@
             "path": "motorsport",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Motor sport in the UK",
+              "pageTitle": "英国のモータースポーツ",
               "pageHeader": {
                 "content": "beta/industries/automotive/sub-sectors/motorsport/intro/ja_JP.md",
                 "heroImage": "motorsport.jpg"
@@ -485,7 +483,7 @@
             "path": "research-and-development",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Automotive research and development in the UK",
+              "pageTitle": "自動車産業の研究開発",
               "pageHeader": {
                 "content": "beta/industries/automotive/sub-sectors/research-and-development/intro/ja_JP.md",
                 "heroImage": "research-and-development.jpg"
@@ -504,7 +502,7 @@
             "path": "supply-chain",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Automotive supply chain in the UK",
+              "pageTitle": "自動車サプライチェーン",
               "pageHeader": {
                 "content": "beta/industries/automotive/sub-sectors/supply-chain/intro/ja_JP.md",
                 "heroImage": "supply-chain.jpg"
@@ -522,7 +520,7 @@
           "path": "energy",
           "layout": "industry.html",
           "data": {
-            "pageTitle": "Energy generation in the UK",
+            "pageTitle": "英国におけるエネルギー生産",
             "pageHeader": {
               "content": "beta/industries/energy-generation/intro/ja_JP.md",
               "heroImage": "energy.jpg"
@@ -556,7 +554,7 @@
             "path": "offshore-wind",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Offshore wind in the UK",
+              "pageTitle": "英国における洋上風力エネルギー",
               "pageHeader": {
                 "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/ja_JP.md",
                 "heroImage": "offshore.jpg"
@@ -573,7 +571,7 @@
             "path": "electrical-networks",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Electrical networks in the UK",
+              "pageTitle": "英国の電力網産業",
               "pageHeader": {
                 "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/ja_JP.md",
                 "heroImage": "electrical-networks.jpg"
@@ -590,7 +588,7 @@
             "path": "energy-from-waste",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Energy from waste in the UK",
+              "pageTitle": "はじめに",
               "pageHeader": {
                 "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/ja_JP.md",
                 "heroImage": "energy-from-waste.jpg"
@@ -609,7 +607,7 @@
             "path": "oil-and-gas",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Oil and gas in the UK",
+              "pageTitle": "英国における石油とガス",
               "pageHeader": {
                 "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/ja_JP.md",
                 "heroImage": "oil-and-gas.jpg"
@@ -628,7 +626,7 @@
             "path": "nuclear",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Nuclear in the UK",
+              "pageTitle": "英国の原子力エネルギー",
               "pageHeader": {
                 "content": "beta/industries/energy-generation/sub-sectors/nuclear/intro/ja_JP.md",
                 "heroImage": "nuclear.jpg"
@@ -648,7 +646,7 @@
           "path": "health-and-life",
           "layout": "industry.html",
           "data": {
-            "pageTitle": "Health and life sciences in the UK",
+            "pageTitle": "ヘルスケアとライフサイエンス",
             "pageHeader": {
               "content": "beta/industries/life-sciences/intro/ja_JP.md",
               "heroImage": "life-sciences.jpg"
@@ -670,7 +668,7 @@
             "path": "medical-technology",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Medical technology in the UK",
+              "pageTitle": "英国における医療技術",
               "pageHeader": {
                 "content": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/ja_JP.md",
                 "heroImage": "medical-technology.jpg"
@@ -687,15 +685,13 @@
             "path": "pharmaceutical-manufacturing",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Pharmaceutical manufacturing in the UK",
+              "pageTitle": "医薬品製造",
               "pageHeader": {
                 "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/ja_JP.md",
                 "heroImage": "medicine-manufacturing.jpg"
               },
               "sections": [{
                 "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/market-conditions/ja_JP.md"
-              }, {
-                "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/talent-and-skills/ja_JP.md"
               }, {
                 "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/support-and-incentives/ja_JP.md"
               }]
@@ -705,7 +701,7 @@
           "path": "creative",
           "layout": "industry.html",
           "data": {
-            "pageTitle": "Creative in the UK",
+            "pageTitle": "クリエイティブ産業の",
             "pageHeader": {
               "content": "beta/industries/creative/intro/ja_JP.md",
               "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8?rel=0",
@@ -732,7 +728,7 @@
             "path": "content-and-production",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Content and production in the UK",
+              "pageTitle": "クリエイティブ･コンテンツと制作",
               "pageHeader": {
                 "content": "beta/industries/creative/sub-sectors/content-and-production/intro/ja_JP.md",
                 "heroImage": "content-and-production.jpg"
@@ -751,7 +747,7 @@
             "path": "digital-media",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Digital media in the UK",
+              "pageTitle": "英国におけるデジタルメディア",
               "pageHeader": {
                 "content": "beta/industries/creative/sub-sectors/digital-media/intro/ja_JP.md",
                 "heroImage": "digital-media.jpg"
@@ -773,7 +769,7 @@
           "path": "financial-services",
           "layout": "industry.html",
           "data": {
-            "pageTitle": "Financial services in the UK",
+            "pageTitle": "英国における金融サービス",
             "pageHeader": {
               "content": "beta/industries/financial-services/intro/ja_JP.md",
               "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0?rel=0",
@@ -800,7 +796,7 @@
             "path": "asset-management",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Asset management in the UK",
+              "pageTitle": "英国における資産運用",
               "pageHeader": {
                 "content": "beta/industries/financial-services/sub-sectors/asset-management/intro/ja_JP.md",
                 "heroImage": "asset-management.jpg"
@@ -819,7 +815,7 @@
             "path": "financial-technology",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Financial technology in the UK",
+              "pageTitle": "英国における金融テクノロジー",
               "pageHeader": {
                 "content": "beta/industries/financial-services/sub-sectors/fintech/intro/ja_JP.md",
                 "heroImage": "fintech.jpg"
@@ -837,7 +833,7 @@
           "path": "technology",
           "layout": "industry.html",
           "data": {
-            "pageTitle": "Technology in the UK",
+            "pageTitle": "テクノロジー",
             "pageHeader": {
               "content": "beta/industries/technology/intro/ja_JP.md",
               "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo?rel=0",
@@ -868,7 +864,7 @@
             "path": "data-analytics",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Data analytics in the UK",
+              "pageTitle": "英国におけるデータ・アナリティクス",
               "pageHeader": {
                 "content": "beta/industries/technology/sub-sectors/data-analytics/intro/ja_JP.md",
                 "heroImage": "data-analytics.jpg"
@@ -887,7 +883,7 @@
         "path": "terms-and-conditions",
         "layout": "single-section.html",
         "data": {
-          "pageTitle": "Terms and conditions",
+          "pageTitle": "規約",
           "pageHeader": {
             "content": "great.gov.uk/terms-and-conditions/en.md"
           },
@@ -899,7 +895,7 @@
         "path": "privacy-policy",
         "layout": "single-section.html",
         "data": {
-          "pageTitle": "Privacy and cookies",
+          "pageTitle": "プライバシー",
           "pageHeader": {
             "content": "great.gov.uk/privacy-policy/en.md"
           },
@@ -920,7 +916,7 @@
         "path": "enquiries/confirmation",
         "layout": "500.html",
         "data": {
-          "pageTitle": "Enquiry submitted",
+          "pageTitle": "英国における投資にご関心をお持ちいただき、ありがとうございました。",
           "pageHeader": {
             "content": "beta/info/form-confirmation/ja_JP.md"
           },
@@ -932,7 +928,7 @@
         "path": "enquiries/error",
         "layout": "info.html",
         "data": {
-          "pageTitle": "Sorry, there was a problem. Try again",
+          "pageTitle": "フォームが当省のデータベースに登録されませんでした。",
           "pageHeader": {
             "content": "beta/info/form-error/ja_JP.md"
           },
@@ -944,7 +940,7 @@
         "path": "contact",
         "layout": "contact-us.html",
         "data": {
-          "pageTitle": "Get in touch"
+          "pageTitle": "お問い合わせ"
         }
       },
       {

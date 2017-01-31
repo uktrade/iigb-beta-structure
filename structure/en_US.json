@@ -22,7 +22,7 @@
       "pageTitle": "Invest home",
       "pageHeader": {
         "content": "beta/home/en_US.md",
-        "externalVideo": "https://www.youtube.com/embed/3mnci2p3TbY?rel=0",
+        "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
         "heroVideo": "iigb-hero.mp4",
         "heroVideoImage": "iigb-hero.jpg"
       },
@@ -146,8 +146,6 @@
           },
           "sections": [{
             "content": "beta/setup-guide/establish-address/sections/what-you-need-to-know/en_US.md"
-          }, {
-            "content": "beta/setup-guide/establish-address/sections/regional-centres-of-excellence/en_US.md"
           }, {
             "content": "beta/setup-guide/establish-address/sections/business-clusters/en_US.md"
           }, {
@@ -333,7 +331,7 @@
         }, {
           "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/en_US.md",
           "thumbnail": "freefrom.jpg",
-          "link": "/industries/food-and-drink-manufacturing/financial-technology"
+          "link": "/industries/food-and-drink-manufacturing/freefrom"
         }, {
           "content": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
           "thumbnail": "medical-technology.jpg",
@@ -392,7 +390,7 @@
         "path": "food-and-drink-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "Food and Drink Manufacturing in the UK",
           "pageHeader": {
             "content": "beta/industries/food-and-drink-manufacturing/intro/en_US.md",
             "heroImage": "food-and-drink-manufacturing.jpg"
@@ -445,6 +443,7 @@
           "pageTitle": "Automotive in the UK",
           "pageHeader": {
             "content": "beta/industries/automotive/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/nQsMQpW6rvs?rel=0",
             "heroImage": "automotive.jpg"
           },
           "sections": [{
@@ -525,6 +524,7 @@
           "pageTitle": "Energy generation in the UK",
           "pageHeader": {
             "content": "beta/industries/energy-generation/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/ObOj0yNeKKw?rel=0",
             "heroImage": "energy.jpg"
           },
           "sections": [{
@@ -651,6 +651,7 @@
           "pageTitle": "Health and life sciences in the UK",
           "pageHeader": {
             "content": "beta/industries/life-sciences/intro/en_US.md",
+            "externalVideo": "https://www.youtube.com/embed/p_RfYu1-ZuU?rel=0",
             "heroImage": "life-sciences.jpg"
           },
           "sections": [{
