@@ -16,7 +16,7 @@
     }
   },
   "pages": [{
-    "path": "int",
+    "path": "int/ar",
     "layout": "home.html",
     "data": {
       "pageTitle": "Invest home",
