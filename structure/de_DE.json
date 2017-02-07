@@ -19,7 +19,7 @@
     "path": "de",
     "layout": "home.html",
     "data": {
-      "pageTitle": "Home",
+      "pageTitle": "Startseite",
       "pageHeader": {
         "content": "beta/home/de_DE.md",
         "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
