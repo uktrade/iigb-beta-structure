@@ -891,10 +891,10 @@
       "data": {
         "pageTitle": "Terms and conditions",
         "pageHeader": {
-          "content": "great.gov.uk/terms-and-conditions/en.md"
+          "content": "great.gov.uk/terms-and-conditions/ar.md"
         },
         "sections": [{
-          "content": "great.gov.uk/terms-and-conditions/content/en.md"
+          "content": "great.gov.uk/terms-and-conditions/content/ar.md"
         }]
       }
     }, {
@@ -903,10 +903,10 @@
       "data": {
         "pageTitle": "Privacy and cookies",
         "pageHeader": {
-          "content": "great.gov.uk/privacy-policy/en.md"
+          "content": "great.gov.uk/privacy-policy/ar.md"
         },
         "sections": [{
-          "content": "great.gov.uk/privacy-policy/content/en.md"
+          "content": "great.gov.uk/privacy-policy/content/ar.md"
         }]
       }
     }, {
