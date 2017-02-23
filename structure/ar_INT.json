@@ -695,11 +695,17 @@
               "heroImage": "medicine-manufacturing.jpg"
             },
             "sections": [{
-              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/market-conditions/ar_SA.md"
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/development-of-future-medicines/ar_SA.md"
             }, {
-              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/talent-and-skills/ar_SA.md"
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/highly-modern-sector/ar_SA.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/strong-regulations/ar_SA.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/skills-and-expertise/ar_SA.md"
             }, {
               "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/support-and-incentives/ar_SA.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/innovation/ar_SA.md"
             }]
           }
         }]
