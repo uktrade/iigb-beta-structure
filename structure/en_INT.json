@@ -941,14 +941,16 @@
           "content": "beta/info/form-error/content/en_US.md"
         }
       }
-    },{
+    }, {
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "Get in touch"
+        "pageTitle": "Get in touch",
+        "pageHeader": {
+          "content": "beta/info/form-page/en_US.md"
+        }
       }
-    },
-    {
+    }, {
       "path": "location-guide",
       "layout": "investment-ops.html",
       "data": {
@@ -956,11 +958,11 @@
         "overview": {
           "content": "beta/investment-ops/overview/en_US.md"
         },
-        "stayInTouch" :{
-          "content" :"beta/investment-ops/stay-in-touch/en_US.md"
+        "stayInTouch": {
+          "content": "beta/investment-ops/stay-in-touch/en_US.md"
         }
       }
-    },{
+    }, {
       "path": "location-guide/confirmation",
       "layout": "500.html",
       "data": {
@@ -972,7 +974,6 @@
           "content": "beta/info/investment-ops-confirmation/content/en_US.md"
         }
       }
-    }
-    ]
+    }]
   }]
 }

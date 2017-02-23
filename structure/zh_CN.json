@@ -964,7 +964,10 @@
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "取得联系"
+        "pageTitle": "取得联系",
+        "pageHeader": {
+          "content": "beta/info/form-page/zh_CN.md"
+        }
       }
     }, {
       "path": "location-guide",

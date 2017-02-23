@@ -948,14 +948,16 @@
           "content": "beta/info/form-error/content/ar_SA.md"
         }
       }
-    },{
+    }, {
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "Get in touch"
+        "pageTitle": "Get in touch",
+        "pageHeader": {
+          "content": "beta/info/form-page/ar_SA.md"
+        }
       }
-    },
-    {
+    }, {
       "path": "location-guide",
       "layout": "investment-ops.html",
       "data": {
@@ -963,11 +965,11 @@
         "overview": {
           "content": "beta/investment-ops/overview/ar_SA.md"
         },
-        "stayInTouch" :{
-          "content" :"beta/investment-ops/stay-in-touch/ar_SA.md"
+        "stayInTouch": {
+          "content": "beta/investment-ops/stay-in-touch/ar_SA.md"
         }
       }
-    },{
+    }, {
       "path": "location-guide/confirmation",
       "layout": "500.html",
       "data": {
@@ -979,7 +981,6 @@
           "content": "beta/info/investment-ops-confirmation/content/ar_SA.md"
         }
       }
-    }
-    ]
+    }]
   }]
 }

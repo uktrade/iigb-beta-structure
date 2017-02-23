@@ -1040,7 +1040,10 @@
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "Kontakt"
+        "pageTitle": "Kontakt",
+        "pageHeader": {
+          "content": "beta/info/form-page/de_DE.md"
+        }
       }
     }, {
       "path": "location-guide",

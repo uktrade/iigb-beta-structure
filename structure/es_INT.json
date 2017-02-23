@@ -940,14 +940,16 @@
           "content": "beta/info/form-error/content/es_ES.md"
         }
       }
-    },{
+    }, {
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "Contacto"
+        "pageTitle": "Contacto",
+        "pageHeader": {
+          "content": "beta/info/form-page/es_ES.md"
+        }
       }
-    },
-    {
+    }, {
       "path": "location-guide",
       "layout": "investment-ops.html",
       "data": {
@@ -955,11 +957,11 @@
         "overview": {
           "content": "beta/investment-ops/overview/es_ES.md"
         },
-        "stayInTouch" :{
-          "content" :"beta/investment-ops/stay-in-touch/es_ES.md"
+        "stayInTouch": {
+          "content": "beta/investment-ops/stay-in-touch/es_ES.md"
         }
       }
-    },{
+    }, {
       "path": "location-guide/confirmation",
       "layout": "500.html",
       "data": {
@@ -971,7 +973,6 @@
           "content": "beta/info/investment-ops-confirmation/content/es_ES.md"
         }
       }
-    }
-    ]
+    }]
   }]
 }
