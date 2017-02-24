@@ -32,7 +32,7 @@
       },
       "tileItems": [{
         "content": "beta/industries/automotive/ar_SA.md",
-        "thumbnail": "automotive.jpg",
+        "thumbnail": "automotive-rtl.jpg",
         "link": "/industries/automotive"
       }, {
         "content": "beta/industries/creative/ar_SA.md",
@@ -40,7 +40,7 @@
         "link": "/industries/creative"
       }, {
         "content": "beta/industries/energy-generation/ar_SA.md",
-        "thumbnail": "energy.jpg",
+        "thumbnail": "energy-rtl.jpg",
         "link": "/industries/energy"
       }, {
         "content": "beta/industries/financial-services/ar_SA.md",
@@ -258,11 +258,11 @@
           "link": "/industries/aerospace"
         }, {
           "content": "beta/industries/advanced-manufacturing/ar_SA.md",
-          "thumbnail": "advanced-manufacturing.jpg",
+          "thumbnail": "advanced-manufacturing-rtl.jpg",
           "link": "/industries/advanced-manufacturing"
         }, {
           "content": "beta/industries/automotive/ar_SA.md",
-          "thumbnail": "automotive.jpg",
+          "thumbnail": "automotive-rtl.jpg",
           "link": "/industries/automotive"
         }, {
           "content": "beta/industries/creative/ar_SA.md",
@@ -270,7 +270,7 @@
           "link": "/industries/creative"
         }, {
           "content": "beta/industries/energy-generation/ar_SA.md",
-          "thumbnail": "energy.jpg",
+          "thumbnail": "energy-rtl.jpg",
           "link": "/industries/energy"
         }, {
           "content": "beta/industries/financial-services/ar_SA.md",
@@ -278,7 +278,7 @@
           "link": "/industries/financial-services"
         }, {
           "content": "beta/industries/food-and-drink-manufacturing/ar_SA.md",
-          "thumbnail": "food-and-drink-manufacturing.jpg",
+          "thumbnail": "food-and-drink-manufacturing-rtl.jpg",
           "link": "/industries/food-and-drink-manufacturing"
         }, {
           "content": "beta/industries/life-sciences/ar_SA.md",
@@ -303,7 +303,7 @@
           "link": "/industries/automotive/research-and-development"
         }, {
           "content": "beta/industries/automotive/sub-sectors/supply-chain/ar_SA.md",
-          "thumbnail": "supply-chain.jpg",
+          "thumbnail": "supply-chain-rtl.jpg",
           "link": "/industries/automotive/supply-chain"
         }, {
           "content": "beta/industries/creative/sub-sectors/content-and-production/ar_SA.md",
@@ -311,7 +311,7 @@
           "link": "/industries/creative/content-and-production"
         }, {
           "content": "beta/industries/technology/sub-sectors/data-analytics/ar_SA.md",
-          "thumbnail": "data-analytics.jpg",
+          "thumbnail": "data-analytics-rtl.jpg",
           "link": "/industries/technology/data-analytics"
         }, {
           "content": "beta/industries/creative/sub-sectors/digital-media/ar_SA.md",
@@ -319,7 +319,7 @@
           "link": "/industries/creative/digital-media"
         }, {
           "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/ar_SA.md",
-          "thumbnail": "electrical-networks.jpg",
+          "thumbnail": "electrical-networks-rtl.jpg",
           "link": "/industries/energy/electrical-networks"
         }, {
           "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/ar_SA.md",
@@ -331,11 +331,11 @@
           "link": "/industries/financial-services/financial-technology"
         }, {
           "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/ar_SA.md",
-          "thumbnail": "freefrom.jpg",
+          "thumbnail": "freefrom-rtl.jpg",
           "link": "/industries/food-and-drink-manufacturing/freefrom"
         }, {
           "content": "beta/industries/life-sciences/sub-sectors/medical-technology/ar_SA.md",
-          "thumbnail": "medical-technology.jpg",
+          "thumbnail": "medical-technology-rtl.jpg",
           "link": "/industries/health-and-life/medical-technology"
         }, {
           "content": "beta/industries/automotive/sub-sectors/motorsport/ar_SA.md",
@@ -355,7 +355,7 @@
           "link": "/industries/energy/oil-and-gas"
         }, {
           "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/ar_SA.md",
-          "thumbnail": "medicine-manufacturing.jpg",
+          "thumbnail": "medicine-manufacturing-rtl.jpg",
           "link": "/industries/health-and-life/pharmaceutical-manufacturing"
         }]
       },
@@ -380,7 +380,7 @@
           "pageTitle": "Advanced manufacturing in the UK",
           "pageHeader": {
             "content": "beta/industries/advanced-manufacturing/intro/ar_SA.md",
-            "heroImage": "advanced-manufacturing.jpg"
+            "heroImage": "advanced-manufacturing-rtl.jpg"
           },
           "sections": [{
             "content": "beta/industries/advanced-manufacturing/overview/ar_SA.md"
@@ -394,14 +394,14 @@
           "pageTitle": "Food and Drink Manufacturing in the UK",
           "pageHeader": {
             "content": "beta/industries/food-and-drink-manufacturing/intro/ar_SA.md",
-            "heroImage": "food-and-drink-manufacturing.jpg"
+            "heroImage": "food-and-drink-manufacturing-rtl.jpg"
           },
           "sections": [{
             "content": "beta/industries/food-and-drink-manufacturing/overview/ar_SA.md"
           }],
           "subContent": [{
             "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/ar_SA.md",
-            "thumbnail": "freefrom.jpg",
+            "thumbnail": "freefrom-rtl.jpg",
             "link": "/industries/food-and-drink-manufacturing/freefrom"
           }],
           "children": [{
@@ -411,7 +411,7 @@
               "pageTitle": "Freefrom",
               "pageHeader": {
                 "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/ar_SA.md",
-                "heroImage": "freefrom.jpg"
+                "heroImage": "freefrom-rtl.jpg"
               },
               "sections": [{
                 "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/british-buying-habits/ar_SA.md"
@@ -445,7 +445,7 @@
           "pageHeader": {
             "content": "beta/industries/automotive/intro/ar_SA.md",
             "externalVideo": "https://www.youtube.com/embed/nQsMQpW6rvs?rel=0",
-            "heroImage": "automotive.jpg"
+            "heroImage": "automotive-rtl.jpg"
           },
           "sections": [{
             "content": "beta/industries/automotive/overview/ar_SA.md"
@@ -456,7 +456,7 @@
             "link": "/industries/automotive/research-and-development"
           }, {
             "content": "beta/industries/automotive/sub-sectors/supply-chain/ar_SA.md",
-            "thumbnail": "supply-chain.jpg",
+            "thumbnail": "supply-chain-rtl.jpg",
             "link": "/industries/automotive/supply-chain"
           }, {
             "content": "beta/industries/automotive/sub-sectors/motorsport/ar_SA.md",
@@ -471,7 +471,7 @@
             "pageTitle": "Motor sport in the UK",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/motorsport/intro/ar_SA.md",
-              "heroImage": "motorsport.jpg"
+              "heroImage": "motorsport-rtl.jpg"
             },
             "sections": [{
               "content": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/ar_SA.md"
@@ -507,7 +507,7 @@
             "pageTitle": "Automotive supply chain in the UK",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/supply-chain/intro/ar_SA.md",
-              "heroImage": "supply-chain.jpg"
+              "heroImage": "supply-chain-rtl.jpg"
             },
             "sections": [{
               "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/market-conditions/ar_SA.md"
@@ -526,14 +526,14 @@
           "pageHeader": {
             "content": "beta/industries/energy-generation/intro/ar_SA.md",
             "externalVideo": "https://www.youtube.com/embed/ObOj0yNeKKw?rel=0",
-            "heroImage": "energy.jpg"
+            "heroImage": "energy-rtl.jpg"
           },
           "sections": [{
             "content": "beta/industries/energy-generation/overview/ar_SA.md"
           }],
           "subContent": [{
             "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/ar_SA.md",
-            "thumbnail": "electrical-networks.jpg",
+            "thumbnail": "electrical-networks-rtl.jpg",
             "link": "/industries/energy/electrical-networks"
           }, {
             "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/ar_SA.md",
@@ -560,7 +560,7 @@
             "pageTitle": "Offshore wind in the UK",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/ar_SA.md",
-              "heroImage": "offshore.jpg"
+              "heroImage": "offshore-rtl.jpg"
             },
             "sections": [{
               "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/prime-location/ar_SA.md"
@@ -577,7 +577,7 @@
             "pageTitle": "Electrical networks in the UK",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/ar_SA.md",
-              "heroImage": "electrical-networks.jpg"
+              "heroImage": "electrical-networks-rtl.jpg"
             },
             "sections": [{
               "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/market-conditions/ar_SA.md"
@@ -613,7 +613,7 @@
             "pageTitle": "Oil and gas in the UK",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/ar_SA.md",
-              "heroImage": "oil-and-gas.jpg"
+              "heroImage": "oil-and-gas-rtl.jpg"
             },
             "sections": [{
               "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/overview/ar_SA.md"
@@ -632,7 +632,7 @@
             "pageTitle": "Nuclear in the UK",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/nuclear/intro/ar_SA.md",
-              "heroImage": "nuclear.jpg"
+              "heroImage": "nuclear-rtl.jpg"
             },
             "sections": [{
               "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/ar_SA.md"
@@ -653,18 +653,18 @@
           "pageHeader": {
             "content": "beta/industries/life-sciences/intro/ar_SA.md",
             "externalVideo": "https://www.youtube.com/embed/p_RfYu1-ZuU?rel=0",
-            "heroImage": "life-sciences.jpg"
+            "heroImage": "life-sciences-rtl.jpg"
           },
           "sections": [{
             "content": "beta/industries/life-sciences/overview/ar_SA.md"
           }],
           "subContent": [{
             "content": "beta/industries/life-sciences/sub-sectors/medical-technology/ar_SA.md",
-            "thumbnail": "medical-technology.jpg",
+            "thumbnail": "medical-technology-rtl.jpg",
             "link": "/industries/health-and-life/medical-technology"
           }, {
             "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/ar_SA.md",
-            "thumbnail": "medicine-manufacturing.jpg",
+            "thumbnail": "medicine-manufacturing-rtl.jpg",
             "link": "/industries/health-and-life/pharmaceutical-manufacturing"
           }]
         },
@@ -675,7 +675,7 @@
             "pageTitle": "Medical technology in the UK",
             "pageHeader": {
               "content": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/ar_SA.md",
-              "heroImage": "medical-technology.jpg"
+              "heroImage": "medical-technology-rtl.jpg"
             },
             "sections": [{
               "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/market-conditions/ar_SA.md"
@@ -692,7 +692,7 @@
             "pageTitle": "Pharmaceutical manufacturing in the UK",
             "pageHeader": {
               "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/ar_SA.md",
-              "heroImage": "medicine-manufacturing.jpg"
+              "heroImage": "medicine-manufacturing-rtl.jpg"
             },
             "sections": [{
               "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/development-of-future-medicines/ar_SA.md"
@@ -728,7 +728,7 @@
             "link": "/industries/creative/content-and-production"
           }, {
             "content": "beta/industries/technology/sub-sectors/data-analytics/ar_SA.md",
-            "thumbnail": "data-analytics.jpg",
+            "thumbnail": "data-analytics-rtl.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
             "content": "beta/industries/creative/sub-sectors/digital-media/ar_SA.md",
@@ -796,7 +796,7 @@
             "link": "/industries/financial-services/asset-management"
           }, {
             "content": "beta/industries/technology/sub-sectors/data-analytics/ar_SA.md",
-            "thumbnail": "data-analytics.jpg",
+            "thumbnail": "data-analytics-rtl.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
             "content": "beta/industries/financial-services/sub-sectors/fintech/ar_SA.md",
@@ -856,7 +856,7 @@
           }],
           "subContent": [{
             "content": "beta/industries/technology/sub-sectors/data-analytics/ar_SA.md",
-            "thumbnail": "data-analytics.jpg",
+            "thumbnail": "data-analytics-rtl.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
             "content": "beta/industries/creative/sub-sectors/digital-media/ar_SA.md",
@@ -868,7 +868,7 @@
             "link": "/industries/financial-services/financial-technology"
           }, {
             "content": "beta/industries/life-sciences/sub-sectors/medical-technology/ar_SA.md",
-            "thumbnail": "medical-technology.jpg",
+            "thumbnail": "medical-technology-rtl.jpg",
             "link": "/industries/health-and-life/medical-technology"
           }]
         },
@@ -879,7 +879,7 @@
             "pageTitle": "Data analytics in the UK",
             "pageHeader": {
               "content": "beta/industries/technology/sub-sectors/data-analytics/intro/ar_SA.md",
-              "heroImage": "data-analytics.jpg"
+              "heroImage": "data-analytics-rtl.jpg"
             },
             "sections": [{
               "content": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/ar_SA.md"
