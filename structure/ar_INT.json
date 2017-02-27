@@ -86,7 +86,7 @@
       "output": "404.html",
       "layout": "404.html",
       "data": {
-        "pageTitle": "HTTP Error code 404 - Page not found",
+        "pageTitle": "رمز الخطأ HTTP 404 - الصفحة غير موجودة",
         "background": "404.jpg",
         "pageHeader": {
           "content": "beta/info/404/ar_SA.md"
@@ -97,7 +97,7 @@
       "output": "500.html",
       "layout": "500.html",
       "data": {
-        "pageTitle": "HTTP Error code 500 - Internal Server Error",
+        "pageTitle": "رمز الخطأ HTTP 500 - خطأ في الخادم الداخلي",
         "background": "",
         "pageHeader": {
           "content": "beta/info/500/ar_SA.md"
