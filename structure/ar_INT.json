@@ -20,7 +20,7 @@
     "path": "int/ar",
     "layout": "home.html",
     "data": {
-      "pageTitle": "Invest home",
+      "pageTitle": "الرئيسية",
       "pageHeader": {
         "content": "beta/home/ar_SA.md",
         "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
@@ -110,7 +110,7 @@
       "path": "setup-guide",
       "layout": "bullet-list-page.html",
       "data": {
-        "pageTitle": "The UK setup guide",
+        "pageTitle": "دليلكم لتأسيس الشركات في المملكة المتحدة",
         "pageHeader": {
           "content": "beta/setup-guide/ar_SA.md"
         },
@@ -141,7 +141,7 @@
         "path": "establish-address",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Establish a base for business in the UK",
+          "pageTitle": "تأسيس قاعدة للعمل في المملكة المتحدة",
           "pageHeader": {
             "content": "beta/setup-guide/establish-address/intro/ar_SA.md"
           },
@@ -157,7 +157,7 @@
         "path": "apply-for-visa",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Apply for a UK visa",
+          "pageTitle": "تقديم طلب للحصول على تأشيرة المملكة المتحدة",
           "pageHeader": {
             "content": "beta/setup-guide/apply-for-visa/intro/ar_SA.md"
           },
@@ -171,7 +171,7 @@
         "path": "open-a-business-account",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Open a UK business bank account",
+          "pageTitle": "فتح حساب مصرفي تجاري بالمملكة المتحدة",
           "pageHeader": {
             "content": "beta/setup-guide/open-a-business-account/intro/ar_SA.md"
           },
@@ -185,7 +185,7 @@
         "path": "how-to-setup",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Set up a company in the UK",
+          "pageTitle": "كيفية تأسيس شركة في المملكة المتحدة",
           "pageHeader": {
             "content": "beta/setup-guide/how-to-setup/intro/ar_SA.md"
           },
@@ -199,7 +199,7 @@
         "path": "understand-tax",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Understand UK tax and incentives",
+          "pageTitle": "التعرف على الضرائب والحوافز المطبقة في المملكة المتحدة",
           "pageHeader": {
             "content": "beta/setup-guide/understand-tax/intro/ar_SA.md"
           },
@@ -213,7 +213,7 @@
         "path": "access-talent",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Hire skilled workers for your UK operations",
+          "pageTitle": "توظيف العمالة الماهرة لأداء أعمالكم في المملكة المتحدة",
           "pageHeader": {
             "content": "beta/setup-guide/access-talent/intro/ar_SA.md"
           },
@@ -229,7 +229,7 @@
         "path": "understand-legal",
         "layout": "article.html",
         "data": {
-          "pageTitle": "The UK's legal framework",
+          "pageTitle": "الإطار القانوني للمملكة المتحدة",
           "pageHeader": {
             "content": "beta/setup-guide/understand-legal/intro/ar_SA.md"
           },
@@ -248,7 +248,7 @@
       "path": "industries",
       "layout": "landing-page.html",
       "data": {
-        "pageTitle": "Industries",
+        "pageTitle": "الصناعات",
         "pageHeader": {
           "content": "beta/industries/ar_SA.md"
         },
@@ -363,7 +363,7 @@
         "path": "aerospace",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Aerospace in the UK",
+          "pageTitle": " قطاع الطيران",
           "pageHeader": {
             "content": "beta/industries/aerospace/intro/ar_SA.md",
             "heroImage": "aerospace.jpg"
@@ -377,7 +377,7 @@
         "path": "advanced-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "التصنيع المتقدم",
           "pageHeader": {
             "content": "beta/industries/advanced-manufacturing/intro/ar_SA.md",
             "heroImage": "advanced-manufacturing-rtl.jpg"
@@ -391,7 +391,7 @@
         "path": "food-and-drink-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Food and Drink Manufacturing in the UK",
+          "pageTitle": "تصنيع الأغذية والمشروبات",
           "pageHeader": {
             "content": "beta/industries/food-and-drink-manufacturing/intro/ar_SA.md",
             "heroImage": "food-and-drink-manufacturing-rtl.jpg"
@@ -408,7 +408,7 @@
             "path": "freefrom",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Freefrom",
+              "pageTitle": "سوق الأطعمة الصحية في المملكة المتحدة",
               "pageHeader": {
                 "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/ar_SA.md",
                 "heroImage": "freefrom-rtl.jpg"
@@ -427,7 +427,7 @@
         "path": "retail",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "البيع التجزئة",
           "pageHeader": {
             "content": "beta/industries/retail/intro/ar_SA.md",
             "heroImage": "retail.jpg"
@@ -441,7 +441,7 @@
         "path": "automotive",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Automotive in the UK",
+          "pageTitle": "صناعة السيارات في المملكة المتحدة",
           "pageHeader": {
             "content": "beta/industries/automotive/intro/ar_SA.md",
             "externalVideo": "https://www.youtube.com/embed/nQsMQpW6rvs?rel=0",
@@ -468,7 +468,7 @@
           "path": "motorsport",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Motor sport in the UK",
+            "pageTitle": "رياضة المحركات الآلية في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/motorsport/intro/ar_SA.md",
               "heroImage": "motorsport-rtl.jpg"
@@ -485,7 +485,7 @@
           "path": "research-and-development",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Automotive research and development in the UK",
+            "pageTitle": "السيارات والأبحاث والتطوير في",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/research-and-development/intro/ar_SA.md",
               "heroImage": "research-and-development.jpg"
@@ -504,7 +504,7 @@
           "path": "supply-chain",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Automotive supply chain in the UK",
+            "pageTitle": "سلسلة توريد السيارات",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/supply-chain/intro/ar_SA.md",
               "heroImage": "supply-chain-rtl.jpg"
@@ -522,7 +522,7 @@
         "path": "energy",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Energy generation in the UK",
+          "pageTitle": "توليد الطاقة في المملكة المتحدة",
           "pageHeader": {
             "content": "beta/industries/energy-generation/intro/ar_SA.md",
             "externalVideo": "https://www.youtube.com/embed/ObOj0yNeKKw?rel=0",
@@ -557,7 +557,7 @@
           "path": "offshore-wind",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Offshore wind in the UK",
+            "pageTitle": "طاقة الرياح البحرية في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/ar_SA.md",
               "heroImage": "offshore-rtl.jpg"
@@ -574,7 +574,7 @@
           "path": "electrical-networks",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Electrical networks in the UK",
+            "pageTitle": "الشبكات الكهربائية في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/ar_SA.md",
               "heroImage": "electrical-networks-rtl.jpg"
@@ -591,7 +591,7 @@
           "path": "energy-from-waste",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Energy from waste in the UK",
+            "pageTitle": "الطاقة المتولدة من النفايات في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/ar_SA.md",
               "heroImage": "energy-from-waste.jpg"
@@ -610,7 +610,7 @@
           "path": "oil-and-gas",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Oil and gas in the UK",
+            "pageTitle": "النفط والغاز في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/ar_SA.md",
               "heroImage": "oil-and-gas-rtl.jpg"
@@ -629,7 +629,7 @@
           "path": "nuclear",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Nuclear in the UK",
+            "pageTitle": "الطاقة النووية في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/nuclear/intro/ar_SA.md",
               "heroImage": "nuclear-rtl.jpg"
@@ -649,7 +649,7 @@
         "path": "health-and-life",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Health and life sciences in the UK",
+          "pageTitle": "عن علوم الحياة",
           "pageHeader": {
             "content": "beta/industries/life-sciences/intro/ar_SA.md",
             "externalVideo": "https://www.youtube.com/embed/p_RfYu1-ZuU?rel=0",
@@ -672,7 +672,7 @@
           "path": "medical-technology",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Medical technology in the UK",
+            "pageTitle": "التكنولوجيا الطبية في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/ar_SA.md",
               "heroImage": "medical-technology-rtl.jpg"
@@ -689,7 +689,7 @@
           "path": "pharmaceutical-manufacturing",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Pharmaceutical manufacturing in the UK",
+            "pageTitle": "تصنيع الأدوية",
             "pageHeader": {
               "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/ar_SA.md",
               "heroImage": "medicine-manufacturing-rtl.jpg"
@@ -713,7 +713,7 @@
         "path": "creative",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Creative in the UK",
+          "pageTitle": " الإبداع والابتكار",
           "pageHeader": {
             "content": "beta/industries/creative/intro/ar_SA.md",
             "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8?rel=0",
@@ -740,7 +740,7 @@
           "path": "content-and-production",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Content and production in the UK",
+            "pageTitle": "المحتوى والإنتاج الإبداعي",
             "pageHeader": {
               "content": "beta/industries/creative/sub-sectors/content-and-production/intro/ar_SA.md",
               "heroImage": "content-and-production.jpg"
@@ -759,7 +759,7 @@
           "path": "digital-media",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Digital media in the UK",
+            "pageTitle": "الوسائط الرقمية في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/creative/sub-sectors/digital-media/intro/ar_SA.md",
               "heroImage": "digital-media.jpg"
@@ -781,7 +781,7 @@
         "path": "financial-services",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Financial services in the UK",
+          "pageTitle": "الخدمات المالية في المملكة المتحدة",
           "pageHeader": {
             "content": "beta/industries/financial-services/intro/ar_SA.md",
             "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0?rel=0",
@@ -808,7 +808,7 @@
           "path": "asset-management",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Asset management in the UK",
+            "pageTitle": "إدارة الأصول في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/financial-services/sub-sectors/asset-management/intro/ar_SA.md",
               "heroImage": "asset-management.jpg"
@@ -827,7 +827,7 @@
           "path": "financial-technology",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Financial technology in the UK",
+            "pageTitle": "التكنولوجيا المالية في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/financial-services/sub-sectors/fintech/intro/ar_SA.md",
               "heroImage": "fintech.jpg"
@@ -845,7 +845,7 @@
         "path": "technology",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Technology in the UK",
+          "pageTitle": "التكنولوجيا",
           "pageHeader": {
             "content": "beta/industries/technology/intro/ar_SA.md",
             "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo?rel=0",
@@ -876,7 +876,7 @@
           "path": "data-analytics",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Data analytics in the UK",
+            "pageTitle": "قطاع تحليل البيانات في المملكة المتحدة",
             "pageHeader": {
               "content": "beta/industries/technology/sub-sectors/data-analytics/intro/ar_SA.md",
               "heroImage": "data-analytics-rtl.jpg"
@@ -895,7 +895,7 @@
       "path": "terms-and-conditions",
       "layout": "single-section.html",
       "data": {
-        "pageTitle": "Terms and conditions",
+        "pageTitle": "استخدام الموقع الإلكتروني www.GREAT.gov.uk ",
         "pageHeader": {
           "content": "great.gov.uk/terms-and-conditions/ar.md"
         },
@@ -907,7 +907,7 @@
       "path": "privacy-policy",
       "layout": "single-section.html",
       "data": {
-        "pageTitle": "Privacy and cookies",
+        "pageTitle": "بيان خصوصية وملفات تعريف ارتباط الموقع الإلكتروني",
         "pageHeader": {
           "content": "great.gov.uk/privacy-policy/ar.md"
         },
@@ -919,7 +919,7 @@
       "path": "feedback",
       "layout": "feedback.html",
       "data": {
-        "pageTitle": "Feedback",
+        "pageTitle": "التغذية الاسترجاعية",
         "pageHeader": {
           "content": "beta/info/feedback/ar_SA.md"
         }
@@ -940,7 +940,7 @@
       "path": "enquiries/error",
       "layout": "info.html",
       "data": {
-        "pageTitle": "Sorry, there was a problem. Try again",
+        "pageTitle": "توجد مشكلة في استلام المعلومات المرسلة",
         "pageHeader": {
           "content": "beta/info/form-error/ar_SA.md"
         },
@@ -952,7 +952,7 @@
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "Get in touch",
+        "pageTitle": "الاتصال بنا",
         "pageHeader": {
           "content": "beta/info/contact/ar_SA.md"
         }
@@ -961,7 +961,7 @@
       "path": "location-guide",
       "layout": "investment-ops.html",
       "data": {
-        "pageTitle": "Location guide",
+        "pageTitle": "دليل الأماكن",
         "overview": {
           "content": "beta/investment-ops/overview/ar_SA.md"
         },
@@ -973,7 +973,7 @@
       "path": "location-guide/confirmation",
       "layout": "500.html",
       "data": {
-        "pageTitle": "Thanks for signing up...",
+        "pageTitle": "شكرًا",
         "pageHeader": {
           "content": "beta/info/investment-ops-confirmation/ar_SA.md"
         },
