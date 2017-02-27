@@ -36,7 +36,7 @@
         "link": "/industries/automotive"
       }, {
         "content": "beta/industries/creative/ar_SA.md",
-        "thumbnail": "creative.jpg",
+        "thumbnail": "creative-rtl.jpg",
         "link": "/industries/creative"
       }, {
         "content": "beta/industries/energy-generation/ar_SA.md",
@@ -258,7 +258,7 @@
           "link": "/industries/aerospace"
         }, {
           "content": "beta/industries/advanced-manufacturing/ar_SA.md",
-          "thumbnail": "advanced-manufacturing-rtl.jpg",
+          "thumbnail": "advanced-manufacturing.jpg",
           "link": "/industries/advanced-manufacturing"
         }, {
           "content": "beta/industries/automotive/ar_SA.md",
@@ -266,7 +266,7 @@
           "link": "/industries/automotive"
         }, {
           "content": "beta/industries/creative/ar_SA.md",
-          "thumbnail": "creative.jpg",
+          "thumbnail": "creative-rtl.jpg",
           "link": "/industries/creative"
         }, {
           "content": "beta/industries/energy-generation/ar_SA.md",
@@ -311,7 +311,7 @@
           "link": "/industries/creative/content-and-production"
         }, {
           "content": "beta/industries/technology/sub-sectors/data-analytics/ar_SA.md",
-          "thumbnail": "data-analytics-rtl.jpg",
+          "thumbnail": "data-analytics.jpg",
           "link": "/industries/technology/data-analytics"
         }, {
           "content": "beta/industries/creative/sub-sectors/digital-media/ar_SA.md",
@@ -331,7 +331,7 @@
           "link": "/industries/financial-services/financial-technology"
         }, {
           "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/ar_SA.md",
-          "thumbnail": "freefrom-rtl.jpg",
+          "thumbnail": "freefrom.jpg",
           "link": "/industries/food-and-drink-manufacturing/freefrom"
         }, {
           "content": "beta/industries/life-sciences/sub-sectors/medical-technology/ar_SA.md",
@@ -355,7 +355,7 @@
           "link": "/industries/energy/oil-and-gas"
         }, {
           "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/ar_SA.md",
-          "thumbnail": "medicine-manufacturing-rtl.jpg",
+          "thumbnail": "medicine-manufacturing.jpg",
           "link": "/industries/health-and-life/pharmaceutical-manufacturing"
         }]
       },
@@ -401,7 +401,7 @@
           }],
           "subContent": [{
             "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/ar_SA.md",
-            "thumbnail": "freefrom-rtl.jpg",
+            "thumbnail": "freefrom.jpg",
             "link": "/industries/food-and-drink-manufacturing/freefrom"
           }],
           "children": [{
@@ -664,7 +664,7 @@
             "link": "/industries/health-and-life/medical-technology"
           }, {
             "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/ar_SA.md",
-            "thumbnail": "medicine-manufacturing-rtl.jpg",
+            "thumbnail": "medicine-manufacturing.jpg",
             "link": "/industries/health-and-life/pharmaceutical-manufacturing"
           }]
         },
@@ -717,7 +717,7 @@
           "pageHeader": {
             "content": "beta/industries/creative/intro/ar_SA.md",
             "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8?rel=0",
-            "heroImage": "creative.jpg"
+            "heroImage": "creative-rtl.jpg"
           },
           "sections": [{
             "content": "beta/industries/creative/overview/ar_SA.md"
@@ -728,7 +728,7 @@
             "link": "/industries/creative/content-and-production"
           }, {
             "content": "beta/industries/technology/sub-sectors/data-analytics/ar_SA.md",
-            "thumbnail": "data-analytics-rtl.jpg",
+            "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
             "content": "beta/industries/creative/sub-sectors/digital-media/ar_SA.md",
@@ -796,7 +796,7 @@
             "link": "/industries/financial-services/asset-management"
           }, {
             "content": "beta/industries/technology/sub-sectors/data-analytics/ar_SA.md",
-            "thumbnail": "data-analytics-rtl.jpg",
+            "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
             "content": "beta/industries/financial-services/sub-sectors/fintech/ar_SA.md",
@@ -856,7 +856,7 @@
           }],
           "subContent": [{
             "content": "beta/industries/technology/sub-sectors/data-analytics/ar_SA.md",
-            "thumbnail": "data-analytics-rtl.jpg",
+            "thumbnail": "data-analytics.jpg",
             "link": "/industries/technology/data-analytics"
           }, {
             "content": "beta/industries/creative/sub-sectors/digital-media/ar_SA.md",
