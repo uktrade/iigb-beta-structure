@@ -951,6 +951,30 @@
         }
       }
     }, {
+      "path": "investment-opportunities/location-guide",
+      "layout": "investment-ops.html",
+      "data": {
+        "pageTitle": "Location guide",
+        "overview": {
+          "content": "beta/investment-ops/overview/en_US.md"
+        },
+        "stayInTouch": {
+          "content": "beta/investment-ops/stay-in-touch/en_US.md"
+        }
+      }
+    }, {
+      "path": "investment-opportunities/location-guide/confirmation",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "Thanks for signing up...",
+        "pageHeader": {
+          "content": "beta/info/investment-ops-confirmation/en_US.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/investment-ops-confirmation/content/en_US.md"
+        }
+      }
+    }, {
       "path": "investment-opportunities",
       "layout": "bullet-list-page.html",
       "data": {
@@ -966,7 +990,7 @@
           "link": "#"
         }, {
           "content": "beta/investment-ops/location-guide/en_US.md",
-          "link": "/location-guide"
+          "link": "investment-opportunities/location-guide"
         }]
       }
     }]
