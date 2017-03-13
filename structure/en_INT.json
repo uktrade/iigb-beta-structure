@@ -993,6 +993,25 @@
           "link": "/investment-opportunities/location-guide"
         }]
       }
+    }, {
+      "path": "access-finance-and-incentives",
+      "layout": "bullet-list-page.html",
+      "data": {
+        "pageTitle": "Access finance and incentives",
+        "pageHeader": {
+          "content": "beta/investment-ops/intro/en_US.md"
+        },
+        "listItems": [{
+          "content": "beta/investment-ops/finance-and-incentives/en_US.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/tax/en_US.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/location-guide/en_US.md",
+          "link": "/investment-opportunities/location-guide"
+        }]
+      }
     }]
   }]
 }
