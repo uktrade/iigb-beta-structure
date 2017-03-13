@@ -984,32 +984,51 @@
         },
         "listItems": [{
           "content": "beta/investment-ops/finance-and-incentives/en_US.md",
-          "link": "#"
+          "link": "/investment-opportunities/access-finance-and-incentives"
         }, {
           "content": "beta/investment-ops/tax/en_US.md",
-          "link": "#"
+          "link": "/investment-opportunities/tax/"
         }, {
           "content": "beta/investment-ops/location-guide/en_US.md",
-          "link": "/investment-opportunities/location-guide"
+          "link": "/investment-opportunities/location-guide/"
         }]
       }
     }, {
-      "path": "access-finance-and-incentives",
+      "path": "investment-opportunities/access-finance-and-incentives",
       "layout": "bullet-list-page.html",
       "data": {
         "pageTitle": "Access finance and incentives",
         "pageHeader": {
-          "content": "beta/investment-ops/intro/en_US.md"
+          "content": ""
         },
         "listItems": [{
-          "content": "beta/investment-ops/finance-and-incentives/en_US.md",
+          "content": "",
           "link": "#"
         }, {
-          "content": "beta/investment-ops/tax/en_US.md",
+          "content": "",
           "link": "#"
         }, {
-          "content": "beta/investment-ops/location-guide/en_US.md",
-          "link": "/investment-opportunities/location-guide"
+          "content": "",
+          "link": ""
+        }]
+      }
+    }, {
+      "path": "investment-opportunities/tax",
+      "layout": "bullet-list-page.html",
+      "data": {
+        "pageTitle": "Tax",
+        "pageHeader": {
+          "content": ""
+        },
+        "listItems": [{
+          "content": "",
+          "link": "#"
+        }, {
+          "content": "",
+          "link": "#"
+        }, {
+          "content": "",
+          "link": ""
         }]
       }
     }]
