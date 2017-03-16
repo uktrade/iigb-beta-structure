@@ -989,9 +989,6 @@
           "content": "beta/investment-ops/tax/en_US.md",
           "link": "#"
         }, {
-          "content": "beta/investment-ops/location-guide/en_US.md",
-          "link": "/investment-opportunities/location-guide"
-        }, {
           "content": "beta/investment-ops/enterprise-zones/en_US.md",
           "link": "#"
         }, {
@@ -1000,6 +997,9 @@
         }, {
           "content": "beta/investment-ops/businesses/en_US.md",
           "link": "#"
+        }, {
+          "content": "beta/investment-ops/location-guide/en_US.md",
+          "link": "/investment-opportunities/location-guide"
         }]
       }
     }]
