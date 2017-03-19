@@ -941,27 +941,29 @@
           "content": "beta/info/form-error/content/en_US.md"
         }
       }
-    },{
+    }, {
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "Get in touch"
+        "pageTitle": "Get in touch",
+        "pageHeader": {
+          "content": "beta/info/contact/en_US.md"
+        }
       }
-    },
-    {
-      "path": "location-guide",
+    }, {
+      "path": "investment-opportunities/location-guide",
       "layout": "investment-ops.html",
       "data": {
         "pageTitle": "Location guide",
         "overview": {
           "content": "beta/investment-ops/overview/en_US.md"
         },
-        "stayInTouch" :{
-          "content" :"beta/investment-ops/stay-in-touch/en_US.md"
+        "stayInTouch": {
+          "content": "beta/investment-ops/stay-in-touch/en_US.md"
         }
       }
-    },{
-      "path": "location-guide/confirmation",
+    }, {
+      "path": "investment-opportunities/location-guide/confirmation",
       "layout": "500.html",
       "data": {
         "pageTitle": "Thanks for signing up...",
@@ -972,7 +974,34 @@
           "content": "beta/info/investment-ops-confirmation/content/en_US.md"
         }
       }
-    }
-    ]
+    }, {
+      "path": "investment-opportunities",
+      "layout": "bullet-list-page.html",
+      "data": {
+        "pageTitle": "Investment Opportunities",
+        "pageHeader": {
+          "content": "beta/investment-ops/intro/en_US.md"
+        },
+        "listItems": [{
+          "content": "beta/investment-ops/finance-and-incentives/en_US.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/tax/en_US.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/enterprise-zones/en_US.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/centres-of-excellence/en_US.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/businesses/en_US.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/location-guide/en_US.md",
+          "link": "/investment-opportunities/location-guide"
+        }]
+      }
+    }]
   }]
 }
