@@ -1069,6 +1069,34 @@
           "content": "beta/info/investment-ops-confirmation/content/de_DE.md"
         }
       }
+    }, {
+      "path": "investment-opportunities",
+      "layout": "bullet-list-page.html",
+      "data": {
+        "pageTitle": "Investment Opportunities",
+        "pageHeader": {
+          "content": "beta/investment-ops/intro/de_DE.md"
+        },
+        "listItems": [{
+          "content": "beta/investment-ops/finance-and-incentives/de_DE.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/tax/de_DE.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/enterprise-zones/de_DE.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/centres-of-excellence/de_DE.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/businesses/de_DE.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/location-guide/de_DE.md",
+          "link": "/investment-opportunities/location-guide"
+        }]
+      }
     }]
   }]
 }
