@@ -1046,7 +1046,7 @@
         }
       }
     }, {
-      "path": "location-guide",
+      "path": "investment-opportunities/location-guide",
       "layout": "investment-ops.html",
       "data": {
         "pageTitle": "Standortführer",
@@ -1058,7 +1058,7 @@
         }
       }
     }, {
-      "path": "location-guide/confirmation",
+      "path": "investment-opportunities/location-guide/confirmation",
       "layout": "500.html",
       "data": {
         "pageTitle": "Vielen Dank für Ihre Anmeldung …",

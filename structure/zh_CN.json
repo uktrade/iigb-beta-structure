@@ -970,7 +970,7 @@
         }
       }
     }, {
-      "path": "location-guide",
+      "path": "investment-opportunities/location-guide",
       "layout": "investment-ops.html",
       "data": {
         "pageTitle": "定位指南",
@@ -982,7 +982,7 @@
         }
       }
     }, {
-      "path": "location-guide/confirmation",
+      "path": "investment-opportunities/location-guide/confirmation",
       "layout": "500.html",
       "data": {
         "pageTitle": "感谢注册……",
