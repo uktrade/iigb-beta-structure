@@ -970,7 +970,7 @@
         }
       }
     }, {
-      "path": "location-guide",
+      "path": "investment-opportunities/location-guide",
       "layout": "investment-ops.html",
       "data": {
         "pageTitle": "定位指南",
@@ -982,7 +982,7 @@
         }
       }
     }, {
-      "path": "location-guide/confirmation",
+      "path": "investment-opportunities/location-guide/confirmation",
       "layout": "500.html",
       "data": {
         "pageTitle": "感谢注册……",
@@ -991,6 +991,61 @@
         },
         "infoBlock": {
           "content": "beta/info/investment-ops-confirmation/content/zh_CN.md"
+        }
+      }
+    }, {
+      "path": "investment-opportunities",
+      "layout": "bullet-list-page.html",
+      "data": {
+        "pageTitle": "英国投资指南",
+        "pageHeader": {
+          "content": "beta/investment-ops/intro/zh_CN.md"
+        },
+        "listItems": [{
+          "content": "beta/investment-ops/finance-and-incentives/zh_CN.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/tax/zh_CN.md",
+          "link": "/setup-guide/understand-tax"
+        }, {
+          "content": "beta/investment-ops/enterprise-zones/zh_CN.md",
+          "link": "/investment-opportunities/enterprise-zones"
+        }, {
+          "content": "beta/investment-ops/centres-of-excellence/zh_CN.md",
+          "link": "/investment-opportunities/centres-of-excellence"
+        }, {
+          "content": "beta/investment-ops/businesses/zh_CN.md",
+          "link": "/investment-opportunities/businesses"
+        }, {
+          "content": "beta/investment-ops/location-guide/zh_CN.md",
+          "link": "/investment-opportunities/location-guide"
+        }]
+      }
+    }, {
+      "path": "investment-opportunities/businesses",
+      "layout": "investment_ops_businesses.html",
+      "data": {
+        "pageTitle": "企业",
+        "pageHeader": {
+          "content": "beta/investment-ops/businesses/zh_CN.md"
+        }
+      }
+    }, {
+      "path": "investment-opportunities/centres-of-excellence",
+      "layout": "investment_ops_centres.html",
+      "data": {
+        "pageTitle": "卓越中心",
+        "pageHeader": {
+          "content": "beta/investment-ops/centres-of-excellence/zh_CN.md"
+        }
+      }
+    }, {
+      "path": "investment-opportunities/enterprise-zones",
+      "layout": "investment_ops_zones.html",
+      "data": {
+        "pageTitle": "企业区",
+        "pageHeader": {
+          "content": "beta/investment-ops/enterprise-zones/zh_CN.md"
         }
       }
     }]
