@@ -1002,6 +1002,15 @@
           "link": "/investment-opportunities/location-guide"
         }]
       }
+    }, {
+      "path": "investment-opportunities/businesses",
+      "layout": "table-page.html",
+      "data": {
+        "pageTitle": "Businesses",
+        "pageHeader": {
+          "content": "beta/investment-ops/businesses/en_US.md"
+        }
+      }
     }]
   }]
 }
