@@ -951,7 +951,7 @@
         }
       }
     }, {
-      "path": "location-guide",
+      "path": "investment-opportunities/location-guide",
       "layout": "investment-ops.html",
       "data": {
         "pageTitle": "Location guide",
@@ -963,7 +963,7 @@
         }
       }
     }, {
-      "path": "location-guide/confirmation",
+      "path": "investment-opportunities/location-guide/confirmation",
       "layout": "500.html",
       "data": {
         "pageTitle": "Thanks for signing up...",
@@ -987,20 +987,47 @@
           "link": "#"
         }, {
           "content": "beta/investment-ops/tax/en_US.md",
-          "link": "#"
+          "link": "/setup-guide/understand-tax"
         }, {
           "content": "beta/investment-ops/enterprise-zones/en_US.md",
-          "link": "#"
+          "link": "/investment-opportunities/enterprise-zones"
         }, {
           "content": "beta/investment-ops/centres-of-excellence/en_US.md",
-          "link": "#"
+          "link": "/investment-opportunities/centres-of-excellence"
         }, {
           "content": "beta/investment-ops/businesses/en_US.md",
-          "link": "#"
+          "link": "/investment-opportunities/businesses"
         }, {
           "content": "beta/investment-ops/location-guide/en_US.md",
           "link": "/investment-opportunities/location-guide"
         }]
+      }
+    }, {
+      "path": "investment-opportunities/businesses",
+      "layout": "investment_ops_businesses.html",
+      "data": {
+        "pageTitle": "Businesses",
+        "pageHeader": {
+          "content": "beta/investment-ops/businesses/en_US.md"
+        }
+      }
+    }, {
+      "path": "investment-opportunities/centres-of-excellence",
+      "layout": "investment_ops_centres.html",
+      "data": {
+        "pageTitle": "Centres of excellence",
+        "pageHeader": {
+          "content": "beta/investment-ops/centres-of-excellence/en_US.md"
+        }
+      }
+    }, {
+      "path": "investment-opportunities/enterprise-zones",
+      "layout": "investment_ops_zones.html",
+      "data": {
+        "pageTitle": "Enterprise zones",
+        "pageHeader": {
+          "content": "beta/investment-ops/enterprise-zones/en_US.md"
+        }
       }
     }]
   }]

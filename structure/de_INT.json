@@ -1046,7 +1046,7 @@
         }
       }
     }, {
-      "path": "location-guide",
+      "path": "investment-opportunities/location-guide",
       "layout": "investment-ops.html",
       "data": {
         "pageTitle": "Standortführer",
@@ -1058,7 +1058,7 @@
         }
       }
     }, {
-      "path": "location-guide/confirmation",
+      "path": "investment-opportunities/location-guide/confirmation",
       "layout": "500.html",
       "data": {
         "pageTitle": "Vielen Dank für Ihre Anmeldung …",
@@ -1067,6 +1067,61 @@
         },
         "infoBlock": {
           "content": "beta/info/investment-ops-confirmation/content/de_DE.md"
+        }
+      }
+    }, {
+      "path": "investment-opportunities",
+      "layout": "bullet-list-page.html",
+      "data": {
+        "pageTitle": "Standortführer für Investoren in Großbritannien",
+        "pageHeader": {
+          "content": "beta/investment-ops/intro/de_DE.md"
+        },
+        "listItems": [{
+          "content": "beta/investment-ops/finance-and-incentives/de_DE.md",
+          "link": "#"
+        }, {
+          "content": "beta/investment-ops/tax/de_DE.md",
+          "link": "/setup-guide/understand-tax"
+        }, {
+          "content": "beta/investment-ops/enterprise-zones/de_DE.md",
+          "link": "/investment-opportunities/enterprise-zones"
+        }, {
+          "content": "beta/investment-ops/centres-of-excellence/de_DE.md",
+          "link": "/investment-opportunities/centres-of-excellence"
+        }, {
+          "content": "beta/investment-ops/businesses/de_DE.md",
+          "link": "/investment-opportunities/businesses"
+        }, {
+          "content": "beta/investment-ops/location-guide/de_DE.md",
+          "link": "/investment-opportunities/location-guide"
+        }]
+      }
+    }, {
+      "path": "investment-opportunities/businesses",
+      "layout": "investment_ops_businesses.html",
+      "data": {
+        "pageTitle": "Unternehmen",
+        "pageHeader": {
+          "content": "beta/investment-ops/businesses/de_DE.md"
+        }
+      }
+    }, {
+      "path": "investment-opportunities/centres-of-excellence",
+      "layout": "investment_ops_centres.html",
+      "data": {
+        "pageTitle": "Kompetenzzentren",
+        "pageHeader": {
+          "content": "beta/investment-ops/centres-of-excellence/de_DE.md"
+        }
+      }
+    }, {
+      "path": "investment-opportunities/enterprise-zones",
+      "layout": "investment_ops_zones.html",
+      "data": {
+        "pageTitle": "Enterprise zones",
+        "pageHeader": {
+          "content": "beta/investment-ops/enterprise-zones/de_DE.md"
         }
       }
     }]
