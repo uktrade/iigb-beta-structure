@@ -1004,7 +1004,7 @@
       }
     }, {
       "path": "investment-opportunities/businesses",
-      "layout": "table-page.html",
+      "layout": "investment_ops_businesses.html",
       "data": {
         "pageTitle": "Businesses",
         "pageHeader": {
