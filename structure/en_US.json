@@ -983,6 +983,9 @@
           "content": "beta/investment-ops/intro/en_US.md"
         },
         "listItems": [{
+          "content": "beta/investment-ops/location-guide/en_US.md",
+          "link": "/investment-opportunities/location-guide"
+        },{
           "content": "beta/investment-ops/finance-and-incentives/en_US.md",
           "link": "#"
         }, {
@@ -994,9 +997,6 @@
         }, {
           "content": "beta/investment-ops/businesses/en_US.md",
           "link": "/investment-opportunities/businesses"
-        }, {
-          "content": "beta/investment-ops/location-guide/en_US.md",
-          "link": "/investment-opportunities/location-guide"
         }]
       }
     }, {
