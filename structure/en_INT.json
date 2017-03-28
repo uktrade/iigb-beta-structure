@@ -951,30 +951,6 @@
         }
       }
     }, {
-      "path": "investment-opportunities/location-guide",
-      "layout": "investment-ops.html",
-      "data": {
-        "pageTitle": "Location guide",
-        "overview": {
-          "content": "beta/investment-ops/overview/en_US.md"
-        },
-        "stayInTouch": {
-          "content": "beta/investment-ops/stay-in-touch/en_US.md"
-        }
-      }
-    }, {
-      "path": "investment-opportunities/location-guide/confirmation",
-      "layout": "500.html",
-      "data": {
-        "pageTitle": "Thanks for signing up...",
-        "pageHeader": {
-          "content": "beta/info/investment-ops-confirmation/en_US.md"
-        },
-        "infoBlock": {
-          "content": "beta/info/investment-ops-confirmation/content/en_US.md"
-        }
-      }
-    }, {
       "path": "investment-opportunities",
       "layout": "bullet-list-page.html",
       "data": {
@@ -985,9 +961,9 @@
         "listItems": [{
           "content": "beta/investment-ops/location-guide/en_US.md",
           "link": "/investment-opportunities/location-guide"
-        },{
+        }, {
           "content": "beta/investment-ops/finance-and-incentives/en_US.md",
-          "link": "/investment-opportunities/finanace-and-incentives"
+          "link": "/investment-opportunities/finance-and-incentives"
         }, {
           "content": "beta/investment-ops/enterprise-zones/en_US.md",
           "link": "/investment-opportunities/enterprise-zones"
@@ -998,46 +974,61 @@
           "content": "beta/investment-ops/businesses/en_US.md",
           "link": "/investment-opportunities/businesses"
         }]
-      }
-    }, {
-      "path": "investment-opportunities/finance-and-incentives",
-      "layout": "single-section.html",
-      "data": {
-        "pageTitle": "Access finance and incentives",
-        "pageHeader": {
-          "content": "beta/investment-ops/finance-and-incentives/en_US.md"
+      },
+      "children": [{
+          "path": "location-guide",
+          "layout": "investment-ops.html",
+          "data": {
+            "pageTitle": "Location guide",
+            "overview": {
+              "content": "beta/investment-ops/overview/en_US.md"
+            },
+            "stayInTouch": {
+              "content": "beta/investment-ops/stay-in-touch/en_US.md"
+            }
+          }
         },
-        "sections": [{
-          "content": "beta/investment-ops/finance-and-incentives/content/en_US.md"
-        }]
-      }
-    }, {
-      "path": "investment-opportunities/businesses",
-      "layout": "investment_ops_businesses.html",
-      "data": {
-        "pageTitle": "Businesses",
-        "pageHeader": {
-          "content": "beta/investment-ops/businesses/en_US.md"
+        {
+          "path": "finance-and-incentives",
+          "layout": "single-section.html",
+          "data": {
+            "pageTitle": "Access finance and incentives",
+            "pageHeader": {
+              "content": "beta/investment-ops/finance-and-incentives/en_US.md"
+            },
+            "sections": [{
+              "content": "beta/investment-ops/finance-and-incentives/content/en_US.md"
+            }]
+          }
+        }, {
+          "path": "businesses",
+          "layout": "investment_ops_businesses.html",
+          "data": {
+            "pageTitle": "Businesses",
+            "pageHeader": {
+              "content": "beta/investment-ops/businesses/en_US.md"
+            }
+          }
+        }, {
+          "path": "centres-of-excellence",
+          "layout": "investment_ops_centres.html",
+          "data": {
+            "pageTitle": "Centres of excellence",
+            "pageHeader": {
+              "content": "beta/investment-ops/centres-of-excellence/en_US.md"
+            }
+          }
+        }, {
+          "path": "enterprise-zones",
+          "layout": "investment_ops_zones.html",
+          "data": {
+            "pageTitle": "Enterprise zones",
+            "pageHeader": {
+              "content": "beta/investment-ops/enterprise-zones/en_US.md"
+            }
+          }
         }
-      }
-    }, {
-      "path": "investment-opportunities/centres-of-excellence",
-      "layout": "investment_ops_centres.html",
-      "data": {
-        "pageTitle": "Centres of excellence",
-        "pageHeader": {
-          "content": "beta/investment-ops/centres-of-excellence/en_US.md"
-        }
-      }
-    }, {
-      "path": "investment-opportunities/enterprise-zones",
-      "layout": "investment_ops_zones.html",
-      "data": {
-        "pageTitle": "Enterprise zones",
-        "pageHeader": {
-          "content": "beta/investment-ops/enterprise-zones/en_US.md"
-        }
-      }
+      ]
     }]
   }]
 }

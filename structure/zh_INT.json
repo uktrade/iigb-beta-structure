@@ -970,30 +970,6 @@
         }
       }
     }, {
-      "path": "investment-opportunities/location-guide",
-      "layout": "investment-ops.html",
-      "data": {
-        "pageTitle": "定位指南",
-        "overview": {
-          "content": "beta/investment-ops/overview/zh_CN.md"
-        },
-        "stayInTouch": {
-          "content": "beta/investment-ops/stay-in-touch/zh_CN.md"
-        }
-      }
-    }, {
-      "path": "investment-opportunities/location-guide/confirmation",
-      "layout": "500.html",
-      "data": {
-        "pageTitle": "感谢注册……",
-        "pageHeader": {
-          "content": "beta/info/investment-ops-confirmation/zh_CN.md"
-        },
-        "infoBlock": {
-          "content": "beta/info/investment-ops-confirmation/content/zh_CN.md"
-        }
-      }
-    }, {
       "path": "investment-opportunities",
       "layout": "bullet-list-page.html",
       "data": {
@@ -1004,9 +980,9 @@
         "listItems": [{
           "content": "beta/investment-ops/location-guide/zh_CN.md",
           "link": "/investment-opportunities/location-guide"
-        },{
+        }, {
           "content": "beta/investment-ops/finance-and-incentives/zh_CN.md",
-          "link": "/investment-opportunities/finanace-and-incentives"
+          "link": "/investment-opportunities/finance-and-incentives"
         }, {
           "content": "beta/investment-ops/enterprise-zones/zh_CN.md",
           "link": "/investment-opportunities/enterprise-zones"
@@ -1017,46 +993,61 @@
           "content": "beta/investment-ops/businesses/zh_CN.md",
           "link": "/investment-opportunities/businesses"
         }]
-      }
-    }, {
-      "path": "investment-opportunities/finance-and-incentives",
-      "layout": "single-section.html",
-      "data": {
-        "pageTitle": "财政与奖励",
-        "pageHeader": {
-          "content": "beta/investment-ops/finance-and-incentives/zh_CN.md"
+      },
+      "children": [{
+          "path": "location-guide",
+          "layout": "investment-ops.html",
+          "data": {
+            "pageTitle": "定位指南",
+            "overview": {
+              "content": "beta/investment-ops/overview/zh_CN.md"
+            },
+            "stayInTouch": {
+              "content": "beta/investment-ops/stay-in-touch/zh_CN.md"
+            }
+          }
         },
-        "sections": [{
-          "content": "beta/investment-ops/finance-and-incentives/content/zh_CN.md"
-        }]
-      }
-    }, {
-      "path": "investment-opportunities/businesses",
-      "layout": "investment_ops_businesses.html",
-      "data": {
-        "pageTitle": "企业",
-        "pageHeader": {
-          "content": "beta/investment-ops/businesses/zh_CN.md"
+        {
+          "path": "finance-and-incentives",
+          "layout": "single-section.html",
+          "data": {
+            "pageTitle": "财政与奖励",
+            "pageHeader": {
+              "content": "beta/investment-ops/finance-and-incentives/zh_CN.md"
+            },
+            "sections": [{
+              "content": "beta/investment-ops/finance-and-incentives/content/zh_CN.md"
+            }]
+          }
+        }, {
+          "path": "businesses",
+          "layout": "investment_ops_businesses.html",
+          "data": {
+            "pageTitle": "企业",
+            "pageHeader": {
+              "content": "beta/investment-ops/businesses/zh_CN.md"
+            }
+          }
+        }, {
+          "path": "centres-of-excellence",
+          "layout": "investment_ops_centres.html",
+          "data": {
+            "pageTitle": "卓越中心",
+            "pageHeader": {
+              "content": "beta/investment-ops/centres-of-excellence/zh_CN.md"
+            }
+          }
+        }, {
+          "path": "enterprise-zones",
+          "layout": "investment_ops_zones.html",
+          "data": {
+            "pageTitle": "企业区",
+            "pageHeader": {
+              "content": "beta/investment-ops/enterprise-zones/zh_CN.md"
+            }
+          }
         }
-      }
-    }, {
-      "path": "investment-opportunities/centres-of-excellence",
-      "layout": "investment_ops_centres.html",
-      "data": {
-        "pageTitle": "卓越中心",
-        "pageHeader": {
-          "content": "beta/investment-ops/centres-of-excellence/zh_CN.md"
-        }
-      }
-    }, {
-      "path": "investment-opportunities/enterprise-zones",
-      "layout": "investment_ops_zones.html",
-      "data": {
-        "pageTitle": "企业区",
-        "pageHeader": {
-          "content": "beta/investment-ops/enterprise-zones/zh_CN.md"
-        }
-      }
+      ]
     }]
   }]
 }
