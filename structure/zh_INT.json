@@ -1019,6 +1019,18 @@
         }]
       }
     }, {
+      "path": "investment-opportunities/finance-and-incentives",
+      "layout": "single-section.html",
+      "data": {
+        "pageTitle": "财政与奖励",
+        "pageHeader": {
+          "content": "beta/investment-ops/finance-and-incentives/zh_CN.md"
+        },
+        "sections": [{
+          "content": "beta/investment-ops/finance-and-incentives/content/zh_CN.md"
+        }]
+      }
+    }, {
       "path": "investment-opportunities/businesses",
       "layout": "investment_ops_businesses.html",
       "data": {

@@ -1095,6 +1095,18 @@
         }]
       }
     }, {
+      "path": "investment-opportunities/finance-and-incentives",
+      "layout": "single-section.html",
+      "data": {
+        "pageTitle": "Zugang zu Finanzierung und Anreizen",
+        "pageHeader": {
+          "content": "beta/investment-ops/finance-and-incentives/de_DE.md"
+        },
+        "sections": [{
+          "content": "beta/investment-ops/finance-and-incentives/content/de_DE.md"
+        }]
+      }
+    },{
       "path": "investment-opportunities/businesses",
       "layout": "investment_ops_businesses.html",
       "data": {

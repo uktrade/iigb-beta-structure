@@ -1000,6 +1000,18 @@
           }]
         }
       }, {
+      "path": "investment-opportunities/finance-and-incentives",
+      "layout": "single-section.html",
+      "data": {
+        "pageTitle": "Access finance and incentives",
+        "pageHeader": {
+          "content": "beta/investment-ops/finance-and-incentives/en_US.md"
+        },
+        "sections": [{
+          "content": "beta/investment-ops/finance-and-incentives/content/en_US.md"
+        }]
+      }
+    },{
         "path": "investment-opportunities/businesses",
         "layout": "investment_ops_businesses.html",
         "data": {
