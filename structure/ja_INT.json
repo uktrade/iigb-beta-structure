@@ -947,7 +947,7 @@
       }
     }, {
       "path": "location-guide",
-      "layout": "investment-ops.html",
+      "layout": "old-location-guide.html",
       "data": {
         "pageTitle": "地域ガイド",
         "overview": {

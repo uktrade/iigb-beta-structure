@@ -959,7 +959,7 @@
       }
     }, {
       "path": "location-guide",
-      "layout": "investment-ops.html",
+      "layout": "old-location-guide.html",
       "data": {
         "pageTitle": "دليل الأماكن",
         "overview": {

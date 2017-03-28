@@ -950,7 +950,7 @@
     },
     {
       "path": "location-guide",
-      "layout": "investment-ops.html",
+      "layout": "old-location-guide.html",
       "data": {
         "pageTitle": "Guia de localização",
         "overview": {
