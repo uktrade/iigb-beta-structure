@@ -999,11 +999,8 @@
           "layout": "investment-ops.html",
           "data": {
             "pageTitle": "定位指南",
-            "overview": {
-              "content": "beta/investment-ops/overview/zh_CN.md"
-            },
-            "stayInTouch": {
-              "content": "beta/investment-ops/stay-in-touch/zh_CN.md"
+            "locationGuide": {
+              "content": "beta/investment-ops/location-guide/zh_CN.md"
             }
           }
         },

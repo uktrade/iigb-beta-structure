@@ -1075,11 +1075,8 @@
           "layout": "investment-ops.html",
           "data": {
             "pageTitle": "Standortführer",
-            "overview": {
-              "content": "beta/investment-ops/overview/de_DE.md"
-            },
-            "stayInTouch": {
-              "content": "beta/investment-ops/stay-in-touch/de_DE.md"
+            "locationGuide": {
+              "content": "beta/investment-ops/location-guide/de_DE.md"
             }
           }
         },

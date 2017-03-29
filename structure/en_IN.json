@@ -980,11 +980,8 @@
           "layout": "investment-ops.html",
           "data": {
             "pageTitle": "Location guide",
-            "overview": {
-              "content": "beta/investment-ops/overview/en_US.md"
-            },
-            "stayInTouch": {
-              "content": "beta/investment-ops/stay-in-touch/en_US.md"
+            "locationGuide": {
+              "content": "beta/investment-ops/location-guide/en_US.md"
             }
           }
         },
