@@ -19,7 +19,7 @@
     "path": "in",
     "layout": "home.html",
     "data": {
-      "pageTitle": "Invest home",
+      "pageTitle": "Home",
       "pageHeader": {
         "content": "beta/home/en_US.md",
         "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
@@ -954,7 +954,7 @@
       "path": "investment-opportunities",
       "layout": "bullet-list-page.html",
       "data": {
-        "pageTitle": "Investment Opportunities",
+        "pageTitle": "Investment opportunities",
         "pageHeader": {
           "content": "beta/investment-ops/intro/en_US.md"
         },
@@ -989,7 +989,7 @@
           "path": "finance-and-incentives",
           "layout": "single-section.html",
           "data": {
-            "pageTitle": "Access finance and incentives",
+            "pageTitle": "Access funding and incentives",
             "pageHeader": {
               "content": "beta/investment-ops/finance-and-incentives/en_US.md"
             },
@@ -1001,7 +1001,7 @@
           "path": "businesses",
           "layout": "investment_ops_businesses.html",
           "data": {
-            "pageTitle": "Businesses",
+            "pageTitle": "Popular areas",
             "pageHeader": {
               "content": "beta/investment-ops/businesses/en_US.md"
             }
@@ -1010,7 +1010,7 @@
           "path": "centres-of-excellence",
           "layout": "investment_ops_centres.html",
           "data": {
-            "pageTitle": "Centres of excellence",
+            "pageTitle": "Research and development",
             "pageHeader": {
               "content": "beta/investment-ops/centres-of-excellence/en_US.md"
             }
@@ -1019,7 +1019,7 @@
           "path": "enterprise-zones",
           "layout": "investment_ops_zones.html",
           "data": {
-            "pageTitle": "Enterprise zones",
+            "pageTitle": "Financial incentives",
             "pageHeader": {
               "content": "beta/investment-ops/enterprise-zones/en_US.md"
             }
