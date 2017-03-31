@@ -978,9 +978,6 @@
           "content": "beta/investment-ops/intro/zh_CN.md"
         },
         "listItems": [{
-          "content": "beta/investment-ops/location-guide/zh_CN.md",
-          "link": "/investment-opportunities/location-guide"
-        }, {
           "content": "beta/investment-ops/finance-and-incentives/zh_CN.md",
           "link": "/investment-opportunities/finance-and-incentives"
         }, {
@@ -992,6 +989,9 @@
         }, {
           "content": "beta/investment-ops/businesses/zh_CN.md",
           "link": "/investment-opportunities/businesses"
+        },{
+          "content": "beta/investment-ops/location-guide/zh_CN.md",
+          "link": "/investment-opportunities/location-guide"
         }]
       },
       "children": [{

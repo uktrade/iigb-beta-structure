@@ -1054,9 +1054,6 @@
           "content": "beta/investment-ops/intro/de_DE.md"
         },
         "listItems": [{
-          "content": "beta/investment-ops/location-guide/de_DE.md",
-          "link": "/investment-opportunities/location-guide"
-        }, {
           "content": "beta/investment-ops/finance-and-incentives/de_DE.md",
           "link": "/investment-opportunities/finance-and-incentives"
         }, {
@@ -1068,6 +1065,9 @@
         }, {
           "content": "beta/investment-ops/businesses/de_DE.md",
           "link": "/investment-opportunities/businesses"
+        },{
+          "content": "beta/investment-ops/location-guide/de_DE.md",
+          "link": "/investment-opportunities/location-guide"
         }]
       },
       "children": [{
