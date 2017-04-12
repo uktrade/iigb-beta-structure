@@ -919,9 +919,9 @@
       }
     }, {
       "path": "enquiries/confirmation",
-      "layout": "500.html",
+      "layout": "contact-us-confirmation.html",
       "data": {
-        "pageTitle": "Enquiry submitted",
+        "pageTitle": "Your message has been sent",
         "pageHeader": {
           "content": "beta/info/form-confirmation/en_US.md"
         },
