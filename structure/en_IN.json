@@ -12,7 +12,7 @@
       "hoist": true
     },
     "formBlock": {
-      "content": "beta/form/en_US.md"
+      "content": "beta/info/contact/en_US.md"
     }
   },
   "pages": [{
@@ -919,14 +919,14 @@
         }
       }, {
         "path": "enquiries/confirmation",
-        "layout": "500.html",
+        "layout": "contact-us-confirmation.html",
         "data": {
-          "pageTitle": "Enquiry submitted",
+          "pageTitle": "Your message has been sent",
           "pageHeader": {
-            "content": "beta/info/form-confirmation/en_US.md"
+            "content": "beta/info/form-confirmation-nf/en_US.md"
           },
           "infoBlock": {
-            "content": "beta/info/form-confirmation/content/en_US.md"
+            "content": "beta/info/form-confirmation-nf/content/en_US.md"
           }
         }
       }, {
@@ -947,7 +947,7 @@
         "data": {
           "pageTitle": "Get in touch",
           "pageHeader": {
-            "content": "beta/info/contact/en_US.md"
+            "content": "beta/form-nf/en_US.md"
           }
         }
       }, {
