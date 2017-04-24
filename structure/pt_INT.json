@@ -23,8 +23,7 @@
       "pageHeader": {
         "content": "beta/home/pt_INT.md",
         "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
-        "heroVideo": "iigb-hero.mp4",
-        "heroVideoImage": "iigb-hero.jpg"
+        "heroImage": "iigb-hero.jpg"
       },
       "firstSection": {
         "content": "beta/form/pt_INT.md"
