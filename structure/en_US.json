@@ -425,7 +425,7 @@
         "path": "retail",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "Retail in the UK",
           "pageHeader": {
             "content": "beta/industries/retail/intro/en_US.md",
             "heroImage": "retail.jpg"
