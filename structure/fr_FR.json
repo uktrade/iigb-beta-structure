@@ -19,7 +19,7 @@
     "path": "fr",
     "layout": "home.html",
     "data": {
-      "pageTitle": "Invest Accueil",
+      "pageTitle": "Investir Accueil",
       "pageHeader": {
         "content": "beta/home/fr_FR.md",
         "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
@@ -155,7 +155,7 @@
         "path": "apply-for-visa",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Faire une demande pour un visa",
+          "pageTitle": "Faire une demande de visa",
           "pageHeader": {
             "content": "beta/setup-guide/apply-for-visa/intro/en_US.md"
           },
@@ -197,7 +197,7 @@
         "path": "understand-tax",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Understand UK tax and incentives",
+          "pageTitle": "Comprendre les taxes et avantages au Royaume-Uni",
           "pageHeader": {
             "content": "beta/setup-guide/understand-tax/intro/en_US.md"
           },
@@ -211,7 +211,7 @@
         "path": "access-talent",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Hire skilled workers for your UK operations",
+          "pageTitle": "Embaucher des travailleurs qualifiés pour vos opérations au Royaume-Uni",
           "pageHeader": {
             "content": "beta/setup-guide/access-talent/intro/en_US.md"
           },
@@ -227,7 +227,7 @@
         "path": "understand-legal",
         "layout": "article.html",
         "data": {
-          "pageTitle": "The UK's legal framework",
+          "pageTitle": "Cadre légal au Royaume-Uni",
           "pageHeader": {
             "content": "beta/setup-guide/understand-legal/intro/en_US.md"
           },
@@ -361,7 +361,7 @@
         "path": "aerospace",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Aerospace in the UK",
+          "pageTitle": "Aérospatial au Royaume-Uni",
           "pageHeader": {
             "content": "beta/industries/aerospace/intro/en_US.md",
             "heroImage": "aerospace.jpg"
@@ -375,7 +375,7 @@
         "path": "advanced-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Advanced manufacturing in the UK",
+          "pageTitle": "Fabrication avancée au Royaume-Uni",
           "pageHeader": {
             "content": "beta/industries/advanced-manufacturing/intro/en_US.md",
             "heroImage": "advanced-manufacturing.jpg"
@@ -389,7 +389,7 @@
         "path": "food-and-drink-manufacturing",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Food and Drink Manufacturing in the UK",
+          "pageTitle": "Fabrication d'aliments et boissons au Royaume-Uni",
           "pageHeader": {
             "content": "beta/industries/food-and-drink-manufacturing/intro/en_US.md",
             "heroImage": "food-and-drink-manufacturing.jpg"
@@ -406,7 +406,7 @@
             "path": "freefrom",
             "layout": "sector.html",
             "data": {
-              "pageTitle": "Freefrom",
+              "pageTitle": "Produits \"Sans\"",
               "pageHeader": {
                 "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/en_US.md",
                 "heroImage": "freefrom.jpg"
@@ -425,7 +425,7 @@
         "path": "retail",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Retail in the UK",
+          "pageTitle": "Vente au détail au Royaume-Uni",
           "pageHeader": {
             "content": "beta/industries/retail/intro/en_US.md",
             "heroImage": "retail.jpg"
@@ -439,7 +439,7 @@
         "path": "automotive",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Automotive in the UK",
+          "pageTitle": "Automobile au Royaume-Uni",
           "pageHeader": {
             "content": "beta/industries/automotive/intro/en_US.md",
             "externalVideo": "https://www.youtube.com/embed/nQsMQpW6rvs?rel=0",
@@ -466,7 +466,7 @@
           "path": "motorsport",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Motor sport in the UK",
+            "pageTitle": "Sport automobile au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/motorsport/intro/en_US.md",
               "heroImage": "motorsport.jpg"
@@ -483,7 +483,7 @@
           "path": "research-and-development",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Automotive research and development in the UK",
+            "pageTitle": "Recherche et développement automobile aur Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/research-and-development/intro/en_US.md",
               "heroImage": "research-and-development.jpg"
@@ -502,7 +502,7 @@
           "path": "supply-chain",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Automotive supply chain in the UK",
+            "pageTitle": "Chaîne logistique automobile au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/automotive/sub-sectors/supply-chain/intro/en_US.md",
               "heroImage": "supply-chain.jpg"
@@ -520,7 +520,7 @@
         "path": "energy",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Energy generation in the UK",
+          "pageTitle": "Production énergétique au Royaume-Uni",
           "pageHeader": {
             "content": "beta/industries/energy-generation/intro/en_US.md",
             "externalVideo": "https://www.youtube.com/embed/ObOj0yNeKKw?rel=0",
@@ -555,7 +555,7 @@
           "path": "offshore-wind",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Offshore wind in the UK",
+            "pageTitle": "Eolien offshore au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/en_US.md",
               "heroImage": "offshore.jpg"
@@ -572,7 +572,7 @@
           "path": "electrical-networks",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Electrical networks in the UK",
+            "pageTitle": "Réseaux électriques au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/en_US.md",
               "heroImage": "electrical-networks.jpg"
@@ -589,7 +589,7 @@
           "path": "energy-from-waste",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Energy from waste in the UK",
+            "pageTitle": "Production d'énergie à partir de déchets au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/en_US.md",
               "heroImage": "energy-from-waste.jpg"
@@ -608,7 +608,7 @@
           "path": "oil-and-gas",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Oil and gas in the UK",
+            "pageTitle": "Pétrole et gaz au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/en_US.md",
               "heroImage": "oil-and-gas.jpg"
@@ -627,7 +627,7 @@
           "path": "nuclear",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Nuclear in the UK",
+            "pageTitle": "Nucléaire au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/energy-generation/sub-sectors/nuclear/intro/en_US.md",
               "heroImage": "nuclear.jpg"
@@ -647,7 +647,7 @@
         "path": "health-and-life",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Health and life sciences in the UK",
+          "pageTitle": "Santé et sciences de la vie au Royaume-Uni",
           "pageHeader": {
             "content": "beta/industries/life-sciences/intro/en_US.md",
             "externalVideo": "https://www.youtube.com/embed/p_RfYu1-ZuU?rel=0",
@@ -670,7 +670,7 @@
           "path": "medical-technology",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Medical technology in the UK",
+            "pageTitle": "Technologie médicale au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/en_US.md",
               "heroImage": "medical-technology.jpg"
@@ -687,7 +687,7 @@
           "path": "pharmaceutical-manufacturing",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Pharmaceutical manufacturing in the UK",
+            "pageTitle": "Production pharmaceutique au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/en_US.md",
               "heroImage": "medicine-manufacturing.jpg"
@@ -705,7 +705,7 @@
         "path": "creative",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Creative in the UK",
+          "pageTitle": "Créatif au Royaume-Uni",
           "pageHeader": {
             "content": "beta/industries/creative/intro/en_US.md",
             "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8?rel=0",
@@ -732,7 +732,7 @@
           "path": "content-and-production",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Content and production in the UK",
+            "pageTitle": "Production de contenu au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/creative/sub-sectors/content-and-production/intro/en_US.md",
               "heroImage": "content-and-production.jpg"
@@ -751,7 +751,7 @@
           "path": "digital-media",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Digital media in the UK",
+            "pageTitle": "Média digital au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/creative/sub-sectors/digital-media/intro/en_US.md",
               "heroImage": "digital-media.jpg"
@@ -773,7 +773,7 @@
         "path": "financial-services",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Financial services in the UK",
+          "pageTitle": "Services financiers au Royaume-Uni",
           "pageHeader": {
             "content": "beta/industries/financial-services/intro/en_US.md",
             "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0?rel=0",
@@ -800,7 +800,7 @@
           "path": "asset-management",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Asset management in the UK",
+            "pageTitle": "Gestion d'actifs au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/financial-services/sub-sectors/asset-management/intro/en_US.md",
               "heroImage": "asset-management.jpg"
@@ -819,7 +819,7 @@
           "path": "financial-technology",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Financial technology in the UK",
+            "pageTitle": "Technologie financière au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/financial-services/sub-sectors/fintech/intro/en_US.md",
               "heroImage": "fintech.jpg"
@@ -837,7 +837,7 @@
         "path": "technology",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Technology in the UK",
+          "pageTitle": "Technologie au Royaume-Uni",
           "pageHeader": {
             "content": "beta/industries/technology/intro/en_US.md",
             "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo?rel=0",
@@ -868,7 +868,7 @@
           "path": "data-analytics",
           "layout": "sector.html",
           "data": {
-            "pageTitle": "Data analytics in the UK",
+            "pageTitle": "Analyse de données au Royaume-Uni",
             "pageHeader": {
               "content": "beta/industries/technology/sub-sectors/data-analytics/intro/en_US.md",
               "heroImage": "data-analytics.jpg"
@@ -887,7 +887,7 @@
       "path": "terms-and-conditions",
       "layout": "single-section.html",
       "data": {
-        "pageTitle": "Terms and conditions",
+        "pageTitle": "Conditions générales",
         "pageHeader": {
           "content": "great.gov.uk/terms-and-conditions/en.md"
         },
@@ -899,7 +899,7 @@
       "path": "privacy-policy",
       "layout": "single-section.html",
       "data": {
-        "pageTitle": "Privacy and cookies",
+        "pageTitle": "Confidentialité et cookies",
         "pageHeader": {
           "content": "great.gov.uk/privacy-policy/en.md"
         },
@@ -920,7 +920,7 @@
       "path": "enquiries/confirmation",
       "layout": "contact-us-confirmation.html",
       "data": {
-        "pageTitle": "Your message has been sent",
+        "pageTitle": "Votre message a été envoyé",
         "pageHeader": {
           "content": "beta/info/form-confirmation-nf/en_US.md"
         },
@@ -932,7 +932,7 @@
       "path": "enquiries/error",
       "layout": "info.html",
       "data": {
-        "pageTitle": "Sorry, there was a problem. Try again",
+        "pageTitle": "Votre message n'a pas pu être envoyé. Veuillez réessayer",
         "pageHeader": {
           "content": "beta/info/form-error/en_US.md"
         },
@@ -944,7 +944,7 @@
       "path": "contact",
       "layout": "contact-us.html",
       "data": {
-        "pageTitle": "Get in touch",
+        "pageTitle": "Nous contacter",
         "pageHeader": {
           "content": "beta/form-nf/en_US.md"
         }
@@ -953,7 +953,7 @@
       "path": "location-guide",
       "layout": "investment-ops.html",
       "data": {
-        "pageTitle": "Location guide",
+        "pageTitle": "Guide de localisation",
         "overview": {
           "content": "beta/investment-ops/overview/en_US.md"
         },
@@ -965,7 +965,7 @@
       "path": "location-guide/confirmation",
       "layout": "500.html",
       "data": {
-        "pageTitle": "Thanks for signing up...",
+        "pageTitle": "Merci de vous être inscrit...",
         "pageHeader": {
           "content": "beta/info/investment-ops-confirmation/en_US.md"
         },
