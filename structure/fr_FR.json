@@ -21,7 +21,7 @@
     "data": {
       "pageTitle": "Invest Accueil",
       "pageHeader": {
-        "content": "beta/home/en_US.md",
+        "content": "beta/home/fr_FR.md",
         "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
         "heroImage": "iigb-hero.jpg"
       },
@@ -95,7 +95,7 @@
       "output": "500.html",
       "layout": "500.html",
       "data": {
-        "pageTitle": "HTTP Error 500 - Internal Server Error",
+        "pageTitle": "HTTP Erreur 500 - Erreur de Serveur Interne",
         "background": "",
         "pageHeader": {
           "content": "beta/info/500/en_US.md"
