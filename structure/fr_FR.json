@@ -16,7 +16,7 @@
     }
   },
   "pages": [{
-    "path": "int",
+    "path": "fr",
     "layout": "home.html",
     "data": {
       "pageTitle": "Invest Accueil",
