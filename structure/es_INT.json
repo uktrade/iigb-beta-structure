@@ -380,7 +380,11 @@
             "pageTitle": "Aerospace in the UK",
             "blockHeader": {
               "content": "beta/industries/aerospace/es_ES.md"
-            }
+            },
+            "clusterMap": "aerospace-cluster-map.png",
+            "universitiesMap": "aerospace-universities-map.png",
+            "salaryMap": "aerospace-salary-map.png",
+            "researchMap": "aerospace-research-map.png"
           }
         }]
       }, {
@@ -404,7 +408,11 @@
             "pageTitle": "Advanced manufacturing in the UK",
             "blockHeader": {
               "content": "beta/industries/advanced-manufacturing/es_ES.md"
-            }
+            },
+            "clusterMap": "manufacturing-cluster-map.png",
+            "universitiesMap": "manufacturing-universities-map.png",
+            "salaryMap": "manufacturing-salary-map.png",
+            "researchMap": "manufacturing-research-map.png"
           }
         }]
       }, {
@@ -432,7 +440,11 @@
             "pageTitle": "Food and drink manufacturing in the UK",
             "blockHeader": {
               "content": "beta/industries/food-and-drink-manufacturing/es_ES.md"
-            }
+            },
+            "clusterMap": "food-cluster-map.png",
+            "universitiesMap": "food-universities-map.png",
+            "salaryMap": "food-salary-map.png",
+            "researchMap": "food-research-map.png"
           }
         },{
           "path": "freefrom",
@@ -473,7 +485,11 @@
             "pageTitle": "Retail in the UK",
             "blockHeader": {
               "content": "beta/industries/retail/es_ES.md"
-            }
+            },
+            "clusterMap": "retail-cluster-map.png",
+            "universitiesMap": "retail-universities-map.png",
+            "salaryMap": "retail-salary-map.png",
+            "researchMap": "retail-research-map.png"
           }
         }]
       }, {
@@ -509,7 +525,11 @@
             "pageTitle": "Automotive in the UK",
             "blockHeader": {
               "content": "beta/industries/automotive/es_ES.md"
-            }
+            },
+            "clusterMap": "automotive-cluster-map.png",
+            "universitiesMap": "automotive-universities-map.png",
+            "salaryMap": "automotive-salary-map.png",
+            "researchMap": "automotive-research-map.png"
           }
         },{
           "path": "motorsport",
@@ -606,7 +626,11 @@
             "pageTitle": "Energy in the UK",
             "blockHeader": {
               "content": "beta/industries/energy-generation/es_ES.md"
-            }
+            },
+            "clusterMap": "energy-cluster-map.png",
+            "universitiesMap": "energy-universities-map.png",
+            "salaryMap": "energy-salary-map.png",
+            "researchMap": "energy-research-map.png"
           }
         },{
           "path": "offshore-wind",
@@ -729,7 +753,11 @@
             "pageTitle": "Health and life in the UK",
             "blockHeader": {
               "content": "beta/industries/life-sciences/es_ES.md"
-            }
+            },
+            "clusterMap": "health-cluster-map.png",
+            "universitiesMap": "health-universities-map.png",
+            "salaryMap": "health-salary-map.png",
+            "researchMap": "health-research-map.png"
           }
         },{
           "path": "medical-technology",
@@ -800,7 +828,11 @@
             "pageTitle": "Creative in the UK",
             "blockHeader": {
               "content": "beta/industries/creative/es_ES.md"
-            }
+            },
+            "clusterMap": "creative-cluster-map.png",
+            "universitiesMap": "creative-universities-map.png",
+            "salaryMap": "creative-salary-map.png",
+            "researchMap": "creative-research-map.png"
           }
         },{
           "path": "content-and-production",
@@ -877,7 +909,11 @@
             "pageTitle": "Financial services in the UK",
             "blockHeader": {
               "content": "beta/industries/financial-services/es_ES.md"
-            }
+            },
+            "clusterMap": "financial-cluster-map.png",
+            "universitiesMap": "financial-universities-map.png",
+            "salaryMap": "financial-salary-map.png",
+            "researchMap": "financial-research-map.png"
           }
         },{
           "path": "asset-management",
@@ -954,7 +990,11 @@
             "pageTitle": "Technology in the UK",
             "blockHeader": {
               "content": "beta/industries/technology/es_ES.md"
-            }
+            },
+            "clusterMap": "technology-cluster-map.png",
+            "universitiesMap": "technology-universities-map.png",
+            "salaryMap": "technology-salary-map.png",
+            "researchMap": "technology-research-map.png"
           }
         },{
           "path": "data-analytics",
