@@ -371,7 +371,21 @@
             "content": "beta/industries/aerospace/overview/ar_SA.md"
           }],
           "subContent": []
-        }
+        },
+        "children": [{
+          "path": "aerospace-in-the-uk",
+          "layout": "where-in-the-uk.html",
+          "data": {
+            "pageTitle": "Aerospace in the UK",
+            "blockHeader": {
+              "content": "beta/industries/aerospace/ar_SA.md"
+            },
+            "clusterMap": "aerospace-cluster-map.png",
+            "universitiesMap": "aerospace-universities-map.png",
+            "salaryMap": "aerospace-salary-map.png",
+            "researchMap": "aerospace-research-map.png"
+          }
+        }]
       }, {
         "path": "advanced-manufacturing",
         "layout": "industry.html",
@@ -385,7 +399,21 @@
             "content": "beta/industries/advanced-manufacturing/overview/ar_SA.md"
           }],
           "subContent": []
-        }
+        },
+        "children": [{
+          "path": "advanced-manufacturing-in-the-uk",
+          "layout": "where-in-the-uk.html",
+          "data": {
+            "pageTitle": "Advanced manufacturing in the UK",
+            "blockHeader": {
+              "content": "beta/industries/advanced-manufacturing/ar_SA.md"
+            },
+            "clusterMap": "manufacturing-cluster-map.png",
+            "universitiesMap": "manufacturing-universities-map.png",
+            "salaryMap": "manufacturing-salary-map.png",
+            "researchMap": "manufacturing-research-map.png"
+          }
+        }]
       }, {
         "path": "food-and-drink-manufacturing",
         "layout": "industry.html",
@@ -402,26 +430,39 @@
             "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/ar_SA.md",
             "thumbnail": "freefrom.jpg",
             "link": "/industries/food-and-drink-manufacturing/freefrom"
-          }],
-          "children": [{
-            "path": "freefrom",
-            "layout": "sector.html",
-            "data": {
-              "pageTitle": "سوق الأطعمة الصحية في المملكة المتحدة",
-              "pageHeader": {
-                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/ar_SA.md",
-                "heroImage": "freefrom-rtl.jpg"
-              },
-              "sections": [{
-                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/british-buying-habits/ar_SA.md"
-              }, {
-                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/government-support/ar_SA.md"
-              }, {
-                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/other-growth-areas/ar_SA.md"
-              }]
-            }
           }]
-        }
+        },
+        "children": [{
+          "path": "food-and-drink-manufacturing-in-the-uk",
+          "layout": "where-in-the-uk.html",
+          "data": {
+            "pageTitle": "Food and drink manufacturing in the UK",
+            "blockHeader": {
+              "content": "beta/industries/food-and-drink-manufacturing/ar_SA.md"
+            },
+            "clusterMap": "food-cluster-map.png",
+            "universitiesMap": "food-universities-map.png",
+            "salaryMap": "food-salary-map.png",
+            "researchMap": "food-research-map.png"
+          }
+        },{
+          "path": "freefrom",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "سوق الأطعمة الصحية في المملكة المتحدة",
+            "pageHeader": {
+              "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/ar_SA.md",
+              "heroImage": "freefrom-rtl.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/british-buying-habits/ar_SA.md"
+            }, {
+              "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/government-support/ar_SA.md"
+            }, {
+              "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/other-growth-areas/ar_SA.md"
+            }]
+          }
+        }]
       }, {
         "path": "retail",
         "layout": "industry.html",
@@ -435,7 +476,21 @@
             "content": "beta/industries/retail/overview/ar_SA.md"
           }],
           "subContent": []
-        }
+        },
+        "children": [{
+          "path": "retail-in-the-uk",
+          "layout": "where-in-the-uk.html",
+          "data": {
+            "pageTitle": "Retail in the UK",
+            "blockHeader": {
+              "content": "beta/industries/retail/ar_SA.md"
+            },
+            "clusterMap": "retail-cluster-map.png",
+            "universitiesMap": "retail-universities-map.png",
+            "salaryMap": "retail-salary-map.png",
+            "researchMap": "retail-research-map.png"
+          }
+        }]
       }, {
         "path": "automotive",
         "layout": "industry.html",
@@ -464,6 +519,19 @@
           }]
         },
         "children": [{
+          "path": "automotive-in-the-uk",
+          "layout": "where-in-the-uk.html",
+          "data": {
+            "pageTitle": "Automotive in the UK",
+            "blockHeader": {
+              "content": "beta/industries/automotive/ar_SA.md"
+            },
+            "clusterMap": "automotive-cluster-map.png",
+            "universitiesMap": "automotive-universities-map.png",
+            "salaryMap": "automotive-salary-map.png",
+            "researchMap": "automotive-research-map.png"
+          }
+        },{
           "path": "motorsport",
           "layout": "sector.html",
           "data": {
@@ -553,6 +621,19 @@
           }]
         },
         "children": [{
+          "path": "energy-in-the-uk",
+          "layout": "where-in-the-uk.html",
+          "data": {
+            "pageTitle": "Energy in the UK",
+            "blockHeader": {
+              "content": "beta/industries/energy-generation/ar_SA.md"
+            },
+            "clusterMap": "energy-cluster-map.png",
+            "universitiesMap": "energy-universities-map.png",
+            "salaryMap": "energy-salary-map.png",
+            "researchMap": "energy-research-map.png"
+          }
+        },{
           "path": "offshore-wind",
           "layout": "sector.html",
           "data": {
@@ -668,6 +749,19 @@
           }]
         },
         "children": [{
+          "path": "health-and-life-in-the-uk",
+          "layout": "where-in-the-uk.html",
+          "data": {
+            "pageTitle": "Health and life in the UK",
+            "blockHeader": {
+              "content": "beta/industries/life-sciences/ar_SA.md"
+            },
+            "clusterMap": "health-cluster-map.png",
+            "universitiesMap": "health-universities-map.png",
+            "salaryMap": "health-salary-map.png",
+            "researchMap": "health-research-map.png"
+          }
+        },{
           "path": "medical-technology",
           "layout": "sector.html",
           "data": {
@@ -736,6 +830,19 @@
           }]
         },
         "children": [{
+          "path": "creative-in-the-uk",
+          "layout": "where-in-the-uk.html",
+          "data": {
+            "pageTitle": "Creative in the UK",
+            "blockHeader": {
+              "content": "beta/industries/creative/ar_SA.md"
+            },
+            "clusterMap": "creative-cluster-map.png",
+            "universitiesMap": "creative-universities-map.png",
+            "salaryMap": "creative-salary-map.png",
+            "researchMap": "creative-research-map.png"
+          }
+        },{
           "path": "content-and-production",
           "layout": "sector.html",
           "data": {
@@ -804,6 +911,19 @@
           }]
         },
         "children": [{
+          "path": "financial-services-in-the-uk",
+          "layout": "where-in-the-uk.html",
+          "data": {
+            "pageTitle": "Financial services in the UK",
+            "blockHeader": {
+              "content": "beta/industries/financial-services/ar_SA.md"
+            },
+            "clusterMap": "financial-cluster-map.png",
+            "universitiesMap": "financial-universities-map.png",
+            "salaryMap": "financial-salary-map.png",
+            "researchMap": "financial-research-map.png"
+          }
+        },{
           "path": "asset-management",
           "layout": "sector.html",
           "data": {
@@ -872,6 +992,19 @@
           }]
         },
         "children": [{
+          "path": "technology-in-the-uk",
+          "layout": "where-in-the-uk.html",
+          "data": {
+            "pageTitle": "Technology in the UK",
+            "blockHeader": {
+              "content": "beta/industries/technology/ar_SA.md"
+            },
+            "clusterMap": "technology-cluster-map.png",
+            "universitiesMap": "technology-universities-map.png",
+            "salaryMap": "technology-salary-map.png",
+            "researchMap": "technology-research-map.png"
+          }
+        },{
           "path": "data-analytics",
           "layout": "sector.html",
           "data": {
@@ -957,17 +1090,132 @@
         }
       }
     }, {
-      "path": "location-guide",
-      "layout": "investment-ops.html",
+      "path": "where-in-the-uk",
+      "layout": "where-in-the-uk.html",
       "data": {
-        "pageTitle": "دليل الأماكن",
-        "overview": {
-          "content": "beta/investment-ops/overview/ar_SA.md"
-        },
-        "stayInTouch": {
-          "content": "beta/investment-ops/stay-in-touch/ar_SA.md"
-        }
-      }
+        "pageTitle": "دليل الأماكن"
+      },
+      "children": [{
+          "path": "scotland",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in Scotland",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "northern-ireland",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in Northern Ireland",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "north-east-england",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in North East England",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "north-west-england",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in North West England",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "yorkshire-and-the-humber",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in Yorkshire and The Humber",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "east-midlands",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in the East Midlands",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "west-midlands",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in the West Midlands",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "wales",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in Wales",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "london",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in London",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "east-of-england",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in East of England",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "south-east-england",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in South East England",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "south-west-england",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in South West England",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        }]
     }, {
       "path": "location-guide/confirmation",
       "layout": "500.html",
