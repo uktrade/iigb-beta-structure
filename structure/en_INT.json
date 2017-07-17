@@ -379,6 +379,13 @@
             "blockHeader": {
               "content": "beta/industries/aerospace/en_US.md"
             },
+            "airportMap": {
+              "content": "beta/where-to-invest/aerospace/aerospace-airport-mapping.md",
+              "image": "aerospace-airport-map.png"
+            },
+            "airportTable": {
+              "content": "beta/where-to-invest/aerospace/aerospace-airport-table.md"
+            },
             "clusterMap": {
               "image": "aerospace-cluster-map.png",
               "labelledImage": "aerospace-labelled-cluster-map.png"
@@ -427,6 +434,13 @@
             "pageTitle": "Advanced manufacturing in the UK",
             "blockHeader": {
               "content": "beta/industries/advanced-manufacturing/en_US.md"
+            },
+            "airportMap": {
+              "content": "beta/where-to-invest/manufacturing/manufacturing-airport-mapping.md",
+              "image": "manufacturing-airport-map.png"
+            },
+            "airportTable": {
+              "content": "beta/where-to-invest/manufacturing/manufacturing-airport-table.md"
             },
             "clusterMap": {
               "image": "manufacturing-cluster-map.png",
@@ -480,6 +494,13 @@
             "pageTitle": "Food and drink manufacturing in the UK",
             "blockHeader": {
               "content": "beta/industries/food-and-drink-manufacturing/en_US.md"
+            },
+            "airportMap": {
+              "content": "beta/where-to-invest/food/food-airport-mapping.md",
+              "image": "food-airport-map.png"
+            },
+            "airportTable": {
+              "content": "beta/where-to-invest/food/food-airport-table.md"
             },
             "clusterMap": {
               "image": "food-cluster-map.png",
@@ -547,6 +568,13 @@
             "blockHeader": {
               "content": "beta/industries/retail/en_US.md"
             },
+            "airportMap": {
+              "content": "beta/where-to-invest/retail/retail-airport-mapping.md",
+              "image": "retail-airport-map.png"
+            },
+            "airportTable": {
+              "content": "beta/where-to-invest/retail/retail-airport-table.md"
+            },
             "clusterMap": {
               "image": "retail-cluster-map.png",
               "labelledImage": "retail-labelled-cluster-map.png"
@@ -608,6 +636,13 @@
             "pageTitle": "Automotive in the UK",
             "blockHeader": {
               "content": "beta/industries/automotive/en_US.md"
+            },
+            "airportMap": {
+              "content": "beta/where-to-invest/automotive/automotive-airport-mapping.md",
+              "image": "automotive-airport-map.png"
+            },
+            "airportTable": {
+              "content": "beta/where-to-invest/automotive/automotive-airport-table.md"
             },
             "clusterMap": {
               "image": "automotive-cluster-map.png",
@@ -731,6 +766,13 @@
             "pageTitle": "Energy in the UK",
             "blockHeader": {
               "content": "beta/industries/energy-generation/en_US.md"
+            },
+            "airportMap": {
+              "content": "beta/where-to-invest/energy/energy-airport-mapping.md",
+              "image": "energy-airport-map.png"
+            },
+            "airportTable": {
+              "content": "beta/where-to-invest/energy/energy-airport-table.md"
             },
             "clusterMap": {
               "image": "energy-cluster-map.png",
@@ -881,6 +923,13 @@
             "blockHeader": {
               "content": "beta/industries/life-sciences/en_US.md"
             },
+            "airportMap": {
+              "content": "beta/where-to-invest/health/health-airport-mapping.md",
+              "image": "health-airport-map.png"
+            },
+            "airportTable": {
+              "content": "beta/where-to-invest/health/health-airport-table.md"
+            },
             "clusterMap": {
               "image": "health-cluster-map.png",
               "labelledImage": "health-labelled-cluster-map.png"
@@ -976,6 +1025,13 @@
             "pageTitle": "Creative in the UK",
             "blockHeader": {
               "content": "beta/industries/creative/en_US.md"
+            },
+            "airportMap": {
+              "content": "beta/where-to-invest/creative/creative-airport-mapping.md",
+              "image": "creative-airport-map.png"
+            },
+            "airportTable": {
+              "content": "beta/where-to-invest/creative/creative-airport-table.md"
             },
             "clusterMap": {
               "image": "creative-cluster-map.png",
@@ -1079,6 +1135,13 @@
             "blockHeader": {
               "content": "beta/industries/financial-services/en_US.md"
             },
+            "airportMap": {
+              "content": "beta/where-to-invest/financial/financial-airport-mapping.md",
+              "image": "financial-airport-map.png"
+            },
+            "airportTable": {
+              "content": "beta/where-to-invest/financial/financial-airport-table.md"
+            },
             "clusterMap": {
               "image": "financial-cluster-map.png",
               "labelledImage": "financial-labelled-cluster-map.png"
@@ -1180,6 +1243,13 @@
             "pageTitle": "Technology in the UK",
             "blockHeader": {
               "content": "beta/industries/technology/en_US.md"
+            },
+            "airportMap": {
+              "content": "beta/where-to-invest/technology/technology-airport-mapping.md",
+              "image": "technology-airport-map.png"
+            },
+            "airportTable": {
+              "content": "beta/where-to-invest/technology/technology-airport-table.md"
             },
             "clusterMap": {
               "image": "technology-cluster-map.png",
