@@ -376,8 +376,15 @@
           "layout": "where-to-invest.html",
           "data": {
             "pageTitle": "Aerospace in the UK",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            },
             "blockHeader": {
               "content": "beta/industries/aerospace/en_US.md"
+            },
+            "blockTitles" : {
+              "content": "beta/where-to-invest/sector-page/en_US.md"
             },
             "airportMap": {
               "content": "beta/where-to-invest/aerospace/aerospace-airport-mapping.md",
@@ -432,6 +439,10 @@
           "layout": "where-to-invest.html",
           "data": {
             "pageTitle": "Advanced manufacturing in the UK",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            },
             "blockHeader": {
               "content": "beta/industries/advanced-manufacturing/en_US.md"
             },
@@ -492,6 +503,10 @@
           "layout": "where-to-invest.html",
           "data": {
             "pageTitle": "Food and drink manufacturing in the UK",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            },
             "blockHeader": {
               "content": "beta/industries/food-and-drink-manufacturing/en_US.md"
             },
@@ -565,6 +580,10 @@
           "layout": "where-to-invest.html",
           "data": {
             "pageTitle": "Retail in the UK",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            },
             "blockHeader": {
               "content": "beta/industries/retail/en_US.md"
             },
@@ -634,6 +653,10 @@
           "layout": "where-to-invest.html",
           "data": {
             "pageTitle": "Automotive in the UK",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            },
             "blockHeader": {
               "content": "beta/industries/automotive/en_US.md"
             },
@@ -764,6 +787,10 @@
           "layout": "where-to-invest.html",
           "data": {
             "pageTitle": "Energy in the UK",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            },
             "blockHeader": {
               "content": "beta/industries/energy-generation/en_US.md"
             },
@@ -920,6 +947,10 @@
           "layout": "where-to-invest.html",
           "data": {
             "pageTitle": "Health and life in the UK",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            },
             "blockHeader": {
               "content": "beta/industries/life-sciences/en_US.md"
             },
@@ -1023,6 +1054,10 @@
           "layout": "where-to-invest.html",
           "data": {
             "pageTitle": "Creative in the UK",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            },
             "blockHeader": {
               "content": "beta/industries/creative/en_US.md"
             },
@@ -1132,6 +1167,10 @@
           "layout": "where-to-invest.html",
           "data": {
             "pageTitle": "Financial services in the UK",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            },
             "blockHeader": {
               "content": "beta/industries/financial-services/en_US.md"
             },
@@ -1241,6 +1280,10 @@
           "layout": "where-to-invest.html",
           "data": {
             "pageTitle": "Technology in the UK",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            },
             "blockHeader": {
               "content": "beta/industries/technology/en_US.md"
             },
@@ -1366,7 +1409,20 @@
       "path": "where-to-invest",
       "layout": "where-to-invest.html",
       "data": {
-        "pageTitle": "Where to invest"
+        "pageTitle": "Where to invest",
+        "pageHeader": {
+          "content": "",
+          "heroImage": "uk-curve-map.jpg"
+        },
+        "regionMap": {
+          "content": "beta/where-to-invest/uk/uk-region-mapping.md"
+        },
+        "regionBlock": {
+          "content": "beta/where-to-invest/landing-page/en_US.md"
+        },
+        "regionTable": {
+          "content": "beta/where-to-invest/uk/uk-region-table.md"
+        }
       },
       "children": [{
           "path": "scotland",
@@ -1376,7 +1432,36 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/scotland/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/scotland/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/scotland/proof-points/investors/en_US.md"
+              },
+              {
+                "content": "beta/regions/scotland/proof-points/costs/en_US.md"
+              },
+              {
+                "content": "beta/regions/scotland/proof-points/skills/en_US.md"
+              },
+              {
+                "content": "beta/regions/scotland/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/scotland/proof-points/strong-industries/en_US.md"
+              },
+              {
+                "content": "beta/regions/scotland/proof-points/transport/en_US.md"
+              }
+            ]
           }
         },{
           "path": "northern-ireland",
@@ -1386,7 +1471,36 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/northern-ireland/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/northern-ireland/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/northern-ireland/proof-points/investors/en_US.md"
+              },
+              {
+                "content": "beta/regions/northern-ireland/proof-points/costs/en_US.md"
+              },
+              {
+                "content": "beta/regions/northern-ireland/proof-points/skills/en_US.md"
+              },
+              {
+                "content": "beta/regions/northern-ireland/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/northern-ireland/proof-points/strong-industries/en_US.md"
+              },
+              {
+                "content": "beta/regions/northern-ireland/proof-points/transport/en_US.md"
+              }
+            ]
           }
         },{
           "path": "north-east-england",
@@ -1396,7 +1510,39 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/north-east/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/north-east/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/north-east/proof-points/investors/en_US.md"
+              },
+              {
+                "content": "beta/regions/north-east/proof-points/costs/en_US.md"
+              },
+              {
+                "content": "beta/regions/north-east/proof-points/skills/en_US.md"
+              },
+              {
+                "content": "beta/regions/north-east/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/north-east/proof-points/strong-industries/en_US.md"
+              },
+              {
+                "content": "beta/regions/north-east/proof-points/transport/en_US.md"
+              },
+              {
+                "content": "beta/regions/north-east/proof-points/capital-invest-opps/en_US.md"
+              }
+            ]
           }
         },{
           "path": "north-west-england",
@@ -1406,7 +1552,27 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/north-west/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/north-west/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/north-west/proof-points/research/en_US.md"
+              },
+              {
+                "content": "beta/regions/north-west/proof-points/strong-industries/en_US.md"
+              },
+              {
+                "content": "beta/regions/north-west/proof-points/capital-invest-opps/en_US.md"
+              }
+            ]
           }
         },{
           "path": "yorkshire-and-the-humber",
@@ -1416,7 +1582,33 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/yorkshire-humber/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/yorkshire-humber/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/yorkshire-humber/proof-points/skills/en_US.md"
+              },
+              {
+                "content": "beta/regions/yorkshire-humber/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/yorkshire-humber/proof-points/strong-industries/en_US.md"
+              },
+              {
+                "content": "beta/regions/yorkshire-humber/proof-points/transport/en_US.md"
+              },
+              {
+                "content": "beta/regions/yorkshire-humber/proof-points/connectivity/en_US.md"
+              }
+            ]
           }
         },{
           "path": "east-midlands",
@@ -1426,7 +1618,42 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/east-midlands/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/east-midlands/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/east-midlands/proof-points/investors/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-midlands/proof-points/research/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-midlands/proof-points/costs/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-midlands/proof-points/skills/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-midlands/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-midlands/proof-points/strong-industries/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-midlands/proof-points/transport/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-midlands/proof-points/capital-invest-opps/en_US.md"
+              }
+            ]
           }
         },{
           "path": "west-midlands",
@@ -1436,7 +1663,39 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/west-midlands/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/west-midlands/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/west-midlands/proof-points/investors/en_US.md"
+              },
+              {
+                "content": "beta/regions/west-midlands/proof-points/costs/en_US.md"
+              },
+              {
+                "content": "beta/regions/west-midlands/proof-points/skills/en_US.md"
+              },
+              {
+                "content": "beta/regions/west-midlands/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/west-midlands/proof-points/strong-industries/en_US.md"
+              },
+              {
+                "content": "beta/regions/west-midlands/proof-points/transport/en_US.md"
+              },
+              {
+                "content": "beta/regions/west-midlands/proof-points/capital-invest-opps/en_US.md"
+              }
+            ]
           }
         },{
           "path": "wales",
@@ -1446,7 +1705,36 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/wales/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/wales/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/wales/proof-points/investors/en_US.md"
+              },
+              {
+                "content": "beta/regions/wales/proof-points/research/en_US.md"
+              },
+              {
+                "content": "beta/regions/wales/proof-points/costs/en_US.md"
+              },
+              {
+                "content": "beta/regions/wales/proof-points/skills/en_US.md"
+              },
+              {
+                "content": "beta/regions/wales/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/wales/proof-points/transport/en_US.md"
+              }
+            ]
           }
         },{
           "path": "london",
@@ -1456,7 +1744,27 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/london/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/london/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/london/proof-points/investors/en_US.md"
+              },
+              {
+                "content": "beta/regions/london/proof-points/research/en_US.md"
+              },
+              {
+                "content": "beta/regions/london/proof-points/strong-industries/en_US.md"
+              }
+            ]
           }
         },{
           "path": "east-of-england",
@@ -1466,7 +1774,42 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/east-of-england/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/east-of-england/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/east-of-england/proof-points/investors/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-of-england/proof-points/research/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-of-england/proof-points/costs/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-of-england/proof-points/skills/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-of-england/proof-points/projects/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-of-england/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-of-england/proof-points/strong-industries/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-of-england/proof-points/transport/en_US.md"
+              }
+            ]
           }
         },{
           "path": "south-east-england",
@@ -1476,7 +1819,39 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/south-east/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/south-east/proof-points/investors/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-east/proof-points/research/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-east/proof-points/costs/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-east/proof-points/skills/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-east/proof-points/projects/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-east/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-east/proof-points/strong-cities/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-east/proof-points/transport/en_US.md"
+              }
+            ]
           }
         },{
           "path": "south-west-england",
@@ -1486,7 +1861,36 @@
             "pageHeader": {
               "content": "",
               "heroImage": "place-holder.png"
-            }
+            },
+            "blockHeader": {
+              "content": "beta/regions/south-west/en_US.md"
+            },
+            "regionOverview": {
+              "content": "beta/regions/en_US.md"
+            },
+            "quotation": {
+              "content": "beta/regions/south-west/quotation/en_US.md"
+            },
+            "proofPoints": [
+              {
+                "content": "beta/regions/south-west/proof-points/investors/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-west/proof-points/research/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-west/proof-points/costs/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-west/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-west/proof-points/strong-industries/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-west/proof-points/transport/en_US.md"
+              }
+            ]
           }
         }]
     }, {
