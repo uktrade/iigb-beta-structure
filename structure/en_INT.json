@@ -446,6 +446,9 @@
             "blockHeader": {
               "content": "beta/industries/advanced-manufacturing/en_US.md"
             },
+            "blockTitles" : {
+              "content": "beta/where-to-invest/sector-page/en_US.md"
+            },
             "airportMap": {
               "content": "beta/where-to-invest/manufacturing/manufacturing-airport-mapping.md",
               "image": "manufacturing-airport-map.png"
@@ -509,6 +512,9 @@
             },
             "blockHeader": {
               "content": "beta/industries/food-and-drink-manufacturing/en_US.md"
+            },
+            "blockTitles" : {
+              "content": "beta/where-to-invest/sector-page/en_US.md"
             },
             "airportMap": {
               "content": "beta/where-to-invest/food/food-airport-mapping.md",
@@ -587,6 +593,9 @@
             "blockHeader": {
               "content": "beta/industries/retail/en_US.md"
             },
+            "blockTitles" : {
+              "content": "beta/where-to-invest/sector-page/en_US.md"
+            },
             "airportMap": {
               "content": "beta/where-to-invest/retail/retail-airport-mapping.md",
               "image": "retail-airport-map.png"
@@ -659,6 +668,9 @@
             },
             "blockHeader": {
               "content": "beta/industries/automotive/en_US.md"
+            },
+            "blockTitles" : {
+              "content": "beta/where-to-invest/sector-page/en_US.md"
             },
             "airportMap": {
               "content": "beta/where-to-invest/automotive/automotive-airport-mapping.md",
@@ -793,6 +805,9 @@
             },
             "blockHeader": {
               "content": "beta/industries/energy-generation/en_US.md"
+            },
+            "blockTitles" : {
+              "content": "beta/where-to-invest/sector-page/en_US.md"
             },
             "airportMap": {
               "content": "beta/where-to-invest/energy/energy-airport-mapping.md",
@@ -954,6 +969,9 @@
             "blockHeader": {
               "content": "beta/industries/life-sciences/en_US.md"
             },
+            "blockTitles" : {
+              "content": "beta/where-to-invest/sector-page/en_US.md"
+            },
             "airportMap": {
               "content": "beta/where-to-invest/health/health-airport-mapping.md",
               "image": "health-airport-map.png"
@@ -1060,6 +1078,9 @@
             },
             "blockHeader": {
               "content": "beta/industries/creative/en_US.md"
+            },
+            "blockTitles" : {
+              "content": "beta/where-to-invest/sector-page/en_US.md"
             },
             "airportMap": {
               "content": "beta/where-to-invest/creative/creative-airport-mapping.md",
@@ -1174,6 +1195,9 @@
             "blockHeader": {
               "content": "beta/industries/financial-services/en_US.md"
             },
+            "blockTitles" : {
+              "content": "beta/where-to-invest/sector-page/en_US.md"
+            },
             "airportMap": {
               "content": "beta/where-to-invest/financial/financial-airport-mapping.md",
               "image": "financial-airport-map.png"
@@ -1286,6 +1310,9 @@
             },
             "blockHeader": {
               "content": "beta/industries/technology/en_US.md"
+            },
+            "blockTitles" : {
+              "content": "beta/where-to-invest/sector-page/en_US.md"
             },
             "airportMap": {
               "content": "beta/where-to-invest/technology/technology-airport-mapping.md",
@@ -1425,13 +1452,23 @@
         }
       },
       "children": [{
+          "path": "change-industry",
+          "layout": "where-to-invest.html",
+          "data": {
+            "pageTitle": "Where to invest - Change industry",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "uk-curve-map.jpg"
+            }
+          }
+        },{
           "path": "scotland",
           "layout": "region.html",
           "data": {
             "pageTitle": "Where to invest - Scotland",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-scotland.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/scotland/en_US.md"
@@ -1450,10 +1487,10 @@
                 "content": "beta/regions/scotland/proof-points/costs/en_US.md"
               },
               {
-                "content": "beta/regions/scotland/proof-points/skills/en_US.md"
+                "content": "beta/regions/scotland/proof-points/incentives/en_US.md"
               },
               {
-                "content": "beta/regions/scotland/proof-points/incentives/en_US.md"
+                "content": "beta/regions/scotland/proof-points/skills/en_US.md"
               },
               {
                 "content": "beta/regions/scotland/proof-points/strong-industries/en_US.md"
@@ -1470,7 +1507,7 @@
             "pageTitle": "Where to invest - Northern Ireland",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-northern-ireland.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/northern-ireland/en_US.md"
@@ -1489,10 +1526,10 @@
                 "content": "beta/regions/northern-ireland/proof-points/costs/en_US.md"
               },
               {
-                "content": "beta/regions/northern-ireland/proof-points/skills/en_US.md"
+                "content": "beta/regions/northern-ireland/proof-points/incentives/en_US.md"
               },
               {
-                "content": "beta/regions/northern-ireland/proof-points/incentives/en_US.md"
+                "content": "beta/regions/northern-ireland/proof-points/skills/en_US.md"
               },
               {
                 "content": "beta/regions/northern-ireland/proof-points/strong-industries/en_US.md"
@@ -1509,7 +1546,7 @@
             "pageTitle": "Where to invest - North East England",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-northeast.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/north-east/en_US.md"
@@ -1528,10 +1565,10 @@
                 "content": "beta/regions/north-east/proof-points/costs/en_US.md"
               },
               {
-                "content": "beta/regions/north-east/proof-points/skills/en_US.md"
+                "content": "beta/regions/north-east/proof-points/incentives/en_US.md"
               },
               {
-                "content": "beta/regions/north-east/proof-points/incentives/en_US.md"
+                "content": "beta/regions/north-east/proof-points/skills/en_US.md"
               },
               {
                 "content": "beta/regions/north-east/proof-points/strong-industries/en_US.md"
@@ -1551,7 +1588,7 @@
             "pageTitle": "Where to invest - North West England",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-northwest.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/north-west/en_US.md"
@@ -1581,7 +1618,7 @@
             "pageTitle": "Where to invest - Yorkshire and The Humber",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-yorks-and-humber.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/yorkshire-humber/en_US.md"
@@ -1594,10 +1631,10 @@
             },
             "proofPoints": [
               {
-                "content": "beta/regions/yorkshire-humber/proof-points/skills/en_US.md"
+                "content": "beta/regions/yorkshire-humber/proof-points/incentives/en_US.md"
               },
               {
-                "content": "beta/regions/yorkshire-humber/proof-points/incentives/en_US.md"
+                "content": "beta/regions/yorkshire-humber/proof-points/skills/en_US.md"
               },
               {
                 "content": "beta/regions/yorkshire-humber/proof-points/strong-industries/en_US.md"
@@ -1617,7 +1654,7 @@
             "pageTitle": "Where to invest - the East Midlands",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-eastmid.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/east-midlands/en_US.md"
@@ -1633,16 +1670,16 @@
                 "content": "beta/regions/east-midlands/proof-points/investors/en_US.md"
               },
               {
-                "content": "beta/regions/east-midlands/proof-points/research/en_US.md"
+                "content": "beta/regions/east-midlands/proof-points/costs/en_US.md"
               },
               {
-                "content": "beta/regions/east-midlands/proof-points/costs/en_US.md"
+                "content": "beta/regions/east-midlands/proof-points/incentives/en_US.md"
               },
               {
                 "content": "beta/regions/east-midlands/proof-points/skills/en_US.md"
               },
               {
-                "content": "beta/regions/east-midlands/proof-points/incentives/en_US.md"
+                "content": "beta/regions/east-midlands/proof-points/research/en_US.md"
               },
               {
                 "content": "beta/regions/east-midlands/proof-points/strong-industries/en_US.md"
@@ -1662,7 +1699,7 @@
             "pageTitle": "Where to invest - the West Midlands",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-westmid.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/west-midlands/en_US.md"
@@ -1681,10 +1718,10 @@
                 "content": "beta/regions/west-midlands/proof-points/costs/en_US.md"
               },
               {
-                "content": "beta/regions/west-midlands/proof-points/skills/en_US.md"
+                "content": "beta/regions/west-midlands/proof-points/incentives/en_US.md"
               },
               {
-                "content": "beta/regions/west-midlands/proof-points/incentives/en_US.md"
+                "content": "beta/regions/west-midlands/proof-points/skills/en_US.md"
               },
               {
                 "content": "beta/regions/west-midlands/proof-points/strong-industries/en_US.md"
@@ -1704,7 +1741,7 @@
             "pageTitle": "Where to invest - Wales",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-wales.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/wales/en_US.md"
@@ -1720,16 +1757,16 @@
                 "content": "beta/regions/wales/proof-points/investors/en_US.md"
               },
               {
-                "content": "beta/regions/wales/proof-points/research/en_US.md"
+                "content": "beta/regions/wales/proof-points/costs/en_US.md"
               },
               {
-                "content": "beta/regions/wales/proof-points/costs/en_US.md"
+                "content": "beta/regions/wales/proof-points/incentives/en_US.md"
               },
               {
                 "content": "beta/regions/wales/proof-points/skills/en_US.md"
               },
               {
-                "content": "beta/regions/wales/proof-points/incentives/en_US.md"
+                "content": "beta/regions/wales/proof-points/research/en_US.md"
               },
               {
                 "content": "beta/regions/wales/proof-points/transport/en_US.md"
@@ -1743,7 +1780,7 @@
             "pageTitle": "Where to invest - London",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-london.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/london/en_US.md"
@@ -1773,7 +1810,7 @@
             "pageTitle": "Where to invest - East of England",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-eastengland.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/east-of-england/en_US.md"
@@ -1789,25 +1826,25 @@
                 "content": "beta/regions/east-of-england/proof-points/investors/en_US.md"
               },
               {
-                "content": "beta/regions/east-of-england/proof-points/research/en_US.md"
+                "content": "beta/regions/east-of-england/proof-points/costs/en_US.md"
               },
               {
-                "content": "beta/regions/east-of-england/proof-points/costs/en_US.md"
+                "content": "beta/regions/east-of-england/proof-points/incentives/en_US.md"
               },
               {
                 "content": "beta/regions/east-of-england/proof-points/skills/en_US.md"
               },
               {
-                "content": "beta/regions/east-of-england/proof-points/projects/en_US.md"
-              },
-              {
-                "content": "beta/regions/east-of-england/proof-points/incentives/en_US.md"
+                "content": "beta/regions/east-of-england/proof-points/research/en_US.md"
               },
               {
                 "content": "beta/regions/east-of-england/proof-points/strong-industries/en_US.md"
               },
               {
                 "content": "beta/regions/east-of-england/proof-points/transport/en_US.md"
+              },
+              {
+                "content": "beta/regions/east-of-england/proof-points/projects/en_US.md"
               }
             ]
           }
@@ -1818,7 +1855,7 @@
             "pageTitle": "Where to invest - South East England",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-southeast.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/south-east/en_US.md"
@@ -1831,25 +1868,25 @@
                 "content": "beta/regions/south-east/proof-points/investors/en_US.md"
               },
               {
-                "content": "beta/regions/south-east/proof-points/research/en_US.md"
+                "content": "beta/regions/south-east/proof-points/costs/en_US.md"
               },
               {
-                "content": "beta/regions/south-east/proof-points/costs/en_US.md"
+                "content": "beta/regions/south-east/proof-points/incentives/en_US.md"
               },
               {
                 "content": "beta/regions/south-east/proof-points/skills/en_US.md"
               },
               {
-                "content": "beta/regions/south-east/proof-points/projects/en_US.md"
-              },
-              {
-                "content": "beta/regions/south-east/proof-points/incentives/en_US.md"
+                "content": "beta/regions/south-east/proof-points/research/en_US.md"
               },
               {
                 "content": "beta/regions/south-east/proof-points/strong-cities/en_US.md"
               },
               {
                 "content": "beta/regions/south-east/proof-points/transport/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-east/proof-points/projects/en_US.md"
               }
             ]
           }
@@ -1860,7 +1897,7 @@
             "pageTitle": "Where to invest - South West England",
             "pageHeader": {
               "content": "",
-              "heroImage": "place-holder.png"
+              "heroImage": "hero-southwest.jpg"
             },
             "blockHeader": {
               "content": "beta/regions/south-west/en_US.md"
@@ -1876,13 +1913,13 @@
                 "content": "beta/regions/south-west/proof-points/investors/en_US.md"
               },
               {
-                "content": "beta/regions/south-west/proof-points/research/en_US.md"
-              },
-              {
                 "content": "beta/regions/south-west/proof-points/costs/en_US.md"
               },
               {
                 "content": "beta/regions/south-west/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-west/proof-points/research/en_US.md"
               },
               {
                 "content": "beta/regions/south-west/proof-points/strong-industries/en_US.md"
