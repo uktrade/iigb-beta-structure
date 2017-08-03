@@ -397,6 +397,9 @@
               "image": "aerospace-cluster-map.png",
               "labelledImage": "aerospace-labelled-cluster-map.png"
             },
+            "clusterTable": {
+              "content": "beta/where-to-invest/aerospace/aerospace-cluster-table.md"
+            },
             "universitiesMap": {
               "content": "beta/where-to-invest/aerospace/aerospace-universities-mapping.md",
               "image": "aerospace-universities-map.png"
@@ -459,6 +462,9 @@
             "clusterMap": {
               "image": "manufacturing-cluster-map.png",
               "labelledImage": "manufacturing-labelled-cluster-map.png"
+            },
+            "clusterTable": {
+              "content": "beta/where-to-invest/manufacturing/manufacturing-cluster-table.md"
             },
             "universitiesMap": {
               "content": "beta/where-to-invest/manufacturing/manufacturing-universities-mapping.md",
@@ -526,6 +532,9 @@
             "clusterMap": {
               "image": "food-cluster-map.png",
               "labelledImage": "food-labelled-cluster-map.png"
+            },
+            "clusterTable": {
+              "content": "beta/where-to-invest/food/food-cluster-table.md"
             },
             "universitiesMap": {
               "content": "beta/where-to-invest/food/food-universities-mapping.md",
@@ -607,6 +616,9 @@
               "image": "retail-cluster-map.png",
               "labelledImage": "retail-labelled-cluster-map.png"
             },
+            "clusterTable": {
+              "content": "beta/where-to-invest/retail/retail-cluster-table.md"
+            },
             "universitiesMap": {
               "content": "beta/where-to-invest/retail/retail-universities-mapping.md",
               "image": "retail-universities-map.png"
@@ -682,6 +694,9 @@
             "clusterMap": {
               "image": "automotive-cluster-map.png",
               "labelledImage": "automotive-labelled-cluster-map.png"
+            },
+            "clusterTable": {
+              "content": "beta/where-to-invest/automotive/automotive-cluster-table.md"
             },
             "universitiesMap": {
               "content": "beta/where-to-invest/automotive/automotive-universities-mapping.md",
@@ -819,6 +834,9 @@
             "clusterMap": {
               "image": "energy-cluster-map.png",
               "labelledImage": "energy-labelled-cluster-map.png"
+            },
+            "clusterTable": {
+              "content": "beta/where-to-invest/energy/energy-cluster-table.md"
             },
             "universitiesMap": {
               "content": "beta/where-to-invest/energy/energy-universities-mapping.md",
@@ -983,6 +1001,9 @@
               "image": "health-cluster-map.png",
               "labelledImage": "health-labelled-cluster-map.png"
             },
+            "clusterTable": {
+              "content": "beta/where-to-invest/health/health-cluster-table.md"
+            },
             "universitiesMap": {
               "content": "beta/where-to-invest/health/health-universities-mapping.md",
               "image": "health-universities-map.png"
@@ -1092,6 +1113,9 @@
             "clusterMap": {
               "image": "creative-cluster-map.png",
               "labelledImage": "creative-labelled-cluster-map.png"
+            },
+            "clusterTable": {
+              "content": "beta/where-to-invest/creative/creative-cluster-table.md"
             },
             "universitiesMap": {
               "content": "beta/where-to-invest/creative/creative-universities-mapping.md",
@@ -1209,6 +1233,9 @@
               "image": "financial-cluster-map.png",
               "labelledImage": "financial-labelled-cluster-map.png"
             },
+            "clusterTable": {
+              "content": "beta/where-to-invest/financial/financial-cluster-table.md"
+            },
             "universitiesMap": {
               "content": "beta/where-to-invest/financial/financial-universities-mapping.md",
               "image": "financial-universities-map.png"
@@ -1324,6 +1351,9 @@
             "clusterMap": {
               "image": "technology-cluster-map.png",
               "labelledImage": "technology-labelled-cluster-map.png"
+            },
+            "clusterTable": {
+              "content": "beta/where-to-invest/technology/technology-cluster-table.md"
             },
             "universitiesMap": {
               "content": "beta/where-to-invest/technology/technology-universities-mapping.md",
