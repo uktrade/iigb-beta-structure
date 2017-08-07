@@ -393,6 +393,13 @@
             "airportTable": {
               "content": "beta/where-to-invest/aerospace/aerospace-airport-table.md"
             },
+            "ezMap": {
+              "content": "beta/where-to-invest/aerospace/aerospace-ez-mapping.md",
+              "image": "aerospace-ez-map.png"
+            },
+            "ezTable": {
+              "content": "beta/where-to-invest/aerospace/aerospace-ez-table.md"
+            },
             "clusterMap": {
               "image": "aerospace-cluster-map.png",
               "labelledImage": "aerospace-labelled-cluster-map.png"
@@ -458,6 +465,13 @@
             },
             "airportTable": {
               "content": "beta/where-to-invest/manufacturing/manufacturing-airport-table.md"
+            },
+            "ezMap": {
+              "content": "beta/where-to-invest/manufacturing/manufacturing-ez-mapping.md",
+              "image": "manufacturing-ez-map.png"
+            },
+            "ezTable": {
+              "content": "beta/where-to-invest/manufacturing/manufacturing-ez-table.md"
             },
             "clusterMap": {
               "image": "manufacturing-cluster-map.png",
@@ -528,6 +542,13 @@
             },
             "airportTable": {
               "content": "beta/where-to-invest/food/food-airport-table.md"
+            },
+            "ezMap": {
+              "content": "beta/where-to-invest/food/food-ez-mapping.md",
+              "image": "food-ez-map.png"
+            },
+            "ezTable": {
+              "content": "beta/where-to-invest/food/food-ez-table.md"
             },
             "clusterMap": {
               "image": "food-cluster-map.png",
@@ -612,6 +633,13 @@
             "airportTable": {
               "content": "beta/where-to-invest/retail/retail-airport-table.md"
             },
+            "ezMap": {
+              "content": "beta/where-to-invest/retail/retail-ez-mapping.md",
+              "image": "retail-ez-map.png"
+            },
+            "ezTable": {
+              "content": "beta/where-to-invest/retail/retail-ez-table.md"
+            },
             "clusterMap": {
               "image": "retail-cluster-map.png",
               "labelledImage": "retail-labelled-cluster-map.png"
@@ -690,6 +718,13 @@
             },
             "airportTable": {
               "content": "beta/where-to-invest/automotive/automotive-airport-table.md"
+            },
+            "ezMap": {
+              "content": "beta/where-to-invest/automotive/automotive-ez-mapping.md",
+              "image": "automotive-ez-map.png"
+            },
+            "ezTable": {
+              "content": "beta/where-to-invest/automotive/automotive-ez-table.md"
             },
             "clusterMap": {
               "image": "automotive-cluster-map.png",
@@ -830,6 +865,13 @@
             },
             "airportTable": {
               "content": "beta/where-to-invest/energy/energy-airport-table.md"
+            },
+            "ezMap": {
+              "content": "beta/where-to-invest/energy/energy-ez-mapping.md",
+              "image": "energy-ez-map.png"
+            },
+            "ezTable": {
+              "content": "beta/where-to-invest/energy/energy-ez-table.md"
             },
             "clusterMap": {
               "image": "energy-cluster-map.png",
@@ -997,6 +1039,13 @@
             "airportTable": {
               "content": "beta/where-to-invest/health/health-airport-table.md"
             },
+            "ezMap": {
+              "content": "beta/where-to-invest/health/health-ez-mapping.md",
+              "image": "health-ez-map.png"
+            },
+            "ezTable": {
+              "content": "beta/where-to-invest/health/health-ez-table.md"
+            },
             "clusterMap": {
               "image": "health-cluster-map.png",
               "labelledImage": "health-labelled-cluster-map.png"
@@ -1109,6 +1158,13 @@
             },
             "airportTable": {
               "content": "beta/where-to-invest/creative/creative-airport-table.md"
+            },
+            "ezMap": {
+              "content": "beta/where-to-invest/creative/creative-ez-mapping.md",
+              "image": "creative-ez-map.png"
+            },
+            "ezTable": {
+              "content": "beta/where-to-invest/creative/creative-ez-table.md"
             },
             "clusterMap": {
               "image": "creative-cluster-map.png",
@@ -1229,6 +1285,13 @@
             "airportTable": {
               "content": "beta/where-to-invest/financial/financial-airport-table.md"
             },
+            "ezMap": {
+              "content": "beta/where-to-invest/financial/financial-ez-mapping.md",
+              "image": "financial-ez-map.png"
+            },
+            "ezTable": {
+              "content": "beta/where-to-invest/financial/financial-ez-table.md"
+            },
             "clusterMap": {
               "image": "financial-cluster-map.png",
               "labelledImage": "financial-labelled-cluster-map.png"
@@ -1347,6 +1410,13 @@
             },
             "airportTable": {
               "content": "beta/where-to-invest/technology/technology-airport-table.md"
+            },
+            "ezMap": {
+              "content": "beta/where-to-invest/technology/technology-ez-mapping.md",
+              "image": "technology-ez-map.png"
+            },
+            "ezTable": {
+              "content": "beta/where-to-invest/technology/technology-ez-table.md"
             },
             "clusterMap": {
               "image": "technology-cluster-map.png",
