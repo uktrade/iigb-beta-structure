@@ -48,5 +48,10 @@
         "content": "beta/info/500/en_US.md"
       }
     }
+  }, {
+    "path": "",
+    "output": "robots.txt",
+    "layout": "robots.txt",
+    "data": {}
   }]
 }
