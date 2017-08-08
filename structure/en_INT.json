@@ -1891,11 +1891,11 @@
               "heroImage": "hero-london.jpg"
             },
             "blockHeader": {
-              "content": "beta/regions/london/en_US.md",
-              "image": "london-map.png"
+              "content": "beta/regions/london/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "london-map.png"
             },
             "quotation": {
               "content": "beta/regions/london/quotation/en_US.md"
