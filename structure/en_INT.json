@@ -1574,7 +1574,8 @@
               "content": "beta/regions/scotland/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "scotland-map.png"
             },
             "quotation": {
               "content": "beta/regions/scotland/quotation/en_US.md"
@@ -1613,7 +1614,8 @@
               "content": "beta/regions/northern-ireland/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "northern-ireland-map.png"
             },
             "quotation": {
               "content": "beta/regions/northern-ireland/quotation/en_US.md"
@@ -1652,7 +1654,8 @@
               "content": "beta/regions/north-east/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "north-east-map.png"
             },
             "quotation": {
               "content": "beta/regions/north-east/quotation/en_US.md"
@@ -1694,7 +1697,8 @@
               "content": "beta/regions/north-west/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "north-west-map.png"
             },
             "quotation": {
               "content": "beta/regions/north-west/quotation/en_US.md"
@@ -1724,7 +1728,8 @@
               "content": "beta/regions/yorkshire-humber/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "yorkshire-and-the-humber-map.png"
             },
             "quotation": {
               "content": "beta/regions/yorkshire-humber/quotation/en_US.md"
@@ -1760,7 +1765,8 @@
               "content": "beta/regions/east-midlands/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "east-midlands-map.png"
             },
             "quotation": {
               "content": "beta/regions/east-midlands/quotation/en_US.md"
@@ -1805,7 +1811,8 @@
               "content": "beta/regions/west-midlands/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "west-midlands-map.png"
             },
             "quotation": {
               "content": "beta/regions/west-midlands/quotation/en_US.md"
@@ -1847,7 +1854,8 @@
               "content": "beta/regions/wales/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "wales-map.png"
             },
             "quotation": {
               "content": "beta/regions/wales/quotation/en_US.md"
@@ -1883,7 +1891,8 @@
               "heroImage": "hero-london.jpg"
             },
             "blockHeader": {
-              "content": "beta/regions/london/en_US.md"
+              "content": "beta/regions/london/en_US.md",
+              "image": "london-map.png"
             },
             "regionOverview": {
               "content": "beta/regions/en_US.md"
@@ -1916,7 +1925,8 @@
               "content": "beta/regions/east-of-england/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "east-of-england-map.png"
             },
             "quotation": {
               "content": "beta/regions/east-of-england/quotation/en_US.md"
@@ -1961,7 +1971,8 @@
               "content": "beta/regions/south-east/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "south-east-map.png"
             },
             "proofPoints": [
               {
@@ -2003,7 +2014,8 @@
               "content": "beta/regions/south-west/en_US.md"
             },
             "regionOverview": {
-              "content": "beta/regions/en_US.md"
+              "content": "beta/regions/en_US.md",
+              "image": "south-west-map.png"
             },
             "quotation": {
               "content": "beta/regions/south-west/quotation/en_US.md"
