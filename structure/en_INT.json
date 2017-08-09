@@ -1705,10 +1705,16 @@
             },
             "proofPoints": [
               {
-                "content": "beta/regions/north-west/proof-points/research/en_US.md"
+                "content": "beta/regions/north-west/proof-points/strong-industries/en_US.md"
               },
               {
-                "content": "beta/regions/north-west/proof-points/strong-industries/en_US.md"
+                "content": "beta/regions/north-west/proof-points/strong-cities/en_US.md"
+              },
+              {
+                "content": "beta/regions/north-west/proof-points/transport/en_US.md"
+              },
+              {
+                "content": "beta/regions/north-west/proof-points/skills/en_US.md"
               },
               {
                 "content": "beta/regions/north-west/proof-points/capital-invest-opps/en_US.md"
@@ -1746,9 +1752,6 @@
               },
               {
                 "content": "beta/regions/yorkshire-humber/proof-points/transport/en_US.md"
-              },
-              {
-                "content": "beta/regions/yorkshire-humber/proof-points/connectivity/en_US.md"
               }
             ]
           }
@@ -2029,6 +2032,9 @@
               },
               {
                 "content": "beta/regions/south-west/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/south-west/proof-points/skills/en_US.md"
               },
               {
                 "content": "beta/regions/south-west/proof-points/research/en_US.md"
