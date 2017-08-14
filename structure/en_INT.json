@@ -369,6 +369,12 @@
           "sections": [{
             "content": "beta/industries/aerospace/overview/en_US.md"
           }],
+          "whereToInvest": {
+            "content": "beta/industries/aerospace/where-to-invest/en_US.md"
+          },
+          "clusters": {
+            "content": "beta/where-to-invest/aerospace/aerospace-cluster-table.md"
+          },
           "subContent": []
         },
         "children": [{
@@ -442,6 +448,12 @@
           "sections": [{
             "content": "beta/industries/advanced-manufacturing/overview/en_US.md"
           }],
+          "whereToInvest": {
+            "content": "beta/industries/advanced-manufacturing/where-to-invest/en_US.md"
+          },
+          "clusters": {
+            "content": "beta/where-to-invest/manufacturing/manufacturing-cluster-table.md"
+          },
           "subContent": []
         },
         "children": [{
@@ -515,6 +527,12 @@
           "sections": [{
             "content": "beta/industries/food-and-drink-manufacturing/overview/en_US.md"
           }],
+          "whereToInvest": {
+            "content": "beta/industries/food-and-drink-manufacturing/where-to-invest/en_US.md"
+          },
+          "clusters": {
+            "content": "beta/where-to-invest/food/food-cluster-table.md"
+          },
           "subContent": [{
             "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/en_US.md",
             "thumbnail": "freefrom.jpg",
@@ -609,6 +627,12 @@
           "sections": [{
             "content": "beta/industries/retail/overview/en_US.md"
           }],
+          "whereToInvest": {
+            "content": "beta/industries/retail/where-to-invest/en_US.md"
+          },
+          "clusters": {
+            "content": "beta/where-to-invest/retail/retail-cluster-table.md"
+          },
           "subContent": []
         },
         "children": [{
@@ -683,6 +707,12 @@
           "sections": [{
             "content": "beta/industries/automotive/overview/en_US.md"
           }],
+          "whereToInvest": {
+            "content": "beta/industries/automotive/where-to-invest/en_US.md"
+          },
+          "clusters": {
+            "content": "beta/where-to-invest/automotive/automotive-cluster-table.md"
+          },
           "subContent": [{
             "content": "beta/industries/automotive/sub-sectors/research-and-development/en_US.md",
             "thumbnail": "research-and-development.jpg",
@@ -822,6 +852,12 @@
           "sections": [{
             "content": "beta/industries/energy-generation/overview/en_US.md"
           }],
+          "whereToInvest": {
+            "content": "beta/industries/energy-generation/where-to-invest/en_US.md"
+          },
+          "clusters": {
+            "content": "beta/where-to-invest/energy/energy-cluster-table.md"
+          },
           "subContent": [{
             "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/en_US.md",
             "thumbnail": "electrical-networks.jpg",
@@ -1007,6 +1043,12 @@
           "sections": [{
             "content": "beta/industries/life-sciences/overview/en_US.md"
           }],
+          "whereToInvest": {
+            "content": "beta/industries/life-sciences/where-to-invest/en_US.md"
+          },
+          "clusters": {
+            "content": "beta/where-to-invest/health/health-cluster-table.md"
+          },
           "subContent": [{
             "content": "beta/industries/life-sciences/sub-sectors/medical-technology/en_US.md",
             "thumbnail": "medical-technology.jpg",
@@ -1123,6 +1165,12 @@
           "sections": [{
             "content": "beta/industries/creative/overview/en_US.md"
           }],
+          "whereToInvest": {
+            "content": "beta/industries/creative/where-to-invest/en_US.md"
+          },
+          "clusters": {
+            "content": "beta/where-to-invest/creative/creative-cluster-table.md"
+          },
           "subContent": [{
             "content": "beta/industries/creative/sub-sectors/content-and-production/en_US.md",
             "thumbnail": "content-and-production.jpg",
@@ -1249,6 +1297,12 @@
           "sections": [{
             "content": "beta/industries/financial-services/overview/en_US.md"
           }],
+          "whereToInvest": {
+            "content": "beta/industries/financial-services/where-to-invest/en_US.md"
+          },
+          "clusters": {
+            "content": "beta/where-to-invest/financial/financial-cluster-table.md"
+          },
           "subContent": [{
             "content": "beta/industries/financial-services/sub-sectors/asset-management/en_US.md",
             "thumbnail": "asset-management.jpg",
@@ -1371,6 +1425,12 @@
           "sections": [{
             "content": "beta/industries/technology/overview/en_US.md"
           }],
+          "whereToInvest": {
+            "content": "beta/industries/technology/where-to-invest/en_US.md"
+          },
+          "clusters": {
+            "content": "beta/where-to-invest/technology/technology-cluster-table.md"
+          },
           "subContent": [{
             "content": "beta/industries/technology/sub-sectors/data-analytics/en_US.md",
             "thumbnail": "data-analytics.jpg",
