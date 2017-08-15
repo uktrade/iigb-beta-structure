@@ -31,8 +31,7 @@ Below snippet outlines project structure. This snippet only lists files of impor
 ```
 - redirects/
   - ip_redirects.json #Defines the mapping of IP geo locations to the languages used in the website.
-- structure/          #Contains files that define the page heirarchy and content sources for each of the languages and  
-locations supported by the website.     
+- structure/          #Contains files that define the page heirarchy and content sources for each of the languages and locations supported by the website.     
 - package.json        
 - README.md           
 
