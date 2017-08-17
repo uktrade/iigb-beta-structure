@@ -91,7 +91,7 @@
         }
       }
     }, {
-      "path": "",
+      "path": "500",
       "output": "500.html",
       "layout": "500.html",
       "data": {
@@ -950,17 +950,132 @@
         }
       }
     }, {
-      "path": "location-guide",
+      "path": "investment-opportunities",
       "layout": "investment-ops.html",
       "data": {
-        "pageTitle": "Location guide",
-        "overview": {
-          "content": "beta/investment-ops/overview/en_US.md"
-        },
-        "stayInTouch": {
-          "content": "beta/investment-ops/stay-in-touch/en_US.md"
-        }
-      }
+        "pageTitle": "Investment opportunities"
+      },
+      "children": [{
+          "path": "scotland",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in Scotland",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "northern-ireland",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in Northern Ireland",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "north-east-england",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in North East England",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "north-west-england",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in North West England",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "yorkshire-and-the-humber",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in Yorkshire and The Humber",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "east-midlands",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in the East Midlands",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "west-midlands",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in the West Midlands",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "wales",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in Wales",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "london",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in London",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "east-of-england",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in East of England",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "south-east-england",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in South East England",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        },{
+          "path": "south-west-england",
+          "layout": "region.html",
+          "data": {
+            "pageTitle": "Investment opportunites in South West England",
+            "pageHeader": {
+              "content": "",
+              "heroImage": "place-holder.png"
+            }
+          }
+        }]
     }, {
       "path": "location-guide/confirmation",
       "layout": "500.html",
