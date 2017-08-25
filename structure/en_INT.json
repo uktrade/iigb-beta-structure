@@ -1783,6 +1783,9 @@
             },
             "proofPoints": [
               {
+                "content": "beta/regions/north-west/proof-points/costs/en_US.md"
+              },
+              {
                 "content": "beta/regions/north-west/proof-points/strong-industries/en_US.md"
               },
               {
@@ -1999,10 +2002,22 @@
                 "content": "beta/regions/london/proof-points/investors/en_US.md"
               },
               {
+                "content": "beta/regions/london/proof-points/costs/en_US.md"
+              },
+              {
+                "content": "beta/regions/london/proof-points/incentives/en_US.md"
+              },
+              {
+                "content": "beta/regions/london/proof-points/skills/en_US.md"
+              },
+              {
                 "content": "beta/regions/london/proof-points/research/en_US.md"
               },
               {
                 "content": "beta/regions/london/proof-points/strong-industries/en_US.md"
+              },
+              {
+                "content": "beta/regions/london/proof-points/transport/en_US.md"
               }
             ]
           }
