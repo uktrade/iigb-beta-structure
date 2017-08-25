@@ -28,6 +28,16 @@
       "firstSection": {
         "content": "beta/form/en_US.md"
       },
+      "whyTheUk": {
+        "content": "beta/home/why-the-uk/en_US.md"
+      },
+      "reasons": [{
+        "content": "beta/home/why-the-uk/reasons/success/en_US.md"
+      }, {
+        "content": "beta/home/why-the-uk/reasons/costs/en_US.md"
+      }, {
+        "content": "beta/home/why-the-uk/reasons/talent/en_US.md"
+      }],
       "tileItems": [{
         "content": "beta/industries/automotive/en_US.md",
         "thumbnail": "automotive.jpg",
