@@ -372,42 +372,7 @@
             "content": "beta/industries/aerospace/overview/zh_CN.md"
           }],
           "subContent": []
-        },
-        "children": [{
-          "path": "aerospace-in-the-uk",
-          "layout": "where-to-invest.html",
-          "data": {
-            "pageTitle": "Aerospace in the UK",
-            "blockHeader": {
-              "content": "beta/industries/aerospace/zh_CN.md"
-            },
-            "clusterMap": {
-              "image": "aerospace-cluster-map.png",
-              "labelledImage": "aerospace-labelled-cluster-map.png"
-            },
-            "universitiesMap": {
-              "content": "beta/where-to-invest/aerospace/aerospace-universities-mapping.md",
-              "image": "aerospace-universities-map.png"
-            },
-            "universitiesTable": {
-              "content": "beta/where-to-invest/aerospace/aerospace-universities-table.md"
-            },
-            "salaryMap": {
-              "content": "beta/where-to-invest/aerospace/aerospace-salary-mapping.md",
-              "image": "aerospace-salary-map.png"
-            },
-            "salaryTable": {
-              "content": "beta/where-to-invest/aerospace/aerospace-salary-table.md"
-            },
-            "researchMap": {
-              "content": "beta/where-to-invest/aerospace/aerospace-research-mapping.md",
-              "image": "aerospace-research-map.png"
-            },
-            "researchTable": {
-              "content": "beta/where-to-invest/aerospace/aerospace-research-table.md"
-            }
-          }
-        }]
+        }
       }, {
         "path": "advanced-manufacturing",
         "layout": "industry.html",
@@ -421,42 +386,7 @@
             "content": "beta/industries/advanced-manufacturing/overview/zh_CN.md"
           }],
           "subContent": []
-        },
-        "children": [{
-          "path": "advanced-manufacturing-in-the-uk",
-          "layout": "where-to-invest.html",
-          "data": {
-            "pageTitle": "Advanced manufacturing in the UK",
-            "blockHeader": {
-              "content": "beta/industries/advanced-manufacturing/zh_CN.md"
-            },
-            "clusterMap": {
-              "image": "manufacturing-cluster-map.png",
-              "labelledImage": "manufacturing-labelled-cluster-map.png"
-            },
-            "universitiesMap": {
-              "content": "beta/where-to-invest/manufacturing/manufacturing-universities-mapping.md",
-              "image": "manufacturing-universities-map.png"
-            },
-            "universitiesTable": {
-              "content": "beta/where-to-invest/manufacturing/manufacturing-universities-table.md"
-            },
-            "salaryMap": {
-              "content": "beta/where-to-invest/manufacturing/manufacturing-salary-mapping.md",
-              "image": "manufacturing-salary-map.png"
-            },
-            "salaryTable": {
-              "content": "beta/where-to-invest/manufacturing/manufacturing-salary-table.md"
-            },
-            "researchMap": {
-              "content": "beta/where-to-invest/manufacturing/manufacturing-research-mapping.md",
-              "image": "manufacturing-research-map.png"
-            },
-            "researchTable": {
-              "content": "beta/where-to-invest/manufacturing/manufacturing-research-table.md"
-            }
-          }
-        }]
+        }
       }, {
         "path": "food-and-drink-manufacturing",
         "layout": "industry.html",
@@ -473,60 +403,26 @@
             "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/zh_CN.md",
             "thumbnail": "freefrom.jpg",
             "link": "/industries/food-and-drink-manufacturing/freefrom"
-          }]
-        },
-        "children": [{
-          "path": "food-and-drink-manufacturing-in-the-uk",
-          "layout": "where-to-invest.html",
-          "data": {
-            "pageTitle": "Food and drink manufacturing in the UK",
-            "blockHeader": {
-              "content": "beta/industries/food-and-drink-manufacturing/zh_CN.md"
-            },
-            "clusterMap": {
-              "image": "food-cluster-map.png",
-              "labelledImage": "food-labelled-cluster-map.png"
-            },
-            "universitiesMap": {
-              "content": "beta/where-to-invest/food/food-universities-mapping.md",
-              "image": "food-universities-map.png"
-            },
-            "universitiesTable": {
-              "content": "beta/where-to-invest/food/food-universities-table.md"
-            },
-            "salaryMap": {
-              "content": "beta/where-to-invest/food/food-salary-mapping.md",
-              "image": "food-salary-map.png"
-            },
-            "salaryTable": {
-              "content": "beta/where-to-invest/food/food-salary-table.md"
-            },
-            "researchMap": {
-              "content": "beta/where-to-invest/food/food-research-mapping.md",
-              "image": "food-research-map.png"
-            },
-            "researchTable": {
-              "content": "beta/where-to-invest/food/food-research-table.md"
+          }],
+          "children": [{
+            "path": "freefrom",
+            "layout": "sector.html",
+            "data": {
+              "pageTitle": "英国的不含特定成分食品",
+              "pageHeader": {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/zh_CN.md",
+                "heroImage": "freefrom.jpg"
+              },
+              "sections": [{
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/british-buying-habits/zh_CN.md"
+              }, {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/government-support/zh_CN.md"
+              }, {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/other-growth-areas/zh_CN.md"
+              }]
             }
-          }
-        },{
-          "path": "freefrom",
-          "layout": "sector.html",
-          "data": {
-            "pageTitle": "英国的不含特定成分食品",
-            "pageHeader": {
-              "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/zh_CN.md",
-              "heroImage": "freefrom.jpg"
-            },
-            "sections": [{
-              "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/british-buying-habits/zh_CN.md"
-            }, {
-              "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/government-support/zh_CN.md"
-            }, {
-              "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/other-growth-areas/zh_CN.md"
-            }]
-          }
-        }]
+          }]
+        }
       }, {
         "path": "retail",
         "layout": "industry.html",
@@ -540,42 +436,7 @@
             "content": "beta/industries/retail/overview/zh_CN.md"
           }],
           "subContent": []
-        },
-        "children": [{
-          "path": "retail-in-the-uk",
-          "layout": "where-to-invest.html",
-          "data": {
-            "pageTitle": "Retail in the UK",
-            "blockHeader": {
-              "content": "beta/industries/retail/zh_CN.md"
-            },
-            "clusterMap": {
-              "image": "retail-cluster-map.png",
-              "labelledImage": "retail-labelled-cluster-map.png"
-            },
-            "universitiesMap": {
-              "content": "beta/where-to-invest/retail/retail-universities-mapping.md",
-              "image": "retail-universities-map.png"
-            },
-            "universitiesTable": {
-              "content": "beta/where-to-invest/retail/retail-universities-table.md"
-            },
-            "salaryMap": {
-              "content": "beta/where-to-invest/retail/retail-salary-mapping.md",
-              "image": "retail-salary-map.png"
-            },
-            "salaryTable": {
-              "content": "beta/where-to-invest/retail/retail-salary-table.md"
-            },
-            "researchMap": {
-              "content": "beta/where-to-invest/retail/retail-research-mapping.md",
-              "image": "retail-research-map.png"
-            },
-            "researchTable": {
-              "content": "beta/where-to-invest/retail/retail-research-table.md"
-            }
-          }
-        }]
+        }
       }, {
         "path": "automotive",
         "layout": "industry.html",
@@ -603,40 +464,6 @@
           }]
         },
         "children": [{
-          "path": "automotive-in-the-uk",
-          "layout": "where-to-invest.html",
-          "data": {
-            "pageTitle": "Automotive in the UK",
-            "blockHeader": {
-              "content": "beta/industries/automotive/zh_CN.md"
-            },
-            "clusterMap": {
-              "image": "automotive-cluster-map.png",
-              "labelledImage": "automotive-labelled-cluster-map.png"
-            },
-            "universitiesMap": {
-              "content": "beta/where-to-invest/automotive/automotive-universities-mapping.md",
-              "image": "automotive-universities-map.png"
-            },
-            "universitiesTable": {
-              "content": "beta/where-to-invest/automotive/automotive-universities-table.md"
-            },
-            "salaryMap": {
-              "content": "beta/where-to-invest/automotive/automotive-salary-mapping.md",
-              "image": "automotive-salary-map.png"
-            },
-            "salaryTable": {
-              "content": "beta/where-to-invest/automotive/automotive-salary-table.md"
-            },
-            "researchMap": {
-              "content": "beta/where-to-invest/automotive/automotive-research-mapping.md",
-              "image": "automotive-research-map.png"
-            },
-            "researchTable": {
-              "content": "beta/where-to-invest/automotive/automotive-research-table.md"
-            }
-          }
-        },{
           "path": "motorsport",
           "layout": "sector.html",
           "data": {
@@ -731,40 +558,6 @@
           }]
         },
         "children": [{
-          "path": "energy-in-the-uk",
-          "layout": "where-to-invest.html",
-          "data": {
-            "pageTitle": "Energy in the UK",
-            "blockHeader": {
-              "content": "beta/industries/energy-generation/zh_CN.md"
-            },
-            "clusterMap": {
-              "image": "energy-cluster-map.png",
-              "labelledImage": "energy-labelled-cluster-map.png"
-            },
-            "universitiesMap": {
-              "content": "beta/where-to-invest/energy/energy-universities-mapping.md",
-              "image": "energy-universities-map.png"
-            },
-            "universitiesTable": {
-              "content": "beta/where-to-invest/energy/energy-universities-table.md"
-            },
-            "salaryMap": {
-              "content": "beta/where-to-invest/energy/energy-salary-mapping.md",
-              "image": "energy-salary-map.png"
-            },
-            "salaryTable": {
-              "content": "beta/where-to-invest/energy/energy-salary-table.md"
-            },
-            "researchMap": {
-              "content": "beta/where-to-invest/energy/energy-research-mapping.md",
-              "image": "energy-research-map.png"
-            },
-            "researchTable": {
-              "content": "beta/where-to-invest/energy/energy-research-table.md"
-            }
-          }
-        },{
           "path": "offshore-wind",
           "layout": "sector.html",
           "data": {
@@ -885,40 +678,6 @@
           }]
         },
         "children": [{
-          "path": "health-and-life-in-the-uk",
-          "layout": "where-to-invest.html",
-          "data": {
-            "pageTitle": "Health and life in the UK",
-            "blockHeader": {
-              "content": "beta/industries/life-sciences/zh_CN.md"
-            },
-            "clusterMap": {
-              "image": "health-cluster-map.png",
-              "labelledImage": "health-labelled-cluster-map.png"
-            },
-            "universitiesMap": {
-              "content": "beta/where-to-invest/health/health-universities-mapping.md",
-              "image": "health-universities-map.png"
-            },
-            "universitiesTable": {
-              "content": "beta/where-to-invest/health/health-universities-table.md"
-            },
-            "salaryMap": {
-              "content": "beta/where-to-invest/health/health-salary-mapping.md",
-              "image": "health-salary-map.png"
-            },
-            "salaryTable": {
-              "content": "beta/where-to-invest/health/health-salary-table.md"
-            },
-            "researchMap": {
-              "content": "beta/where-to-invest/health/health-research-mapping.md",
-              "image": "health-research-map.png"
-            },
-            "researchTable": {
-              "content": "beta/where-to-invest/health/health-research-table.md"
-            }
-          }
-        },{
           "path": "medical-technology",
           "layout": "sector.html",
           "data": {
@@ -987,40 +746,6 @@
           }]
         },
         "children": [{
-          "path": "creative-in-the-uk",
-          "layout": "where-to-invest.html",
-          "data": {
-            "pageTitle": "Creative in the UK",
-            "blockHeader": {
-              "content": "beta/industries/creative/zh_CN.md"
-            },
-            "clusterMap": {
-              "image": "creative-cluster-map.png",
-              "labelledImage": "creative-labelled-cluster-map.png"
-            },
-            "universitiesMap": {
-              "content": "beta/where-to-invest/creative/creative-universities-mapping.md",
-              "image": "creative-universities-map.png"
-            },
-            "universitiesTable": {
-              "content": "beta/where-to-invest/creative/creative-universities-table.md"
-            },
-            "salaryMap": {
-              "content": "beta/where-to-invest/creative/creative-salary-mapping.md",
-              "image": "creative-salary-map.png"
-            },
-            "salaryTable": {
-              "content": "beta/where-to-invest/creative/creative-salary-table.md"
-            },
-            "researchMap": {
-              "content": "beta/where-to-invest/creative/creative-research-mapping.md",
-              "image": "creative-research-map.png"
-            },
-            "researchTable": {
-              "content": "beta/where-to-invest/creative/creative-research-table.md"
-            }
-          }
-        },{
           "path": "content-and-production",
           "layout": "sector.html",
           "data": {
@@ -1089,40 +814,6 @@
           }]
         },
         "children": [{
-          "path": "financial-services-in-the-uk",
-          "layout": "where-to-invest.html",
-          "data": {
-            "pageTitle": "Financial services in the UK",
-            "blockHeader": {
-              "content": "beta/industries/financial-services/zh_CN.md"
-            },
-            "clusterMap": {
-              "image": "financial-cluster-map.png",
-              "labelledImage": "financial-labelled-cluster-map.png"
-            },
-            "universitiesMap": {
-              "content": "beta/where-to-invest/financial/financial-universities-mapping.md",
-              "image": "financial-universities-map.png"
-            },
-            "universitiesTable": {
-              "content": "beta/where-to-invest/financial/financial-universities-table.md"
-            },
-            "salaryMap": {
-              "content": "beta/where-to-invest/financial/financial-salary-mapping.md",
-              "image": "financial-salary-map.png"
-            },
-            "salaryTable": {
-              "content": "beta/where-to-invest/financial/financial-salary-table.md"
-            },
-            "researchMap": {
-              "content": "beta/where-to-invest/financial/financial-research-mapping.md",
-              "image": "financial-research-map.png"
-            },
-            "researchTable": {
-              "content": "beta/where-to-invest/financial/financial-research-table.md"
-            }
-          }
-        },{
           "path": "asset-management",
           "layout": "sector.html",
           "data": {
@@ -1191,40 +882,6 @@
           }]
         },
         "children": [{
-          "path": "technology-in-the-uk",
-          "layout": "where-to-invest.html",
-          "data": {
-            "pageTitle": "Technology in the UK",
-            "blockHeader": {
-              "content": "beta/industries/technology/zh_CN.md"
-            },
-            "clusterMap": {
-              "image": "technology-cluster-map.png",
-              "labelledImage": "technology-labelled-cluster-map.png"
-            },
-            "universitiesMap": {
-              "content": "beta/where-to-invest/technology/technology-universities-mapping.md",
-              "image": "technology-universities-map.png"
-            },
-            "universitiesTable": {
-              "content": "beta/where-to-invest/technology/technology-universities-table.md"
-            },
-            "salaryMap": {
-              "content": "beta/where-to-invest/technology/technology-salary-mapping.md",
-              "image": "technology-salary-map.png"
-            },
-            "salaryTable": {
-              "content": "beta/where-to-invest/technology/technology-salary-table.md"
-            },
-            "researchMap": {
-              "content": "beta/where-to-invest/technology/technology-research-mapping.md",
-              "image": "technology-research-map.png"
-            },
-            "researchTable": {
-              "content": "beta/where-to-invest/technology/technology-research-table.md"
-            }
-          }
-        },{
           "path": "data-analytics",
           "layout": "sector.html",
           "data": {
@@ -1312,132 +969,17 @@
         }
       }
     }, {
-      "path": "where-to-invest",
-      "layout": "where-to-invest.html",
+      "path": "location-guide",
+      "layout": "investment-ops.html",
       "data": {
-        "pageTitle": "定位指南"
-      },
-      "children": [{
-          "path": "scotland",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - Scotland",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "northern-ireland",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - Northern Ireland",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "north-east-england",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - North East England",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "north-west-england",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - North West England",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "yorkshire-and-the-humber",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - Yorkshire and The Humber",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "east-midlands",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - the East Midlands",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "west-midlands",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - the West Midlands",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "wales",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - Wales",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "london",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - London",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "east-of-england",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - East of England",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "south-east-england",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - South East England",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        },{
-          "path": "south-west-england",
-          "layout": "region.html",
-          "data": {
-            "pageTitle": "Where to invest - South West England",
-            "pageHeader": {
-              "content": "",
-              "heroImage": "place-holder.png"
-            }
-          }
-        }]
+        "pageTitle": "定位指南",
+        "overview": {
+          "content": "beta/investment-ops/overview/zh_CN.md"
+        },
+        "stayInTouch": {
+          "content": "beta/investment-ops/stay-in-touch/zh_CN.md"
+        }
+      }
     }, {
       "path": "location-guide/confirmation",
       "layout": "500.html",
