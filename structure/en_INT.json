@@ -19,7 +19,7 @@
     "path": "int",
     "layout": "home.html",
     "data": {
-      "pageTitle": "Invest home",
+      "pageTitle": "Expand or start up your business in the UK - Invest in Great Britain and Northern Ireland",
       "pageHeader": {
         "content": "beta/home/en_US.md",
         "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
@@ -84,7 +84,7 @@
       "output": "404.html",
       "layout": "404.html",
       "data": {
-        "pageTitle": "HTTP Error code 404 - Page not found",
+        "pageTitle": "Page not found",
         "background": "404.jpg",
         "pageHeader": {
           "content": "beta/info/404/en_US.md"
@@ -95,7 +95,7 @@
       "output": "500.html",
       "layout": "500.html",
       "data": {
-        "pageTitle": "HTTP Error code 500 - Internal Server Error",
+        "pageTitle": "Page unavailable",
         "background": "",
         "pageHeader": {
           "content": "beta/info/500/en_US.md"
@@ -108,7 +108,7 @@
       "path": "setup-guide",
       "layout": "bullet-list-page.html",
       "data": {
-        "pageTitle": "The UK setup guide",
+        "pageTitle": "Setting up in the UK - your guide to investing in Great Britain and Northern Ireland",
         "pageHeader": {
           "content": "beta/setup-guide/en_US.md"
         },
@@ -139,7 +139,7 @@
         "path": "establish-address",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Establish a base for business in the UK",
+          "pageTitle": "Establish business premises in the UK - Invest in Great Britain",
           "pageHeader": {
             "content": "beta/setup-guide/establish-address/intro/en_US.md"
           },
@@ -155,7 +155,7 @@
         "path": "apply-for-visa",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Apply for a UK visa",
+          "pageTitle": "Getting the right visa - Invest in Great Britain",
           "pageHeader": {
             "content": "beta/setup-guide/apply-for-visa/intro/en_US.md"
           },
@@ -169,7 +169,7 @@
         "path": "open-a-business-account",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Open a UK business bank account",
+          "pageTitle": "How to open a UK business bank account - Invest in Great Britain",
           "pageHeader": {
             "content": "beta/setup-guide/open-a-business-account/intro/en_US.md"
           },
@@ -183,7 +183,7 @@
         "path": "how-to-setup",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Set up a company in the UK",
+          "pageTitle": "How to set up a company in the UK - Invest in Great Britain",
           "pageHeader": {
             "content": "beta/setup-guide/how-to-setup/intro/en_US.md"
           },
@@ -197,7 +197,7 @@
         "path": "understand-tax",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Understand UK tax and incentives",
+          "pageTitle": "Tax, tax relief and financial incentives for investing in the UK - Invest in Great Britain",
           "pageHeader": {
             "content": "beta/setup-guide/understand-tax/intro/en_US.md"
           },
@@ -211,7 +211,7 @@
         "path": "access-talent",
         "layout": "article.html",
         "data": {
-          "pageTitle": "Hire skilled workers for your UK operations",
+          "pageTitle": "Hiring workers and labour costs in the UK - Invest in Great Britain",
           "pageHeader": {
             "content": "beta/setup-guide/access-talent/intro/en_US.md"
           },
@@ -227,7 +227,7 @@
         "path": "understand-legal",
         "layout": "article.html",
         "data": {
-          "pageTitle": "The UK's legal framework",
+          "pageTitle": "Data, intellectual property and sales law - Invest in Great Britain",
           "pageHeader": {
             "content": "beta/setup-guide/understand-legal/intro/en_US.md"
           },
@@ -246,7 +246,7 @@
       "path": "industries",
       "layout": "landing-page.html",
       "data": {
-        "pageTitle": "Industries",
+        "pageTitle": "UK priority industries for investment - Invest in Great Britain",
         "pageHeader": {
           "content": "beta/industries/en_US.md"
         },
@@ -361,7 +361,7 @@
         "path": "aerospace",
         "layout": "industry.html",
         "data": {
-          "pageTitle": "Aerospace in the UK",
+          "pageTitle": "Invest in UK aerospace - Invest in Great Britain",
           "pageHeader": {
             "content": "beta/industries/aerospace/intro/en_US.md",
             "heroImage": "aerospace.jpg"
