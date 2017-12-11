@@ -976,7 +976,7 @@
       },
       "children": [{
           "path": "location-guide",
-          "layout": "investment-ops.html",
+          "layout": "single-section.html",
           "data": {
             "pageTitle": "Location guide",
             "locationGuide": {
@@ -998,7 +998,7 @@
           }
         }, {
           "path": "businesses",
-          "layout": "investment_ops_businesses.html",
+          "layout": "single-section.html",
           "data": {
             "pageTitle": "Popular areas",
             "pageHeader": {
@@ -1007,7 +1007,7 @@
           }
         }, {
           "path": "centres-of-excellence",
-          "layout": "investment_ops_centres.html",
+          "layout": "single-section.html",
           "data": {
             "pageTitle": "Research and development",
             "pageHeader": {
@@ -1016,7 +1016,7 @@
           }
         }, {
           "path": "enterprise-zones",
-          "layout": "investment_ops_zones.html",
+          "layout": "single-section.html",
           "data": {
             "pageTitle": "Financial incentives",
             "pageHeader": {

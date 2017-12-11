@@ -1071,7 +1071,7 @@
       },
       "children": [{
           "path": "location-guide",
-          "layout": "investment-ops.html",
+          "layout": "single-section.html",
           "data": {
             "pageTitle": "Standortführer",
             "locationGuide": {
@@ -1093,7 +1093,7 @@
           }
         }, {
           "path": "businesses",
-          "layout": "investment_ops_businesses.html",
+          "layout": "single-section.html",
           "data": {
             "pageTitle": "Unternehmen",
             "pageHeader": {
@@ -1102,7 +1102,7 @@
           }
         }, {
           "path": "centres-of-excellence",
-          "layout": "investment_ops_centres.html",
+          "layout": "single-section.html",
           "data": {
             "pageTitle": "Kompetenzzentren",
             "pageHeader": {
@@ -1111,7 +1111,7 @@
           }
         }, {
           "path": "enterprise-zones",
-          "layout": "investment_ops_zones.html",
+          "layout": "single-section.html",
           "data": {
             "pageTitle": "Enterprise zones",
             "pageHeader": {

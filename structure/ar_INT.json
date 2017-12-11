@@ -958,7 +958,7 @@
       }
     }, {
       "path": "investment-opportunities/location-guide",
-      "layout": "investment-ops.html",
+      "layout": "single-section.html",
       "data": {
         "pageTitle": "دليل الأماكن",
         "overview": {

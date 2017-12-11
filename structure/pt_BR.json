@@ -948,7 +948,7 @@
       }
     }, {
       "path": "investment-opportunities/location-guide",
-      "layout": "investment-ops.html",
+      "layout": "single-section.html",
       "data": {
         "pageTitle": "Guia de localização",
         "overview": {
